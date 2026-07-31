@@ -1,0 +1,20 @@
+[
+  { "team": "Bayern Munich", "win_predict": 79.66 },
+  { "team": "Borussia Dortmund", "win_predict": 8.33 },
+  { "team": "RB Leipzig", "win_predict": 4.58 },
+  { "team": "Bayer 04 Leverkusen", "win_predict": 3.05 },
+  { "team": "VfB Stuttgart", "win_predict": 1.83 },
+  { "team": "Hoffenheim", "win_predict": 0.92 },
+  { "team": "Eintracht Frankfurt", "win_predict": 0.37 },
+  { "team": "Freiburg", "win_predict": 0.37 },
+  { "team": "Borussia M'gladbach", "win_predict": 0.18 },
+  { "team": "1. FC Koln", "win_predict": 0.09 },
+  { "team": "Augsburg", "win_predict": 0.09 },
+  { "team": "Hamburger SV", "win_predict": 0.09 },
+  { "team": "Mainz 05", "win_predict": 0.09 },
+  { "team": "Schalke-04", "win_predict": 0.09 },
+  { "team": "Union Berlin", "win_predict": 0.09 },
+  { "team": "Werder Bremen", "win_predict": 0.09 },
+  { "team": "Elversberg", "win_predict": 0.04 },
+  { "team": "SC Paderborn 07", "win_predict": 0.04 }
+]

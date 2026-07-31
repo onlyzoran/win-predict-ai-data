@@ -1,0 +1,18 @@
+[
+  { "team": "Zenit", "win_predict": 47.97 },
+  { "team": "Spartak Moscow", "win_predict": 18.23 },
+  { "team": "FC Krasnodar", "win_predict": 16.57 },
+  { "team": "CSKA Moscow", "win_predict": 5.36 },
+  { "team": "Dynamo Moscow", "win_predict": 5.36 },
+  { "team": "Lokomotiv Moscow", "win_predict": 5.36 },
+  { "team": "Akhmat", "win_predict": 0.36 },
+  { "team": "Rubin Kazan", "win_predict": 0.36 },
+  { "team": "Baltica", "win_predict": 0.18 },
+  { "team": "FC Rostov", "win_predict": 0.09 },
+  { "team": "Akron Tolyatti", "win_predict": 0.03 },
+  { "team": "Dynamo Makhachkala", "win_predict": 0.03 },
+  { "team": "FC Orenburg", "win_predict": 0.03 },
+  { "team": "Krylia Sovetov", "win_predict": 0.03 },
+  { "team": "Fakel Voronezh", "win_predict": 0.02 },
+  { "team": "Rodina Moscow", "win_predict": 0.02 }
+]

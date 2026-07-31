@@ -1,0 +1,58 @@
+[
+  {
+    "id": "epl-26-27",
+    "title": "EPL 26/27",
+    "startDate": "2026-08-21",
+    "endDate": "2027-05-30",
+    "endDateTo": ""
+  },
+  {
+    "id": "serie-a-26-27",
+    "title": "Serie A 26/27",
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "endDateTo": ""
+  },
+  {
+    "id": "la-liga-26-27",
+    "title": "La Liga 26/27",
+    "startDate": "2026-08-14",
+    "endDate": "2027-05-30",
+    "endDateTo": ""
+  },
+  {
+    "id": "bundesliga-26-27",
+    "title": "Bundesliga 26/27",
+    "startDate": "2026-08-28",
+    "endDate": "2027-05-22",
+    "endDateTo": ""
+  },
+  {
+    "id": "rpl-26-27",
+    "title": "RPL 26/27",
+    "startDate": "2026-07-24",
+    "endDate": "2027-05-29",
+    "endDateTo": ""
+  },
+  {
+    "id": "nfl-super-bowl-26-27",
+    "title": "NFL Super Bowl 26/27",
+    "startDate": "2026-09-09",
+    "endDate": "2027-02-14",
+    "endDateTo": ""
+  },
+  {
+    "id": "nba-26-27",
+    "title": "NBA 26/27",
+    "startDate": "2026-10-20",
+    "endDate": "2027-06-03",
+    "endDateTo": ""
+  },
+  {
+    "id": "nhl-stanley-cup-26-27",
+    "title": "NHL Stanley Cup 26/27",
+    "startDate": "2026-09-29",
+    "endDate": "2027-06-01",
+    "endDateTo": "2027-06-30"
+  }
+]

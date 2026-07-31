@@ -1,0 +1,22 @@
+[
+  { "team": "Barcelona", "win_predict": 51.48 },
+  { "team": "Real Madrid", "win_predict": 40.51 },
+  { "team": "Atletico Madrid", "win_predict": 5.7 },
+  { "team": "Betis", "win_predict": 0.61 },
+  { "team": "Villarreal", "win_predict": 0.46 },
+  { "team": "Athletic Bilbao", "win_predict": 0.36 },
+  { "team": "Celta", "win_predict": 0.18 },
+  { "team": "Real Sociedad", "win_predict": 0.18 },
+  { "team": "Getafe", "win_predict": 0.12 },
+  { "team": "Rayo Vallecano", "win_predict": 0.09 },
+  { "team": "Valencia", "win_predict": 0.09 },
+  { "team": "Alaves", "win_predict": 0.03 },
+  { "team": "Espanyol", "win_predict": 0.03 },
+  { "team": "Osasuna", "win_predict": 0.03 },
+  { "team": "Sevilla", "win_predict": 0.03 },
+  { "team": "Deportivo de la Coruna", "win_predict": 0.02 },
+  { "team": "Elche", "win_predict": 0.02 },
+  { "team": "Levante", "win_predict": 0.02 },
+  { "team": "Malaga", "win_predict": 0.02 },
+  { "team": "Racing Santander", "win_predict": 0.02 }
+]

@@ -1,0 +1,22 @@
+[
+  { "team": "Inter Milan", "win_predict": 40.9 },
+  { "team": "Napoli", "win_predict": 15.61 },
+  { "team": "AC Milan", "win_predict": 14.31 },
+  { "team": "Juventus", "win_predict": 14.31 },
+  { "team": "Roma", "win_predict": 7.81 },
+  { "team": "Como", "win_predict": 2.45 },
+  { "team": "Atalanta", "win_predict": 1.72 },
+  { "team": "Lazio", "win_predict": 1.07 },
+  { "team": "Bologna", "win_predict": 0.57 },
+  { "team": "Fiorentina", "win_predict": 0.43 },
+  { "team": "Torino", "win_predict": 0.17 },
+  { "team": "Udinese", "win_predict": 0.17 },
+  { "team": "Genoa", "win_predict": 0.09 },
+  { "team": "Sassuolo", "win_predict": 0.09 },
+  { "team": "Cagliari", "win_predict": 0.06 },
+  { "team": "Lecce", "win_predict": 0.06 },
+  { "team": "Parma", "win_predict": 0.06 },
+  { "team": "Frosinone", "win_predict": 0.04 },
+  { "team": "Monza", "win_predict": 0.04 },
+  { "team": "Venezia", "win_predict": 0.04 }
+]
