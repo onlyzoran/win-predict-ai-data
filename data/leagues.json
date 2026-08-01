@@ -99,6 +99,15 @@
     "endDateTo": "2027-06-30"
   },
   {
+    "id": "khl-gagarin-cup-26-27",
+    "title": "KHL Gagarin Cup 26/27",
+    "sport": "hockey",
+    "file": "khl-gagarin-cup-26-27.json",
+    "startDate": "2026-09-05",
+    "endDate": "2027-05-23",
+    "endDateTo": ""
+  },
+  {
     "id": "ncaaf-championship-26-27",
     "title": "NCAAF Championship 26/27",
     "sport": "americanFootball",
