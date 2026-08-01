@@ -6,7 +6,8 @@
     "file": "ucl-26-27.json",
     "startDate": "2026-09-15",
     "endDate": "2027-05-30",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 10
   },
   {
     "id": "epl-26-27",
@@ -15,16 +16,8 @@
     "file": "epl-26-27.json",
     "startDate": "2026-08-21",
     "endDate": "2027-05-30",
-    "endDateTo": ""
-  },
-  {
-    "id": "serie-a-26-27",
-    "title": "Serie A 26/27",
-    "sport": "football",
-    "file": "serie-a-26-27.json",
-    "startDate": "2026-08-23",
-    "endDate": "2027-05-30",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 20
   },
   {
     "id": "la-liga-26-27",
@@ -33,52 +26,8 @@
     "file": "la-liga-26-27.json",
     "startDate": "2026-08-14",
     "endDate": "2027-05-30",
-    "endDateTo": ""
-  },
-  {
-    "id": "bundesliga-26-27",
-    "title": "Bundesliga 26/27",
-    "sport": "football",
-    "file": "bundesliga-26-27.json",
-    "startDate": "2026-08-28",
-    "endDate": "2027-05-22",
-    "endDateTo": ""
-  },
-  {
-    "id": "ligue-1-26-27",
-    "title": "Ligue 1 26/27",
-    "sport": "football",
-    "file": "ligue-1-26-27.json",
-    "startDate": "2026-08-15",
-    "endDate": "2027-05-30",
-    "endDateTo": ""
-  },
-  {
-    "id": "rpl-26-27",
-    "title": "RPL 26/27",
-    "sport": "football",
-    "file": "rpl-26-27.json",
-    "startDate": "2026-07-24",
-    "endDate": "2027-05-29",
-    "endDateTo": ""
-  },
-  {
-    "id": "mls-cup-26",
-    "title": "MLS Cup 26",
-    "sport": "football",
-    "file": "mls-cup-26.json",
-    "startDate": "2026-02-21",
-    "endDate": "2026-12-19",
-    "endDateTo": ""
-  },
-  {
-    "id": "nfl-super-bowl-26-27",
-    "title": "NFL Super Bowl 26/27",
-    "sport": "americanFootball",
-    "file": "nfl-super-bowl-26-27.json",
-    "startDate": "2026-09-09",
-    "endDate": "2027-02-14",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 30
   },
   {
     "id": "nba-26-27",
@@ -87,52 +36,48 @@
     "file": "nba-26-27.json",
     "startDate": "2026-10-20",
     "endDate": "2027-06-03",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 40
   },
   {
-    "id": "nhl-stanley-cup-26-27",
-    "title": "NHL Stanley Cup 26/27",
-    "sport": "hockey",
-    "file": "nhl-stanley-cup-26-27.json",
-    "startDate": "2026-09-29",
-    "endDate": "2027-06-01",
-    "endDateTo": "2027-06-30"
-  },
-  {
-    "id": "khl-gagarin-cup-26-27",
-    "title": "KHL Gagarin Cup 26/27",
-    "sport": "hockey",
-    "file": "khl-gagarin-cup-26-27.json",
-    "startDate": "2026-09-05",
-    "endDate": "2027-05-23",
-    "endDateTo": ""
-  },
-  {
-    "id": "ncaaf-championship-26-27",
-    "title": "NCAAF Championship 26/27",
+    "id": "nfl-super-bowl-26-27",
+    "title": "NFL Super Bowl 26/27",
     "sport": "americanFootball",
-    "file": "ncaaf-championship-26-27.json",
-    "startDate": "2026-08-24",
-    "endDate": "2027-01-12",
-    "endDateTo": ""
+    "file": "nfl-super-bowl-26-27.json",
+    "startDate": "2026-09-09",
+    "endDate": "2027-02-14",
+    "endDateTo": "",
+    "popularPriority": 50
   },
   {
-    "id": "mlb-world-series-26",
-    "title": "MLB World Series 26",
-    "sport": "baseball",
-    "file": "mlb-world-series-26.json",
-    "startDate": "2026-03-26",
-    "endDate": "2026-11-01",
-    "endDateTo": ""
+    "id": "serie-a-26-27",
+    "title": "Serie A 26/27",
+    "sport": "football",
+    "file": "serie-a-26-27.json",
+    "startDate": "2026-08-23",
+    "endDate": "2027-05-30",
+    "endDateTo": "",
+    "popularPriority": 60
   },
   {
-    "id": "ncaab-championship-26-27",
-    "title": "NCAAB Championship 26/27",
-    "sport": "basketball",
-    "file": "ncaab-championship-26-27.json",
-    "startDate": "2026-11-10",
-    "endDate": "2027-04-06",
-    "endDateTo": ""
+    "id": "bundesliga-26-27",
+    "title": "Bundesliga 26/27",
+    "sport": "football",
+    "file": "bundesliga-26-27.json",
+    "startDate": "2026-08-28",
+    "endDate": "2027-05-22",
+    "endDateTo": "",
+    "popularPriority": 70
+  },
+  {
+    "id": "ligue-1-26-27",
+    "title": "Ligue 1 26/27",
+    "sport": "football",
+    "file": "ligue-1-26-27.json",
+    "startDate": "2026-08-15",
+    "endDate": "2027-05-30",
+    "endDateTo": "",
+    "popularPriority": 80
   },
   {
     "id": "golf-masters-27",
@@ -141,16 +86,8 @@
     "file": "golf-masters-27.json",
     "startDate": "2027-04-08",
     "endDate": "2027-04-11",
-    "endDateTo": ""
-  },
-  {
-    "id": "us-presidential-election-28",
-    "title": "US Presidential Election 28",
-    "sport": "politics",
-    "file": "us-presidential-election-28.json",
-    "startDate": "2028-01-01",
-    "endDate": "2028-11-07",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 90
   },
   {
     "id": "golf-pga-championship-27",
@@ -159,7 +96,8 @@
     "file": "golf-pga-championship-27.json",
     "startDate": "2027-05-13",
     "endDate": "2027-05-16",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 100
   },
   {
     "id": "golf-the-open-27",
@@ -168,7 +106,8 @@
     "file": "golf-the-open-27.json",
     "startDate": "2027-07-15",
     "endDate": "2027-07-18",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 110
   },
   {
     "id": "golf-us-open-27",
@@ -177,6 +116,87 @@
     "file": "golf-us-open-27.json",
     "startDate": "2027-06-17",
     "endDate": "2027-06-20",
-    "endDateTo": ""
+    "endDateTo": "",
+    "popularPriority": 120
+  },
+  {
+    "id": "mlb-world-series-26",
+    "title": "MLB World Series 26",
+    "sport": "baseball",
+    "file": "mlb-world-series-26.json",
+    "startDate": "2026-03-26",
+    "endDate": "2026-11-01",
+    "endDateTo": "",
+    "popularPriority": 130
+  },
+  {
+    "id": "us-presidential-election-28",
+    "title": "US Presidential Election 28",
+    "sport": "politics",
+    "file": "us-presidential-election-28.json",
+    "startDate": "2028-01-01",
+    "endDate": "2028-11-07",
+    "endDateTo": "",
+    "popularPriority": 140
+  },
+  {
+    "id": "nhl-stanley-cup-26-27",
+    "title": "NHL Stanley Cup 26/27",
+    "sport": "hockey",
+    "file": "nhl-stanley-cup-26-27.json",
+    "startDate": "2026-09-29",
+    "endDate": "2027-06-01",
+    "endDateTo": "2027-06-30",
+    "popularPriority": 150
+  },
+  {
+    "id": "rpl-26-27",
+    "title": "RPL 26/27",
+    "sport": "football",
+    "file": "rpl-26-27.json",
+    "startDate": "2026-07-24",
+    "endDate": "2027-05-29",
+    "endDateTo": "",
+    "popularPriority": 160
+  },
+  {
+    "id": "khl-gagarin-cup-26-27",
+    "title": "KHL Gagarin Cup 26/27",
+    "sport": "hockey",
+    "file": "khl-gagarin-cup-26-27.json",
+    "startDate": "2026-09-05",
+    "endDate": "2027-05-23",
+    "endDateTo": "",
+    "popularPriority": 170
+  },
+  {
+    "id": "mls-cup-26",
+    "title": "MLS Cup 26",
+    "sport": "football",
+    "file": "mls-cup-26.json",
+    "startDate": "2026-02-21",
+    "endDate": "2026-12-19",
+    "endDateTo": "",
+    "popularPriority": 180
+  },
+  {
+    "id": "ncaaf-championship-26-27",
+    "title": "NCAAF Championship 26/27",
+    "sport": "americanFootball",
+    "file": "ncaaf-championship-26-27.json",
+    "startDate": "2026-08-24",
+    "endDate": "2027-01-12",
+    "endDateTo": "",
+    "popularPriority": 190
+  },
+  {
+    "id": "ncaab-championship-26-27",
+    "title": "NCAAB Championship 26/27",
+    "sport": "basketball",
+    "file": "ncaab-championship-26-27.json",
+    "startDate": "2026-11-10",
+    "endDate": "2027-04-06",
+    "endDateTo": "",
+    "popularPriority": 200
   }
 ]
