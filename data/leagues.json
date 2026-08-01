@@ -1,5 +1,14 @@
 [
   {
+    "id": "ucl-26-27",
+    "title": "UCL 26/27",
+    "sport": "football",
+    "file": "ucl-26-27.json",
+    "startDate": "2026-09-15",
+    "endDate": "2027-05-30",
+    "endDateTo": ""
+  },
+  {
     "id": "epl-26-27",
     "title": "EPL 26/27",
     "sport": "football",
@@ -36,12 +45,30 @@
     "endDateTo": ""
   },
   {
+    "id": "ligue-1-26-27",
+    "title": "Ligue 1 26/27",
+    "sport": "football",
+    "file": "ligue-1-26-27.json",
+    "startDate": "2026-08-15",
+    "endDate": "2027-05-30",
+    "endDateTo": ""
+  },
+  {
     "id": "rpl-26-27",
     "title": "RPL 26/27",
     "sport": "football",
     "file": "rpl-26-27.json",
     "startDate": "2026-07-24",
     "endDate": "2027-05-29",
+    "endDateTo": ""
+  },
+  {
+    "id": "mls-cup-26",
+    "title": "MLS Cup 26",
+    "sport": "football",
+    "file": "mls-cup-26.json",
+    "startDate": "2026-02-21",
+    "endDate": "2026-12-19",
     "endDateTo": ""
   },
   {
