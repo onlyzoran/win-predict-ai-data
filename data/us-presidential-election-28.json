@@ -1,0 +1,534 @@
+[
+  {
+    "team": "Gavin Newsom",
+    "win_predict": 12.38
+  },
+  {
+    "team": "J. D. Vance",
+    "win_predict": 11.36
+  },
+  {
+    "team": "Marco Rubio",
+    "win_predict": 9.01
+  },
+  {
+    "team": "Jon Ossoff",
+    "win_predict": 7.68
+  },
+  {
+    "team": "Alexandria Ocasio-Cortez",
+    "win_predict": 5.02
+  },
+  {
+    "team": "Kamala Harris",
+    "win_predict": 4.35
+  },
+  {
+    "team": "Donald Trump",
+    "win_predict": 2.51
+  },
+  {
+    "team": "Pete Buttigieg",
+    "win_predict": 2.51
+  },
+  {
+    "team": "Tucker Carlson",
+    "win_predict": 2.25
+  },
+  {
+    "team": "Josh Shapiro",
+    "win_predict": 1.92
+  },
+  {
+    "team": "Ro Khanna",
+    "win_predict": 1.81
+  },
+  {
+    "team": "Ron DeSantis",
+    "win_predict": 1.59
+  },
+  {
+    "team": "Mark Kelly",
+    "win_predict": 1.59
+  },
+  {
+    "team": "Andy Beshear",
+    "win_predict": 1.59
+  },
+  {
+    "team": "Gretchen Whitmer",
+    "win_predict": 1.42
+  },
+  {
+    "team": "Wes Moore",
+    "win_predict": 1.42
+  },
+  {
+    "team": "J. B. Pritzker",
+    "win_predict": 1.28
+  },
+  {
+    "team": "Michelle Obama",
+    "win_predict": 1.17
+  },
+  {
+    "team": "Tom Cotton",
+    "win_predict": 0.99
+  },
+  {
+    "team": "Donald Trump Jr.",
+    "win_predict": 0.92
+  },
+  {
+    "team": "Thomas Massie",
+    "win_predict": 0.92
+  },
+  {
+    "team": "Rahm Emanuel",
+    "win_predict": 0.86
+  },
+  {
+    "team": "Jon Stewart",
+    "win_predict": 0.81
+  },
+  {
+    "team": "Brian Kemp",
+    "win_predict": 0.72
+  },
+  {
+    "team": "Nikki Haley",
+    "win_predict": 0.72
+  },
+  {
+    "team": "Dwayne Johnson",
+    "win_predict": 0.72
+  },
+  {
+    "team": "Glenn Youngkin",
+    "win_predict": 0.72
+  },
+  {
+    "team": "Ivanka Trump",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Roy Cooper",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Mark Cuban",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Cory Booker",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Doug Burgum",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Eric Trump",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Chris Murphy",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Ted Cruz",
+    "win_predict": 0.65
+  },
+  {
+    "team": "Elizabeth Warren",
+    "win_predict": 0.59
+  },
+  {
+    "team": "Raphael Warnock",
+    "win_predict": 0.52
+  },
+  {
+    "team": "Katie Britt",
+    "win_predict": 0.52
+  },
+  {
+    "team": "Amy Klobuchar",
+    "win_predict": 0.52
+  },
+  {
+    "team": "Barack Obama",
+    "win_predict": 0.52
+  },
+  {
+    "team": "Josh Hawley",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Robert F. Kennedy Jr.",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Rand Paul",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Jamie Dimon",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Stephen A. Smith",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Erika Kirk",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Pete Hegseth",
+    "win_predict": 0.43
+  },
+  {
+    "team": "Lara Trump",
+    "win_predict": 0.32
+  },
+  {
+    "team": "Vivek Ramaswamy",
+    "win_predict": 0.32
+  },
+  {
+    "team": "Tulsi Gabbard",
+    "win_predict": 0.32
+  },
+  {
+    "team": "Hakeem Jeffries",
+    "win_predict": 0.32
+  },
+  {
+    "team": "George Clooney",
+    "win_predict": 0.32
+  },
+  {
+    "team": "Gina Raimondo",
+    "win_predict": 0.32
+  },
+  {
+    "team": "Spencer Cox",
+    "win_predict": 0.32
+  },
+  {
+    "team": "Elon Musk",
+    "win_predict": 0.26
+  },
+  {
+    "team": "Anthony Pompliano",
+    "win_predict": 0.26
+  },
+  {
+    "team": "Jimmy Kimmel",
+    "win_predict": 0.26
+  },
+  {
+    "team": "Bill Burr",
+    "win_predict": 0.26
+  },
+  {
+    "team": "Mike Johnson",
+    "win_predict": 0.26
+  },
+  {
+    "team": "Mike Pompeo",
+    "win_predict": 0.22
+  },
+  {
+    "team": "Andrew Cuomo",
+    "win_predict": 0.22
+  },
+  {
+    "team": "Beto O'Rourke",
+    "win_predict": 0.22
+  },
+  {
+    "team": "John Fetterman",
+    "win_predict": 0.22
+  },
+  {
+    "team": "Phil Murphy",
+    "win_predict": 0.22
+  },
+  {
+    "team": "Michael Saylor",
+    "win_predict": 0.19
+  },
+  {
+    "team": "Matthew McConaughey",
+    "win_predict": 0.19
+  },
+  {
+    "team": "Hillary Clinton",
+    "win_predict": 0.16
+  },
+  {
+    "team": "Michael Flynn",
+    "win_predict": 0.16
+  },
+  {
+    "team": "Ben Shapiro",
+    "win_predict": 0.16
+  },
+  {
+    "team": "Joe Rogan",
+    "win_predict": 0.16
+  },
+  {
+    "team": "Elise Stefanik",
+    "win_predict": 0.16
+  },
+  {
+    "team": "Oprah Winfrey",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Aaron Rodgers",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Taylor Swift",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Matt Damon",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Leonardo Dicaprio",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Bill Maher",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Bill Gates",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Tom Brady",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Peyton Manning",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Lebron James",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Neil Degrasse Tyson",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Marc Andreessen",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Steve Garvey",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Dan Gilbert",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Ted Leonsis",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Steve Ballmer",
+    "win_predict": 0.13
+  },
+  {
+    "team": "David Blitzer",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Josh Harris",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Terry Pegula",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Steve Cohen",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Dean Phillips",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Jeff Bezos",
+    "win_predict": 0.13
+  },
+  {
+    "team": "Kristi Noem",
+    "win_predict": 0.09
+  },
+  {
+    "team": "Kash Patel",
+    "win_predict": 0.09
+  },
+  {
+    "team": "Greg Abbott",
+    "win_predict": 0.09
+  },
+  {
+    "team": "Bill Clinton",
+    "win_predict": 0.09
+  },
+  {
+    "team": "Laura Loomer",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Meghan Markle",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Howard Stern",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Beyoncé",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Ben Affleck",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Conan O'Brien",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Stephen Colbert",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Tom Hanks",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Chuck Norris",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Samuel L. Jackson",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Shaquille O'Neal",
+    "win_predict": 0.07
+  },
+  {
+    "team": "John Cena",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Sandra Bullock",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Johnny Depp",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Whoopi Goldberg",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Nick Saban",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Roger Goodell",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Steve Kerr",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Stephen Curry",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Alex Rodriguez",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Tiger Woods",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Jeanie Buss",
+    "win_predict": 0.07
+  },
+  {
+    "team": "John W. Henry",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Steve Bannon",
+    "win_predict": 0.07
+  },
+  {
+    "team": "Kanye West",
+    "win_predict": 0.03
+  },
+  {
+    "team": "Dana White",
+    "win_predict": 0.03
+  },
+  {
+    "team": "Joe Biden",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Hunter Biden",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Jill Biden",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Jennifer Lopez",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Denzel Washington",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Clint Eastwood",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Charles Barkley",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Mel Gibson",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Snoop Dogg",
+    "win_predict": 0.01
+  },
+  {
+    "team": "Gregg Popovich",
+    "win_predict": 0.01
+  }
+]

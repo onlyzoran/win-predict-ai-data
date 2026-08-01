@@ -1,0 +1,310 @@
+[
+  {
+    "team": "Scottie Scheffler",
+    "win_predict": 12.43
+  },
+  {
+    "team": "Rory McIlroy",
+    "win_predict": 7.59
+  },
+  {
+    "team": "Jon Rahm",
+    "win_predict": 5.69
+  },
+  {
+    "team": "Xander Schauffele",
+    "win_predict": 4.56
+  },
+  {
+    "team": "Ludvig Aberg",
+    "win_predict": 3.6
+  },
+  {
+    "team": "Cameron Young",
+    "win_predict": 3.6
+  },
+  {
+    "team": "Bryson DeChambeau",
+    "win_predict": 2.97
+  },
+  {
+    "team": "Tommy Fleetwood",
+    "win_predict": 2.63
+  },
+  {
+    "team": "Matthew Fitzpatrick",
+    "win_predict": 2.01
+  },
+  {
+    "team": "Justin Thomas",
+    "win_predict": 2.01
+  },
+  {
+    "team": "Collin Morikawa",
+    "win_predict": 2.01
+  },
+  {
+    "team": "Wyndham Clark",
+    "win_predict": 1.67
+  },
+  {
+    "team": "Sam Burns",
+    "win_predict": 1.67
+  },
+  {
+    "team": "Justin Rose",
+    "win_predict": 1.67
+  },
+  {
+    "team": "Brooks Koepka",
+    "win_predict": 1.67
+  },
+  {
+    "team": "Viktor Hovland",
+    "win_predict": 1.34
+  },
+  {
+    "team": "Tyrrell Hatton",
+    "win_predict": 1.34
+  },
+  {
+    "team": "Russell Henley",
+    "win_predict": 1.34
+  },
+  {
+    "team": "Patrick Reed",
+    "win_predict": 1.34
+  },
+  {
+    "team": "Patrick Cantlay",
+    "win_predict": 1.34
+  },
+  {
+    "team": "Christopher Gotterup",
+    "win_predict": 1.34
+  },
+  {
+    "team": "Robert MacIntyre",
+    "win_predict": 1.22
+  },
+  {
+    "team": "Min Woo Lee",
+    "win_predict": 1.12
+  },
+  {
+    "team": "Hideki Matsuyama",
+    "win_predict": 1.12
+  },
+  {
+    "team": "Si Woo Kim",
+    "win_predict": 1.02
+  },
+  {
+    "team": "Maverick McNealy",
+    "win_predict": 1.02
+  },
+  {
+    "team": "Jordan Spieth",
+    "win_predict": 1.02
+  },
+  {
+    "team": "Joaquin Niemann",
+    "win_predict": 1.02
+  },
+  {
+    "team": "J.J. Spaun",
+    "win_predict": 0.96
+  },
+  {
+    "team": "Rickie Fowler",
+    "win_predict": 0.96
+  },
+  {
+    "team": "Nicolai Hojgaard",
+    "win_predict": 0.96
+  },
+  {
+    "team": "Jake Knapp",
+    "win_predict": 0.96
+  },
+  {
+    "team": "Ben Griffin",
+    "win_predict": 0.96
+  },
+  {
+    "team": "Shane Lowry",
+    "win_predict": 0.84
+  },
+  {
+    "team": "Sepp Straka",
+    "win_predict": 0.84
+  },
+  {
+    "team": "Gary Woodland",
+    "win_predict": 0.84
+  },
+  {
+    "team": "Adam Scott",
+    "win_predict": 0.84
+  },
+  {
+    "team": "Aaron Rai",
+    "win_predict": 0.84
+  },
+  {
+    "team": "Sungjae Im",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Akshay Bhatia",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Marco Penge",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Kurt Kitayama",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Kristoffer Reitan",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Jacob Bridgeman",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Harris English",
+    "win_predict": 0.68
+  },
+  {
+    "team": "David Puig",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Corey Conners",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Cameron Smith",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Alex Fitzpatrick",
+    "win_predict": 0.68
+  },
+  {
+    "team": "Ryan Gerard",
+    "win_predict": 0.62
+  },
+  {
+    "team": "Thomas Detry",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Ryan Fox",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Rasmus Hojgaard",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Nick Taylor",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Michael Thorbjornsen",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Jason Day",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Alexander Noren",
+    "win_predict": 0.54
+  },
+  {
+    "team": "Tony Finau",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Tiger Woods",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Sudarshan Yellamaraju",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Sahith Theegala",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Pierceson Coody",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Max Greyserman",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Keegan Bradley",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Brian Harman",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Angel Ayora",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Alex Smalley",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Michael Kim",
+    "win_predict": 0.39
+  },
+  {
+    "team": "Daniel Berger",
+    "win_predict": 0.39
+  },
+  {
+    "team": "Rasmus Neergaard-Petersen",
+    "win_predict": 0.34
+  },
+  {
+    "team": "Max Homa",
+    "win_predict": 0.34
+  },
+  {
+    "team": "Matt McCarty",
+    "win_predict": 0.34
+  },
+  {
+    "team": "Harry Hall",
+    "win_predict": 0.34
+  },
+  {
+    "team": "Christiaan Bezuidenhout",
+    "win_predict": 0.34
+  },
+  {
+    "team": "Billy Horschel",
+    "win_predict": 0.34
+  },
+  {
+    "team": "Matthias Schwab",
+    "win_predict": 0.27
+  },
+  {
+    "team": "Phil Mickelson",
+    "win_predict": 0.17
+  }
+]

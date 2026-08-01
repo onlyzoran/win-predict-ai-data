@@ -70,5 +70,77 @@
     "startDate": "2026-09-29",
     "endDate": "2027-06-01",
     "endDateTo": "2027-06-30"
+  },
+  {
+    "id": "ncaaf-championship-26-27",
+    "title": "NCAAF Championship Winner 26/27",
+    "sport": "americanFootball",
+    "file": "ncaaf-championship-26-27.json",
+    "startDate": "2026-08-24",
+    "endDate": "2027-01-12",
+    "endDateTo": ""
+  },
+  {
+    "id": "mlb-world-series-26",
+    "title": "MLB World Series Winner 26",
+    "sport": "baseball",
+    "file": "mlb-world-series-26.json",
+    "startDate": "2026-03-26",
+    "endDate": "2026-11-01",
+    "endDateTo": ""
+  },
+  {
+    "id": "ncaab-championship-26-27",
+    "title": "NCAAB Championship Winner 26/27",
+    "sport": "basketball",
+    "file": "ncaab-championship-26-27.json",
+    "startDate": "2026-11-10",
+    "endDate": "2027-04-06",
+    "endDateTo": ""
+  },
+  {
+    "id": "golf-masters-27",
+    "title": "Masters Tournament Winner 27",
+    "sport": "golf",
+    "file": "golf-masters-27.json",
+    "startDate": "2027-04-08",
+    "endDate": "2027-04-11",
+    "endDateTo": ""
+  },
+  {
+    "id": "us-presidential-election-28",
+    "title": "US Presidential Elections Winner 28",
+    "sport": "politics",
+    "file": "us-presidential-election-28.json",
+    "startDate": "2028-01-01",
+    "endDate": "2028-11-07",
+    "endDateTo": ""
+  },
+  {
+    "id": "golf-pga-championship-27",
+    "title": "PGA Championship Winner 27",
+    "sport": "golf",
+    "file": "golf-pga-championship-27.json",
+    "startDate": "2027-05-13",
+    "endDate": "2027-05-16",
+    "endDateTo": ""
+  },
+  {
+    "id": "golf-the-open-27",
+    "title": "The Open Winner 27",
+    "sport": "golf",
+    "file": "golf-the-open-27.json",
+    "startDate": "2027-07-15",
+    "endDate": "2027-07-18",
+    "endDateTo": ""
+  },
+  {
+    "id": "golf-us-open-27",
+    "title": "US Open Winner 27",
+    "sport": "golf",
+    "file": "golf-us-open-27.json",
+    "startDate": "2027-06-17",
+    "endDate": "2027-06-20",
+    "endDateTo": ""
   }
 ]
