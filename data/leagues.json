@@ -24,6 +24,7 @@
   {
     "id": "la-liga-26-27",
     "title": "La Liga 26/27",
+    "fullTitle": "La Liga",
     "sport": "football",
     "file": "la-liga-26-27.json",
     "startDate": "2026-08-14",
