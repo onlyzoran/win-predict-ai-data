@@ -1,7 +1,7 @@
 [
   {
     "id": "ucl-26-27",
-    "title": "UCL 26/27",
+    "title": "UCL",
     "fullTitle": "UEFA Champions League",
     "sport": "football",
     "file": "ucl-26-27.json",
@@ -12,7 +12,7 @@
   },
   {
     "id": "epl-26-27",
-    "title": "EPL 26/27",
+    "title": "EPL",
     "fullTitle": "England Premier League",
     "sport": "football",
     "file": "epl-26-27.json",
@@ -23,7 +23,7 @@
   },
   {
     "id": "la-liga-26-27",
-    "title": "La Liga 26/27",
+    "title": "La Liga",
     "fullTitle": "La Liga",
     "sport": "football",
     "file": "la-liga-26-27.json",
@@ -34,7 +34,7 @@
   },
   {
     "id": "nba-26-27",
-    "title": "NBA 26/27",
+    "title": "NBA",
     "fullTitle": "National Basketball Association",
     "sport": "basketball",
     "file": "nba-26-27.json",
@@ -45,7 +45,7 @@
   },
   {
     "id": "nfl-super-bowl-26-27",
-    "title": "NFL Super Bowl 26/27",
+    "title": "NFL Super Bowl",
     "fullTitle": "National Football League | Super Bowl",
     "sport": "americanFootball",
     "file": "nfl-super-bowl-26-27.json",
@@ -56,7 +56,7 @@
   },
   {
     "id": "serie-a-26-27",
-    "title": "Serie A 26/27",
+    "title": "Serie A",
     "fullTitle": "Serie A",
     "sport": "football",
     "file": "serie-a-26-27.json",
@@ -67,7 +67,7 @@
   },
   {
     "id": "bundesliga-26-27",
-    "title": "Bundesliga 26/27",
+    "title": "Bundesliga",
     "fullTitle": "Bundesliga",
     "sport": "football",
     "file": "bundesliga-26-27.json",
@@ -78,7 +78,7 @@
   },
   {
     "id": "ligue-1-26-27",
-    "title": "Ligue 1 26/27",
+    "title": "Ligue 1",
     "fullTitle": "Ligue 1",
     "sport": "football",
     "file": "ligue-1-26-27.json",
@@ -89,7 +89,7 @@
   },
   {
     "id": "golf-masters-27",
-    "title": "Masters 27",
+    "title": "Masters",
     "fullTitle": "Masters",
     "sport": "golf",
     "file": "golf-masters-27.json",
@@ -100,7 +100,7 @@
   },
   {
     "id": "golf-pga-championship-27",
-    "title": "PGA 27",
+    "title": "PGA",
     "fullTitle": "PGA Championship",
     "sport": "golf",
     "file": "golf-pga-championship-27.json",
@@ -111,7 +111,7 @@
   },
   {
     "id": "golf-the-open-27",
-    "title": "The Open 27",
+    "title": "The Open",
     "fullTitle": "The Open",
     "sport": "golf",
     "file": "golf-the-open-27.json",
@@ -122,7 +122,7 @@
   },
   {
     "id": "golf-us-open-27",
-    "title": "US Open 27",
+    "title": "US Open",
     "fullTitle": "United States Open Championship",
     "sport": "golf",
     "file": "golf-us-open-27.json",
@@ -133,7 +133,7 @@
   },
   {
     "id": "mlb-world-series-26",
-    "title": "MLB World Series 26",
+    "title": "MLB World Series",
     "fullTitle": "Major League Baseball | World Series",
     "sport": "baseball",
     "file": "mlb-world-series-26.json",
@@ -144,7 +144,7 @@
   },
   {
     "id": "us-presidential-election-28",
-    "title": "US Presidential Election 28",
+    "title": "US Presidential Election",
     "fullTitle": "United States Presidential Election",
     "sport": "politics",
     "file": "us-presidential-election-28.json",
@@ -155,7 +155,7 @@
   },
   {
     "id": "nhl-stanley-cup-26-27",
-    "title": "NHL Stanley Cup 26/27",
+    "title": "NHL Stanley Cup",
     "fullTitle": "National Hockey League | Stanley Cup",
     "sport": "hockey",
     "file": "nhl-stanley-cup-26-27.json",
@@ -166,7 +166,7 @@
   },
   {
     "id": "rpl-26-27",
-    "title": "RPL 26/27",
+    "title": "RPL",
     "fullTitle": "Russian Premier League",
     "sport": "football",
     "file": "rpl-26-27.json",
@@ -177,7 +177,7 @@
   },
   {
     "id": "khl-gagarin-cup-26-27",
-    "title": "KHL Gagarin Cup 26/27",
+    "title": "KHL Gagarin Cup",
     "fullTitle": "Kontinental Hockey League | Gagarin Cup",
     "sport": "hockey",
     "file": "khl-gagarin-cup-26-27.json",
@@ -188,7 +188,7 @@
   },
   {
     "id": "mls-cup-26",
-    "title": "MLS Cup 26",
+    "title": "MLS Cup",
     "fullTitle": "Major League Soccer Cup",
     "sport": "football",
     "file": "mls-cup-26.json",
@@ -199,7 +199,7 @@
   },
   {
     "id": "ncaaf-championship-26-27",
-    "title": "NCAAF 26/27",
+    "title": "NCAAF",
     "fullTitle": "NCAAF Championship",
     "sport": "americanFootball",
     "file": "ncaaf-championship-26-27.json",
@@ -210,7 +210,7 @@
   },
   {
     "id": "ncaab-championship-26-27",
-    "title": "NCAAB 26/27",
+    "title": "NCAAB",
     "fullTitle": "NCAAB Championship",
     "sport": "basketball",
     "file": "ncaab-championship-26-27.json",
