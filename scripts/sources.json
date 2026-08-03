@@ -1,0 +1,106 @@
+{
+  "ucl-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/uefa.champions",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "epl-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/eng.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "la-liga-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/esp.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "serie-a-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/ita.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "bundesliga-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/ger.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "ligue-1-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/fra.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "rpl-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/rus.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "mls-cup-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/usa.1",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "nba-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "basketball/nba",
+    "metric": "wins",
+    "seasonYear": 2027
+  },
+  "nhl-stanley-cup-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "hockey/nhl",
+    "metric": "points",
+    "seasonYear": 2027
+  },
+  "nfl-super-bowl-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "football/nfl",
+    "metric": "wins",
+    "seasonYear": 2026
+  },
+  "mlb-world-series-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "baseball/mlb",
+    "metric": "wins",
+    "seasonYear": 2026
+  },
+  "ncaaf-championship-26-27": {
+    "provider": "espn",
+    "kind": "rankings",
+    "path": "football/college-football",
+    "metric": "rank",
+    "poll": "ap",
+    "seasonYear": 2026
+  },
+  "ncaab-championship-26-27": {
+    "provider": "espn",
+    "kind": "rankings",
+    "path": "basketball/mens-college-basketball",
+    "metric": "rank",
+    "poll": "ap",
+    "seasonYear": 2027
+  },
+  "khl-gagarin-cup-26-27": {
+    "provider": "unsupported",
+    "note": "ESPN/Sofascore have no free KHL standings; add a provider later"
+  }
+}

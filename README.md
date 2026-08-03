@@ -1,0 +1,63 @@
+# win-predict-ai-data
+
+Prediction odds snapshots and **standings history** for tracked tournaments.
+
+## Data layout
+
+| Path | Purpose |
+| --- | --- |
+| `data/leagues.json` | League catalog |
+| `data/{league}.json` | Win-probability snapshots |
+| `data/history/{leagueId}/{YYYY-MM-DD}.json` | Daily standings snapshot |
+| `data/history/{leagueId}/latest.json` | Copy of the newest snapshot |
+| `scripts/sources.json` | ESPN source mapping per league |
+
+### Standings snapshot schema
+
+```json
+{
+  "leagueId": "epl-26-27",
+  "date": "2026-08-03",
+  "fetchedAt": "2026-08-03T18:00:00Z",
+  "source": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Arsenal",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "points": 3,
+      "group": "2026-27 English Premier League"
+    }
+  ]
+}
+```
+
+- Football / NHL / MLS / RPL: `metric` is `points`
+- NBA / NFL / MLB: `metric` is `wins` (sorted by win %)
+- NCAAF / NCAAB: AP Top 25 via ESPN rankings (`metric`: `rank`)
+- Golf majors, US election: not tracked (no league table)
+- KHL: no free ESPN feed yet (`unsupported` in `sources.json`)
+
+## Snapshot standings
+
+Uses the public ESPN API (no key). Idempotent: re-running the same day overwrites that date’s file.
+
+```bash
+# All configured leagues
+python3 scripts/snapshot_standings.py
+
+# One league
+python3 scripts/snapshot_standings.py --league epl-26-27
+
+# Validate without writing
+python3 scripts/snapshot_standings.py --dry-run
+```
+
+GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 06:00 UTC and commits new files under `data/history/`.
+
+If ESPN has not published the expected season yet (UCL 26/27, NCAA polls, KHL), the script skips that league instead of writing the previous season.

@@ -1,0 +1,35 @@
+name: Snapshot standings
+
+on:
+  schedule:
+    # Daily at 06:00 UTC — after most previous-day games settle
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Snapshot standings
+        run: python scripts/snapshot_standings.py
+
+      - name: Commit history updates
+        run: |
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "No standings changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/history
+          git commit -m "chore: snapshot standings $(date -u +%Y-%m-%d)"
+          git push
