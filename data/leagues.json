@@ -117,6 +117,7 @@
   {
     "id": "golf-us-open-27",
     "title": "US Open 27",
+    "fullTitle": "United States Open Championship",
     "sport": "golf",
     "file": "golf-us-open-27.json",
     "startDate": "2027-06-17",
