@@ -185,6 +185,7 @@
   {
     "id": "mls-cup-26",
     "title": "MLS Cup 26",
+    "fullTitle": "Major League Soccer Cup",
     "sport": "football",
     "file": "mls-cup-26.json",
     "startDate": "2026-02-21",
