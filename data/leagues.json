@@ -204,7 +204,8 @@
   },
   {
     "id": "ncaab-championship-26-27",
-    "title": "NCAAB Championship 26/27",
+    "title": "NCAAB 26/27",
+    "fullTitle": "NCAAB Championship",
     "sport": "basketball",
     "file": "ncaab-championship-26-27.json",
     "startDate": "2026-11-10",
