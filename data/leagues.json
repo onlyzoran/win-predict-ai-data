@@ -112,6 +112,7 @@
   {
     "id": "golf-the-open-27",
     "title": "The Open 27",
+    "fullTitle": "The Open",
     "sport": "golf",
     "file": "golf-the-open-27.json",
     "startDate": "2027-07-15",
