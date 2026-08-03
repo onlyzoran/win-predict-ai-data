@@ -194,7 +194,8 @@
   },
   {
     "id": "ncaaf-championship-26-27",
-    "title": "NCAAF Championship 26/27",
+    "title": "NCAAF 26/27",
+    "fullTitle": "NCAAF Championship",
     "sport": "americanFootball",
     "file": "ncaaf-championship-26-27.json",
     "startDate": "2026-08-24",
