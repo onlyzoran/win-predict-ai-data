@@ -90,6 +90,7 @@
   {
     "id": "golf-masters-27",
     "title": "Masters 27",
+    "fullTitle": "Masters",
     "sport": "golf",
     "file": "golf-masters-27.json",
     "startDate": "2027-04-08",
