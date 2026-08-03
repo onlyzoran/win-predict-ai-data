@@ -55,6 +55,7 @@
   {
     "id": "serie-a-26-27",
     "title": "Serie A 26/27",
+    "fullTitle": "Serie A",
     "sport": "football",
     "file": "serie-a-26-27.json",
     "startDate": "2026-08-23",
