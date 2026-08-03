@@ -95,7 +95,8 @@
   },
   {
     "id": "golf-pga-championship-27",
-    "title": "PGA Championship 27",
+    "title": "PGA 27",
+    "fullTitle": "PGA Championship",
     "sport": "golf",
     "file": "golf-pga-championship-27.json",
     "startDate": "2027-05-13",
