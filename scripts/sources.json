@@ -77,11 +77,12 @@
     "seasonYear": 2026
   },
   "mlb-world-series-26": {
-    "provider": "espn",
+    "provider": "mlb-statsapi",
     "kind": "standings",
-    "path": "baseball/mlb",
     "metric": "wins",
-    "seasonYear": 2026
+    "seasonYear": 2026,
+    "supportsHistory": true,
+    "seasonStart": "2026-03-25"
   },
   "ncaaf-championship-26-27": {
     "provider": "espn",

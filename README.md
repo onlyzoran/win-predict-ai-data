@@ -48,15 +48,20 @@ Prediction odds snapshots and **standings history** for tracked tournaments.
 Uses the public ESPN API (no key). Idempotent: re-running the same day overwrites that date’s file.
 
 ```bash
-# All configured leagues
+# All configured leagues (today)
 python3 scripts/snapshot_standings.py
 
 # One league
 python3 scripts/snapshot_standings.py --league epl-26-27
 
+# MLB: backfill current season by date (official statsapi.mlb.com)
+python3 scripts/snapshot_standings.py --league mlb-world-series-26 --from 2026-03-25
+
 # Validate without writing
 python3 scripts/snapshot_standings.py --dry-run
 ```
+
+MLB uses [MLB Stats API](https://statsapi.mlb.com) which supports standings **as of any date**, so the full season history can be loaded in one pass. Other leagues only snapshot the current day via ESPN.
 
 GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 06:00 UTC and commits new files under `data/history/`.
 
