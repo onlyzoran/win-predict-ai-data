@@ -298,6 +298,59 @@ def clean_row(row: dict[str, Any]) -> dict[str, Any]:
     return cleaned
 
 
+def list_available_days(league_id: str) -> list[str]:
+    out_dir = HISTORY_DIR / league_id
+    if not out_dir.is_dir():
+        return []
+    return sorted(path.stem for path in out_dir.glob("????-??-??.json"))
+
+
+def write_league_days_index(league_id: str) -> dict[str, Any]:
+    days = list_available_days(league_id)
+    payload = {
+        "leagueId": league_id,
+        "count": len(days),
+        "first": days[0] if days else None,
+        "last": days[-1] if days else None,
+        "days": days,
+    }
+    out_dir = HISTORY_DIR / league_id
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "days.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    return payload
+
+
+def write_history_index() -> dict[str, Any]:
+    leagues: dict[str, Any] = {}
+    if HISTORY_DIR.is_dir():
+        for path in sorted(HISTORY_DIR.iterdir()):
+            if not path.is_dir():
+                continue
+            league_id = path.name
+            days_meta = write_league_days_index(league_id)
+            leagues[league_id] = {
+                "count": days_meta["count"],
+                "first": days_meta["first"],
+                "last": days_meta["last"],
+                "daysFile": f"{league_id}/days.json",
+                "latestFile": f"{league_id}/latest.json" if (path / "latest.json").exists() else None,
+            }
+
+    payload = {
+        "updatedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+        "leagues": leagues,
+    }
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
+    (HISTORY_DIR / "index.json").write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    return payload
+
+
 def write_snapshot(
     league_id: str,
     snapshot_date: date,
@@ -307,6 +360,7 @@ def write_snapshot(
     rows: list[dict[str, Any]],
     dry_run: bool,
     update_latest: bool,
+    refresh_index: bool = True,
 ) -> str:
     ranked = assign_ranks(rows, metric)
     payload = {
@@ -331,6 +385,9 @@ def write_snapshot(
     out_path.write_text(text, encoding="utf-8")
     if update_latest:
         latest_path.write_text(text, encoding="utf-8")
+    if refresh_index:
+        write_league_days_index(league_id)
+        write_history_index()
     return f"ok {league_id}@{snapshot_date.isoformat()}: {len(ranked)} teams -> {out_path.relative_to(ROOT)}"
 
 
@@ -340,6 +397,7 @@ def snapshot_league(
     snapshot_date: date,
     dry_run: bool,
     update_latest: bool = True,
+    refresh_index: bool = True,
 ) -> str:
     provider = source.get("provider")
     if provider == "unsupported":
@@ -390,6 +448,7 @@ def snapshot_league(
         rows=rows,
         dry_run=dry_run,
         update_latest=update_latest,
+        refresh_index=refresh_index,
     )
 
 
@@ -435,6 +494,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Fetch and validate without writing files.",
     )
+    parser.add_argument(
+        "--rebuild-index",
+        action="store_true",
+        help="Only rebuild data/history/index.json and per-league days.json from existing files.",
+    )
     return parser.parse_args()
 
 
@@ -442,6 +506,11 @@ def main() -> int:
     args = parse_args()
     sources = load_sources()
     today = datetime.now(timezone.utc).date()
+
+    if args.rebuild_index:
+        index = write_history_index()
+        print(f"rebuilt index: {len(index['leagues'])} leagues -> data/history/index.json")
+        return 0
 
     league_ids = args.leagues or list(sources.keys())
     unknown = [league_id for league_id in league_ids if league_id not in sources]
@@ -451,11 +520,12 @@ def main() -> int:
 
     statuses: list[str] = []
     errors = 0
+    wrote_any = False
 
     if args.date_from:
-        start = date.fromisoformat(args.date_from)
+        range_start = date.fromisoformat(args.date_from)
         end = date.fromisoformat(args.date_to) if args.date_to else today
-        if end < start:
+        if end < range_start:
             print("--to must be on or after --from", file=sys.stderr)
             return 2
 
@@ -465,6 +535,7 @@ def main() -> int:
                 print(f"skip {league_id}: historical backfill not supported")
                 continue
 
+            start = range_start
             season_start = source.get("seasonStart")
             if season_start:
                 start = max(start, date.fromisoformat(season_start))
@@ -473,7 +544,14 @@ def main() -> int:
             print(f"backfill {league_id}: {days[0]} -> {days[-1]} ({len(days)} days)")
             for i, day in enumerate(days):
                 update_latest = day == days[-1]
-                status = snapshot_league(league_id, source, day, args.dry_run, update_latest=update_latest)
+                status = snapshot_league(
+                    league_id,
+                    source,
+                    day,
+                    args.dry_run,
+                    update_latest=update_latest,
+                    refresh_index=False,
+                )
                 # Keep output readable: print every day on errors/skips, else progress every 10 days + last.
                 if (
                     status.startswith("error")
@@ -484,6 +562,8 @@ def main() -> int:
                 ):
                     print(status)
                 statuses.append(status)
+                if status.startswith("ok"):
+                    wrote_any = True
                 if status.startswith("error"):
                     errors += 1
                 if args.sleep > 0 and i < len(days) - 1:
@@ -491,16 +571,29 @@ def main() -> int:
     else:
         snapshot_date = date.fromisoformat(args.date) if args.date else today
         for league_id in league_ids:
-            status = snapshot_league(league_id, sources[league_id], snapshot_date, args.dry_run)
+            status = snapshot_league(
+                league_id,
+                sources[league_id],
+                snapshot_date,
+                args.dry_run,
+                refresh_index=False,
+            )
             print(status)
             statuses.append(status)
+            if status.startswith("ok"):
+                wrote_any = True
             if status.startswith("error"):
                 errors += 1
+
+    if wrote_any and not args.dry_run:
+        index = write_history_index()
+        print(f"index: {len(index['leagues'])} leagues -> data/history/index.json")
 
     ok_count = sum(1 for s in statuses if s.startswith("ok") or s.startswith("dry-run"))
     skip_count = sum(1 for s in statuses if s.startswith("skip"))
     print(f"done: ok={ok_count} skip={skip_count} error={errors}")
     return 1 if errors else 0
+
 
 
 if __name__ == "__main__":

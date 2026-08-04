@@ -1,0 +1,82 @@
+{
+  "updatedAt": "2026-08-04T07:51:13Z",
+  "leagues": {
+    "bundesliga-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "bundesliga-26-27/days.json",
+      "latestFile": "bundesliga-26-27/latest.json"
+    },
+    "epl-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "epl-26-27/days.json",
+      "latestFile": "epl-26-27/latest.json"
+    },
+    "la-liga-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "la-liga-26-27/days.json",
+      "latestFile": "la-liga-26-27/latest.json"
+    },
+    "ligue-1-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "ligue-1-26-27/days.json",
+      "latestFile": "ligue-1-26-27/latest.json"
+    },
+    "mlb-world-series-26": {
+      "count": 133,
+      "first": "2026-03-25",
+      "last": "2026-08-04",
+      "daysFile": "mlb-world-series-26/days.json",
+      "latestFile": "mlb-world-series-26/latest.json"
+    },
+    "mls-cup-26": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "mls-cup-26/days.json",
+      "latestFile": "mls-cup-26/latest.json"
+    },
+    "nba-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "nba-26-27/days.json",
+      "latestFile": "nba-26-27/latest.json"
+    },
+    "nfl-super-bowl-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "nfl-super-bowl-26-27/days.json",
+      "latestFile": "nfl-super-bowl-26-27/latest.json"
+    },
+    "nhl-stanley-cup-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "nhl-stanley-cup-26-27/days.json",
+      "latestFile": "nhl-stanley-cup-26-27/latest.json"
+    },
+    "rpl-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "rpl-26-27/days.json",
+      "latestFile": "rpl-26-27/latest.json"
+    },
+    "serie-a-26-27": {
+      "count": 1,
+      "first": "2026-08-03",
+      "last": "2026-08-03",
+      "daysFile": "serie-a-26-27/days.json",
+      "latestFile": "serie-a-26-27/latest.json"
+    }
+  }
+}

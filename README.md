@@ -10,7 +10,9 @@ Prediction odds snapshots and **standings history** for tracked tournaments.
 | `data/{league}.json` | Win-probability snapshots |
 | `data/history/{leagueId}/{YYYY-MM-DD}.json` | Daily standings snapshot |
 | `data/history/{leagueId}/latest.json` | Copy of the newest snapshot |
-| `scripts/sources.json` | ESPN source mapping per league |
+| `data/history/{leagueId}/days.json` | List of available snapshot dates for the league |
+| `data/history/index.json` | Catalog of all leagues with first/last/count |
+| `scripts/sources.json` | Source mapping per league |
 
 ### Standings snapshot schema
 
@@ -59,7 +61,12 @@ python3 scripts/snapshot_standings.py --league mlb-world-series-26 --from 2026-0
 
 # Validate without writing
 python3 scripts/snapshot_standings.py --dry-run
+
+# Rebuild day indexes from existing files
+python3 scripts/snapshot_standings.py --rebuild-index
 ```
+
+Consumers should read `data/history/index.json` (summary) or `data/history/{leagueId}/days.json` (full date list) instead of scanning directories.
 
 MLB uses [MLB Stats API](https://statsapi.mlb.com) which supports standings **as of any date**, so the full season history can be loaded in one pass. Other leagues only snapshot the current day via ESPN.
 
