@@ -1,7 +1,7 @@
 {
   "leagueId": "mlb-world-series-26",
   "date": "2026-08-04",
-  "fetchedAt": "2026-08-04T06:47:51Z",
+  "fetchedAt": "2026-08-04T08:38:24Z",
   "source": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
