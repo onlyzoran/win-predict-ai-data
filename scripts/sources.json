@@ -103,5 +103,21 @@
   "khl-gagarin-cup-26-27": {
     "provider": "unsupported",
     "note": "ESPN/Sofascore have no free KHL standings; add a provider later"
+  },
+  "f1-drivers-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "racing/f1",
+    "group": "Driver",
+    "metric": "points",
+    "seasonYear": 2026
+  },
+  "f1-constructors-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "racing/f1",
+    "group": "constructor",
+    "metric": "points",
+    "seasonYear": 2026
   }
 }

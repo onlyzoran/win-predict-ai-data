@@ -55,6 +55,28 @@
     "popularPriority": 50
   },
   {
+    "id": "f1-drivers-26",
+    "title": "F1 Drivers",
+    "fullTitle": "Formula 1 Drivers' Championship",
+    "sport": "motorsport",
+    "file": "f1-drivers-26.json",
+    "startDate": "2026-03-06",
+    "endDate": "2026-12-06",
+    "endDateTo": "",
+    "popularPriority": 55
+  },
+  {
+    "id": "f1-constructors-26",
+    "title": "F1 Constructors",
+    "fullTitle": "Formula 1 Constructors' Championship",
+    "sport": "motorsport",
+    "file": "f1-constructors-26.json",
+    "startDate": "2026-03-06",
+    "endDate": "2026-12-06",
+    "endDateTo": "",
+    "popularPriority": 58
+  },
+  {
     "id": "serie-a-26-27",
     "title": "Serie A",
     "fullTitle": "Serie A",

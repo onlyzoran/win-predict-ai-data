@@ -126,25 +126,58 @@ def assign_ranks(rows: list[dict[str, Any]], metric: str) -> list[dict[str, Any]
     return ranked
 
 
-def parse_standings_payload(data: dict[str, Any]) -> tuple[list[dict[str, Any]], int | None]:
+def child_matches_group(child: dict[str, Any], group_filter: str | None) -> bool:
+    if not group_filter:
+        return True
+    needle = group_filter.casefold()
+    for key in ("abbreviation", "name"):
+        value = child.get(key)
+        if value and needle in str(value).casefold():
+            return True
+    return False
+
+
+def entry_display_name(entry: dict[str, Any]) -> str:
+    if entry.get("athlete"):
+        return team_name(entry.get("athlete"))
+    return team_name(entry.get("team"))
+
+
+def parse_standings_payload(
+    data: dict[str, Any],
+    group_filter: str | None = None,
+) -> tuple[list[dict[str, Any]], int | None]:
     season = data.get("season") or {}
     returned_year = to_int(season.get("year"))
+    if returned_year is None:
+        seasons = data.get("seasons") or []
+        if seasons:
+            returned_year = to_int(seasons[0].get("year"))
 
     rows: list[dict[str, Any]] = []
     for child in data.get("children") or []:
+        if not child_matches_group(child, group_filter):
+            continue
+        standings = child.get("standings") or {}
+        child_year = to_int(standings.get("season"))
+        if child_year is not None:
+            returned_year = child_year
         group = child.get("name") or child.get("abbreviation")
-        entries = (child.get("standings") or {}).get("entries") or []
+        entries = standings.get("entries") or []
         for entry in entries:
             stats = stat_map(entry)
             rank = to_int(stats.get("rank")) or to_int(stats.get("playoffSeed"))
+            points = to_int(stats.get("points"))
+            if points is None:
+                points = to_int(stats.get("championshipPts"))
             row = {
-                "team": team_name(entry.get("team")),
-                "played": to_int(stats.get("gamesPlayed")),
+                "team": entry_display_name(entry),
+                "played": to_int(stats.get("gamesPlayed")) or to_int(stats.get("starts")),
                 "wins": to_int(stats.get("wins")),
                 "draws": to_int(stats.get("ties")),
                 "losses": to_int(stats.get("losses")),
                 "otLosses": to_int(stats.get("otLosses")),
-                "points": to_int(stats.get("points")),
+                "points": points,
                 "winPercent": to_float(stats.get("winPercent")),
                 "playoffSeed": to_int(stats.get("playoffSeed")),
                 "group": group,
@@ -156,7 +189,11 @@ def parse_standings_payload(data: dict[str, Any]) -> tuple[list[dict[str, Any]],
     return rows, returned_year
 
 
-def fetch_espn_standings(path: str, season_year: int | None) -> tuple[list[dict[str, Any]], int | None]:
+def fetch_espn_standings(
+    path: str,
+    season_year: int | None,
+    group_filter: str | None = None,
+) -> tuple[list[dict[str, Any]], int | None]:
     """Fetch current ESPN standings.
 
     Prefer the default (no season query): for some leagues ``?season=YYYY`` returns
@@ -164,13 +201,13 @@ def fetch_espn_standings(path: str, season_year: int | None) -> tuple[list[dict[
     If the default season does not match ``season_year``, retry with an explicit query.
     """
     url = ESPN_STANDINGS.format(path=path)
-    rows, returned_year = parse_standings_payload(http_get_json(url))
+    rows, returned_year = parse_standings_payload(http_get_json(url), group_filter)
 
     if season_year is None or returned_year == season_year:
         return rows, returned_year
 
     explicit_url = f"{url}?{urllib.parse.urlencode({'season': str(season_year)})}"
-    return parse_standings_payload(http_get_json(explicit_url))
+    return parse_standings_payload(http_get_json(explicit_url), group_filter)
 
 
 def fetch_espn_rankings(path: str, poll: str) -> tuple[list[dict[str, Any]], int | None]:
@@ -411,7 +448,11 @@ def snapshot_league(
 
     try:
         if provider == "espn" and kind == "standings":
-            rows, returned_year = fetch_espn_standings(source.get("path"), expected_year)
+            rows, returned_year = fetch_espn_standings(
+                source.get("path"),
+                expected_year,
+                source.get("group"),
+            )
         elif provider == "espn" and kind == "rankings":
             rows, returned_year = fetch_espn_rankings(source.get("path"), source.get("poll") or "ap")
         elif provider == "mlb-statsapi" and kind == "standings":

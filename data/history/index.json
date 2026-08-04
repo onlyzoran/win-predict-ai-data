@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T07:51:13Z",
+  "updatedAt": "2026-08-04T08:30:02Z",
   "leagues": {
     "bundesliga-26-27": {
       "count": 1,
@@ -14,6 +14,20 @@
       "last": "2026-08-03",
       "daysFile": "epl-26-27/days.json",
       "latestFile": "epl-26-27/latest.json"
+    },
+    "f1-constructors-26": {
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04",
+      "daysFile": "f1-constructors-26/days.json",
+      "latestFile": "f1-constructors-26/latest.json"
+    },
+    "f1-drivers-26": {
+      "count": 1,
+      "first": "2026-08-04",
+      "last": "2026-08-04",
+      "daysFile": "f1-drivers-26/days.json",
+      "latestFile": "f1-drivers-26/latest.json"
     },
     "la-liga-26-27": {
       "count": 1,

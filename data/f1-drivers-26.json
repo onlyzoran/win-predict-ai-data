@@ -1,0 +1,90 @@
+[
+  {
+    "team": "Kimi Antonelli",
+    "win_predict": 75.25
+  },
+  {
+    "team": "Lewis Hamilton",
+    "win_predict": 10.05
+  },
+  {
+    "team": "George Russell",
+    "win_predict": 5.5
+  },
+  {
+    "team": "Lando Norris",
+    "win_predict": 3.25
+  },
+  {
+    "team": "Charles Leclerc",
+    "win_predict": 2.95
+  },
+  {
+    "team": "Max Verstappen",
+    "win_predict": 1.75
+  },
+  {
+    "team": "Oscar Piastri",
+    "win_predict": 0.45
+  },
+  {
+    "team": "Esteban Ocon",
+    "win_predict": 0.1
+  },
+  {
+    "team": "Alexander Albon",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Arvid Lindblad",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Carlos Sainz Jr.",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Fernando Alonso",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Franco Colapinto",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Gabriel Bortoleto",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Isack Hadjar",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Lance Stroll",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Liam Lawson",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Nico Hülkenberg",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Oliver Bearman",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Pierre Gasly",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Sergio Pérez",
+    "win_predict": 0.05
+  },
+  {
+    "team": "Valtteri Bottas",
+    "win_predict": 0.05
+  }
+]

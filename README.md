@@ -39,9 +39,10 @@ Prediction odds snapshots and **standings history** for tracked tournaments.
 }
 ```
 
-- Football / NHL / MLS / RPL: `metric` is `points`
+- Football / NHL / MLS / RPL / F1: `metric` is `points`
 - NBA / NFL / MLB: `metric` is `wins` (sorted by win %)
 - NCAAF / NCAAB: AP Top 25 via ESPN rankings (`metric`: `rank`)
+- F1 Drivers / Constructors: ESPN `racing/f1` (filter via `group` in `sources.json`)
 - Golf majors, US election: not tracked (no league table)
 - KHL: no free ESPN feed yet (`unsupported` in `sources.json`)
 
