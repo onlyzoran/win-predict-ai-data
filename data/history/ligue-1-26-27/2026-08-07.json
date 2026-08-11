@@ -1,0 +1,190 @@
+{
+  "leagueId": "ligue-1-26-27",
+  "date": "2026-08-07",
+  "fetchedAt": "2026-08-07T07:17:09Z",
+  "source": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "team": "Angers",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "AJ Auxerre",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
+      "team": "Brest",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
+      "team": "Le Havre AC",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
+      "team": "Le Mans",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
+      "team": "Lens",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
+      "team": "Lille",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
+      "team": "Lorient",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
+      "team": "Lyon",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
+      "team": "Marseille",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
+      "team": "AS Monaco",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
+      "team": "Nice",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 12,
+      "rank": 12
+    },
+    {
+      "team": "Paris FC",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
+      "team": "Paris Saint-Germain",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 14,
+      "rank": 14
+    },
+    {
+      "team": "Stade Rennais",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 15,
+      "rank": 15
+    },
+    {
+      "team": "Strasbourg",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 16,
+      "rank": 16
+    },
+    {
+      "team": "Toulouse",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 17,
+      "rank": 17
+    },
+    {
+      "team": "Troyes",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 18,
+      "rank": 18
+    }
+  ]
+}

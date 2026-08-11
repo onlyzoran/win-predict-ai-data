@@ -1,0 +1,210 @@
+{
+  "leagueId": "la-liga-26-27",
+  "date": "2026-08-08",
+  "fetchedAt": "2026-08-08T06:54:12Z",
+  "source": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "team": "Alavés",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "Athletic Club",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
+      "team": "Atlético Madrid",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
+      "team": "Barcelona",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
+      "team": "Celta Vigo",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
+      "team": "Deportivo La Coruña",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
+      "team": "Elche",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
+      "team": "Espanyol",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
+      "team": "Getafe",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
+      "team": "Levante",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
+      "team": "Málaga",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
+      "team": "Osasuna",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 12,
+      "rank": 12
+    },
+    {
+      "team": "Racing Santander",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
+      "team": "Rayo Vallecano",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 14,
+      "rank": 14
+    },
+    {
+      "team": "Real Betis",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 15,
+      "rank": 15
+    },
+    {
+      "team": "Real Madrid",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 16,
+      "rank": 16
+    },
+    {
+      "team": "Real Sociedad",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 17,
+      "rank": 17
+    },
+    {
+      "team": "Sevilla",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 18,
+      "rank": 18
+    },
+    {
+      "team": "Valencia",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 19,
+      "rank": 19
+    },
+    {
+      "team": "Villarreal",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 20,
+      "rank": 20
+    }
+  ]
+}

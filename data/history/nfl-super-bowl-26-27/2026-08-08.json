@@ -1,0 +1,330 @@
+{
+  "leagueId": "nfl-super-bowl-26-27",
+  "date": "2026-08-08",
+  "fetchedAt": "2026-08-08T06:54:13Z",
+  "source": "espn",
+  "metric": "wins",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "team": "Carolina Panthers",
+      "wins": 1,
+      "losses": 0,
+      "winPercent": 1.0,
+      "playoffSeed": 1,
+      "group": "National Football Conference",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "Buffalo Bills",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 2
+    },
+    {
+      "team": "Cincinnati Bengals",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 3
+    },
+    {
+      "team": "Cleveland Browns",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 4
+    },
+    {
+      "team": "Denver Broncos",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 5
+    },
+    {
+      "team": "Tennessee Titans",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 6
+    },
+    {
+      "team": "Indianapolis Colts",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 7
+    },
+    {
+      "team": "Kansas City Chiefs",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 8
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 9
+    },
+    {
+      "team": "Miami Dolphins",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 10
+    },
+    {
+      "team": "New England Patriots",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 11
+    },
+    {
+      "team": "New York Jets",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 12
+    },
+    {
+      "team": "Pittsburgh Steelers",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 13
+    },
+    {
+      "team": "Los Angeles Chargers",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 14
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 15
+    },
+    {
+      "team": "Baltimore Ravens",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 16
+    },
+    {
+      "team": "Houston Texans",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "American Football Conference",
+      "sourceRank": 0,
+      "rank": 17
+    },
+    {
+      "team": "Atlanta Falcons",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 18
+    },
+    {
+      "team": "Chicago Bears",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 19
+    },
+    {
+      "team": "Dallas Cowboys",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 20
+    },
+    {
+      "team": "Detroit Lions",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 21
+    },
+    {
+      "team": "Green Bay Packers",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 22
+    },
+    {
+      "team": "Los Angeles Rams",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 23
+    },
+    {
+      "team": "Minnesota Vikings",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 24
+    },
+    {
+      "team": "New Orleans Saints",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 25
+    },
+    {
+      "team": "New York Giants",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 26
+    },
+    {
+      "team": "Philadelphia Eagles",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 27
+    },
+    {
+      "team": "San Francisco 49ers",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 28
+    },
+    {
+      "team": "Seattle Seahawks",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 29
+    },
+    {
+      "team": "Tampa Bay Buccaneers",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 30
+    },
+    {
+      "team": "Washington Commanders",
+      "wins": 0,
+      "losses": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 0,
+      "group": "National Football Conference",
+      "sourceRank": 0,
+      "rank": 31
+    },
+    {
+      "team": "Arizona Cardinals",
+      "wins": 0,
+      "losses": 1,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "group": "National Football Conference",
+      "sourceRank": 4,
+      "rank": 32
+    }
+  ]
+}
