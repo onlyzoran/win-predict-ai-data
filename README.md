@@ -93,7 +93,7 @@ python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only --json
 
 Championship probabilities in `data/rpl-26-27.json` are refreshed by a **Cursor cloud agent** (Composer 2.5) on a daily schedule:
 
-- Cron: every day **20:00 UTC / 23:00 MSK** (`0 20 * * *`), after typical evening matches
+- Cron: every day **21:00 UTC / 23:00 GMT+2** (`0 21 * * *`), after typical evening matches
 - Instructions live in the Cursor Automation (not in-repo)
 
-Standings history and `win_predict` both update daily at 20:00 UTC (standings via GitHub Action, probabilities via cloud agent).
+Standings history and `win_predict` both update daily at 23:00 GMT+2 (standings via GitHub Action, probabilities via cloud agent).
