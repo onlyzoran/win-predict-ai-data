@@ -1,0 +1,19 @@
+{
+  "id": "rpl-26-27",
+  "title": "RPL",
+  "fullTitle": "Russian Premier League",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-07-24",
+    "end": "2027-05-29"
+  },
+  "metric": "points",
+  "hasFacts": true,
+  "factKinds": [
+    "standings"
+  ],
+  "predictionTarget": "win_probability",
+  "factsGrain": "matchday"
+}

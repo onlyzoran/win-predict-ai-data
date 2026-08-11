@@ -44,6 +44,7 @@
   "rpl-26-27": {
     "provider": "espn",
     "kind": "standings",
+    "layout": "contests",
     "path": "soccer/rus.1",
     "metric": "points",
     "seasonYear": 2026
@@ -79,6 +80,7 @@
   "mlb-world-series-26": {
     "provider": "mlb-statsapi",
     "kind": "standings",
+    "layout": "contests",
     "metric": "wins",
     "seasonYear": 2026,
     "supportsHistory": true,

@@ -1,0 +1,99 @@
+{
+  "contestId": "rpl-26-27",
+  "participants": [
+    {
+      "id": "akhmat-grozny",
+      "name": "Akhmat Grozny",
+      "aliases": [
+        "Akhmat"
+      ]
+    },
+    {
+      "id": "akron-tolyatti",
+      "name": "Akron Tolyatti",
+      "aliases": []
+    },
+    {
+      "id": "cska-moscow",
+      "name": "CSKA Moscow",
+      "aliases": []
+    },
+    {
+      "id": "dinamo-moscow",
+      "name": "Dinamo Moscow",
+      "aliases": [
+        "Dynamo Moscow"
+      ]
+    },
+    {
+      "id": "dynamo-makhachkala",
+      "name": "Dynamo Makhachkala",
+      "aliases": []
+    },
+    {
+      "id": "fakel-voronezh",
+      "name": "Fakel Voronezh",
+      "aliases": []
+    },
+    {
+      "id": "fc-baltika-kaliningrad",
+      "name": "FC Baltika Kaliningrad",
+      "aliases": [
+        "Baltica"
+      ]
+    },
+    {
+      "id": "gazovik-orenburg",
+      "name": "Gazovik Orenburg",
+      "aliases": [
+        "FC Orenburg"
+      ]
+    },
+    {
+      "id": "krasnodar",
+      "name": "Krasnodar",
+      "aliases": [
+        "FC Krasnodar"
+      ]
+    },
+    {
+      "id": "krylia-sovetov",
+      "name": "Krylia Sovetov",
+      "aliases": []
+    },
+    {
+      "id": "lokomotiv-moscow",
+      "name": "Lokomotiv Moscow",
+      "aliases": []
+    },
+    {
+      "id": "rodina-moscow",
+      "name": "Rodina Moscow",
+      "aliases": []
+    },
+    {
+      "id": "rostov",
+      "name": "Rostov",
+      "aliases": [
+        "FC Rostov"
+      ]
+    },
+    {
+      "id": "rubin-kazan",
+      "name": "Rubin Kazan",
+      "aliases": []
+    },
+    {
+      "id": "spartak-moscow",
+      "name": "Spartak Moscow",
+      "aliases": []
+    },
+    {
+      "id": "zenit-st-petersburg",
+      "name": "Zenit St Petersburg",
+      "aliases": [
+        "Zenit"
+      ]
+    }
+  ]
+}

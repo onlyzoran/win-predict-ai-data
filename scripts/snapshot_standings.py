@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Snapshot league standings into data/history/{leagueId}/{YYYY-MM-DD}.json."""
+"""Snapshot league standings into legacy history/ or contests/ facts layout."""
 
 from __future__ import annotations
 
@@ -14,11 +14,24 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+
+from contest_io import (
+    resolve_or_create_participant,
+    row_to_fact_row,
+    utc_now_iso,
+    write_facts_index,
+    write_contests_index,
+    write_standings_fact,
+)
+
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES_PATH = Path(__file__).resolve().parent / "sources.json"
 HISTORY_DIR = ROOT / "data" / "history"
-ESPN_STANDINGS = "https://site.api.espn.com/apis/v2/sports/{path}/standings"
-ESPN_RANKINGS = "https://site.api.espn.com/apis/site/v2/sports/{path}/rankings"
+ESPN_STANDINGS = "https://site.web.api.espn.com/apis/v2/sports/{path}/standings"
+ESPN_RANKINGS = "https://site.web.api.espn.com/apis/site/v2/sports/{path}/rankings"
 MLB_STANDINGS = "https://statsapi.mlb.com/api/v1/standings"
 MLB_TEAMS = "https://statsapi.mlb.com/api/v1/teams"
 MLB_DIVISIONS = "https://statsapi.mlb.com/api/v1/divisions"
@@ -104,6 +117,10 @@ def sort_key_for_metric(row: dict[str, Any], metric: str) -> tuple:
         return (
             row.get("points") is not None,
             row.get("points") or 0,
+            row.get("goalDifference")
+            if row.get("goalDifference") is not None
+            else (row.get("goalsFor") or 0) - (row.get("goalsAgainst") or 0),
+            row.get("goalsFor") or 0,
             row.get("wins") or 0,
             -(row.get("losses") or 0),
         )
@@ -170,6 +187,21 @@ def parse_standings_payload(
             points = to_int(stats.get("points"))
             if points is None:
                 points = to_int(stats.get("championshipPts"))
+            # Soccer (and similar): ESPN often exposes GF/GA as pointsFor/pointsAgainst.
+            goals_for = to_int(stats.get("goalsFor"))
+            goals_against = to_int(stats.get("goalsAgainst"))
+            if "ties" in stats:
+                if goals_for is None:
+                    goals_for = to_int(stats.get("pointsFor"))
+                if goals_against is None:
+                    goals_against = to_int(stats.get("pointsAgainst"))
+            goal_diff = to_int(stats.get("goalDifference"))
+            if goal_diff is None:
+                goal_diff = to_int(stats.get("pointDifferential"))
+            if goal_diff is None:
+                goal_diff = to_int(stats.get("differential"))
+            if goal_diff is None and goals_for is not None and goals_against is not None:
+                goal_diff = goals_for - goals_against
             row = {
                 "team": entry_display_name(entry),
                 "played": to_int(stats.get("gamesPlayed")) or to_int(stats.get("starts")),
@@ -177,6 +209,9 @@ def parse_standings_payload(
                 "draws": to_int(stats.get("ties")),
                 "losses": to_int(stats.get("losses")),
                 "otLosses": to_int(stats.get("otLosses")),
+                "goalsFor": goals_for,
+                "goalsAgainst": goals_against,
+                "goalDifference": goal_diff,
                 "points": points,
                 "winPercent": to_float(stats.get("winPercent")),
                 "playoffSeed": to_int(stats.get("playoffSeed")),
@@ -398,12 +433,56 @@ def write_snapshot(
     dry_run: bool,
     update_latest: bool,
     refresh_index: bool = True,
+    layout: str = "history",
 ) -> str:
     ranked = assign_ranks(rows, metric)
+    day = snapshot_date.isoformat()
+
+    if layout == "contests":
+        fact_rows: list[dict[str, Any]] = []
+        for row in ranked:
+            cleaned = clean_row(row)
+            team = cleaned.get("team")
+            if not team:
+                continue
+            if dry_run:
+                fact_rows.append(cleaned)
+                continue
+            participant_id, _ = resolve_or_create_participant(league_id, str(team))
+            fact_rows.append(row_to_fact_row(cleaned, participant_id))
+
+        if dry_run:
+            from contest_io import facts_grain, infer_tour_state, tour_dirname
+
+            if facts_grain(league_id) == "matchday":
+                tour, status = infer_tour_state([{"played": r.get("played")} for r in ranked])
+                folder = tour_dirname(tour) if status != "preseason" else "tour-00"
+                out_rel = f"data/contests/{league_id}/facts/standings/{folder}/{day}.json"
+                if status == "final":
+                    out_rel += " (+ latest.json)"
+            else:
+                out_rel = f"data/contests/{league_id}/facts/standings/{day}.json"
+            return f"dry-run {league_id}@{day}: {len(fact_rows)} teams -> {out_rel}"
+
+        out_path = write_standings_fact(
+            league_id,
+            snapshot_date=day,
+            fetched_at=utc_now_iso(),
+            provider=source_name,
+            metric=metric,
+            season_year=season_year,
+            rows=fact_rows,
+            update_latest=update_latest,
+            refresh_index=refresh_index,
+        )
+        if out_path is None:
+            return f"skip {league_id}@{day}: unchanged"
+        return f"ok {league_id}@{day}: {len(fact_rows)} teams -> {out_path.relative_to(ROOT)}"
+
     payload = {
         "leagueId": league_id,
-        "date": snapshot_date.isoformat(),
-        "fetchedAt": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+        "date": day,
+        "fetchedAt": utc_now_iso(),
         "source": source_name,
         "metric": metric,
         "seasonYear": season_year,
@@ -411,11 +490,11 @@ def write_snapshot(
     }
 
     out_dir = HISTORY_DIR / league_id
-    out_path = out_dir / f"{snapshot_date.isoformat()}.json"
+    out_path = out_dir / f"{day}.json"
     latest_path = out_dir / "latest.json"
 
     if dry_run:
-        return f"dry-run {league_id}@{snapshot_date.isoformat()}: {len(ranked)} teams -> {out_path.relative_to(ROOT)}"
+        return f"dry-run {league_id}@{day}: {len(ranked)} teams -> {out_path.relative_to(ROOT)}"
 
     out_dir.mkdir(parents=True, exist_ok=True)
     text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
@@ -425,7 +504,7 @@ def write_snapshot(
     if refresh_index:
         write_league_days_index(league_id)
         write_history_index()
-    return f"ok {league_id}@{snapshot_date.isoformat()}: {len(ranked)} teams -> {out_path.relative_to(ROOT)}"
+    return f"ok {league_id}@{day}: {len(ranked)} teams -> {out_path.relative_to(ROOT)}"
 
 
 def snapshot_league(
@@ -490,6 +569,7 @@ def snapshot_league(
         dry_run=dry_run,
         update_latest=update_latest,
         refresh_index=refresh_index,
+        layout=str(source.get("layout") or "history"),
     )
 
 
@@ -538,7 +618,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--rebuild-index",
         action="store_true",
-        help="Only rebuild data/history/index.json and per-league days.json from existing files.",
+        help="Rebuild data/history indexes and data/contests indexes from existing files.",
     )
     return parser.parse_args()
 
@@ -551,6 +631,11 @@ def main() -> int:
     if args.rebuild_index:
         index = write_history_index()
         print(f"rebuilt index: {len(index['leagues'])} leagues -> data/history/index.json")
+        for league_id, source in sources.items():
+            if source.get("layout") == "contests":
+                write_facts_index(league_id)
+        contests_index = write_contests_index()
+        print(f"rebuilt contests index: {len(contests_index['contests'])} contests -> data/contests/index.json")
         return 0
 
     league_ids = args.leagues or list(sources.keys())
@@ -561,7 +646,8 @@ def main() -> int:
 
     statuses: list[str] = []
     errors = 0
-    wrote_any = False
+    wrote_history = False
+    wrote_contests = False
 
     if args.date_from:
         range_start = date.fromisoformat(args.date_from)
@@ -604,7 +690,10 @@ def main() -> int:
                     print(status)
                 statuses.append(status)
                 if status.startswith("ok"):
-                    wrote_any = True
+                    if sources[league_id].get("layout") == "contests":
+                        wrote_contests = True
+                    else:
+                        wrote_history = True
                 if status.startswith("error"):
                     errors += 1
                 if args.sleep > 0 and i < len(days) - 1:
@@ -622,13 +711,23 @@ def main() -> int:
             print(status)
             statuses.append(status)
             if status.startswith("ok"):
-                wrote_any = True
+                if sources[league_id].get("layout") == "contests":
+                    wrote_contests = True
+                else:
+                    wrote_history = True
             if status.startswith("error"):
                 errors += 1
 
-    if wrote_any and not args.dry_run:
-        index = write_history_index()
-        print(f"index: {len(index['leagues'])} leagues -> data/history/index.json")
+    if not args.dry_run:
+        if wrote_history:
+            index = write_history_index()
+            print(f"index: {len(index['leagues'])} leagues -> data/history/index.json")
+        if wrote_contests:
+            for league_id in league_ids:
+                if sources[league_id].get("layout") == "contests":
+                    write_facts_index(league_id)
+            contests_index = write_contests_index()
+            print(f"contests index: {len(contests_index['contests'])} contests -> data/contests/index.json")
 
     ok_count = sum(1 for s in statuses if s.startswith("ok") or s.startswith("dry-run"))
     skip_count = sum(1 for s in statuses if s.startswith("skip"))

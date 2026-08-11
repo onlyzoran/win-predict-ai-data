@@ -1,0 +1,155 @@
+{
+  "contestId": "mlb-world-series-26",
+  "participants": [
+    {
+      "id": "arizona-diamondbacks",
+      "name": "Arizona Diamondbacks",
+      "aliases": []
+    },
+    {
+      "id": "athletics",
+      "name": "Athletics",
+      "aliases": []
+    },
+    {
+      "id": "atlanta-braves",
+      "name": "Atlanta Braves",
+      "aliases": []
+    },
+    {
+      "id": "baltimore-orioles",
+      "name": "Baltimore Orioles",
+      "aliases": []
+    },
+    {
+      "id": "boston-red-sox",
+      "name": "Boston Red Sox",
+      "aliases": []
+    },
+    {
+      "id": "chicago-cubs",
+      "name": "Chicago Cubs",
+      "aliases": []
+    },
+    {
+      "id": "chicago-white-sox",
+      "name": "Chicago White Sox",
+      "aliases": []
+    },
+    {
+      "id": "cincinnati-reds",
+      "name": "Cincinnati Reds",
+      "aliases": []
+    },
+    {
+      "id": "cleveland-guardians",
+      "name": "Cleveland Guardians",
+      "aliases": []
+    },
+    {
+      "id": "colorado-rockies",
+      "name": "Colorado Rockies",
+      "aliases": []
+    },
+    {
+      "id": "detroit-tigers",
+      "name": "Detroit Tigers",
+      "aliases": []
+    },
+    {
+      "id": "houston-astros",
+      "name": "Houston Astros",
+      "aliases": []
+    },
+    {
+      "id": "kansas-city-royals",
+      "name": "Kansas City Royals",
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-angels",
+      "name": "Los Angeles Angels",
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-dodgers",
+      "name": "Los Angeles Dodgers",
+      "aliases": []
+    },
+    {
+      "id": "miami-marlins",
+      "name": "Miami Marlins",
+      "aliases": []
+    },
+    {
+      "id": "milwaukee-brewers",
+      "name": "Milwaukee Brewers",
+      "aliases": []
+    },
+    {
+      "id": "minnesota-twins",
+      "name": "Minnesota Twins",
+      "aliases": []
+    },
+    {
+      "id": "new-york-mets",
+      "name": "New York Mets",
+      "aliases": []
+    },
+    {
+      "id": "new-york-yankees",
+      "name": "New York Yankees",
+      "aliases": []
+    },
+    {
+      "id": "philadelphia-phillies",
+      "name": "Philadelphia Phillies",
+      "aliases": []
+    },
+    {
+      "id": "pittsburgh-pirates",
+      "name": "Pittsburgh Pirates",
+      "aliases": []
+    },
+    {
+      "id": "san-diego-padres",
+      "name": "San Diego Padres",
+      "aliases": []
+    },
+    {
+      "id": "san-francisco-giants",
+      "name": "San Francisco Giants",
+      "aliases": []
+    },
+    {
+      "id": "seattle-mariners",
+      "name": "Seattle Mariners",
+      "aliases": []
+    },
+    {
+      "id": "st-louis-cardinals",
+      "name": "St. Louis Cardinals",
+      "aliases": []
+    },
+    {
+      "id": "tampa-bay-rays",
+      "name": "Tampa Bay Rays",
+      "aliases": []
+    },
+    {
+      "id": "texas-rangers",
+      "name": "Texas Rangers",
+      "aliases": []
+    },
+    {
+      "id": "toronto-blue-jays",
+      "name": "Toronto Blue Jays",
+      "aliases": []
+    },
+    {
+      "id": "washington-nationals",
+      "name": "Washington Nationals",
+      "aliases": []
+    }
+  ]
+}

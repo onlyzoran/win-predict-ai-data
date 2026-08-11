@@ -17,7 +17,7 @@ import urllib.request
 from datetime import date, datetime, timedelta, timezone
 from typing import Any
 
-ESPN_SCOREBOARD = "https://site.api.espn.com/apis/site/v2/sports/soccer/rus.1/scoreboard"
+ESPN_SCOREBOARD = "https://site.web.api.espn.com/apis/site/v2/sports/soccer/rus.1/scoreboard"
 USER_AGENT = "win-predict-ai-data/1.0 (+rpl-results)"
 
 

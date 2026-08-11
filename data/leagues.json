@@ -158,11 +158,12 @@
     "title": "MLB World Series",
     "fullTitle": "Major League Baseball | World Series",
     "sport": "baseball",
-    "file": "mlb-world-series-26.json",
     "startDate": "2026-03-26",
     "endDate": "2026-11-01",
     "endDateTo": "",
-    "popularPriority": 130
+    "popularPriority": 130,
+    "layout": "contests",
+    "contestPath": "contests/mlb-world-series-26"
   },
   {
     "id": "us-presidential-election-28",
@@ -191,11 +192,12 @@
     "title": "RPL",
     "fullTitle": "Russian Premier League",
     "sport": "football",
-    "file": "rpl-26-27.json",
     "startDate": "2026-07-24",
     "endDate": "2027-05-29",
     "endDateTo": "",
-    "popularPriority": 160
+    "popularPriority": 160,
+    "layout": "contests",
+    "contestPath": "contests/rpl-26-27"
   },
   {
     "id": "khl-gagarin-cup-26-27",

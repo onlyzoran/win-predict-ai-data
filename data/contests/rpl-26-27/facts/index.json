@@ -1,0 +1,48 @@
+{
+  "contestId": "rpl-26-27",
+  "kind": "facts",
+  "factKind": "standings",
+  "grain": "matchday",
+  "count": 5,
+  "first": "2026-07-26",
+  "last": "2026-08-11",
+  "latestTour": 3,
+  "tours": [
+    {
+      "tour": 1,
+      "status": "final",
+      "slices": [
+        "2026-07-26"
+      ],
+      "latestDate": "2026-07-26",
+      "latestFile": "standings/tour-01/latest.json"
+    },
+    {
+      "tour": 2,
+      "status": "final",
+      "slices": [
+        "2026-08-03"
+      ],
+      "latestDate": "2026-08-03",
+      "latestFile": "standings/tour-02/latest.json"
+    },
+    {
+      "tour": 3,
+      "status": "final",
+      "slices": [
+        "2026-08-09",
+        "2026-08-10",
+        "2026-08-11"
+      ],
+      "latestDate": "2026-08-11",
+      "latestFile": "standings/tour-03/latest.json"
+    }
+  ],
+  "days": [
+    "2026-07-26",
+    "2026-08-03",
+    "2026-08-09",
+    "2026-08-10",
+    "2026-08-11"
+  ]
+}

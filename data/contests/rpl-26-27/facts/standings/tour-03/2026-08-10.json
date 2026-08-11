@@ -1,0 +1,157 @@
+{
+  "kind": "standings",
+  "contestId": "rpl-26-27",
+  "date": "2026-08-10",
+  "fetchedAt": "2026-08-10T07:42:55Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "krasnodar",
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "points": 9,
+      "rank": 1
+    },
+    {
+      "participantId": "zenit-st-petersburg",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "points": 6,
+      "rank": 2
+    },
+    {
+      "participantId": "spartak-moscow",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "points": 6,
+      "rank": 3
+    },
+    {
+      "participantId": "fc-baltika-kaliningrad",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "points": 6,
+      "rank": 4
+    },
+    {
+      "participantId": "dynamo-makhachkala",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "points": 6,
+      "rank": 5
+    },
+    {
+      "participantId": "cska-moscow",
+      "played": 3,
+      "wins": 1,
+      "draws": 2,
+      "losses": 0,
+      "points": 5,
+      "rank": 6
+    },
+    {
+      "participantId": "rostov",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "points": 4,
+      "rank": 7
+    },
+    {
+      "participantId": "dinamo-moscow",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "points": 4,
+      "rank": 8
+    },
+    {
+      "participantId": "rubin-kazan",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "points": 4,
+      "rank": 9
+    },
+    {
+      "participantId": "gazovik-orenburg",
+      "played": 3,
+      "wins": 1,
+      "draws": 1,
+      "losses": 1,
+      "points": 4,
+      "rank": 10
+    },
+    {
+      "participantId": "rodina-moscow",
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "points": 3,
+      "rank": 11
+    },
+    {
+      "participantId": "lokomotiv-moscow",
+      "played": 3,
+      "wins": 0,
+      "draws": 2,
+      "losses": 1,
+      "points": 2,
+      "rank": 12
+    },
+    {
+      "participantId": "krylia-sovetov",
+      "played": 3,
+      "wins": 0,
+      "draws": 2,
+      "losses": 1,
+      "points": 2,
+      "rank": 13
+    },
+    {
+      "participantId": "akhmat-grozny",
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "points": 1,
+      "rank": 14
+    },
+    {
+      "participantId": "akron-tolyatti",
+      "played": 3,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2,
+      "points": 1,
+      "rank": 15
+    },
+    {
+      "participantId": "fakel-voronezh",
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "losses": 2,
+      "points": 0,
+      "rank": 16
+    }
+  ],
+  "tour": 3,
+  "tourStatus": "in_progress"
+}

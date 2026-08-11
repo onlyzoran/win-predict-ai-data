@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T07:09:09Z",
+  "updatedAt": "2026-08-11T13:09:25Z",
   "leagues": {
     "bundesliga-26-27": {
       "count": 9,
@@ -43,13 +43,6 @@
       "daysFile": "ligue-1-26-27/days.json",
       "latestFile": "ligue-1-26-27/latest.json"
     },
-    "mlb-world-series-26": {
-      "count": 140,
-      "first": "2026-03-25",
-      "last": "2026-08-11",
-      "daysFile": "mlb-world-series-26/days.json",
-      "latestFile": "mlb-world-series-26/latest.json"
-    },
     "mls-cup-26": {
       "count": 9,
       "first": "2026-08-03",
@@ -84,13 +77,6 @@
       "last": "2026-08-03",
       "daysFile": "nhl-stanley-cup-26-27/days.json",
       "latestFile": "nhl-stanley-cup-26-27/latest.json"
-    },
-    "rpl-26-27": {
-      "count": 9,
-      "first": "2026-08-03",
-      "last": "2026-08-11",
-      "daysFile": "rpl-26-27/days.json",
-      "latestFile": "rpl-26-27/latest.json"
     },
     "serie-a-26-27": {
       "count": 9,

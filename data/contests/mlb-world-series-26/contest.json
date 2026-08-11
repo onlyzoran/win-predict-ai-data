@@ -1,0 +1,19 @@
+{
+  "id": "mlb-world-series-26",
+  "title": "MLB World Series",
+  "fullTitle": "Major League Baseball | World Series",
+  "category": "sport",
+  "sport": "baseball",
+  "target": "champion",
+  "season": {
+    "start": "2026-03-26",
+    "end": "2026-11-01"
+  },
+  "metric": "wins",
+  "hasFacts": true,
+  "factKinds": [
+    "standings"
+  ],
+  "predictionTarget": "win_probability",
+  "factsGrain": "day"
+}
