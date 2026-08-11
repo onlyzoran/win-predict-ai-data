@@ -1,4 +1,4 @@
-# RPL weekly win_predict (cloud agent playbook)
+# RPL daily win_predict (cloud agent playbook)
 
 Scheduled cloud agent task for Russian Premier League championship probabilities.
 
@@ -81,4 +81,4 @@ You are the model (no separate Monte Carlo script and no paid odds API required)
 
 ## Schedule
 
-Cursor Automation cron: **Tuesdays 08:00 UTC** (`0 8 * * 2`), after typical matchdays. Standings snapshots continue daily independently.
+Cursor Automation cron: **daily 08:00 UTC** (`0 8 * * *`), after the 06:00 UTC standings snapshot.

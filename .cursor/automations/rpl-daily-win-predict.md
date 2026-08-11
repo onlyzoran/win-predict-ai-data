@@ -1,4 +1,4 @@
-# Cursor Automation draft — RPL weekly win_predict
+# Cursor Automation draft — RPL daily win_predict
 
 Create this as a **Cursor Automation** (cloud agent) in the Automations editor. This repo cannot open the editor from a cloud run; paste/apply the settings below.
 
@@ -6,19 +6,19 @@ Create this as a **Cursor Automation** (cloud agent) in the Automations editor. 
 
 | Field | Value |
 | --- | --- |
-| Name | RPL weekly win_predict |
-| Description | Each Tuesday after matchday, refresh RPL championship win probabilities from free ESPN standings/results and commit `data/rpl-26-27.json`. |
-| Trigger | Schedule — every Tuesday at 08:00 UTC (`0 8 * * 2`) |
+| Name | RPL daily win_predict |
+| Description | Each day, refresh RPL championship win probabilities from free ESPN standings/results and commit `data/rpl-26-27.json`. |
+| Trigger | Schedule — every day at 08:00 UTC (`0 8 * * *`) |
 | Model | Composer 2.5 |
 | Repo / branch | `onlyzoran/win-predict-ai-data` / `main` |
 | Tools | Cloud agent repo access (read/write + commit). No MCP required. |
 | Instructions | Follow `@prompts/rpl-win-predict.md` exactly. |
-| To finish in editor | Confirm model = Composer 2.5; confirm cron timezone display matches Tuesday 08:00 UTC; enable the automation. |
+| To finish in editor | Confirm model = Composer 2.5; confirm cron timezone display matches daily 08:00 UTC; enable the automation. |
 
 ## Prompt to paste
 
 ```text
-You are the weekly RPL win_predict cloud agent for this repository.
+You are the daily RPL win_predict cloud agent for this repository.
 
 Follow the playbook in @prompts/rpl-win-predict.md.
 
@@ -36,7 +36,7 @@ Do not modify other leagues.
 ## Cron
 
 ```
-0 8 * * 2
+0 8 * * *
 ```
 
-Tuesdays, 08:00 UTC.
+Every day, 08:00 UTC (after the 06:00 UTC standings snapshot).

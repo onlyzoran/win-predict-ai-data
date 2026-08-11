@@ -75,7 +75,7 @@ GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 06:00 UTC
 
 If ESPN has not published the expected season yet (UCL 26/27, NCAA polls, KHL), the script skips that league instead of writing the previous season.
 
-## Free RPL results + weekly win_predict
+## Free RPL results + daily win_predict
 
 Russian Premier League uses the **public ESPN API** (no key):
 
@@ -91,10 +91,10 @@ python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only
 python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only --json
 ```
 
-Championship probabilities in `data/rpl-26-27.json` are refreshed by a **Cursor cloud agent** (Composer 2.5) on a weekly schedule:
+Championship probabilities in `data/rpl-26-27.json` are refreshed by a **Cursor cloud agent** (Composer 2.5) on a daily schedule:
 
 - Playbook: [`prompts/rpl-win-predict.md`](prompts/rpl-win-predict.md)
-- Automation draft (create in Automations editor): [`.cursor/automations/rpl-weekly-win-predict.md`](.cursor/automations/rpl-weekly-win-predict.md)
-- Cron: Tuesdays **08:00 UTC** (`0 8 * * 2`), after typical matchdays
+- Automation draft (create in Automations editor): [`.cursor/automations/rpl-daily-win-predict.md`](.cursor/automations/rpl-daily-win-predict.md)
+- Cron: every day **08:00 UTC** (`0 8 * * *`), after the 06:00 UTC standings snapshot
 
-Standings history still updates daily via GitHub Action; only `win_predict` is weekly.
+Standings history and `win_predict` both update daily (standings via GitHub Action, probabilities via cloud agent).
