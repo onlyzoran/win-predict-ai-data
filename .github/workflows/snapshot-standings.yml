@@ -2,8 +2,8 @@ name: Snapshot standings
 
 on:
   schedule:
-    # Daily at 06:00 UTC — after most previous-day games settle
-    - cron: "0 6 * * *"
+    # Daily at 21:00 UTC (23:00 GMT+2) — after typical evening matchdays
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:

@@ -71,6 +71,30 @@ Consumers should read `data/history/index.json` (summary) or `data/history/{leag
 
 MLB uses [MLB Stats API](https://statsapi.mlb.com) which supports standings **as of any date**, so the full season history can be loaded in one pass. Other leagues only snapshot the current day via ESPN.
 
-GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 06:00 UTC and commits new files under `data/history/`.
+GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 21:00 UTC (23:00 GMT+2) and commits new files under `data/history/`.
 
 If ESPN has not published the expected season yet (UCL 26/27, NCAA polls, KHL), the script skips that league instead of writing the previous season.
+
+## Free RPL results + daily win_predict
+
+Russian Premier League uses the **public ESPN API** (no key):
+
+| Need | Endpoint / path |
+| --- | --- |
+| Standings | `site.api.espn.com/apis/v2/sports/soccer/rus.1/standings` (via `scripts/snapshot_standings.py`, league id `rpl-26-27`) |
+| Match results / fixtures | `site.api.espn.com/apis/site/v2/sports/soccer/rus.1/scoreboard?dates=YYYYMMDD` |
+
+Helper for recent results:
+
+```bash
+python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only
+python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only --json
+```
+
+Championship probabilities in `data/rpl-26-27.json` are refreshed by a **Cursor cloud agent** (Composer 2.5) on a daily schedule:
+
+- Standings Action: **21:00 UTC / 23:00 GMT+2** (`0 21 * * *`)
+- win_predict agent: **21:30 UTC / 23:30 GMT+2** (`30 21 * * *`), 30 minutes later
+- Instructions live in the Cursor Automation (not in-repo)
+
+Standings update first; the cloud agent refreshes `win_predict` half an hour later so it can use the new `latest.json`.
