@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-11",
-  "fetchedAt": "2026-08-11T07:09:08Z",
+  "fetchedAt": "2026-08-11T20:39:15Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -14,7 +14,6 @@
       "losses": 45,
       "winPercent": 0.622,
       "playoffSeed": 1,
-      "sourceRank": 1,
       "group": "National League",
       "rank": 1
     },
@@ -25,7 +24,6 @@
       "losses": 46,
       "winPercent": 0.61,
       "playoffSeed": 1,
-      "sourceRank": 2,
       "group": "American League",
       "rank": 2
     },
@@ -36,7 +34,6 @@
       "losses": 48,
       "winPercent": 0.597,
       "playoffSeed": 1,
-      "sourceRank": 3,
       "group": "National League",
       "rank": 3
     },
@@ -47,7 +44,6 @@
       "losses": 48,
       "winPercent": 0.597,
       "playoffSeed": 1,
-      "sourceRank": 4,
       "group": "National League",
       "rank": 4
     },
@@ -58,7 +54,6 @@
       "losses": 50,
       "winPercent": 0.58,
       "playoffSeed": 2,
-      "sourceRank": 5,
       "group": "National League",
       "rank": 5
     },
@@ -69,7 +64,6 @@
       "losses": 52,
       "winPercent": 0.559,
       "playoffSeed": 2,
-      "sourceRank": 6,
       "group": "American League",
       "rank": 6
     },
@@ -80,7 +74,6 @@
       "losses": 54,
       "winPercent": 0.542,
       "playoffSeed": 3,
-      "sourceRank": 7,
       "group": "American League",
       "rank": 7
     },
@@ -91,7 +84,6 @@
       "losses": 56,
       "winPercent": 0.533,
       "playoffSeed": 2,
-      "sourceRank": 9,
       "group": "National League",
       "rank": 8
     },
@@ -102,7 +94,6 @@
       "losses": 56,
       "winPercent": 0.533,
       "playoffSeed": 2,
-      "sourceRank": 8,
       "group": "National League",
       "rank": 9
     },
@@ -113,7 +104,6 @@
       "losses": 57,
       "winPercent": 0.525,
       "playoffSeed": 3,
-      "sourceRank": 10,
       "group": "National League",
       "rank": 10
     },
@@ -124,7 +114,6 @@
       "losses": 56,
       "winPercent": 0.521,
       "playoffSeed": 1,
-      "sourceRank": 11,
       "group": "American League",
       "rank": 11
     },
@@ -135,7 +124,6 @@
       "losses": 59,
       "winPercent": 0.508,
       "playoffSeed": 1,
-      "sourceRank": 12,
       "group": "American League",
       "rank": 12
     },
@@ -146,7 +134,6 @@
       "losses": 59,
       "winPercent": 0.504,
       "playoffSeed": 2,
-      "sourceRank": 14,
       "group": "American League",
       "rank": 13
     },
@@ -157,7 +144,6 @@
       "losses": 59,
       "winPercent": 0.504,
       "playoffSeed": 3,
-      "sourceRank": 13,
       "group": "National League",
       "rank": 14
     },
@@ -168,7 +154,6 @@
       "losses": 60,
       "winPercent": 0.496,
       "playoffSeed": 3,
-      "sourceRank": 15,
       "group": "National League",
       "rank": 15
     },
@@ -179,7 +164,6 @@
       "losses": 61,
       "winPercent": 0.492,
       "playoffSeed": 2,
-      "sourceRank": 17,
       "group": "American League",
       "rank": 16
     },
@@ -190,7 +174,6 @@
       "losses": 61,
       "winPercent": 0.492,
       "playoffSeed": 4,
-      "sourceRank": 16,
       "group": "National League",
       "rank": 17
     },
@@ -201,7 +184,6 @@
       "losses": 60,
       "winPercent": 0.492,
       "playoffSeed": 3,
-      "sourceRank": 18,
       "group": "American League",
       "rank": 18
     },
@@ -212,7 +194,6 @@
       "losses": 61,
       "winPercent": 0.487,
       "playoffSeed": 4,
-      "sourceRank": 19,
       "group": "American League",
       "rank": 19
     },
@@ -223,7 +204,6 @@
       "losses": 62,
       "winPercent": 0.483,
       "playoffSeed": 4,
-      "sourceRank": 20,
       "group": "National League",
       "rank": 20
     },
@@ -234,7 +214,6 @@
       "losses": 62,
       "winPercent": 0.479,
       "playoffSeed": 4,
-      "sourceRank": 21,
       "group": "American League",
       "rank": 21
     },
@@ -245,7 +224,6 @@
       "losses": 61,
       "winPercent": 0.479,
       "playoffSeed": 5,
-      "sourceRank": 22,
       "group": "National League",
       "rank": 22
     },
@@ -256,7 +234,6 @@
       "losses": 63,
       "winPercent": 0.475,
       "playoffSeed": 5,
-      "sourceRank": 23,
       "group": "American League",
       "rank": 23
     },
@@ -267,7 +244,6 @@
       "losses": 63,
       "winPercent": 0.471,
       "playoffSeed": 3,
-      "sourceRank": 24,
       "group": "American League",
       "rank": 24
     },
@@ -278,7 +254,6 @@
       "losses": 67,
       "winPercent": 0.442,
       "playoffSeed": 5,
-      "sourceRank": 25,
       "group": "National League",
       "rank": 25
     },
@@ -289,7 +264,6 @@
       "losses": 70,
       "winPercent": 0.412,
       "playoffSeed": 4,
-      "sourceRank": 26,
       "group": "National League",
       "rank": 26
     },
@@ -300,7 +274,6 @@
       "losses": 71,
       "winPercent": 0.408,
       "playoffSeed": 5,
-      "sourceRank": 27,
       "group": "American League",
       "rank": 27
     },
@@ -311,7 +284,6 @@
       "losses": 72,
       "winPercent": 0.395,
       "playoffSeed": 4,
-      "sourceRank": 28,
       "group": "American League",
       "rank": 28
     },
@@ -322,7 +294,6 @@
       "losses": 73,
       "winPercent": 0.387,
       "playoffSeed": 5,
-      "sourceRank": 29,
       "group": "National League",
       "rank": 29
     },
@@ -333,7 +304,6 @@
       "losses": 74,
       "winPercent": 0.378,
       "playoffSeed": 5,
-      "sourceRank": 30,
       "group": "American League",
       "rank": 30
     }
