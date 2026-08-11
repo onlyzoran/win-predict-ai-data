@@ -2,8 +2,8 @@ name: Snapshot standings
 
 on:
   schedule:
-    # Daily at 21:00 UTC (23:00 GMT+2) — after typical evening matchdays
-    - cron: "0 21 * * *"
+    # Daily at 20:00 UTC (22:00 GMT+2) — before the 23:00 GMT+2 win_predict agent
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 permissions:
