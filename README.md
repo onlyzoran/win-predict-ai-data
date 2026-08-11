@@ -71,7 +71,7 @@ Consumers should read `data/history/index.json` (summary) or `data/history/{leag
 
 MLB uses [MLB Stats API](https://statsapi.mlb.com) which supports standings **as of any date**, so the full season history can be loaded in one pass. Other leagues only snapshot the current day via ESPN.
 
-GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 20:00 UTC (23:00 MSK) and commits new files under `data/history/`.
+GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 21:00 UTC (23:00 GMT+2) and commits new files under `data/history/`.
 
 If ESPN has not published the expected season yet (UCL 26/27, NCAA polls, KHL), the script skips that league instead of writing the previous season.
 
