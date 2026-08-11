@@ -71,7 +71,7 @@ Consumers should read `data/history/index.json` (summary) or `data/history/{leag
 
 MLB uses [MLB Stats API](https://statsapi.mlb.com) which supports standings **as of any date**, so the full season history can be loaded in one pass. Other leagues only snapshot the current day via ESPN.
 
-GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 06:00 UTC and commits new files under `data/history/`.
+GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 20:00 UTC (23:00 MSK) and commits new files under `data/history/`.
 
 If ESPN has not published the expected season yet (UCL 26/27, NCAA polls, KHL), the script skips that league instead of writing the previous season.
 
@@ -95,6 +95,6 @@ Championship probabilities in `data/rpl-26-27.json` are refreshed by a **Cursor 
 
 - Playbook: [`prompts/rpl-win-predict.md`](prompts/rpl-win-predict.md)
 - Automation draft (create in Automations editor): [`.cursor/automations/rpl-daily-win-predict.md`](.cursor/automations/rpl-daily-win-predict.md)
-- Cron: every day **08:00 UTC** (`0 8 * * *`), after the 06:00 UTC standings snapshot
+- Cron: every day **20:00 UTC / 23:00 MSK** (`0 20 * * *`), after typical evening matches
 
-Standings history and `win_predict` both update daily (standings via GitHub Action, probabilities via cloud agent).
+Standings history and `win_predict` both update daily at 20:00 UTC (standings via GitHub Action, probabilities via cloud agent).

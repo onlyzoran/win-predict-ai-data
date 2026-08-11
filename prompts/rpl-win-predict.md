@@ -81,4 +81,4 @@ You are the model (no separate Monte Carlo script and no paid odds API required)
 
 ## Schedule
 
-Cursor Automation cron: **daily 08:00 UTC** (`0 8 * * *`), after the 06:00 UTC standings snapshot.
+Cursor Automation cron: **daily 20:00 UTC (23:00 MSK)** (`0 20 * * *`), after typical evening matches. Prefer `latest.json`, and cross-check ESPN results if the standings snapshot has not landed yet.
