@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Migrate RPL and MLB from legacy data/ + data/history/ into data/contests/."""
+"""Migrate legacy data/ + data/history/ into data/contests/."""
 
 from __future__ import annotations
 
@@ -35,44 +35,79 @@ from contest_io import (
 
 HISTORY_DIR = ROOT / "data" / "history"
 LEAGUES_PATH = ROOT / "data" / "leagues.json"
+DATA_DIR = ROOT / "data"
 
-CONTESTS: dict[str, dict[str, Any]] = {
-    "rpl-26-27": {
-        "id": "rpl-26-27",
-        "title": "RPL",
-        "fullTitle": "Russian Premier League",
-        "category": "sport",
-        "sport": "football",
-        "target": "champion",
-        "season": {"start": "2026-07-24", "end": "2027-05-29"},
-        "metric": "points",
-        "hasFacts": True,
-        "factKinds": ["standings"],
-        "factsGrain": "matchday",
-        "predictionTarget": "win_probability",
-        "legacyPredictionFile": "rpl-26-27.json",
-        "predictionModel": {"name": "cursor-cloud", "version": "composer-2.5"},
-    },
-    "mlb-world-series-26": {
-        "id": "mlb-world-series-26",
-        "title": "MLB World Series",
-        "fullTitle": "Major League Baseball | World Series",
-        "category": "sport",
-        "sport": "baseball",
-        "target": "champion",
-        "season": {"start": "2026-03-26", "end": "2026-11-01"},
-        "metric": "wins",
-        "hasFacts": True,
-        "factKinds": ["standings"],
-        "factsGrain": "day",
-        "predictionTarget": "win_probability",
-        "legacyPredictionFile": "mlb-world-series-26.json",
-        "predictionModel": {"name": "legacy-import", "version": "migrated"},
-    },
-}
+# Football leagues with round-based standings -> tour/matchday layout.
+MATCHDAY_CONTESTS = frozenset(
+    {
+        "rpl-26-27",
+        "epl-26-27",
+        "la-liga-26-27",
+        "serie-a-26-27",
+        "bundesliga-26-27",
+        "ligue-1-26-27",
+        "mls-cup-26",
+    }
+)
+
+# Contests already on the new layout (legacy files removed).
+ALREADY_MIGRATED = frozenset({"rpl-26-27", "mlb-world-series-26"})
 
 
-def collect_names(contest_id: str, prediction_path: Path) -> tuple[set[str], set[str]]:
+def infer_metric(contest_id: str) -> str:
+    hist = HISTORY_DIR / contest_id
+    if not hist.is_dir():
+        return "points"
+    days = sorted(hist.glob("????-??-??.json"))
+    if not days:
+        return "points"
+    payload = json.loads(days[-1].read_text(encoding="utf-8"))
+    return str(payload.get("metric") or "points")
+
+
+def build_contests_config() -> dict[str, dict[str, Any]]:
+    leagues = json.loads(LEAGUES_PATH.read_text(encoding="utf-8"))
+    contests: dict[str, dict[str, Any]] = {}
+
+    for entry in leagues:
+        contest_id = entry["id"]
+        has_history = (HISTORY_DIR / contest_id).is_dir()
+        pred_file = DATA_DIR / f"{contest_id}.json"
+        has_predictions = pred_file.exists()
+
+        sport = entry.get("sport") or "unknown"
+        category = "politics" if sport == "politics" else "sport"
+        grain = "matchday" if contest_id in MATCHDAY_CONTESTS else "day"
+
+        meta: dict[str, Any] = {
+            "id": contest_id,
+            "title": entry["title"],
+            "fullTitle": entry["fullTitle"],
+            "category": category,
+            "sport": sport,
+            "target": "champion",
+            "season": {"start": entry["startDate"], "end": entry["endDate"]},
+            "hasFacts": has_history,
+            "predictionTarget": "win_probability",
+            "predictionModel": {"name": "legacy-import", "version": "migrated"},
+        }
+
+        if has_history:
+            meta["metric"] = infer_metric(contest_id)
+            meta["factKinds"] = ["standings"]
+            meta["factsGrain"] = grain
+        if has_predictions:
+            meta["legacyPredictionFile"] = f"{contest_id}.json"
+
+        contests[contest_id] = meta
+
+    return contests
+
+
+CONTESTS = build_contests_config()
+
+
+def collect_names(contest_id: str, prediction_path: Path | None) -> tuple[set[str], set[str]]:
     fact_names: set[str] = set()
     hist = HISTORY_DIR / contest_id
     if hist.is_dir():
@@ -84,7 +119,7 @@ def collect_names(contest_id: str, prediction_path: Path) -> tuple[set[str], set
                     fact_names.add(str(name))
 
     pred_names: set[str] = set()
-    if prediction_path.exists():
+    if prediction_path and prediction_path.exists():
         for item in json.loads(prediction_path.read_text(encoding="utf-8")):
             name = item.get("team")
             if name:
@@ -167,7 +202,10 @@ def migrate_facts(contest_id: str) -> int:
 
 
 def migrate_predictions(contest_id: str, meta: dict[str, Any]) -> bool:
-    pred_path = ROOT / "data" / meta["legacyPredictionFile"]
+    legacy_file = meta.get("legacyPredictionFile")
+    if not legacy_file:
+        return False
+    pred_path = DATA_DIR / legacy_file
     if not pred_path.exists():
         return False
 
@@ -205,12 +243,35 @@ def migrate_predictions(contest_id: str, meta: dict[str, Any]) -> bool:
     return True
 
 
-def update_leagues_catalog(contest_ids: list[str]) -> None:
+def contest_json_payload(meta: dict[str, Any]) -> dict[str, Any]:
+    payload: dict[str, Any] = {
+        "id": meta["id"],
+        "title": meta["title"],
+        "fullTitle": meta["fullTitle"],
+        "category": meta["category"],
+        "sport": meta["sport"],
+        "target": meta["target"],
+        "season": meta["season"],
+        "hasFacts": meta["hasFacts"],
+        "predictionTarget": meta["predictionTarget"],
+    }
+    if meta["hasFacts"]:
+        payload["metric"] = meta["metric"]
+        payload["factKinds"] = meta["factKinds"]
+        payload["factsGrain"] = meta.get("factsGrain") or "day"
+    return payload
+
+
+def update_leagues_catalog() -> None:
     leagues = json.loads(LEAGUES_PATH.read_text(encoding="utf-8"))
-    by_id = {c: CONTESTS[c] for c in contest_ids}
+    migrated = {
+        path.name
+        for path in CONTESTS_DIR.iterdir()
+        if path.is_dir() and (path / "contest.json").exists()
+    }
     for entry in leagues:
         contest_id = entry.get("id")
-        if contest_id not in by_id:
+        if contest_id not in migrated:
             continue
         entry.pop("file", None)
         entry.pop("marketPath", None)
@@ -254,42 +315,29 @@ def remove_legacy(contest_id: str, meta: dict[str, Any]) -> None:
     hist = HISTORY_DIR / contest_id
     if hist.exists():
         shutil.rmtree(hist)
-    pred = ROOT / "data" / meta["legacyPredictionFile"]
-    if pred.exists():
-        pred.unlink()
+    legacy_file = meta.get("legacyPredictionFile")
+    if legacy_file:
+        pred = DATA_DIR / legacy_file
+        if pred.exists():
+            pred.unlink()
 
 
 def migrate_one(contest_id: str, *, purge_legacy: bool) -> None:
     meta = CONTESTS[contest_id]
-    pred_path = ROOT / "data" / meta["legacyPredictionFile"]
+    pred_path = DATA_DIR / meta["legacyPredictionFile"] if meta.get("legacyPredictionFile") else None
     fact_names, pred_names = collect_names(contest_id, pred_path)
 
     path = CONTESTS_DIR / contest_id
     if path.exists():
         shutil.rmtree(path)
 
-    write_json(
-        path / "contest.json",
-        {
-            "id": meta["id"],
-            "title": meta["title"],
-            "fullTitle": meta["fullTitle"],
-            "category": meta["category"],
-            "sport": meta["sport"],
-            "target": meta["target"],
-            "season": meta["season"],
-            "metric": meta["metric"],
-            "hasFacts": meta["hasFacts"],
-            "factKinds": meta["factKinds"],
-            "factsGrain": meta.get("factsGrain") or "day",
-            "predictionTarget": meta["predictionTarget"],
-        },
-    )
+    write_json(path / "contest.json", contest_json_payload(meta))
 
     seed_participants(contest_id, fact_names, pred_names)
-    facts_count = migrate_facts(contest_id)
+    facts_count = migrate_facts(contest_id) if meta["hasFacts"] else 0
     preds_ok = migrate_predictions(contest_id, meta)
-    write_facts_index(contest_id)
+    if meta["hasFacts"]:
+        write_facts_index(contest_id)
     write_predictions_index(contest_id)
 
     participants = load_participants(contest_id)
@@ -307,6 +355,13 @@ def migrate_one(contest_id: str, *, purge_legacy: bool) -> None:
         remove_legacy(contest_id, meta)
 
 
+def default_contest_ids(*, include_migrated: bool) -> list[str]:
+    ids = sorted(CONTESTS.keys())
+    if include_migrated:
+        return ids
+    return [cid for cid in ids if cid not in ALREADY_MIGRATED]
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -314,7 +369,12 @@ def parse_args() -> argparse.Namespace:
         action="append",
         dest="contests",
         choices=sorted(CONTESTS.keys()),
-        help="Contest id to migrate (repeatable). Default: all.",
+        help="Contest id to migrate (repeatable). Default: all not yet migrated.",
+    )
+    parser.add_argument(
+        "--include-migrated",
+        action="store_true",
+        help="Include rpl-26-27 and mlb-world-series-26 in the default set.",
     )
     parser.add_argument(
         "--keep-legacy",
@@ -326,13 +386,13 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> int:
     args = parse_args()
-    contest_ids = args.contests or list(CONTESTS.keys())
+    contest_ids = args.contests or default_contest_ids(include_migrated=args.include_migrated)
     purge = not args.keep_legacy
 
     for contest_id in contest_ids:
         migrate_one(contest_id, purge_legacy=purge)
 
-    update_leagues_catalog(contest_ids)
+    update_leagues_catalog()
     write_contests_index()
     if purge:
         rebuild_legacy_history_index()

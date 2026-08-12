@@ -24,6 +24,51 @@ ALIAS_TO_CANONICAL: dict[str, dict[str, str]] = {
         "Akhmat": "Akhmat Grozny",
     },
     "mlb-world-series-26": {},
+    "epl-26-27": {
+        "Brighton": "Brighton & Hove Albion",
+        "Tottenham": "Tottenham Hotspur",
+        "Bournemouth": "AFC Bournemouth",
+    },
+    "la-liga-26-27": {
+        "Betis": "Real Betis",
+        "Athletic Bilbao": "Athletic Club",
+        "Deportivo La Coruña": "Deportivo",
+    },
+    "serie-a-26-27": {
+        "Inter Milan": "Internazionale",
+        "Roma": "AS Roma",
+    },
+    "bundesliga-26-27": {
+        "1. FC Köln": "FC Cologne",
+        "Hamburger SV": "Hamburg SV",
+        "Mainz 05": "Mainz",
+        "SC Paderborn": "SC Paderborn 07",
+        "Union Berlin": "1. FC Union Berlin",
+    },
+    "ligue-1-26-27": {
+        "Monaco": "AS Monaco",
+        "Rennes": "Stade Rennais",
+        "Auxerre": "AJ Auxerre",
+        "Le Havre": "Le Havre AC",
+    },
+    "mls-cup-26": {
+        "Los Angeles FC": "LAFC",
+        "Vancouver Whitecaps FC": "Vancouver Whitecaps",
+        "New York Red Bulls": "Red Bull New York",
+    },
+    "nba-26-27": {
+        "Los Angeles Clippers": "LA Clippers",
+    },
+    "f1-drivers-26": {
+        "Carlos Sainz Jr.": "Carlos Sainz",
+    },
+    "f1-constructors-26": {
+        "Red Bull Racing": "Red Bull",
+    },
+    "nhl-stanley-cup-26-27": {
+        "Montréal Canadiens": "Montreal Canadiens",
+        "St Louis Blues": "St. Louis Blues",
+    },
 }
 
 
