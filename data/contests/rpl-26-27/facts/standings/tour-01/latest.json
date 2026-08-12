@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-07-26",
-  "fetchedAt": "2026-08-11T13:31:17Z",
+  "fetchedAt": "2026-08-12T07:05:32Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -44,7 +44,7 @@
       "rank": 3
     },
     {
-      "participantId": "cska-moscow",
+      "participantId": "gazovik-orenburg",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -68,7 +68,7 @@
       "rank": 5
     },
     {
-      "participantId": "gazovik-orenburg",
+      "participantId": "cska-moscow",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -128,7 +128,7 @@
       "rank": 10
     },
     {
-      "participantId": "fc-baltika-kaliningrad",
+      "participantId": "rostov",
       "played": 1,
       "wins": 0,
       "draws": 0,
@@ -140,7 +140,7 @@
       "rank": 11
     },
     {
-      "participantId": "fakel-voronezh",
+      "participantId": "fc-baltika-kaliningrad",
       "played": 1,
       "wins": 0,
       "draws": 0,
@@ -152,7 +152,7 @@
       "rank": 12
     },
     {
-      "participantId": "rostov",
+      "participantId": "fakel-voronezh",
       "played": 1,
       "wins": 0,
       "draws": 0,

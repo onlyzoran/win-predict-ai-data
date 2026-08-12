@@ -1,7 +1,7 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-07-26",
+  "date": "2026-07-25",
   "fetchedAt": "2026-08-12T07:05:32Z",
   "provider": "espn",
   "metric": "points",
@@ -32,30 +32,6 @@
       "rank": 2
     },
     {
-      "participantId": "krasnodar",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 3,
-      "goalsAgainst": 1,
-      "goalDifference": 2,
-      "points": 3,
-      "rank": 3
-    },
-    {
-      "participantId": "gazovik-orenburg",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 1,
-      "goalDifference": 1,
-      "points": 3,
-      "rank": 4
-    },
-    {
       "participantId": "dynamo-makhachkala",
       "played": 1,
       "wins": 1,
@@ -65,7 +41,7 @@
       "goalsAgainst": 1,
       "goalDifference": 1,
       "points": 3,
-      "rank": 5
+      "rank": 3
     },
     {
       "participantId": "cska-moscow",
@@ -77,31 +53,7 @@
       "goalsAgainst": 1,
       "goalDifference": 1,
       "points": 3,
-      "rank": 6
-    },
-    {
-      "participantId": "lokomotiv-moscow",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "losses": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "goalDifference": 0,
-      "points": 1,
-      "rank": 7
-    },
-    {
-      "participantId": "akhmat-grozny",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "losses": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "goalDifference": 0,
-      "points": 1,
-      "rank": 8
+      "rank": 4
     },
     {
       "participantId": "dinamo-moscow",
@@ -113,7 +65,7 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 1,
-      "rank": 9
+      "rank": 5
     },
     {
       "participantId": "krylia-sovetov",
@@ -125,19 +77,79 @@
       "goalsAgainst": 0,
       "goalDifference": 0,
       "points": 1,
-      "rank": 10
+      "rank": 6
+    },
+    {
+      "participantId": "rubin-kazan",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 7
     },
     {
       "participantId": "rostov",
-      "played": 1,
+      "played": 0,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 2,
-      "goalDifference": -1,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "gazovik-orenburg",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "lokomotiv-moscow",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "akhmat-grozny",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
       "points": 0,
       "rank": 11
+    },
+    {
+      "participantId": "krasnodar",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 12
     },
     {
       "participantId": "fc-baltika-kaliningrad",
@@ -149,7 +161,7 @@
       "goalsAgainst": 2,
       "goalDifference": -1,
       "points": 0,
-      "rank": 12
+      "rank": 13
     },
     {
       "participantId": "fakel-voronezh",
@@ -160,18 +172,6 @@
       "goalsFor": 1,
       "goalsAgainst": 2,
       "goalDifference": -1,
-      "points": 0,
-      "rank": 13
-    },
-    {
-      "participantId": "rubin-kazan",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 3,
-      "goalDifference": -2,
       "points": 0,
       "rank": 14
     },
@@ -201,5 +201,5 @@
     }
   ],
   "tour": 1,
-  "tourStatus": "final"
+  "tourStatus": "in_progress"
 }

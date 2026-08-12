@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T20:39:16Z",
+  "updatedAt": "2026-08-12T07:05:32Z",
   "contests": {
     "mlb-world-series-26": {
       "title": "MLB World Series",
@@ -30,8 +30,8 @@
       "hasFacts": true,
       "factsGrain": "matchday",
       "facts": {
-        "count": 5,
-        "first": "2026-07-26",
+        "count": 9,
+        "first": "2026-07-24",
         "last": "2026-08-11",
         "latestTour": 3,
         "latestFile": "rpl-26-27/facts/latest.json",

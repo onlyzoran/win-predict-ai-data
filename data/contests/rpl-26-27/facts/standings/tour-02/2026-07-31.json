@@ -1,7 +1,7 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-07-26",
+  "date": "2026-07-31",
   "fetchedAt": "2026-08-12T07:05:32Z",
   "provider": "espn",
   "metric": "points",
@@ -44,19 +44,19 @@
       "rank": 3
     },
     {
-      "participantId": "gazovik-orenburg",
-      "played": 1,
+      "participantId": "rostov",
+      "played": 2,
       "wins": 1,
       "draws": 0,
-      "losses": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 1,
+      "losses": 1,
+      "goalsFor": 5,
+      "goalsAgainst": 4,
       "goalDifference": 1,
       "points": 3,
       "rank": 4
     },
     {
-      "participantId": "dynamo-makhachkala",
+      "participantId": "gazovik-orenburg",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -68,7 +68,7 @@
       "rank": 5
     },
     {
-      "participantId": "cska-moscow",
+      "participantId": "dynamo-makhachkala",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -80,19 +80,19 @@
       "rank": 6
     },
     {
-      "participantId": "lokomotiv-moscow",
+      "participantId": "cska-moscow",
       "played": 1,
-      "wins": 0,
-      "draws": 1,
+      "wins": 1,
+      "draws": 0,
       "losses": 0,
-      "goalsFor": 1,
+      "goalsFor": 2,
       "goalsAgainst": 1,
-      "goalDifference": 0,
-      "points": 1,
+      "goalDifference": 1,
+      "points": 3,
       "rank": 7
     },
     {
-      "participantId": "akhmat-grozny",
+      "participantId": "lokomotiv-moscow",
       "played": 1,
       "wins": 0,
       "draws": 1,
@@ -104,19 +104,19 @@
       "rank": 8
     },
     {
-      "participantId": "dinamo-moscow",
+      "participantId": "akhmat-grozny",
       "played": 1,
       "wins": 0,
       "draws": 1,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
       "points": 1,
       "rank": 9
     },
     {
-      "participantId": "krylia-sovetov",
+      "participantId": "dinamo-moscow",
       "played": 1,
       "wins": 0,
       "draws": 1,
@@ -128,15 +128,15 @@
       "rank": 10
     },
     {
-      "participantId": "rostov",
+      "participantId": "krylia-sovetov",
       "played": 1,
       "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 2,
-      "goalDifference": -1,
-      "points": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 1,
       "rank": 11
     },
     {
@@ -177,13 +177,13 @@
     },
     {
       "participantId": "rodina-moscow",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 3,
-      "goalDifference": -3,
+      "losses": 2,
+      "goalsFor": 2,
+      "goalsAgainst": 7,
+      "goalDifference": -5,
       "points": 0,
       "rank": 15
     },
@@ -200,6 +200,6 @@
       "rank": 16
     }
   ],
-  "tour": 1,
-  "tourStatus": "final"
+  "tour": 2,
+  "tourStatus": "in_progress"
 }
