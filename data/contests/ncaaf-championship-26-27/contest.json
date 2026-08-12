@@ -1,0 +1,19 @@
+{
+  "id": "ncaaf-championship-26-27",
+  "title": "NCAAF",
+  "fullTitle": "NCAAF Championship",
+  "category": "sport",
+  "sport": "americanFootball",
+  "target": "champion",
+  "season": {
+    "start": "2026-08-24",
+    "end": "2027-01-12"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "rank",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

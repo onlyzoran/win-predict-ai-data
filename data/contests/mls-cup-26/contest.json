@@ -1,0 +1,19 @@
+{
+  "id": "mls-cup-26",
+  "title": "MLS Cup",
+  "fullTitle": "Major League Soccer Cup",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-02-21",
+    "end": "2026-12-19"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "matchday"
+}

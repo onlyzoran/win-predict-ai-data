@@ -1,0 +1,163 @@
+{
+  "contestId": "mls-cup-26",
+  "participants": [
+    {
+      "id": "atlanta-united-fc",
+      "name": "Atlanta United FC",
+      "aliases": []
+    },
+    {
+      "id": "austin-fc",
+      "name": "Austin FC",
+      "aliases": []
+    },
+    {
+      "id": "cf-montréal",
+      "name": "CF Montréal",
+      "aliases": []
+    },
+    {
+      "id": "charlotte-fc",
+      "name": "Charlotte FC",
+      "aliases": []
+    },
+    {
+      "id": "chicago-fire-fc",
+      "name": "Chicago Fire FC",
+      "aliases": []
+    },
+    {
+      "id": "colorado-rapids",
+      "name": "Colorado Rapids",
+      "aliases": []
+    },
+    {
+      "id": "columbus-crew",
+      "name": "Columbus Crew",
+      "aliases": []
+    },
+    {
+      "id": "dc-united",
+      "name": "D.C. United",
+      "aliases": []
+    },
+    {
+      "id": "fc-cincinnati",
+      "name": "FC Cincinnati",
+      "aliases": []
+    },
+    {
+      "id": "fc-dallas",
+      "name": "FC Dallas",
+      "aliases": []
+    },
+    {
+      "id": "houston-dynamo-fc",
+      "name": "Houston Dynamo FC",
+      "aliases": []
+    },
+    {
+      "id": "inter-miami-cf",
+      "name": "Inter Miami CF",
+      "aliases": []
+    },
+    {
+      "id": "la-galaxy",
+      "name": "LA Galaxy",
+      "aliases": []
+    },
+    {
+      "id": "lafc",
+      "name": "LAFC",
+      "aliases": [
+        "Los Angeles FC"
+      ]
+    },
+    {
+      "id": "minnesota-united-fc",
+      "name": "Minnesota United FC",
+      "aliases": []
+    },
+    {
+      "id": "nashville-sc",
+      "name": "Nashville SC",
+      "aliases": []
+    },
+    {
+      "id": "new-england-revolution",
+      "name": "New England Revolution",
+      "aliases": []
+    },
+    {
+      "id": "new-york-city-fc",
+      "name": "New York City FC",
+      "aliases": []
+    },
+    {
+      "id": "orlando-city-sc",
+      "name": "Orlando City SC",
+      "aliases": []
+    },
+    {
+      "id": "philadelphia-union",
+      "name": "Philadelphia Union",
+      "aliases": []
+    },
+    {
+      "id": "portland-timbers",
+      "name": "Portland Timbers",
+      "aliases": []
+    },
+    {
+      "id": "real-salt-lake",
+      "name": "Real Salt Lake",
+      "aliases": []
+    },
+    {
+      "id": "red-bull-new-york",
+      "name": "Red Bull New York",
+      "aliases": [
+        "New York Red Bulls"
+      ]
+    },
+    {
+      "id": "san-diego-fc",
+      "name": "San Diego FC",
+      "aliases": []
+    },
+    {
+      "id": "san-jose-earthquakes",
+      "name": "San Jose Earthquakes",
+      "aliases": []
+    },
+    {
+      "id": "seattle-sounders-fc",
+      "name": "Seattle Sounders FC",
+      "aliases": []
+    },
+    {
+      "id": "sporting-kansas-city",
+      "name": "Sporting Kansas City",
+      "aliases": []
+    },
+    {
+      "id": "st-louis-city-sc",
+      "name": "St. Louis CITY SC",
+      "aliases": [
+        "St. Louis City SC"
+      ]
+    },
+    {
+      "id": "toronto-fc",
+      "name": "Toronto FC",
+      "aliases": []
+    },
+    {
+      "id": "vancouver-whitecaps",
+      "name": "Vancouver Whitecaps",
+      "aliases": [
+        "Vancouver Whitecaps FC"
+      ]
+    }
+  ]
+}

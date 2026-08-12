@@ -1,0 +1,115 @@
+{
+  "contestId": "khl-gagarin-cup-26-27",
+  "participants": [
+    {
+      "id": "admiral-vladivostok",
+      "name": "Admiral Vladivostok",
+      "aliases": []
+    },
+    {
+      "id": "ak-bars-kazan",
+      "name": "Ak Bars Kazan",
+      "aliases": []
+    },
+    {
+      "id": "amur-khabarovsk",
+      "name": "Amur Khabarovsk",
+      "aliases": []
+    },
+    {
+      "id": "avangard-omsk",
+      "name": "Avangard Omsk",
+      "aliases": []
+    },
+    {
+      "id": "avtomobilist-yekaterinburg",
+      "name": "Avtomobilist Yekaterinburg",
+      "aliases": []
+    },
+    {
+      "id": "barys-astana",
+      "name": "Barys Astana",
+      "aliases": []
+    },
+    {
+      "id": "cska-moscow",
+      "name": "CSKA Moscow",
+      "aliases": []
+    },
+    {
+      "id": "dinamo-minsk",
+      "name": "Dinamo Minsk",
+      "aliases": []
+    },
+    {
+      "id": "dynamo-moscow",
+      "name": "Dynamo Moscow",
+      "aliases": []
+    },
+    {
+      "id": "hc-sochi",
+      "name": "HC Sochi",
+      "aliases": []
+    },
+    {
+      "id": "lada-tolyatti",
+      "name": "Lada Tolyatti",
+      "aliases": []
+    },
+    {
+      "id": "lokomotiv-yaroslavl",
+      "name": "Lokomotiv Yaroslavl",
+      "aliases": []
+    },
+    {
+      "id": "metallurg-magnitogorsk",
+      "name": "Metallurg Magnitogorsk",
+      "aliases": []
+    },
+    {
+      "id": "neftekhimik-nizhnekamsk",
+      "name": "Neftekhimik Nizhnekamsk",
+      "aliases": []
+    },
+    {
+      "id": "salavat-yulaev-ufa",
+      "name": "Salavat Yulaev Ufa",
+      "aliases": []
+    },
+    {
+      "id": "severstal-cherepovets",
+      "name": "Severstal Cherepovets",
+      "aliases": []
+    },
+    {
+      "id": "shanghai-dragons",
+      "name": "Shanghai Dragons",
+      "aliases": []
+    },
+    {
+      "id": "sibir-novosibirsk",
+      "name": "Sibir Novosibirsk",
+      "aliases": []
+    },
+    {
+      "id": "ska-saint-petersburg",
+      "name": "SKA Saint Petersburg",
+      "aliases": []
+    },
+    {
+      "id": "spartak-moscow",
+      "name": "Spartak Moscow",
+      "aliases": []
+    },
+    {
+      "id": "torpedo-nizhny-novgorod",
+      "name": "Torpedo Nizhny Novgorod",
+      "aliases": []
+    },
+    {
+      "id": "traktor-chelyabinsk",
+      "name": "Traktor Chelyabinsk",
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "kind": "prediction",
+  "contestId": "nba-26-27",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": "2026-08-03",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "oklahoma-city-thunder",
+      "probability": 24.03
+    },
+    {
+      "participantId": "san-antonio-spurs",
+      "probability": 22.09
+    },
+    {
+      "participantId": "new-york-knicks",
+      "probability": 7.78
+    },
+    {
+      "participantId": "philadelphia-76ers",
+      "probability": 7.43
+    },
+    {
+      "participantId": "boston-celtics",
+      "probability": 5.84
+    },
+    {
+      "participantId": "toronto-raptors",
+      "probability": 3.55
+    },
+    {
+      "participantId": "detroit-pistons",
+      "probability": 3.55
+    },
+    {
+      "participantId": "denver-nuggets",
+      "probability": 3.14
+    },
+    {
+      "participantId": "minnesota-timberwolves",
+      "probability": 2.92
+    },
+    {
+      "participantId": "cleveland-cavaliers",
+      "probability": 2.64
+    },
+    {
+      "participantId": "houston-rockets",
+      "probability": 2.4
+    },
+    {
+      "participantId": "miami-heat",
+      "probability": 1.99
+    },
+    {
+      "participantId": "orlando-magic",
+      "probability": 1.78
+    },
+    {
+      "participantId": "golden-state-warriors",
+      "probability": 1.6
+    },
+    {
+      "participantId": "indiana-pacers",
+      "probability": 1.6
+    },
+    {
+      "participantId": "los-angeles-lakers",
+      "probability": 1.6
+    },
+    {
+      "participantId": "atlanta-hawks",
+      "probability": 1.46
+    },
+    {
+      "participantId": "charlotte-hornets",
+      "probability": 1.01
+    },
+    {
+      "participantId": "portland-trail-blazers",
+      "probability": 1.01
+    },
+    {
+      "participantId": "phoenix-suns",
+      "probability": 0.65
+    },
+    {
+      "participantId": "utah-jazz",
+      "probability": 0.54
+    },
+    {
+      "participantId": "washington-wizards",
+      "probability": 0.36
+    },
+    {
+      "participantId": "dallas-mavericks",
+      "probability": 0.23
+    },
+    {
+      "participantId": "la-clippers",
+      "probability": 0.14
+    },
+    {
+      "participantId": "brooklyn-nets",
+      "probability": 0.11
+    },
+    {
+      "participantId": "milwaukee-bucks",
+      "probability": 0.11
+    },
+    {
+      "participantId": "new-orleans-pelicans",
+      "probability": 0.11
+    },
+    {
+      "participantId": "sacramento-kings",
+      "probability": 0.11
+    },
+    {
+      "participantId": "chicago-bulls",
+      "probability": 0.11
+    },
+    {
+      "participantId": "memphis-grizzlies",
+      "probability": 0.11
+    }
+  ]
+}

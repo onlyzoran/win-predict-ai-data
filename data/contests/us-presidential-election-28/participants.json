@@ -1,0 +1,670 @@
+{
+  "contestId": "us-presidential-election-28",
+  "participants": [
+    {
+      "id": "aaron-rodgers",
+      "name": "Aaron Rodgers",
+      "aliases": []
+    },
+    {
+      "id": "alex-rodriguez",
+      "name": "Alex Rodriguez",
+      "aliases": []
+    },
+    {
+      "id": "alexandria-ocasio-cortez",
+      "name": "Alexandria Ocasio-Cortez",
+      "aliases": []
+    },
+    {
+      "id": "amy-klobuchar",
+      "name": "Amy Klobuchar",
+      "aliases": []
+    },
+    {
+      "id": "andrew-cuomo",
+      "name": "Andrew Cuomo",
+      "aliases": []
+    },
+    {
+      "id": "andy-beshear",
+      "name": "Andy Beshear",
+      "aliases": []
+    },
+    {
+      "id": "anthony-pompliano",
+      "name": "Anthony Pompliano",
+      "aliases": []
+    },
+    {
+      "id": "barack-obama",
+      "name": "Barack Obama",
+      "aliases": []
+    },
+    {
+      "id": "ben-affleck",
+      "name": "Ben Affleck",
+      "aliases": []
+    },
+    {
+      "id": "ben-shapiro",
+      "name": "Ben Shapiro",
+      "aliases": []
+    },
+    {
+      "id": "beto-orourke",
+      "name": "Beto O'Rourke",
+      "aliases": []
+    },
+    {
+      "id": "beyoncé",
+      "name": "Beyoncé",
+      "aliases": []
+    },
+    {
+      "id": "bill-burr",
+      "name": "Bill Burr",
+      "aliases": []
+    },
+    {
+      "id": "bill-clinton",
+      "name": "Bill Clinton",
+      "aliases": []
+    },
+    {
+      "id": "bill-gates",
+      "name": "Bill Gates",
+      "aliases": []
+    },
+    {
+      "id": "bill-maher",
+      "name": "Bill Maher",
+      "aliases": []
+    },
+    {
+      "id": "brian-kemp",
+      "name": "Brian Kemp",
+      "aliases": []
+    },
+    {
+      "id": "charles-barkley",
+      "name": "Charles Barkley",
+      "aliases": []
+    },
+    {
+      "id": "chris-murphy",
+      "name": "Chris Murphy",
+      "aliases": []
+    },
+    {
+      "id": "chuck-norris",
+      "name": "Chuck Norris",
+      "aliases": []
+    },
+    {
+      "id": "clint-eastwood",
+      "name": "Clint Eastwood",
+      "aliases": []
+    },
+    {
+      "id": "conan-obrien",
+      "name": "Conan O'Brien",
+      "aliases": []
+    },
+    {
+      "id": "cory-booker",
+      "name": "Cory Booker",
+      "aliases": []
+    },
+    {
+      "id": "dan-gilbert",
+      "name": "Dan Gilbert",
+      "aliases": []
+    },
+    {
+      "id": "dana-white",
+      "name": "Dana White",
+      "aliases": []
+    },
+    {
+      "id": "david-blitzer",
+      "name": "David Blitzer",
+      "aliases": []
+    },
+    {
+      "id": "dean-phillips",
+      "name": "Dean Phillips",
+      "aliases": []
+    },
+    {
+      "id": "denzel-washington",
+      "name": "Denzel Washington",
+      "aliases": []
+    },
+    {
+      "id": "donald-trump",
+      "name": "Donald Trump",
+      "aliases": []
+    },
+    {
+      "id": "donald-trump-jr",
+      "name": "Donald Trump Jr.",
+      "aliases": []
+    },
+    {
+      "id": "doug-burgum",
+      "name": "Doug Burgum",
+      "aliases": []
+    },
+    {
+      "id": "dwayne-johnson",
+      "name": "Dwayne Johnson",
+      "aliases": []
+    },
+    {
+      "id": "elise-stefanik",
+      "name": "Elise Stefanik",
+      "aliases": []
+    },
+    {
+      "id": "elizabeth-warren",
+      "name": "Elizabeth Warren",
+      "aliases": []
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "aliases": []
+    },
+    {
+      "id": "eric-trump",
+      "name": "Eric Trump",
+      "aliases": []
+    },
+    {
+      "id": "erika-kirk",
+      "name": "Erika Kirk",
+      "aliases": []
+    },
+    {
+      "id": "gavin-newsom",
+      "name": "Gavin Newsom",
+      "aliases": []
+    },
+    {
+      "id": "george-clooney",
+      "name": "George Clooney",
+      "aliases": []
+    },
+    {
+      "id": "gina-raimondo",
+      "name": "Gina Raimondo",
+      "aliases": []
+    },
+    {
+      "id": "glenn-youngkin",
+      "name": "Glenn Youngkin",
+      "aliases": []
+    },
+    {
+      "id": "greg-abbott",
+      "name": "Greg Abbott",
+      "aliases": []
+    },
+    {
+      "id": "gregg-popovich",
+      "name": "Gregg Popovich",
+      "aliases": []
+    },
+    {
+      "id": "gretchen-whitmer",
+      "name": "Gretchen Whitmer",
+      "aliases": []
+    },
+    {
+      "id": "hakeem-jeffries",
+      "name": "Hakeem Jeffries",
+      "aliases": []
+    },
+    {
+      "id": "hillary-clinton",
+      "name": "Hillary Clinton",
+      "aliases": []
+    },
+    {
+      "id": "howard-stern",
+      "name": "Howard Stern",
+      "aliases": []
+    },
+    {
+      "id": "hunter-biden",
+      "name": "Hunter Biden",
+      "aliases": []
+    },
+    {
+      "id": "ivanka-trump",
+      "name": "Ivanka Trump",
+      "aliases": []
+    },
+    {
+      "id": "j-b-pritzker",
+      "name": "J. B. Pritzker",
+      "aliases": []
+    },
+    {
+      "id": "j-d-vance",
+      "name": "J. D. Vance",
+      "aliases": []
+    },
+    {
+      "id": "jamie-dimon",
+      "name": "Jamie Dimon",
+      "aliases": []
+    },
+    {
+      "id": "jeanie-buss",
+      "name": "Jeanie Buss",
+      "aliases": []
+    },
+    {
+      "id": "jeff-bezos",
+      "name": "Jeff Bezos",
+      "aliases": []
+    },
+    {
+      "id": "jennifer-lopez",
+      "name": "Jennifer Lopez",
+      "aliases": []
+    },
+    {
+      "id": "jill-biden",
+      "name": "Jill Biden",
+      "aliases": []
+    },
+    {
+      "id": "jimmy-kimmel",
+      "name": "Jimmy Kimmel",
+      "aliases": []
+    },
+    {
+      "id": "joe-biden",
+      "name": "Joe Biden",
+      "aliases": []
+    },
+    {
+      "id": "joe-rogan",
+      "name": "Joe Rogan",
+      "aliases": []
+    },
+    {
+      "id": "john-cena",
+      "name": "John Cena",
+      "aliases": []
+    },
+    {
+      "id": "john-fetterman",
+      "name": "John Fetterman",
+      "aliases": []
+    },
+    {
+      "id": "john-w-henry",
+      "name": "John W. Henry",
+      "aliases": []
+    },
+    {
+      "id": "johnny-depp",
+      "name": "Johnny Depp",
+      "aliases": []
+    },
+    {
+      "id": "jon-ossoff",
+      "name": "Jon Ossoff",
+      "aliases": []
+    },
+    {
+      "id": "jon-stewart",
+      "name": "Jon Stewart",
+      "aliases": []
+    },
+    {
+      "id": "josh-harris",
+      "name": "Josh Harris",
+      "aliases": []
+    },
+    {
+      "id": "josh-hawley",
+      "name": "Josh Hawley",
+      "aliases": []
+    },
+    {
+      "id": "josh-shapiro",
+      "name": "Josh Shapiro",
+      "aliases": []
+    },
+    {
+      "id": "kamala-harris",
+      "name": "Kamala Harris",
+      "aliases": []
+    },
+    {
+      "id": "kanye-west",
+      "name": "Kanye West",
+      "aliases": []
+    },
+    {
+      "id": "kash-patel",
+      "name": "Kash Patel",
+      "aliases": []
+    },
+    {
+      "id": "katie-britt",
+      "name": "Katie Britt",
+      "aliases": []
+    },
+    {
+      "id": "kristi-noem",
+      "name": "Kristi Noem",
+      "aliases": []
+    },
+    {
+      "id": "lara-trump",
+      "name": "Lara Trump",
+      "aliases": []
+    },
+    {
+      "id": "laura-loomer",
+      "name": "Laura Loomer",
+      "aliases": []
+    },
+    {
+      "id": "lebron-james",
+      "name": "Lebron James",
+      "aliases": []
+    },
+    {
+      "id": "leonardo-dicaprio",
+      "name": "Leonardo Dicaprio",
+      "aliases": []
+    },
+    {
+      "id": "marc-andreessen",
+      "name": "Marc Andreessen",
+      "aliases": []
+    },
+    {
+      "id": "marco-rubio",
+      "name": "Marco Rubio",
+      "aliases": []
+    },
+    {
+      "id": "mark-cuban",
+      "name": "Mark Cuban",
+      "aliases": []
+    },
+    {
+      "id": "mark-kelly",
+      "name": "Mark Kelly",
+      "aliases": []
+    },
+    {
+      "id": "matt-damon",
+      "name": "Matt Damon",
+      "aliases": []
+    },
+    {
+      "id": "matthew-mcconaughey",
+      "name": "Matthew McConaughey",
+      "aliases": []
+    },
+    {
+      "id": "meghan-markle",
+      "name": "Meghan Markle",
+      "aliases": []
+    },
+    {
+      "id": "mel-gibson",
+      "name": "Mel Gibson",
+      "aliases": []
+    },
+    {
+      "id": "michael-flynn",
+      "name": "Michael Flynn",
+      "aliases": []
+    },
+    {
+      "id": "michael-saylor",
+      "name": "Michael Saylor",
+      "aliases": []
+    },
+    {
+      "id": "michelle-obama",
+      "name": "Michelle Obama",
+      "aliases": []
+    },
+    {
+      "id": "mike-johnson",
+      "name": "Mike Johnson",
+      "aliases": []
+    },
+    {
+      "id": "mike-pompeo",
+      "name": "Mike Pompeo",
+      "aliases": []
+    },
+    {
+      "id": "neil-degrasse-tyson",
+      "name": "Neil Degrasse Tyson",
+      "aliases": []
+    },
+    {
+      "id": "nick-saban",
+      "name": "Nick Saban",
+      "aliases": []
+    },
+    {
+      "id": "nikki-haley",
+      "name": "Nikki Haley",
+      "aliases": []
+    },
+    {
+      "id": "oprah-winfrey",
+      "name": "Oprah Winfrey",
+      "aliases": []
+    },
+    {
+      "id": "pete-buttigieg",
+      "name": "Pete Buttigieg",
+      "aliases": []
+    },
+    {
+      "id": "pete-hegseth",
+      "name": "Pete Hegseth",
+      "aliases": []
+    },
+    {
+      "id": "peyton-manning",
+      "name": "Peyton Manning",
+      "aliases": []
+    },
+    {
+      "id": "phil-murphy",
+      "name": "Phil Murphy",
+      "aliases": []
+    },
+    {
+      "id": "rahm-emanuel",
+      "name": "Rahm Emanuel",
+      "aliases": []
+    },
+    {
+      "id": "rand-paul",
+      "name": "Rand Paul",
+      "aliases": []
+    },
+    {
+      "id": "raphael-warnock",
+      "name": "Raphael Warnock",
+      "aliases": []
+    },
+    {
+      "id": "ro-khanna",
+      "name": "Ro Khanna",
+      "aliases": []
+    },
+    {
+      "id": "robert-f-kennedy-jr",
+      "name": "Robert F. Kennedy Jr.",
+      "aliases": []
+    },
+    {
+      "id": "roger-goodell",
+      "name": "Roger Goodell",
+      "aliases": []
+    },
+    {
+      "id": "ron-desantis",
+      "name": "Ron DeSantis",
+      "aliases": []
+    },
+    {
+      "id": "roy-cooper",
+      "name": "Roy Cooper",
+      "aliases": []
+    },
+    {
+      "id": "samuel-l-jackson",
+      "name": "Samuel L. Jackson",
+      "aliases": []
+    },
+    {
+      "id": "sandra-bullock",
+      "name": "Sandra Bullock",
+      "aliases": []
+    },
+    {
+      "id": "shaquille-oneal",
+      "name": "Shaquille O'Neal",
+      "aliases": []
+    },
+    {
+      "id": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "aliases": []
+    },
+    {
+      "id": "spencer-cox",
+      "name": "Spencer Cox",
+      "aliases": []
+    },
+    {
+      "id": "stephen-a-smith",
+      "name": "Stephen A. Smith",
+      "aliases": []
+    },
+    {
+      "id": "stephen-colbert",
+      "name": "Stephen Colbert",
+      "aliases": []
+    },
+    {
+      "id": "stephen-curry",
+      "name": "Stephen Curry",
+      "aliases": []
+    },
+    {
+      "id": "steve-ballmer",
+      "name": "Steve Ballmer",
+      "aliases": []
+    },
+    {
+      "id": "steve-bannon",
+      "name": "Steve Bannon",
+      "aliases": []
+    },
+    {
+      "id": "steve-cohen",
+      "name": "Steve Cohen",
+      "aliases": []
+    },
+    {
+      "id": "steve-garvey",
+      "name": "Steve Garvey",
+      "aliases": []
+    },
+    {
+      "id": "steve-kerr",
+      "name": "Steve Kerr",
+      "aliases": []
+    },
+    {
+      "id": "taylor-swift",
+      "name": "Taylor Swift",
+      "aliases": []
+    },
+    {
+      "id": "ted-cruz",
+      "name": "Ted Cruz",
+      "aliases": []
+    },
+    {
+      "id": "ted-leonsis",
+      "name": "Ted Leonsis",
+      "aliases": []
+    },
+    {
+      "id": "terry-pegula",
+      "name": "Terry Pegula",
+      "aliases": []
+    },
+    {
+      "id": "thomas-massie",
+      "name": "Thomas Massie",
+      "aliases": []
+    },
+    {
+      "id": "tiger-woods",
+      "name": "Tiger Woods",
+      "aliases": []
+    },
+    {
+      "id": "tom-brady",
+      "name": "Tom Brady",
+      "aliases": []
+    },
+    {
+      "id": "tom-cotton",
+      "name": "Tom Cotton",
+      "aliases": []
+    },
+    {
+      "id": "tom-hanks",
+      "name": "Tom Hanks",
+      "aliases": []
+    },
+    {
+      "id": "tucker-carlson",
+      "name": "Tucker Carlson",
+      "aliases": []
+    },
+    {
+      "id": "tulsi-gabbard",
+      "name": "Tulsi Gabbard",
+      "aliases": []
+    },
+    {
+      "id": "vivek-ramaswamy",
+      "name": "Vivek Ramaswamy",
+      "aliases": []
+    },
+    {
+      "id": "wes-moore",
+      "name": "Wes Moore",
+      "aliases": []
+    },
+    {
+      "id": "whoopi-goldberg",
+      "name": "Whoopi Goldberg",
+      "aliases": []
+    }
+  ]
+}

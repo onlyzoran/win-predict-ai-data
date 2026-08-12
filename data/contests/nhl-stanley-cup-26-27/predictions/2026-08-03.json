@@ -1,0 +1,144 @@
+{
+  "kind": "prediction",
+  "contestId": "nhl-stanley-cup-26-27",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": "2026-08-03",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "florida-panthers",
+      "probability": 10.88
+    },
+    {
+      "participantId": "carolina-hurricanes",
+      "probability": 9.6
+    },
+    {
+      "participantId": "colorado-avalanche",
+      "probability": 9.07
+    },
+    {
+      "participantId": "edmonton-oilers",
+      "probability": 7.42
+    },
+    {
+      "participantId": "vegas-golden-knights",
+      "probability": 6.8
+    },
+    {
+      "participantId": "washington-capitals",
+      "probability": 6.28
+    },
+    {
+      "participantId": "tampa-bay-lightning",
+      "probability": 6.28
+    },
+    {
+      "participantId": "minnesota-wild",
+      "probability": 5.44
+    },
+    {
+      "participantId": "dallas-stars",
+      "probability": 4.3
+    },
+    {
+      "participantId": "new-jersey-devils",
+      "probability": 3.14
+    },
+    {
+      "participantId": "montreal-canadiens",
+      "probability": 3.14
+    },
+    {
+      "participantId": "utah-mammoth",
+      "probability": 2.92
+    },
+    {
+      "participantId": "los-angeles-kings",
+      "probability": 2.4
+    },
+    {
+      "participantId": "anaheim-ducks",
+      "probability": 2.4
+    },
+    {
+      "participantId": "toronto-maple-leafs",
+      "probability": 2.27
+    },
+    {
+      "participantId": "ottawa-senators",
+      "probability": 2.27
+    },
+    {
+      "participantId": "buffalo-sabres",
+      "probability": 1.99
+    },
+    {
+      "participantId": "san-jose-sharks",
+      "probability": 1.99
+    },
+    {
+      "participantId": "philadelphia-flyers",
+      "probability": 1.77
+    },
+    {
+      "participantId": "columbus-blue-jackets",
+      "probability": 1.46
+    },
+    {
+      "participantId": "new-york-rangers",
+      "probability": 1.24
+    },
+    {
+      "participantId": "pittsburgh-penguins",
+      "probability": 1.15
+    },
+    {
+      "participantId": "winnipeg-jets",
+      "probability": 1.01
+    },
+    {
+      "participantId": "new-york-islanders",
+      "probability": 0.81
+    },
+    {
+      "participantId": "st-louis-blues",
+      "probability": 0.81
+    },
+    {
+      "participantId": "detroit-red-wings",
+      "probability": 0.81
+    },
+    {
+      "participantId": "boston-bruins",
+      "probability": 0.65
+    },
+    {
+      "participantId": "nashville-predators",
+      "probability": 0.65
+    },
+    {
+      "participantId": "chicago-blackhawks",
+      "probability": 0.36
+    },
+    {
+      "participantId": "seattle-kraken",
+      "probability": 0.33
+    },
+    {
+      "participantId": "calgary-flames",
+      "probability": 0.2
+    },
+    {
+      "participantId": "vancouver-canucks",
+      "probability": 0.16
+    }
+  ]
+}

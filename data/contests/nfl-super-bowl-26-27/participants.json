@@ -1,0 +1,165 @@
+{
+  "contestId": "nfl-super-bowl-26-27",
+  "participants": [
+    {
+      "id": "arizona-cardinals",
+      "name": "Arizona Cardinals",
+      "aliases": []
+    },
+    {
+      "id": "atlanta-falcons",
+      "name": "Atlanta Falcons",
+      "aliases": []
+    },
+    {
+      "id": "baltimore-ravens",
+      "name": "Baltimore Ravens",
+      "aliases": []
+    },
+    {
+      "id": "buffalo-bills",
+      "name": "Buffalo Bills",
+      "aliases": []
+    },
+    {
+      "id": "carolina-panthers",
+      "name": "Carolina Panthers",
+      "aliases": []
+    },
+    {
+      "id": "chicago-bears",
+      "name": "Chicago Bears",
+      "aliases": []
+    },
+    {
+      "id": "cincinnati-bengals",
+      "name": "Cincinnati Bengals",
+      "aliases": []
+    },
+    {
+      "id": "cleveland-browns",
+      "name": "Cleveland Browns",
+      "aliases": []
+    },
+    {
+      "id": "dallas-cowboys",
+      "name": "Dallas Cowboys",
+      "aliases": []
+    },
+    {
+      "id": "denver-broncos",
+      "name": "Denver Broncos",
+      "aliases": []
+    },
+    {
+      "id": "detroit-lions",
+      "name": "Detroit Lions",
+      "aliases": []
+    },
+    {
+      "id": "green-bay-packers",
+      "name": "Green Bay Packers",
+      "aliases": []
+    },
+    {
+      "id": "houston-texans",
+      "name": "Houston Texans",
+      "aliases": []
+    },
+    {
+      "id": "indianapolis-colts",
+      "name": "Indianapolis Colts",
+      "aliases": []
+    },
+    {
+      "id": "jacksonville-jaguars",
+      "name": "Jacksonville Jaguars",
+      "aliases": []
+    },
+    {
+      "id": "kansas-city-chiefs",
+      "name": "Kansas City Chiefs",
+      "aliases": []
+    },
+    {
+      "id": "las-vegas-raiders",
+      "name": "Las Vegas Raiders",
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-chargers",
+      "name": "Los Angeles Chargers",
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-rams",
+      "name": "Los Angeles Rams",
+      "aliases": []
+    },
+    {
+      "id": "miami-dolphins",
+      "name": "Miami Dolphins",
+      "aliases": []
+    },
+    {
+      "id": "minnesota-vikings",
+      "name": "Minnesota Vikings",
+      "aliases": []
+    },
+    {
+      "id": "new-england-patriots",
+      "name": "New England Patriots",
+      "aliases": []
+    },
+    {
+      "id": "new-orleans-saints",
+      "name": "New Orleans Saints",
+      "aliases": []
+    },
+    {
+      "id": "new-york-giants",
+      "name": "New York Giants",
+      "aliases": []
+    },
+    {
+      "id": "new-york-jets",
+      "name": "New York Jets",
+      "aliases": []
+    },
+    {
+      "id": "philadelphia-eagles",
+      "name": "Philadelphia Eagles",
+      "aliases": []
+    },
+    {
+      "id": "pittsburgh-steelers",
+      "name": "Pittsburgh Steelers",
+      "aliases": []
+    },
+    {
+      "id": "san-francisco-49ers",
+      "name": "San Francisco 49ers",
+      "aliases": []
+    },
+    {
+      "id": "seattle-seahawks",
+      "name": "Seattle Seahawks",
+      "aliases": []
+    },
+    {
+      "id": "tampa-bay-buccaneers",
+      "name": "Tampa Bay Buccaneers",
+      "aliases": []
+    },
+    {
+      "id": "tennessee-titans",
+      "name": "Tennessee Titans",
+      "aliases": []
+    },
+    {
+      "id": "washington-commanders",
+      "name": "Washington Commanders",
+      "aliases": []
+    }
+  ]
+}

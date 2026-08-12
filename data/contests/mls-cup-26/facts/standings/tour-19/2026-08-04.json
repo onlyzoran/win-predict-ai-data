@@ -1,0 +1,313 @@
+{
+  "kind": "standings",
+  "contestId": "mls-cup-26",
+  "date": "2026-08-04",
+  "fetchedAt": "2026-08-04T08:38:22Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "nashville-sc",
+      "played": 18,
+      "wins": 12,
+      "draws": 4,
+      "losses": 2,
+      "points": 40,
+      "group": "Eastern Conference",
+      "rank": 1
+    },
+    {
+      "participantId": "inter-miami-cf",
+      "played": 18,
+      "wins": 11,
+      "draws": 5,
+      "losses": 2,
+      "points": 38,
+      "group": "Eastern Conference",
+      "rank": 2
+    },
+    {
+      "participantId": "vancouver-whitecaps",
+      "played": 17,
+      "wins": 10,
+      "draws": 4,
+      "losses": 3,
+      "points": 34,
+      "group": "Western Conference",
+      "rank": 3
+    },
+    {
+      "participantId": "lafc",
+      "played": 19,
+      "wins": 10,
+      "draws": 4,
+      "losses": 5,
+      "points": 34,
+      "group": "Western Conference",
+      "rank": 4
+    },
+    {
+      "participantId": "san-jose-earthquakes",
+      "played": 18,
+      "wins": 10,
+      "draws": 3,
+      "losses": 5,
+      "points": 33,
+      "group": "Western Conference",
+      "rank": 5
+    },
+    {
+      "participantId": "new-england-revolution",
+      "played": 17,
+      "wins": 9,
+      "draws": 3,
+      "losses": 5,
+      "points": 30,
+      "group": "Eastern Conference",
+      "rank": 6
+    },
+    {
+      "participantId": "chicago-fire-fc",
+      "played": 17,
+      "wins": 9,
+      "draws": 2,
+      "losses": 6,
+      "points": 29,
+      "group": "Eastern Conference",
+      "rank": 7
+    },
+    {
+      "participantId": "houston-dynamo-fc",
+      "played": 17,
+      "wins": 9,
+      "draws": 2,
+      "losses": 6,
+      "points": 29,
+      "group": "Western Conference",
+      "rank": 8
+    },
+    {
+      "participantId": "real-salt-lake",
+      "played": 17,
+      "wins": 8,
+      "draws": 3,
+      "losses": 6,
+      "points": 27,
+      "group": "Western Conference",
+      "rank": 9
+    },
+    {
+      "participantId": "fc-dallas",
+      "played": 18,
+      "wins": 7,
+      "draws": 6,
+      "losses": 5,
+      "points": 27,
+      "group": "Western Conference",
+      "rank": 10
+    },
+    {
+      "participantId": "new-york-city-fc",
+      "played": 18,
+      "wins": 7,
+      "draws": 5,
+      "losses": 6,
+      "points": 26,
+      "group": "Eastern Conference",
+      "rank": 11
+    },
+    {
+      "participantId": "fc-cincinnati",
+      "played": 18,
+      "wins": 7,
+      "draws": 5,
+      "losses": 6,
+      "points": 26,
+      "group": "Eastern Conference",
+      "rank": 12
+    },
+    {
+      "participantId": "st-louis-city-sc",
+      "played": 18,
+      "wins": 7,
+      "draws": 5,
+      "losses": 6,
+      "points": 26,
+      "group": "Western Conference",
+      "rank": 13
+    },
+    {
+      "participantId": "red-bull-new-york",
+      "played": 18,
+      "wins": 7,
+      "draws": 4,
+      "losses": 7,
+      "points": 25,
+      "group": "Eastern Conference",
+      "rank": 14
+    },
+    {
+      "participantId": "charlotte-fc",
+      "played": 18,
+      "wins": 7,
+      "draws": 4,
+      "losses": 7,
+      "points": 25,
+      "group": "Eastern Conference",
+      "rank": 15
+    },
+    {
+      "participantId": "seattle-sounders-fc",
+      "played": 17,
+      "wins": 7,
+      "draws": 3,
+      "losses": 7,
+      "points": 24,
+      "group": "Western Conference",
+      "rank": 16
+    },
+    {
+      "participantId": "portland-timbers",
+      "played": 18,
+      "wins": 7,
+      "draws": 3,
+      "losses": 8,
+      "points": 24,
+      "group": "Western Conference",
+      "rank": 17
+    },
+    {
+      "participantId": "minnesota-united-fc",
+      "played": 18,
+      "wins": 6,
+      "draws": 6,
+      "losses": 6,
+      "points": 24,
+      "group": "Western Conference",
+      "rank": 18
+    },
+    {
+      "participantId": "dc-united",
+      "played": 18,
+      "wins": 5,
+      "draws": 8,
+      "losses": 5,
+      "points": 23,
+      "group": "Eastern Conference",
+      "rank": 19
+    },
+    {
+      "participantId": "colorado-rapids",
+      "played": 18,
+      "wins": 7,
+      "draws": 1,
+      "losses": 10,
+      "points": 22,
+      "group": "Western Conference",
+      "rank": 20
+    },
+    {
+      "participantId": "la-galaxy",
+      "played": 19,
+      "wins": 5,
+      "draws": 7,
+      "losses": 7,
+      "points": 22,
+      "group": "Western Conference",
+      "rank": 21
+    },
+    {
+      "participantId": "san-diego-fc",
+      "played": 18,
+      "wins": 5,
+      "draws": 6,
+      "losses": 7,
+      "points": 21,
+      "group": "Western Conference",
+      "rank": 22
+    },
+    {
+      "participantId": "orlando-city-sc",
+      "played": 18,
+      "wins": 6,
+      "draws": 2,
+      "losses": 10,
+      "points": 20,
+      "group": "Eastern Conference",
+      "rank": 23
+    },
+    {
+      "participantId": "columbus-crew",
+      "played": 18,
+      "wins": 5,
+      "draws": 5,
+      "losses": 8,
+      "points": 20,
+      "group": "Eastern Conference",
+      "rank": 24
+    },
+    {
+      "participantId": "austin-fc",
+      "played": 18,
+      "wins": 4,
+      "draws": 5,
+      "losses": 9,
+      "points": 17,
+      "group": "Western Conference",
+      "rank": 25
+    },
+    {
+      "participantId": "toronto-fc",
+      "played": 18,
+      "wins": 3,
+      "draws": 8,
+      "losses": 7,
+      "points": 17,
+      "group": "Eastern Conference",
+      "rank": 26
+    },
+    {
+      "participantId": "cf-montréal",
+      "played": 18,
+      "wins": 4,
+      "draws": 4,
+      "losses": 10,
+      "points": 16,
+      "group": "Eastern Conference",
+      "rank": 27
+    },
+    {
+      "participantId": "philadelphia-union",
+      "played": 18,
+      "wins": 4,
+      "draws": 4,
+      "losses": 10,
+      "points": 16,
+      "group": "Eastern Conference",
+      "rank": 28
+    },
+    {
+      "participantId": "sporting-kansas-city",
+      "played": 18,
+      "wins": 4,
+      "draws": 2,
+      "losses": 12,
+      "points": 14,
+      "group": "Western Conference",
+      "rank": 29
+    },
+    {
+      "participantId": "atlanta-united-fc",
+      "played": 18,
+      "wins": 3,
+      "draws": 3,
+      "losses": 12,
+      "points": 12,
+      "group": "Eastern Conference",
+      "rank": 30
+    }
+  ],
+  "tour": 19,
+  "tourStatus": "in_progress"
+}

@@ -1,0 +1,96 @@
+{
+  "kind": "prediction",
+  "contestId": "la-liga-26-27",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 0,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "barcelona",
+      "probability": 49.8
+    },
+    {
+      "participantId": "real-madrid",
+      "probability": 43.1
+    },
+    {
+      "participantId": "atlético-madrid",
+      "probability": 4.36
+    },
+    {
+      "participantId": "real-betis",
+      "probability": 0.34
+    },
+    {
+      "participantId": "alavés",
+      "probability": 0.15
+    },
+    {
+      "participantId": "athletic-club",
+      "probability": 0.15
+    },
+    {
+      "participantId": "celta-vigo",
+      "probability": 0.15
+    },
+    {
+      "participantId": "deportivo-la-coruña",
+      "probability": 0.15
+    },
+    {
+      "participantId": "elche",
+      "probability": 0.15
+    },
+    {
+      "participantId": "espanyol",
+      "probability": 0.15
+    },
+    {
+      "participantId": "getafe",
+      "probability": 0.15
+    },
+    {
+      "participantId": "levante",
+      "probability": 0.15
+    },
+    {
+      "participantId": "málaga",
+      "probability": 0.15
+    },
+    {
+      "participantId": "osasuna",
+      "probability": 0.15
+    },
+    {
+      "participantId": "racing-santander",
+      "probability": 0.15
+    },
+    {
+      "participantId": "rayo-vallecano",
+      "probability": 0.15
+    },
+    {
+      "participantId": "real-sociedad",
+      "probability": 0.15
+    },
+    {
+      "participantId": "sevilla",
+      "probability": 0.15
+    },
+    {
+      "participantId": "valencia",
+      "probability": 0.15
+    },
+    {
+      "participantId": "villarreal",
+      "probability": 0.15
+    }
+  ]
+}

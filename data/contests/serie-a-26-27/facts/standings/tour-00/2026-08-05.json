@@ -1,0 +1,173 @@
+{
+  "kind": "standings",
+  "contestId": "serie-a-26-27",
+  "date": "2026-08-05",
+  "fetchedAt": "2026-08-05T08:37:19Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "ac-milan",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 1
+    },
+    {
+      "participantId": "atalanta",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 2
+    },
+    {
+      "participantId": "bologna",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 3
+    },
+    {
+      "participantId": "cagliari",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 4
+    },
+    {
+      "participantId": "como",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 5
+    },
+    {
+      "participantId": "fiorentina",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 6
+    },
+    {
+      "participantId": "frosinone",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 7
+    },
+    {
+      "participantId": "genoa",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "internazionale",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "juventus",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "lazio",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 11
+    },
+    {
+      "participantId": "lecce",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 12
+    },
+    {
+      "participantId": "monza",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 13
+    },
+    {
+      "participantId": "napoli",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "participantId": "parma",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 15
+    },
+    {
+      "participantId": "as-roma",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 16
+    },
+    {
+      "participantId": "sassuolo",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 17
+    },
+    {
+      "participantId": "torino",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 18
+    },
+    {
+      "participantId": "udinese",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 19
+    },
+    {
+      "participantId": "venezia",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 20
+    }
+  ],
+  "tour": 0,
+  "tourStatus": "preseason"
+}

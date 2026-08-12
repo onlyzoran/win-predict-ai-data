@@ -1,0 +1,62 @@
+{
+  "contestId": "f1-constructors-26",
+  "participants": [
+    {
+      "id": "alpine",
+      "name": "Alpine",
+      "aliases": []
+    },
+    {
+      "id": "aston-martin",
+      "name": "Aston Martin",
+      "aliases": []
+    },
+    {
+      "id": "audi",
+      "name": "Audi",
+      "aliases": []
+    },
+    {
+      "id": "cadillac",
+      "name": "Cadillac",
+      "aliases": []
+    },
+    {
+      "id": "ferrari",
+      "name": "Ferrari",
+      "aliases": []
+    },
+    {
+      "id": "haas",
+      "name": "Haas",
+      "aliases": []
+    },
+    {
+      "id": "mclaren",
+      "name": "McLaren",
+      "aliases": []
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes",
+      "aliases": []
+    },
+    {
+      "id": "racing-bulls",
+      "name": "Racing Bulls",
+      "aliases": []
+    },
+    {
+      "id": "red-bull",
+      "name": "Red Bull",
+      "aliases": [
+        "Red Bull Racing"
+      ]
+    },
+    {
+      "id": "williams",
+      "name": "Williams",
+      "aliases": []
+    }
+  ]
+}

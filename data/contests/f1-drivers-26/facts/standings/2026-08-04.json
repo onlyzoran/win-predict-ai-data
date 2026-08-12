@@ -1,0 +1,121 @@
+{
+  "kind": "standings",
+  "contestId": "f1-drivers-26",
+  "date": "2026-08-04",
+  "fetchedAt": "2026-08-04T08:38:24Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "kimi-antonelli",
+      "points": 219,
+      "rank": 1
+    },
+    {
+      "participantId": "lewis-hamilton",
+      "points": 169,
+      "rank": 2
+    },
+    {
+      "participantId": "george-russell",
+      "points": 160,
+      "rank": 3
+    },
+    {
+      "participantId": "charles-leclerc",
+      "points": 138,
+      "rank": 4
+    },
+    {
+      "participantId": "lando-norris",
+      "points": 128,
+      "rank": 5
+    },
+    {
+      "participantId": "max-verstappen",
+      "points": 109,
+      "rank": 6
+    },
+    {
+      "participantId": "oscar-piastri",
+      "points": 92,
+      "rank": 7
+    },
+    {
+      "participantId": "isack-hadjar",
+      "points": 68,
+      "rank": 8
+    },
+    {
+      "participantId": "liam-lawson",
+      "points": 43,
+      "rank": 9
+    },
+    {
+      "participantId": "pierre-gasly",
+      "points": 42,
+      "rank": 10
+    },
+    {
+      "participantId": "arvid-lindblad",
+      "points": 23,
+      "rank": 11
+    },
+    {
+      "participantId": "franco-colapinto",
+      "points": 19,
+      "rank": 12
+    },
+    {
+      "participantId": "oliver-bearman",
+      "points": 18,
+      "rank": 13
+    },
+    {
+      "participantId": "gabriel-bortoleto",
+      "points": 10,
+      "rank": 14
+    },
+    {
+      "participantId": "carlos-sainz",
+      "points": 6,
+      "rank": 15
+    },
+    {
+      "participantId": "alexander-albon",
+      "points": 5,
+      "rank": 16
+    },
+    {
+      "participantId": "esteban-ocon",
+      "points": 3,
+      "rank": 17
+    },
+    {
+      "participantId": "nico-hülkenberg",
+      "points": 2,
+      "rank": 18
+    },
+    {
+      "participantId": "fernando-alonso",
+      "points": 1,
+      "rank": 19
+    },
+    {
+      "participantId": "lance-stroll",
+      "points": 0,
+      "rank": 20
+    },
+    {
+      "participantId": "valtteri-bottas",
+      "points": 0,
+      "rank": 21
+    },
+    {
+      "participantId": "sergio-pérez",
+      "points": 0,
+      "rank": 22
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "kind": "standings",
+  "contestId": "la-liga-26-27",
+  "date": "2026-08-04",
+  "fetchedAt": "2026-08-04T08:38:21Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "alavés",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 1
+    },
+    {
+      "participantId": "athletic-club",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 2
+    },
+    {
+      "participantId": "atlético-madrid",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 3
+    },
+    {
+      "participantId": "barcelona",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 4
+    },
+    {
+      "participantId": "celta-vigo",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 5
+    },
+    {
+      "participantId": "deportivo-la-coruña",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 6
+    },
+    {
+      "participantId": "elche",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 7
+    },
+    {
+      "participantId": "espanyol",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "getafe",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "levante",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "málaga",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 11
+    },
+    {
+      "participantId": "osasuna",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 12
+    },
+    {
+      "participantId": "racing-santander",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 13
+    },
+    {
+      "participantId": "rayo-vallecano",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "participantId": "real-betis",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 15
+    },
+    {
+      "participantId": "real-madrid",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 16
+    },
+    {
+      "participantId": "real-sociedad",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 17
+    },
+    {
+      "participantId": "sevilla",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 18
+    },
+    {
+      "participantId": "valencia",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 19
+    },
+    {
+      "participantId": "villarreal",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 20
+    }
+  ],
+  "tour": 0,
+  "tourStatus": "preseason"
+}

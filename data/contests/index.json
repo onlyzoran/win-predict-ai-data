@@ -1,6 +1,213 @@
 {
-  "updatedAt": "2026-08-12T07:47:20Z",
+  "updatedAt": "2026-08-12T07:52:33Z",
   "contests": {
+    "bundesliga-26-27": {
+      "title": "Bundesliga",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": 0,
+        "latestFile": "bundesliga-26-27/facts/latest.json",
+        "indexFile": "bundesliga-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "bundesliga-26-27/predictions/latest.json",
+        "indexFile": "bundesliga-26-27/predictions/index.json"
+      }
+    },
+    "epl-26-27": {
+      "title": "EPL",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": 0,
+        "latestFile": "epl-26-27/facts/latest.json",
+        "indexFile": "epl-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "epl-26-27/predictions/latest.json",
+        "indexFile": "epl-26-27/predictions/index.json"
+      }
+    },
+    "f1-constructors-26": {
+      "title": "F1 Constructors",
+      "category": "sport",
+      "sport": "motorsport",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 8,
+        "first": "2026-08-04",
+        "last": "2026-08-11",
+        "latestTour": null,
+        "latestFile": "f1-constructors-26/facts/latest.json",
+        "indexFile": "f1-constructors-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "f1-constructors-26/predictions/latest.json",
+        "indexFile": "f1-constructors-26/predictions/index.json"
+      }
+    },
+    "f1-drivers-26": {
+      "title": "F1 Drivers",
+      "category": "sport",
+      "sport": "motorsport",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 8,
+        "first": "2026-08-04",
+        "last": "2026-08-11",
+        "latestTour": null,
+        "latestFile": "f1-drivers-26/facts/latest.json",
+        "indexFile": "f1-drivers-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "f1-drivers-26/predictions/latest.json",
+        "indexFile": "f1-drivers-26/predictions/index.json"
+      }
+    },
+    "golf-masters-27": {
+      "title": "Masters",
+      "category": "sport",
+      "sport": "golf",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "golf-masters-27/predictions/latest.json",
+        "indexFile": "golf-masters-27/predictions/index.json"
+      }
+    },
+    "golf-pga-championship-27": {
+      "title": "PGA",
+      "category": "sport",
+      "sport": "golf",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "golf-pga-championship-27/predictions/latest.json",
+        "indexFile": "golf-pga-championship-27/predictions/index.json"
+      }
+    },
+    "golf-the-open-27": {
+      "title": "The Open",
+      "category": "sport",
+      "sport": "golf",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "golf-the-open-27/predictions/latest.json",
+        "indexFile": "golf-the-open-27/predictions/index.json"
+      }
+    },
+    "golf-us-open-27": {
+      "title": "US Open",
+      "category": "sport",
+      "sport": "golf",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "golf-us-open-27/predictions/latest.json",
+        "indexFile": "golf-us-open-27/predictions/index.json"
+      }
+    },
+    "khl-gagarin-cup-26-27": {
+      "title": "KHL Gagarin Cup",
+      "category": "sport",
+      "sport": "hockey",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "khl-gagarin-cup-26-27/predictions/latest.json",
+        "indexFile": "khl-gagarin-cup-26-27/predictions/index.json"
+      }
+    },
+    "la-liga-26-27": {
+      "title": "La Liga",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": 0,
+        "latestFile": "la-liga-26-27/facts/latest.json",
+        "indexFile": "la-liga-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "la-liga-26-27/predictions/latest.json",
+        "indexFile": "la-liga-26-27/predictions/index.json"
+      }
+    },
+    "ligue-1-26-27": {
+      "title": "Ligue 1",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": 0,
+        "latestFile": "ligue-1-26-27/facts/latest.json",
+        "indexFile": "ligue-1-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "ligue-1-26-27/predictions/latest.json",
+        "indexFile": "ligue-1-26-27/predictions/index.json"
+      }
+    },
     "mlb-world-series-26": {
       "title": "MLB World Series",
       "category": "sport",
@@ -23,6 +230,131 @@
         "indexFile": "mlb-world-series-26/predictions/index.json"
       }
     },
+    "mls-cup-26": {
+      "title": "MLS Cup",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": 19,
+        "latestFile": "mls-cup-26/facts/latest.json",
+        "indexFile": "mls-cup-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "mls-cup-26/predictions/latest.json",
+        "indexFile": "mls-cup-26/predictions/index.json"
+      }
+    },
+    "nba-26-27": {
+      "title": "NBA",
+      "category": "sport",
+      "sport": "basketball",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-08-03",
+        "last": "2026-08-03",
+        "latestTour": null,
+        "latestFile": "nba-26-27/facts/latest.json",
+        "indexFile": "nba-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-03",
+        "last": "2026-08-03",
+        "latestFile": "nba-26-27/predictions/latest.json",
+        "indexFile": "nba-26-27/predictions/index.json"
+      }
+    },
+    "ncaab-championship-26-27": {
+      "title": "NCAAB",
+      "category": "sport",
+      "sport": "basketball",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "ncaab-championship-26-27/predictions/latest.json",
+        "indexFile": "ncaab-championship-26-27/predictions/index.json"
+      }
+    },
+    "ncaaf-championship-26-27": {
+      "title": "NCAAF",
+      "category": "sport",
+      "sport": "americanFootball",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 7,
+        "first": "2026-08-05",
+        "last": "2026-08-11",
+        "latestTour": null,
+        "latestFile": "ncaaf-championship-26-27/facts/latest.json",
+        "indexFile": "ncaaf-championship-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "ncaaf-championship-26-27/predictions/latest.json",
+        "indexFile": "ncaaf-championship-26-27/predictions/index.json"
+      }
+    },
+    "nfl-super-bowl-26-27": {
+      "title": "NFL Super Bowl",
+      "category": "sport",
+      "sport": "americanFootball",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": null,
+        "latestFile": "nfl-super-bowl-26-27/facts/latest.json",
+        "indexFile": "nfl-super-bowl-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "nfl-super-bowl-26-27/predictions/latest.json",
+        "indexFile": "nfl-super-bowl-26-27/predictions/index.json"
+      }
+    },
+    "nhl-stanley-cup-26-27": {
+      "title": "NHL Stanley Cup",
+      "category": "sport",
+      "sport": "hockey",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-08-03",
+        "last": "2026-08-03",
+        "latestTour": null,
+        "latestFile": "nhl-stanley-cup-26-27/facts/latest.json",
+        "indexFile": "nhl-stanley-cup-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-03",
+        "last": "2026-08-03",
+        "latestFile": "nhl-stanley-cup-26-27/predictions/latest.json",
+        "indexFile": "nhl-stanley-cup-26-27/predictions/index.json"
+      }
+    },
     "rpl-26-27": {
       "title": "RPL",
       "category": "sport",
@@ -43,6 +375,58 @@
         "last": "2026-08-12",
         "latestFile": "rpl-26-27/predictions/latest.json",
         "indexFile": "rpl-26-27/predictions/index.json"
+      }
+    },
+    "serie-a-26-27": {
+      "title": "Serie A",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 9,
+        "first": "2026-08-03",
+        "last": "2026-08-11",
+        "latestTour": 0,
+        "latestFile": "serie-a-26-27/facts/latest.json",
+        "indexFile": "serie-a-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-11",
+        "last": "2026-08-11",
+        "latestFile": "serie-a-26-27/predictions/latest.json",
+        "indexFile": "serie-a-26-27/predictions/index.json"
+      }
+    },
+    "ucl-26-27": {
+      "title": "UCL",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "ucl-26-27/predictions/latest.json",
+        "indexFile": "ucl-26-27/predictions/index.json"
+      }
+    },
+    "us-presidential-election-28": {
+      "title": "US Presidential Election",
+      "category": "politics",
+      "sport": "politics",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 1,
+        "first": "2026-08-12",
+        "last": "2026-08-12",
+        "latestFile": "us-presidential-election-28/predictions/latest.json",
+        "indexFile": "us-presidential-election-28/predictions/index.json"
       }
     }
   }

@@ -1,0 +1,14 @@
+{
+  "id": "golf-us-open-27",
+  "title": "US Open",
+  "fullTitle": "United States Open Championship",
+  "category": "sport",
+  "sport": "golf",
+  "target": "champion",
+  "season": {
+    "start": "2027-06-17",
+    "end": "2027-06-20"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

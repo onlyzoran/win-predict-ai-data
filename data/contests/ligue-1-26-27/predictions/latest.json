@@ -1,0 +1,88 @@
+{
+  "kind": "prediction",
+  "contestId": "ligue-1-26-27",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 0,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "paris-saint-germain",
+      "probability": 81.84
+    },
+    {
+      "participantId": "marseille",
+      "probability": 4.68
+    },
+    {
+      "participantId": "angers",
+      "probability": 1.84
+    },
+    {
+      "participantId": "lens",
+      "probability": 1.66
+    },
+    {
+      "participantId": "lyon",
+      "probability": 1.61
+    },
+    {
+      "participantId": "lille",
+      "probability": 1.56
+    },
+    {
+      "participantId": "as-monaco",
+      "probability": 1.42
+    },
+    {
+      "participantId": "stade-rennais",
+      "probability": 1.09
+    },
+    {
+      "participantId": "paris-fc",
+      "probability": 0.95
+    },
+    {
+      "participantId": "brest",
+      "probability": 0.57
+    },
+    {
+      "participantId": "aj-auxerre",
+      "probability": 0.52
+    },
+    {
+      "participantId": "le-havre-ac",
+      "probability": 0.52
+    },
+    {
+      "participantId": "lorient",
+      "probability": 0.33
+    },
+    {
+      "participantId": "troyes",
+      "probability": 0.33
+    },
+    {
+      "participantId": "le-mans",
+      "probability": 0.28
+    },
+    {
+      "participantId": "strasbourg",
+      "probability": 0.28
+    },
+    {
+      "participantId": "toulouse",
+      "probability": 0.28
+    },
+    {
+      "participantId": "nice",
+      "probability": 0.24
+    }
+  ]
+}

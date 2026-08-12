@@ -1,0 +1,150 @@
+{
+  "contestId": "ucl-26-27",
+  "participants": [
+    {
+      "id": "arsenal",
+      "name": "Arsenal",
+      "aliases": []
+    },
+    {
+      "id": "aston-villa",
+      "name": "Aston Villa",
+      "aliases": []
+    },
+    {
+      "id": "atlético-madrid",
+      "name": "Atlético Madrid",
+      "aliases": []
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "aliases": []
+    },
+    {
+      "id": "bayern-munich",
+      "name": "Bayern Munich",
+      "aliases": []
+    },
+    {
+      "id": "borussia-dortmund",
+      "name": "Borussia Dortmund",
+      "aliases": []
+    },
+    {
+      "id": "club-brugge",
+      "name": "Club Brugge",
+      "aliases": []
+    },
+    {
+      "id": "como",
+      "name": "Como",
+      "aliases": []
+    },
+    {
+      "id": "feyenoord",
+      "name": "Feyenoord",
+      "aliases": []
+    },
+    {
+      "id": "galatasaray",
+      "name": "Galatasaray",
+      "aliases": []
+    },
+    {
+      "id": "inter-milan",
+      "name": "Inter Milan",
+      "aliases": []
+    },
+    {
+      "id": "lens",
+      "name": "Lens",
+      "aliases": []
+    },
+    {
+      "id": "lille",
+      "name": "Lille",
+      "aliases": []
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "aliases": []
+    },
+    {
+      "id": "manchester-city",
+      "name": "Manchester City",
+      "aliases": []
+    },
+    {
+      "id": "manchester-united",
+      "name": "Manchester United",
+      "aliases": []
+    },
+    {
+      "id": "napoli",
+      "name": "Napoli",
+      "aliases": []
+    },
+    {
+      "id": "paris-saint-germain",
+      "name": "Paris Saint-Germain",
+      "aliases": []
+    },
+    {
+      "id": "porto",
+      "name": "Porto",
+      "aliases": []
+    },
+    {
+      "id": "psv-eindhoven",
+      "name": "PSV Eindhoven",
+      "aliases": []
+    },
+    {
+      "id": "rb-leipzig",
+      "name": "RB Leipzig",
+      "aliases": []
+    },
+    {
+      "id": "real-betis",
+      "name": "Real Betis",
+      "aliases": []
+    },
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "aliases": []
+    },
+    {
+      "id": "roma",
+      "name": "Roma",
+      "aliases": []
+    },
+    {
+      "id": "shakhtar-donetsk",
+      "name": "Shakhtar Donetsk",
+      "aliases": []
+    },
+    {
+      "id": "slavia-prague",
+      "name": "Slavia Prague",
+      "aliases": []
+    },
+    {
+      "id": "sporting-cp",
+      "name": "Sporting CP",
+      "aliases": []
+    },
+    {
+      "id": "vfb-stuttgart",
+      "name": "VfB Stuttgart",
+      "aliases": []
+    },
+    {
+      "id": "villarreal",
+      "name": "Villarreal",
+      "aliases": []
+    }
+  ]
+}

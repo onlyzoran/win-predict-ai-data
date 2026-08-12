@@ -1,0 +1,19 @@
+{
+  "id": "f1-constructors-26",
+  "title": "F1 Constructors",
+  "fullTitle": "Formula 1 Constructors' Championship",
+  "category": "sport",
+  "sport": "motorsport",
+  "target": "champion",
+  "season": {
+    "start": "2026-03-06",
+    "end": "2026-12-06"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "golf-pga-championship-27",
+  "title": "PGA",
+  "fullTitle": "PGA Championship",
+  "category": "sport",
+  "sport": "golf",
+  "target": "champion",
+  "season": {
+    "start": "2027-05-13",
+    "end": "2027-05-16"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

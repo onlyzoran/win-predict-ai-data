@@ -1,0 +1,186 @@
+{
+  "kind": "standings",
+  "contestId": "ncaaf-championship-26-27",
+  "date": "2026-08-07",
+  "fetchedAt": "2026-08-07T07:17:10Z",
+  "provider": "espn",
+  "metric": "rank",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "ohio-state-buckeyes",
+      "rank": 1,
+      "wins": 0,
+      "losses": 0,
+      "points": 1741.0
+    },
+    {
+      "participantId": "oregon-ducks",
+      "rank": 2,
+      "wins": 0,
+      "losses": 0,
+      "points": 1637.0
+    },
+    {
+      "participantId": "georgia-bulldogs",
+      "rank": 3,
+      "wins": 0,
+      "losses": 0,
+      "points": 1591.0
+    },
+    {
+      "participantId": "texas-longhorns",
+      "rank": 4,
+      "wins": 0,
+      "losses": 0,
+      "points": 1544.0
+    },
+    {
+      "participantId": "notre-dame-fighting-irish",
+      "rank": 5,
+      "wins": 0,
+      "losses": 0,
+      "points": 1524.0
+    },
+    {
+      "participantId": "indiana-hoosiers",
+      "rank": 6,
+      "wins": 0,
+      "losses": 0,
+      "points": 1522.0
+    },
+    {
+      "participantId": "miami-hurricanes",
+      "rank": 7,
+      "wins": 0,
+      "losses": 0,
+      "points": 1409.0
+    },
+    {
+      "participantId": "texas-a-and-m-aggies",
+      "rank": 8,
+      "wins": 0,
+      "losses": 0,
+      "points": 1174.0
+    },
+    {
+      "participantId": "oklahoma-sooners",
+      "rank": 9,
+      "wins": 0,
+      "losses": 0,
+      "points": 1104.0
+    },
+    {
+      "participantId": "ole-miss-rebels",
+      "rank": 10,
+      "wins": 0,
+      "losses": 0,
+      "points": 1096.0
+    },
+    {
+      "participantId": "alabama-crimson-tide",
+      "rank": 11,
+      "wins": 0,
+      "losses": 0,
+      "points": 1050.0
+    },
+    {
+      "participantId": "texas-tech-red-raiders",
+      "rank": 12,
+      "wins": 0,
+      "losses": 0,
+      "points": 1034.0
+    },
+    {
+      "participantId": "lsu-tigers",
+      "rank": 13,
+      "wins": 0,
+      "losses": 0,
+      "points": 951.0
+    },
+    {
+      "participantId": "usc-trojans",
+      "rank": 14,
+      "wins": 0,
+      "losses": 0,
+      "points": 838.0
+    },
+    {
+      "participantId": "byu-cougars",
+      "rank": 15,
+      "wins": 0,
+      "losses": 0,
+      "points": 781.0
+    },
+    {
+      "participantId": "michigan-wolverines",
+      "rank": 16,
+      "wins": 0,
+      "losses": 0,
+      "points": 719.0
+    },
+    {
+      "participantId": "penn-state-nittany-lions",
+      "rank": 17,
+      "wins": 0,
+      "losses": 0,
+      "points": 463.0
+    },
+    {
+      "participantId": "tennessee-volunteers",
+      "rank": 18,
+      "wins": 0,
+      "losses": 0,
+      "points": 428.0
+    },
+    {
+      "participantId": "washington-huskies",
+      "rank": 19,
+      "wins": 0,
+      "losses": 0,
+      "points": 406.0
+    },
+    {
+      "participantId": "smu-mustangs",
+      "rank": 20,
+      "wins": 0,
+      "losses": 0,
+      "points": 378.0
+    },
+    {
+      "participantId": "utah-utes",
+      "rank": 21,
+      "wins": 0,
+      "losses": 0,
+      "points": 313.0
+    },
+    {
+      "participantId": "iowa-hawkeyes",
+      "rank": 22,
+      "wins": 0,
+      "losses": 0,
+      "points": 291.0
+    },
+    {
+      "participantId": "clemson-tigers",
+      "rank": 23,
+      "wins": 0,
+      "losses": 0,
+      "points": 235.0
+    },
+    {
+      "participantId": "houston-cougars",
+      "rank": 24,
+      "wins": 0,
+      "losses": 0,
+      "points": 194.0
+    },
+    {
+      "participantId": "missouri-tigers",
+      "rank": 25,
+      "wins": 0,
+      "losses": 0,
+      "points": 158.0
+    }
+  ]
+}

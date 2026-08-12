@@ -1,0 +1,211 @@
+{
+  "kind": "standings",
+  "contestId": "ligue-1-26-27",
+  "date": "2026-08-11",
+  "fetchedAt": "2026-08-11T20:39:13Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "angers",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 1
+    },
+    {
+      "participantId": "aj-auxerre",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 2
+    },
+    {
+      "participantId": "brest",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 3
+    },
+    {
+      "participantId": "le-havre-ac",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 4
+    },
+    {
+      "participantId": "le-mans",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 5
+    },
+    {
+      "participantId": "lens",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 6
+    },
+    {
+      "participantId": "lille",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 7
+    },
+    {
+      "participantId": "lorient",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "lyon",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "marseille",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "as-monaco",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 11
+    },
+    {
+      "participantId": "nice",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 12
+    },
+    {
+      "participantId": "paris-fc",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 13
+    },
+    {
+      "participantId": "paris-saint-germain",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "participantId": "stade-rennais",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 15
+    },
+    {
+      "participantId": "strasbourg",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 16
+    },
+    {
+      "participantId": "toulouse",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 17
+    },
+    {
+      "participantId": "troyes",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 18
+    }
+  ],
+  "tour": 0,
+  "tourStatus": "preseason"
+}

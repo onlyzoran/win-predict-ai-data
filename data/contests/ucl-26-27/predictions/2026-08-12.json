@@ -1,0 +1,132 @@
+{
+  "kind": "prediction",
+  "contestId": "ucl-26-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "paris-saint-germain",
+      "probability": 14.27
+    },
+    {
+      "participantId": "bayern-munich",
+      "probability": 13.29
+    },
+    {
+      "participantId": "real-madrid",
+      "probability": 13.29
+    },
+    {
+      "participantId": "manchester-city",
+      "probability": 12.3
+    },
+    {
+      "participantId": "arsenal",
+      "probability": 11.32
+    },
+    {
+      "participantId": "barcelona",
+      "probability": 11.32
+    },
+    {
+      "participantId": "liverpool",
+      "probability": 7.38
+    },
+    {
+      "participantId": "manchester-united",
+      "probability": 3.1
+    },
+    {
+      "participantId": "inter-milan",
+      "probability": 2.61
+    },
+    {
+      "participantId": "atlético-madrid",
+      "probability": 2.51
+    },
+    {
+      "participantId": "aston-villa",
+      "probability": 1.23
+    },
+    {
+      "participantId": "borussia-dortmund",
+      "probability": 1.13
+    },
+    {
+      "participantId": "napoli",
+      "probability": 0.94
+    },
+    {
+      "participantId": "rb-leipzig",
+      "probability": 0.74
+    },
+    {
+      "participantId": "porto",
+      "probability": 0.54
+    },
+    {
+      "participantId": "roma",
+      "probability": 0.54
+    },
+    {
+      "participantId": "como",
+      "probability": 0.44
+    },
+    {
+      "participantId": "galatasaray",
+      "probability": 0.44
+    },
+    {
+      "participantId": "real-betis",
+      "probability": 0.44
+    },
+    {
+      "participantId": "villarreal",
+      "probability": 0.44
+    },
+    {
+      "participantId": "sporting-cp",
+      "probability": 0.34
+    },
+    {
+      "participantId": "vfb-stuttgart",
+      "probability": 0.34
+    },
+    {
+      "participantId": "lens",
+      "probability": 0.25
+    },
+    {
+      "participantId": "psv-eindhoven",
+      "probability": 0.25
+    },
+    {
+      "participantId": "club-brugge",
+      "probability": 0.15
+    },
+    {
+      "participantId": "feyenoord",
+      "probability": 0.15
+    },
+    {
+      "participantId": "lille",
+      "probability": 0.15
+    },
+    {
+      "participantId": "shakhtar-donetsk",
+      "probability": 0.05
+    },
+    {
+      "participantId": "slavia-prague",
+      "probability": 0.05
+    }
+  ]
+}

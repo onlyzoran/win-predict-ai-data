@@ -1,0 +1,66 @@
+{
+  "kind": "standings",
+  "contestId": "f1-constructors-26",
+  "date": "2026-08-10",
+  "fetchedAt": "2026-08-10T07:42:57Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "mercedes",
+      "points": 379,
+      "rank": 1
+    },
+    {
+      "participantId": "ferrari",
+      "points": 307,
+      "rank": 2
+    },
+    {
+      "participantId": "mclaren",
+      "points": 220,
+      "rank": 3
+    },
+    {
+      "participantId": "red-bull",
+      "points": 177,
+      "rank": 4
+    },
+    {
+      "participantId": "racing-bulls",
+      "points": 66,
+      "rank": 5
+    },
+    {
+      "participantId": "alpine",
+      "points": 61,
+      "rank": 6
+    },
+    {
+      "participantId": "haas",
+      "points": 21,
+      "rank": 7
+    },
+    {
+      "participantId": "audi",
+      "points": 12,
+      "rank": 8
+    },
+    {
+      "participantId": "williams",
+      "points": 11,
+      "rank": 9
+    },
+    {
+      "participantId": "aston-martin",
+      "points": 1,
+      "rank": 10
+    },
+    {
+      "participantId": "cadillac",
+      "points": 0,
+      "rank": 11
+    }
+  ]
+}

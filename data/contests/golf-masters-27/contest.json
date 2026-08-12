@@ -1,0 +1,14 @@
+{
+  "id": "golf-masters-27",
+  "title": "Masters",
+  "fullTitle": "Masters",
+  "category": "sport",
+  "sport": "golf",
+  "target": "champion",
+  "season": {
+    "start": "2027-04-08",
+    "end": "2027-04-11"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

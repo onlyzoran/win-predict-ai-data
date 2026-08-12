@@ -1,0 +1,109 @@
+{
+  "contestId": "serie-a-26-27",
+  "participants": [
+    {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "aliases": []
+    },
+    {
+      "id": "as-roma",
+      "name": "AS Roma",
+      "aliases": [
+        "Roma"
+      ]
+    },
+    {
+      "id": "atalanta",
+      "name": "Atalanta",
+      "aliases": []
+    },
+    {
+      "id": "bologna",
+      "name": "Bologna",
+      "aliases": []
+    },
+    {
+      "id": "cagliari",
+      "name": "Cagliari",
+      "aliases": []
+    },
+    {
+      "id": "como",
+      "name": "Como",
+      "aliases": []
+    },
+    {
+      "id": "fiorentina",
+      "name": "Fiorentina",
+      "aliases": []
+    },
+    {
+      "id": "frosinone",
+      "name": "Frosinone",
+      "aliases": []
+    },
+    {
+      "id": "genoa",
+      "name": "Genoa",
+      "aliases": []
+    },
+    {
+      "id": "internazionale",
+      "name": "Internazionale",
+      "aliases": [
+        "Inter Milan"
+      ]
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus",
+      "aliases": []
+    },
+    {
+      "id": "lazio",
+      "name": "Lazio",
+      "aliases": []
+    },
+    {
+      "id": "lecce",
+      "name": "Lecce",
+      "aliases": []
+    },
+    {
+      "id": "monza",
+      "name": "Monza",
+      "aliases": []
+    },
+    {
+      "id": "napoli",
+      "name": "Napoli",
+      "aliases": []
+    },
+    {
+      "id": "parma",
+      "name": "Parma",
+      "aliases": []
+    },
+    {
+      "id": "sassuolo",
+      "name": "Sassuolo",
+      "aliases": []
+    },
+    {
+      "id": "torino",
+      "name": "Torino",
+      "aliases": []
+    },
+    {
+      "id": "udinese",
+      "name": "Udinese",
+      "aliases": []
+    },
+    {
+      "id": "venezia",
+      "name": "Venezia",
+      "aliases": []
+    }
+  ]
+}

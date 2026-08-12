@@ -1,0 +1,175 @@
+{
+  "kind": "standings",
+  "contestId": "bundesliga-26-27",
+  "date": "2026-08-03",
+  "fetchedAt": "2026-08-03T16:48:53Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "fc-augsburg",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 1
+    },
+    {
+      "participantId": "bayer-leverkusen",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 2
+    },
+    {
+      "participantId": "bayern-munich",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 3
+    },
+    {
+      "participantId": "borussia-dortmund",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 4
+    },
+    {
+      "participantId": "borussia-mönchengladbach",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 5
+    },
+    {
+      "participantId": "eintracht-frankfurt",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 6
+    },
+    {
+      "participantId": "sv-elversberg",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 7
+    },
+    {
+      "participantId": "fc-cologne",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "sc-freiburg",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "hamburg-sv",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "tsg-hoffenheim",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 11
+    },
+    {
+      "participantId": "mainz",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 12
+    },
+    {
+      "participantId": "sc-paderborn-07",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 13
+    },
+    {
+      "participantId": "rb-leipzig",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "participantId": "schalke-04",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 15
+    },
+    {
+      "participantId": "vfb-stuttgart",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 16
+    },
+    {
+      "participantId": "1-fc-union-berlin",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 17
+    },
+    {
+      "participantId": "werder-bremen",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 18
+    }
+  ],
+  "tour": 0,
+  "tourStatus": "preseason"
+}

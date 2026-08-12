@@ -1,0 +1,14 @@
+{
+  "id": "golf-the-open-27",
+  "title": "The Open",
+  "fullTitle": "The Open",
+  "category": "sport",
+  "sport": "golf",
+  "target": "champion",
+  "season": {
+    "start": "2027-07-15",
+    "end": "2027-07-18"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

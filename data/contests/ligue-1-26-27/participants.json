@@ -1,0 +1,103 @@
+{
+  "contestId": "ligue-1-26-27",
+  "participants": [
+    {
+      "id": "aj-auxerre",
+      "name": "AJ Auxerre",
+      "aliases": [
+        "Auxerre"
+      ]
+    },
+    {
+      "id": "angers",
+      "name": "Angers",
+      "aliases": []
+    },
+    {
+      "id": "as-monaco",
+      "name": "AS Monaco",
+      "aliases": [
+        "Monaco"
+      ]
+    },
+    {
+      "id": "brest",
+      "name": "Brest",
+      "aliases": []
+    },
+    {
+      "id": "le-havre-ac",
+      "name": "Le Havre AC",
+      "aliases": [
+        "Le Havre"
+      ]
+    },
+    {
+      "id": "le-mans",
+      "name": "Le Mans",
+      "aliases": []
+    },
+    {
+      "id": "lens",
+      "name": "Lens",
+      "aliases": []
+    },
+    {
+      "id": "lille",
+      "name": "Lille",
+      "aliases": []
+    },
+    {
+      "id": "lorient",
+      "name": "Lorient",
+      "aliases": []
+    },
+    {
+      "id": "lyon",
+      "name": "Lyon",
+      "aliases": []
+    },
+    {
+      "id": "marseille",
+      "name": "Marseille",
+      "aliases": []
+    },
+    {
+      "id": "nice",
+      "name": "Nice",
+      "aliases": []
+    },
+    {
+      "id": "paris-fc",
+      "name": "Paris FC",
+      "aliases": []
+    },
+    {
+      "id": "paris-saint-germain",
+      "name": "Paris Saint-Germain",
+      "aliases": []
+    },
+    {
+      "id": "stade-rennais",
+      "name": "Stade Rennais",
+      "aliases": [
+        "Rennes"
+      ]
+    },
+    {
+      "id": "strasbourg",
+      "name": "Strasbourg",
+      "aliases": []
+    },
+    {
+      "id": "toulouse",
+      "name": "Toulouse",
+      "aliases": []
+    },
+    {
+      "id": "troyes",
+      "name": "Troyes",
+      "aliases": []
+    }
+  ]
+}

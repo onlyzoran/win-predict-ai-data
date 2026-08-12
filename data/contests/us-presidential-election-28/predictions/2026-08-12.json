@@ -1,0 +1,548 @@
+{
+  "kind": "prediction",
+  "contestId": "us-presidential-election-28",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "gavin-newsom",
+      "probability": 12.38
+    },
+    {
+      "participantId": "j-d-vance",
+      "probability": 11.36
+    },
+    {
+      "participantId": "marco-rubio",
+      "probability": 9.01
+    },
+    {
+      "participantId": "jon-ossoff",
+      "probability": 7.68
+    },
+    {
+      "participantId": "alexandria-ocasio-cortez",
+      "probability": 5.02
+    },
+    {
+      "participantId": "kamala-harris",
+      "probability": 4.35
+    },
+    {
+      "participantId": "donald-trump",
+      "probability": 2.51
+    },
+    {
+      "participantId": "pete-buttigieg",
+      "probability": 2.51
+    },
+    {
+      "participantId": "tucker-carlson",
+      "probability": 2.25
+    },
+    {
+      "participantId": "josh-shapiro",
+      "probability": 1.92
+    },
+    {
+      "participantId": "ro-khanna",
+      "probability": 1.81
+    },
+    {
+      "participantId": "ron-desantis",
+      "probability": 1.59
+    },
+    {
+      "participantId": "mark-kelly",
+      "probability": 1.59
+    },
+    {
+      "participantId": "andy-beshear",
+      "probability": 1.59
+    },
+    {
+      "participantId": "gretchen-whitmer",
+      "probability": 1.42
+    },
+    {
+      "participantId": "wes-moore",
+      "probability": 1.42
+    },
+    {
+      "participantId": "j-b-pritzker",
+      "probability": 1.28
+    },
+    {
+      "participantId": "michelle-obama",
+      "probability": 1.17
+    },
+    {
+      "participantId": "tom-cotton",
+      "probability": 0.99
+    },
+    {
+      "participantId": "donald-trump-jr",
+      "probability": 0.92
+    },
+    {
+      "participantId": "thomas-massie",
+      "probability": 0.92
+    },
+    {
+      "participantId": "rahm-emanuel",
+      "probability": 0.86
+    },
+    {
+      "participantId": "jon-stewart",
+      "probability": 0.81
+    },
+    {
+      "participantId": "brian-kemp",
+      "probability": 0.72
+    },
+    {
+      "participantId": "nikki-haley",
+      "probability": 0.72
+    },
+    {
+      "participantId": "dwayne-johnson",
+      "probability": 0.72
+    },
+    {
+      "participantId": "glenn-youngkin",
+      "probability": 0.72
+    },
+    {
+      "participantId": "ivanka-trump",
+      "probability": 0.65
+    },
+    {
+      "participantId": "roy-cooper",
+      "probability": 0.65
+    },
+    {
+      "participantId": "mark-cuban",
+      "probability": 0.65
+    },
+    {
+      "participantId": "cory-booker",
+      "probability": 0.65
+    },
+    {
+      "participantId": "doug-burgum",
+      "probability": 0.65
+    },
+    {
+      "participantId": "eric-trump",
+      "probability": 0.65
+    },
+    {
+      "participantId": "chris-murphy",
+      "probability": 0.65
+    },
+    {
+      "participantId": "ted-cruz",
+      "probability": 0.65
+    },
+    {
+      "participantId": "elizabeth-warren",
+      "probability": 0.59
+    },
+    {
+      "participantId": "raphael-warnock",
+      "probability": 0.52
+    },
+    {
+      "participantId": "katie-britt",
+      "probability": 0.52
+    },
+    {
+      "participantId": "amy-klobuchar",
+      "probability": 0.52
+    },
+    {
+      "participantId": "barack-obama",
+      "probability": 0.52
+    },
+    {
+      "participantId": "josh-hawley",
+      "probability": 0.43
+    },
+    {
+      "participantId": "robert-f-kennedy-jr",
+      "probability": 0.43
+    },
+    {
+      "participantId": "rand-paul",
+      "probability": 0.43
+    },
+    {
+      "participantId": "jamie-dimon",
+      "probability": 0.43
+    },
+    {
+      "participantId": "stephen-a-smith",
+      "probability": 0.43
+    },
+    {
+      "participantId": "erika-kirk",
+      "probability": 0.43
+    },
+    {
+      "participantId": "pete-hegseth",
+      "probability": 0.43
+    },
+    {
+      "participantId": "lara-trump",
+      "probability": 0.32
+    },
+    {
+      "participantId": "vivek-ramaswamy",
+      "probability": 0.32
+    },
+    {
+      "participantId": "tulsi-gabbard",
+      "probability": 0.32
+    },
+    {
+      "participantId": "hakeem-jeffries",
+      "probability": 0.32
+    },
+    {
+      "participantId": "george-clooney",
+      "probability": 0.32
+    },
+    {
+      "participantId": "gina-raimondo",
+      "probability": 0.32
+    },
+    {
+      "participantId": "spencer-cox",
+      "probability": 0.32
+    },
+    {
+      "participantId": "elon-musk",
+      "probability": 0.26
+    },
+    {
+      "participantId": "anthony-pompliano",
+      "probability": 0.26
+    },
+    {
+      "participantId": "jimmy-kimmel",
+      "probability": 0.26
+    },
+    {
+      "participantId": "bill-burr",
+      "probability": 0.26
+    },
+    {
+      "participantId": "mike-johnson",
+      "probability": 0.26
+    },
+    {
+      "participantId": "mike-pompeo",
+      "probability": 0.22
+    },
+    {
+      "participantId": "andrew-cuomo",
+      "probability": 0.22
+    },
+    {
+      "participantId": "beto-orourke",
+      "probability": 0.22
+    },
+    {
+      "participantId": "john-fetterman",
+      "probability": 0.22
+    },
+    {
+      "participantId": "phil-murphy",
+      "probability": 0.22
+    },
+    {
+      "participantId": "michael-saylor",
+      "probability": 0.19
+    },
+    {
+      "participantId": "matthew-mcconaughey",
+      "probability": 0.19
+    },
+    {
+      "participantId": "hillary-clinton",
+      "probability": 0.16
+    },
+    {
+      "participantId": "michael-flynn",
+      "probability": 0.16
+    },
+    {
+      "participantId": "ben-shapiro",
+      "probability": 0.16
+    },
+    {
+      "participantId": "joe-rogan",
+      "probability": 0.16
+    },
+    {
+      "participantId": "elise-stefanik",
+      "probability": 0.16
+    },
+    {
+      "participantId": "oprah-winfrey",
+      "probability": 0.13
+    },
+    {
+      "participantId": "aaron-rodgers",
+      "probability": 0.13
+    },
+    {
+      "participantId": "taylor-swift",
+      "probability": 0.13
+    },
+    {
+      "participantId": "matt-damon",
+      "probability": 0.13
+    },
+    {
+      "participantId": "leonardo-dicaprio",
+      "probability": 0.13
+    },
+    {
+      "participantId": "bill-maher",
+      "probability": 0.13
+    },
+    {
+      "participantId": "bill-gates",
+      "probability": 0.13
+    },
+    {
+      "participantId": "tom-brady",
+      "probability": 0.13
+    },
+    {
+      "participantId": "peyton-manning",
+      "probability": 0.13
+    },
+    {
+      "participantId": "lebron-james",
+      "probability": 0.13
+    },
+    {
+      "participantId": "neil-degrasse-tyson",
+      "probability": 0.13
+    },
+    {
+      "participantId": "marc-andreessen",
+      "probability": 0.13
+    },
+    {
+      "participantId": "steve-garvey",
+      "probability": 0.13
+    },
+    {
+      "participantId": "dan-gilbert",
+      "probability": 0.13
+    },
+    {
+      "participantId": "ted-leonsis",
+      "probability": 0.13
+    },
+    {
+      "participantId": "steve-ballmer",
+      "probability": 0.13
+    },
+    {
+      "participantId": "david-blitzer",
+      "probability": 0.13
+    },
+    {
+      "participantId": "josh-harris",
+      "probability": 0.13
+    },
+    {
+      "participantId": "terry-pegula",
+      "probability": 0.13
+    },
+    {
+      "participantId": "steve-cohen",
+      "probability": 0.13
+    },
+    {
+      "participantId": "dean-phillips",
+      "probability": 0.13
+    },
+    {
+      "participantId": "jeff-bezos",
+      "probability": 0.13
+    },
+    {
+      "participantId": "kristi-noem",
+      "probability": 0.09
+    },
+    {
+      "participantId": "kash-patel",
+      "probability": 0.09
+    },
+    {
+      "participantId": "greg-abbott",
+      "probability": 0.09
+    },
+    {
+      "participantId": "bill-clinton",
+      "probability": 0.09
+    },
+    {
+      "participantId": "laura-loomer",
+      "probability": 0.07
+    },
+    {
+      "participantId": "meghan-markle",
+      "probability": 0.07
+    },
+    {
+      "participantId": "howard-stern",
+      "probability": 0.07
+    },
+    {
+      "participantId": "beyoncé",
+      "probability": 0.07
+    },
+    {
+      "participantId": "ben-affleck",
+      "probability": 0.07
+    },
+    {
+      "participantId": "conan-obrien",
+      "probability": 0.07
+    },
+    {
+      "participantId": "stephen-colbert",
+      "probability": 0.07
+    },
+    {
+      "participantId": "tom-hanks",
+      "probability": 0.07
+    },
+    {
+      "participantId": "chuck-norris",
+      "probability": 0.07
+    },
+    {
+      "participantId": "samuel-l-jackson",
+      "probability": 0.07
+    },
+    {
+      "participantId": "shaquille-oneal",
+      "probability": 0.07
+    },
+    {
+      "participantId": "john-cena",
+      "probability": 0.07
+    },
+    {
+      "participantId": "sandra-bullock",
+      "probability": 0.07
+    },
+    {
+      "participantId": "johnny-depp",
+      "probability": 0.07
+    },
+    {
+      "participantId": "whoopi-goldberg",
+      "probability": 0.07
+    },
+    {
+      "participantId": "nick-saban",
+      "probability": 0.07
+    },
+    {
+      "participantId": "roger-goodell",
+      "probability": 0.07
+    },
+    {
+      "participantId": "steve-kerr",
+      "probability": 0.07
+    },
+    {
+      "participantId": "stephen-curry",
+      "probability": 0.07
+    },
+    {
+      "participantId": "alex-rodriguez",
+      "probability": 0.07
+    },
+    {
+      "participantId": "tiger-woods",
+      "probability": 0.07
+    },
+    {
+      "participantId": "jeanie-buss",
+      "probability": 0.07
+    },
+    {
+      "participantId": "john-w-henry",
+      "probability": 0.07
+    },
+    {
+      "participantId": "steve-bannon",
+      "probability": 0.07
+    },
+    {
+      "participantId": "kanye-west",
+      "probability": 0.03
+    },
+    {
+      "participantId": "dana-white",
+      "probability": 0.03
+    },
+    {
+      "participantId": "joe-biden",
+      "probability": 0.01
+    },
+    {
+      "participantId": "hunter-biden",
+      "probability": 0.01
+    },
+    {
+      "participantId": "jill-biden",
+      "probability": 0.01
+    },
+    {
+      "participantId": "jennifer-lopez",
+      "probability": 0.01
+    },
+    {
+      "participantId": "denzel-washington",
+      "probability": 0.01
+    },
+    {
+      "participantId": "clint-eastwood",
+      "probability": 0.01
+    },
+    {
+      "participantId": "charles-barkley",
+      "probability": 0.01
+    },
+    {
+      "participantId": "mel-gibson",
+      "probability": 0.01
+    },
+    {
+      "participantId": "snoop-dogg",
+      "probability": 0.01
+    },
+    {
+      "participantId": "gregg-popovich",
+      "probability": 0.01
+    }
+  ]
+}

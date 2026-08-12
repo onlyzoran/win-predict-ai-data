@@ -1,0 +1,19 @@
+{
+  "id": "ligue-1-26-27",
+  "title": "Ligue 1",
+  "fullTitle": "Ligue 1",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-08-15",
+    "end": "2027-05-30"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "matchday"
+}

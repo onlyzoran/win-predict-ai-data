@@ -1,0 +1,111 @@
+{
+  "contestId": "epl-26-27",
+  "participants": [
+    {
+      "id": "afc-bournemouth",
+      "name": "AFC Bournemouth",
+      "aliases": [
+        "Bournemouth"
+      ]
+    },
+    {
+      "id": "arsenal",
+      "name": "Arsenal",
+      "aliases": []
+    },
+    {
+      "id": "aston-villa",
+      "name": "Aston Villa",
+      "aliases": []
+    },
+    {
+      "id": "brentford",
+      "name": "Brentford",
+      "aliases": []
+    },
+    {
+      "id": "brighton-and-hove-albion",
+      "name": "Brighton & Hove Albion",
+      "aliases": [
+        "Brighton"
+      ]
+    },
+    {
+      "id": "chelsea",
+      "name": "Chelsea",
+      "aliases": []
+    },
+    {
+      "id": "coventry-city",
+      "name": "Coventry City",
+      "aliases": []
+    },
+    {
+      "id": "crystal-palace",
+      "name": "Crystal Palace",
+      "aliases": []
+    },
+    {
+      "id": "everton",
+      "name": "Everton",
+      "aliases": []
+    },
+    {
+      "id": "fulham",
+      "name": "Fulham",
+      "aliases": []
+    },
+    {
+      "id": "hull-city",
+      "name": "Hull City",
+      "aliases": []
+    },
+    {
+      "id": "ipswich-town",
+      "name": "Ipswich Town",
+      "aliases": []
+    },
+    {
+      "id": "leeds-united",
+      "name": "Leeds United",
+      "aliases": []
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "aliases": []
+    },
+    {
+      "id": "manchester-city",
+      "name": "Manchester City",
+      "aliases": []
+    },
+    {
+      "id": "manchester-united",
+      "name": "Manchester United",
+      "aliases": []
+    },
+    {
+      "id": "newcastle-united",
+      "name": "Newcastle United",
+      "aliases": []
+    },
+    {
+      "id": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "aliases": []
+    },
+    {
+      "id": "sunderland",
+      "name": "Sunderland",
+      "aliases": []
+    },
+    {
+      "id": "tottenham-hotspur",
+      "name": "Tottenham Hotspur",
+      "aliases": [
+        "Tottenham"
+      ]
+    }
+  ]
+}

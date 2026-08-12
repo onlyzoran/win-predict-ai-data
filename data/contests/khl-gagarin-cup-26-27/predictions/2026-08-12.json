@@ -1,0 +1,104 @@
+{
+  "kind": "prediction",
+  "contestId": "khl-gagarin-cup-26-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "avangard-omsk",
+      "probability": 16.39
+    },
+    {
+      "participantId": "lokomotiv-yaroslavl",
+      "probability": 14.89
+    },
+    {
+      "participantId": "ak-bars-kazan",
+      "probability": 11.7
+    },
+    {
+      "participantId": "cska-moscow",
+      "probability": 10.23
+    },
+    {
+      "participantId": "metallurg-magnitogorsk",
+      "probability": 10.23
+    },
+    {
+      "participantId": "ska-saint-petersburg",
+      "probability": 8.19
+    },
+    {
+      "participantId": "avtomobilist-yekaterinburg",
+      "probability": 5.46
+    },
+    {
+      "participantId": "dinamo-minsk",
+      "probability": 4.09
+    },
+    {
+      "participantId": "dynamo-moscow",
+      "probability": 4.09
+    },
+    {
+      "participantId": "spartak-moscow",
+      "probability": 4.09
+    },
+    {
+      "participantId": "salavat-yulaev-ufa",
+      "probability": 2.73
+    },
+    {
+      "participantId": "traktor-chelyabinsk",
+      "probability": 2.73
+    },
+    {
+      "participantId": "severstal-cherepovets",
+      "probability": 1.17
+    },
+    {
+      "participantId": "sibir-novosibirsk",
+      "probability": 1.17
+    },
+    {
+      "participantId": "shanghai-dragons",
+      "probability": 0.82
+    },
+    {
+      "participantId": "torpedo-nizhny-novgorod",
+      "probability": 0.82
+    },
+    {
+      "participantId": "neftekhimik-nizhnekamsk",
+      "probability": 0.33
+    },
+    {
+      "participantId": "amur-khabarovsk",
+      "probability": 0.27
+    },
+    {
+      "participantId": "barys-astana",
+      "probability": 0.16
+    },
+    {
+      "participantId": "hc-sochi",
+      "probability": 0.16
+    },
+    {
+      "participantId": "lada-tolyatti",
+      "probability": 0.16
+    },
+    {
+      "participantId": "admiral-vladivostok",
+      "probability": 0.12
+    }
+  ]
+}

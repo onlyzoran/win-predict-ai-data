@@ -1,0 +1,175 @@
+{
+  "kind": "standings",
+  "contestId": "ligue-1-26-27",
+  "date": "2026-08-03",
+  "fetchedAt": "2026-08-03T16:48:54Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "angers",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 1
+    },
+    {
+      "participantId": "aj-auxerre",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 2
+    },
+    {
+      "participantId": "brest",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 3
+    },
+    {
+      "participantId": "le-havre-ac",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 4
+    },
+    {
+      "participantId": "le-mans",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 5
+    },
+    {
+      "participantId": "lens",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 6
+    },
+    {
+      "participantId": "lille",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 7
+    },
+    {
+      "participantId": "lorient",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "lyon",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "marseille",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "as-monaco",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 11
+    },
+    {
+      "participantId": "nice",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 12
+    },
+    {
+      "participantId": "paris-fc",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 13
+    },
+    {
+      "participantId": "paris-saint-germain",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "participantId": "stade-rennais",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 15
+    },
+    {
+      "participantId": "strasbourg",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 16
+    },
+    {
+      "participantId": "toulouse",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 17
+    },
+    {
+      "participantId": "troyes",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "rank": 18
+    }
+  ],
+  "tour": 0,
+  "tourStatus": "preseason"
+}

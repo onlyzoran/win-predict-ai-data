@@ -1,0 +1,169 @@
+{
+  "contestId": "nhl-stanley-cup-26-27",
+  "participants": [
+    {
+      "id": "anaheim-ducks",
+      "name": "Anaheim Ducks",
+      "aliases": []
+    },
+    {
+      "id": "boston-bruins",
+      "name": "Boston Bruins",
+      "aliases": []
+    },
+    {
+      "id": "buffalo-sabres",
+      "name": "Buffalo Sabres",
+      "aliases": []
+    },
+    {
+      "id": "calgary-flames",
+      "name": "Calgary Flames",
+      "aliases": []
+    },
+    {
+      "id": "carolina-hurricanes",
+      "name": "Carolina Hurricanes",
+      "aliases": []
+    },
+    {
+      "id": "chicago-blackhawks",
+      "name": "Chicago Blackhawks",
+      "aliases": []
+    },
+    {
+      "id": "colorado-avalanche",
+      "name": "Colorado Avalanche",
+      "aliases": []
+    },
+    {
+      "id": "columbus-blue-jackets",
+      "name": "Columbus Blue Jackets",
+      "aliases": []
+    },
+    {
+      "id": "dallas-stars",
+      "name": "Dallas Stars",
+      "aliases": []
+    },
+    {
+      "id": "detroit-red-wings",
+      "name": "Detroit Red Wings",
+      "aliases": []
+    },
+    {
+      "id": "edmonton-oilers",
+      "name": "Edmonton Oilers",
+      "aliases": []
+    },
+    {
+      "id": "florida-panthers",
+      "name": "Florida Panthers",
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-kings",
+      "name": "Los Angeles Kings",
+      "aliases": []
+    },
+    {
+      "id": "minnesota-wild",
+      "name": "Minnesota Wild",
+      "aliases": []
+    },
+    {
+      "id": "montreal-canadiens",
+      "name": "Montreal Canadiens",
+      "aliases": [
+        "Montréal Canadiens"
+      ]
+    },
+    {
+      "id": "nashville-predators",
+      "name": "Nashville Predators",
+      "aliases": []
+    },
+    {
+      "id": "new-jersey-devils",
+      "name": "New Jersey Devils",
+      "aliases": []
+    },
+    {
+      "id": "new-york-islanders",
+      "name": "New York Islanders",
+      "aliases": []
+    },
+    {
+      "id": "new-york-rangers",
+      "name": "New York Rangers",
+      "aliases": []
+    },
+    {
+      "id": "ottawa-senators",
+      "name": "Ottawa Senators",
+      "aliases": []
+    },
+    {
+      "id": "philadelphia-flyers",
+      "name": "Philadelphia Flyers",
+      "aliases": []
+    },
+    {
+      "id": "pittsburgh-penguins",
+      "name": "Pittsburgh Penguins",
+      "aliases": []
+    },
+    {
+      "id": "san-jose-sharks",
+      "name": "San Jose Sharks",
+      "aliases": []
+    },
+    {
+      "id": "seattle-kraken",
+      "name": "Seattle Kraken",
+      "aliases": []
+    },
+    {
+      "id": "st-louis-blues",
+      "name": "St. Louis Blues",
+      "aliases": [
+        "St Louis Blues"
+      ]
+    },
+    {
+      "id": "tampa-bay-lightning",
+      "name": "Tampa Bay Lightning",
+      "aliases": []
+    },
+    {
+      "id": "toronto-maple-leafs",
+      "name": "Toronto Maple Leafs",
+      "aliases": []
+    },
+    {
+      "id": "utah-mammoth",
+      "name": "Utah Mammoth",
+      "aliases": []
+    },
+    {
+      "id": "vancouver-canucks",
+      "name": "Vancouver Canucks",
+      "aliases": []
+    },
+    {
+      "id": "vegas-golden-knights",
+      "name": "Vegas Golden Knights",
+      "aliases": []
+    },
+    {
+      "id": "washington-capitals",
+      "name": "Washington Capitals",
+      "aliases": []
+    },
+    {
+      "id": "winnipeg-jets",
+      "name": "Winnipeg Jets",
+      "aliases": []
+    }
+  ]
+}

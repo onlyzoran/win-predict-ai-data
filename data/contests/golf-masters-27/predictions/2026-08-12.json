@@ -1,0 +1,380 @@
+{
+  "kind": "prediction",
+  "contestId": "golf-masters-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "marco-penge",
+      "probability": 2.05
+    },
+    {
+      "participantId": "bud-cauley",
+      "probability": 1.86
+    },
+    {
+      "participantId": "jt-poston",
+      "probability": 1.86
+    },
+    {
+      "participantId": "matti-schmid",
+      "probability": 1.86
+    },
+    {
+      "participantId": "alex-smalley",
+      "probability": 1.86
+    },
+    {
+      "participantId": "ben-griffin",
+      "probability": 1.86
+    },
+    {
+      "participantId": "kristoffer-reitan",
+      "probability": 1.86
+    },
+    {
+      "participantId": "sam-stevens",
+      "probability": 1.86
+    },
+    {
+      "participantId": "will-zalatoris",
+      "probability": 1.86
+    },
+    {
+      "participantId": "ryan-gerard",
+      "probability": 1.86
+    },
+    {
+      "participantId": "max-homa",
+      "probability": 1.86
+    },
+    {
+      "participantId": "matt-mccarty",
+      "probability": 1.86
+    },
+    {
+      "participantId": "harris-english",
+      "probability": 1.86
+    },
+    {
+      "participantId": "kurt-kitayama",
+      "probability": 1.86
+    },
+    {
+      "participantId": "daniel-berger",
+      "probability": 1.86
+    },
+    {
+      "participantId": "sungjae-im",
+      "probability": 1.86
+    },
+    {
+      "participantId": "aldrich-potgieter",
+      "probability": 1.86
+    },
+    {
+      "participantId": "tony-finau",
+      "probability": 1.86
+    },
+    {
+      "participantId": "nick-taylor",
+      "probability": 1.86
+    },
+    {
+      "participantId": "brian-harman",
+      "probability": 1.86
+    },
+    {
+      "participantId": "tom-mckibbin",
+      "probability": 1.86
+    },
+    {
+      "participantId": "rasmus-hojgaard",
+      "probability": 1.86
+    },
+    {
+      "participantId": "gary-woodland",
+      "probability": 1.86
+    },
+    {
+      "participantId": "casey-jarvis",
+      "probability": 1.86
+    },
+    {
+      "participantId": "keegan-bradley",
+      "probability": 1.86
+    },
+    {
+      "participantId": "dustin-johnson",
+      "probability": 1.86
+    },
+    {
+      "participantId": "max-greyserman",
+      "probability": 1.86
+    },
+    {
+      "participantId": "michael-kim",
+      "probability": 1.86
+    },
+    {
+      "participantId": "carlos-ortiz",
+      "probability": 1.86
+    },
+    {
+      "participantId": "sergio-garcia",
+      "probability": 1.86
+    },
+    {
+      "participantId": "michael-brennan",
+      "probability": 1.86
+    },
+    {
+      "participantId": "andrew-novak",
+      "probability": 1.86
+    },
+    {
+      "participantId": "nicolas-echavarria",
+      "probability": 1.86
+    },
+    {
+      "participantId": "phil-mickelson",
+      "probability": 1.86
+    },
+    {
+      "participantId": "sami-välimäki",
+      "probability": 1.86
+    },
+    {
+      "participantId": "bubba-watson",
+      "probability": 1.86
+    },
+    {
+      "participantId": "danny-willett",
+      "probability": 1.86
+    },
+    {
+      "participantId": "charl-schwartzel",
+      "probability": 1.86
+    },
+    {
+      "participantId": "john-keefer",
+      "probability": 1.86
+    },
+    {
+      "participantId": "haotong-li",
+      "probability": 1.86
+    },
+    {
+      "participantId": "alexander-noren",
+      "probability": 1.86
+    },
+    {
+      "participantId": "harry-hall",
+      "probability": 1.86
+    },
+    {
+      "participantId": "rasmus-neergaard-petersen",
+      "probability": 1.86
+    },
+    {
+      "participantId": "zach-johnson",
+      "probability": 1.86
+    },
+    {
+      "participantId": "angel-cabrera",
+      "probability": 1.86
+    },
+    {
+      "participantId": "mike-weir",
+      "probability": 1.86
+    },
+    {
+      "participantId": "fred-couples",
+      "probability": 1.86
+    },
+    {
+      "participantId": "vijay-singh",
+      "probability": 1.86
+    },
+    {
+      "participantId": "tiger-woods",
+      "probability": 1.86
+    },
+    {
+      "participantId": "nicolai-hojgaard",
+      "probability": 0.93
+    },
+    {
+      "participantId": "maverick-mcnealy",
+      "probability": 0.93
+    },
+    {
+      "participantId": "sepp-straka",
+      "probability": 0.93
+    },
+    {
+      "participantId": "jacob-bridgeman",
+      "probability": 0.93
+    },
+    {
+      "participantId": "aaron-rai",
+      "probability": 0.93
+    },
+    {
+      "participantId": "scottie-scheffler",
+      "probability": 0.6
+    },
+    {
+      "participantId": "rory-mcilroy",
+      "probability": 0.37
+    },
+    {
+      "participantId": "jon-rahm",
+      "probability": 0.21
+    },
+    {
+      "participantId": "cameron-young",
+      "probability": 0.19
+    },
+    {
+      "participantId": "ludvig-aberg",
+      "probability": 0.16
+    },
+    {
+      "participantId": "xander-schauffele",
+      "probability": 0.15
+    },
+    {
+      "participantId": "tommy-fleetwood",
+      "probability": 0.14
+    },
+    {
+      "participantId": "matthew-fitzpatrick",
+      "probability": 0.14
+    },
+    {
+      "participantId": "collin-morikawa",
+      "probability": 0.14
+    },
+    {
+      "participantId": "bryson-dechambeau",
+      "probability": 0.13
+    },
+    {
+      "participantId": "justin-rose",
+      "probability": 0.12
+    },
+    {
+      "participantId": "christopher-gotterup",
+      "probability": 0.1
+    },
+    {
+      "participantId": "brooks-koepka",
+      "probability": 0.09
+    },
+    {
+      "participantId": "patrick-reed",
+      "probability": 0.09
+    },
+    {
+      "participantId": "wyndham-clark",
+      "probability": 0.09
+    },
+    {
+      "participantId": "sam-burns",
+      "probability": 0.08
+    },
+    {
+      "participantId": "justin-thomas",
+      "probability": 0.08
+    },
+    {
+      "participantId": "hideki-matsuyama",
+      "probability": 0.08
+    },
+    {
+      "participantId": "viktor-hovland",
+      "probability": 0.07
+    },
+    {
+      "participantId": "jordan-spieth",
+      "probability": 0.07
+    },
+    {
+      "participantId": "robert-macintyre",
+      "probability": 0.07
+    },
+    {
+      "participantId": "joaquin-niemann",
+      "probability": 0.07
+    },
+    {
+      "participantId": "jose-maria-olazábal",
+      "probability": 0.07
+    },
+    {
+      "participantId": "min-woo-lee",
+      "probability": 0.07
+    },
+    {
+      "participantId": "si-woo-kim",
+      "probability": 0.06
+    },
+    {
+      "participantId": "jake-knapp",
+      "probability": 0.06
+    },
+    {
+      "participantId": "russell-henley",
+      "probability": 0.06
+    },
+    {
+      "participantId": "patrick-cantlay",
+      "probability": 0.06
+    },
+    {
+      "participantId": "shane-lowry",
+      "probability": 0.06
+    },
+    {
+      "participantId": "tyrrell-hatton",
+      "probability": 0.05
+    },
+    {
+      "participantId": "cameron-smith",
+      "probability": 0.05
+    },
+    {
+      "participantId": "adam-scott",
+      "probability": 0.05
+    },
+    {
+      "participantId": "akshay-bhatia",
+      "probability": 0.04
+    },
+    {
+      "participantId": "ryan-fox",
+      "probability": 0.04
+    },
+    {
+      "participantId": "jj-spaun",
+      "probability": 0.04
+    },
+    {
+      "participantId": "jason-day",
+      "probability": 0.04
+    },
+    {
+      "participantId": "corey-conners",
+      "probability": 0.03
+    }
+  ]
+}

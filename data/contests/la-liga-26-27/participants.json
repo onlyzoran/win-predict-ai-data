@@ -1,0 +1,118 @@
+{
+  "contestId": "la-liga-26-27",
+  "participants": [
+    {
+      "id": "alavés",
+      "name": "Alavés",
+      "aliases": []
+    },
+    {
+      "id": "athletic-club",
+      "name": "Athletic Club",
+      "aliases": [
+        "Athletic Bilbao"
+      ]
+    },
+    {
+      "id": "atlético-madrid",
+      "name": "Atlético Madrid",
+      "aliases": []
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "aliases": []
+    },
+    {
+      "id": "celta-vigo",
+      "name": "Celta Vigo",
+      "aliases": []
+    },
+    {
+      "id": "deportivo",
+      "name": "Deportivo",
+      "aliases": [
+        "Deportivo La Coruña"
+      ]
+    },
+    {
+      "id": "deportivo-la-coruña",
+      "name": "Deportivo La Coruña",
+      "aliases": [
+        "Deportivo"
+      ]
+    },
+    {
+      "id": "elche",
+      "name": "Elche",
+      "aliases": []
+    },
+    {
+      "id": "espanyol",
+      "name": "Espanyol",
+      "aliases": []
+    },
+    {
+      "id": "getafe",
+      "name": "Getafe",
+      "aliases": []
+    },
+    {
+      "id": "levante",
+      "name": "Levante",
+      "aliases": []
+    },
+    {
+      "id": "málaga",
+      "name": "Málaga",
+      "aliases": []
+    },
+    {
+      "id": "osasuna",
+      "name": "Osasuna",
+      "aliases": []
+    },
+    {
+      "id": "racing-santander",
+      "name": "Racing Santander",
+      "aliases": []
+    },
+    {
+      "id": "rayo-vallecano",
+      "name": "Rayo Vallecano",
+      "aliases": []
+    },
+    {
+      "id": "real-betis",
+      "name": "Real Betis",
+      "aliases": [
+        "Betis"
+      ]
+    },
+    {
+      "id": "real-madrid",
+      "name": "Real Madrid",
+      "aliases": []
+    },
+    {
+      "id": "real-sociedad",
+      "name": "Real Sociedad",
+      "aliases": []
+    },
+    {
+      "id": "sevilla",
+      "name": "Sevilla",
+      "aliases": []
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia",
+      "aliases": []
+    },
+    {
+      "id": "villarreal",
+      "name": "Villarreal",
+      "aliases": []
+    }
+  ]
+}

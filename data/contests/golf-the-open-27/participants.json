@@ -1,0 +1,260 @@
+{
+  "contestId": "golf-the-open-27",
+  "participants": [
+    {
+      "id": "aaron-rai",
+      "name": "Aaron Rai",
+      "aliases": []
+    },
+    {
+      "id": "adam-scott",
+      "name": "Adam Scott",
+      "aliases": []
+    },
+    {
+      "id": "akshay-bhatia",
+      "name": "Akshay Bhatia",
+      "aliases": []
+    },
+    {
+      "id": "alex-fitzpatrick",
+      "name": "Alex Fitzpatrick",
+      "aliases": []
+    },
+    {
+      "id": "alexander-noren",
+      "name": "Alexander Noren",
+      "aliases": []
+    },
+    {
+      "id": "ben-griffin",
+      "name": "Ben Griffin",
+      "aliases": []
+    },
+    {
+      "id": "brian-harman",
+      "name": "Brian Harman",
+      "aliases": []
+    },
+    {
+      "id": "brooks-koepka",
+      "name": "Brooks Koepka",
+      "aliases": []
+    },
+    {
+      "id": "bryson-dechambeau",
+      "name": "Bryson DeChambeau",
+      "aliases": []
+    },
+    {
+      "id": "bud-cauley",
+      "name": "Bud Cauley",
+      "aliases": []
+    },
+    {
+      "id": "cameron-smith",
+      "name": "Cameron Smith",
+      "aliases": []
+    },
+    {
+      "id": "cameron-young",
+      "name": "Cameron Young",
+      "aliases": []
+    },
+    {
+      "id": "christopher-gotterup",
+      "name": "Christopher Gotterup",
+      "aliases": []
+    },
+    {
+      "id": "collin-morikawa",
+      "name": "Collin Morikawa",
+      "aliases": []
+    },
+    {
+      "id": "harris-english",
+      "name": "Harris English",
+      "aliases": []
+    },
+    {
+      "id": "hideki-matsuyama",
+      "name": "Hideki Matsuyama",
+      "aliases": []
+    },
+    {
+      "id": "jj-spaun",
+      "name": "J.J. Spaun",
+      "aliases": []
+    },
+    {
+      "id": "jackson-koivun",
+      "name": "Jackson Koivun",
+      "aliases": []
+    },
+    {
+      "id": "jacob-bridgeman",
+      "name": "Jacob Bridgeman",
+      "aliases": []
+    },
+    {
+      "id": "joaquin-niemann",
+      "name": "Joaquin Niemann",
+      "aliases": []
+    },
+    {
+      "id": "jon-rahm",
+      "name": "Jon Rahm",
+      "aliases": []
+    },
+    {
+      "id": "joohyung-kim",
+      "name": "Joohyung Kim",
+      "aliases": []
+    },
+    {
+      "id": "jordan-spieth",
+      "name": "Jordan Spieth",
+      "aliases": []
+    },
+    {
+      "id": "justin-rose",
+      "name": "Justin Rose",
+      "aliases": []
+    },
+    {
+      "id": "justin-thomas",
+      "name": "Justin Thomas",
+      "aliases": []
+    },
+    {
+      "id": "kristoffer-reitan",
+      "name": "Kristoffer Reitan",
+      "aliases": []
+    },
+    {
+      "id": "kurt-kitayama",
+      "name": "Kurt Kitayama",
+      "aliases": []
+    },
+    {
+      "id": "lucas-herbert",
+      "name": "Lucas Herbert",
+      "aliases": []
+    },
+    {
+      "id": "ludvig-aberg",
+      "name": "Ludvig Aberg",
+      "aliases": []
+    },
+    {
+      "id": "matthew-fitzpatrick",
+      "name": "Matthew Fitzpatrick",
+      "aliases": []
+    },
+    {
+      "id": "maverick-mcnealy",
+      "name": "Maverick McNealy",
+      "aliases": []
+    },
+    {
+      "id": "min-woo-lee",
+      "name": "Min Woo Lee",
+      "aliases": []
+    },
+    {
+      "id": "nicolai-hojgaard",
+      "name": "Nicolai Hojgaard",
+      "aliases": []
+    },
+    {
+      "id": "patrick-cantlay",
+      "name": "Patrick Cantlay",
+      "aliases": []
+    },
+    {
+      "id": "patrick-reed",
+      "name": "Patrick Reed",
+      "aliases": []
+    },
+    {
+      "id": "rasmus-neergaard-petersen",
+      "name": "Rasmus Neergaard-Petersen",
+      "aliases": []
+    },
+    {
+      "id": "robert-macintyre",
+      "name": "Robert MacIntyre",
+      "aliases": []
+    },
+    {
+      "id": "rory-mcilroy",
+      "name": "Rory McIlroy",
+      "aliases": []
+    },
+    {
+      "id": "russell-henley",
+      "name": "Russell Henley",
+      "aliases": []
+    },
+    {
+      "id": "ryan-fox",
+      "name": "Ryan Fox",
+      "aliases": []
+    },
+    {
+      "id": "ryan-gerard",
+      "name": "Ryan Gerard",
+      "aliases": []
+    },
+    {
+      "id": "sam-burns",
+      "name": "Sam Burns",
+      "aliases": []
+    },
+    {
+      "id": "scottie-scheffler",
+      "name": "Scottie Scheffler",
+      "aliases": []
+    },
+    {
+      "id": "sepp-straka",
+      "name": "Sepp Straka",
+      "aliases": []
+    },
+    {
+      "id": "shane-lowry",
+      "name": "Shane Lowry",
+      "aliases": []
+    },
+    {
+      "id": "si-woo-kim",
+      "name": "Si Woo Kim",
+      "aliases": []
+    },
+    {
+      "id": "tommy-fleetwood",
+      "name": "Tommy Fleetwood",
+      "aliases": []
+    },
+    {
+      "id": "tyrrell-hatton",
+      "name": "Tyrrell Hatton",
+      "aliases": []
+    },
+    {
+      "id": "viktor-hovland",
+      "name": "Viktor Hovland",
+      "aliases": []
+    },
+    {
+      "id": "wyndham-clark",
+      "name": "Wyndham Clark",
+      "aliases": []
+    },
+    {
+      "id": "xander-schauffele",
+      "name": "Xander Schauffele",
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "prediction",
+  "contestId": "f1-constructors-26",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "mercedes",
+      "probability": 85.65
+    },
+    {
+      "participantId": "ferrari",
+      "probability": 12.1
+    },
+    {
+      "participantId": "mclaren",
+      "probability": 1.55
+    },
+    {
+      "participantId": "red-bull",
+      "probability": 0.25
+    },
+    {
+      "participantId": "aston-martin",
+      "probability": 0.15
+    },
+    {
+      "participantId": "alpine",
+      "probability": 0.05
+    },
+    {
+      "participantId": "audi",
+      "probability": 0.05
+    },
+    {
+      "participantId": "cadillac",
+      "probability": 0.05
+    },
+    {
+      "participantId": "haas",
+      "probability": 0.05
+    },
+    {
+      "participantId": "racing-bulls",
+      "probability": 0.05
+    },
+    {
+      "participantId": "williams",
+      "probability": 0.05
+    }
+  ]
+}

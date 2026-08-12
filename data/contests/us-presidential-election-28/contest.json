@@ -1,0 +1,14 @@
+{
+  "id": "us-presidential-election-28",
+  "title": "US Presidential Election",
+  "fullTitle": "United States Presidential Election",
+  "category": "politics",
+  "sport": "politics",
+  "target": "champion",
+  "season": {
+    "start": "2028-01-01",
+    "end": "2028-11-07"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

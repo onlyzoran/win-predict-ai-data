@@ -1,0 +1,233 @@
+{
+  "kind": "standings",
+  "contestId": "epl-26-27",
+  "date": "2026-08-11",
+  "fetchedAt": "2026-08-11T20:39:12Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "afc-bournemouth",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 1
+    },
+    {
+      "participantId": "arsenal",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 2
+    },
+    {
+      "participantId": "aston-villa",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 3
+    },
+    {
+      "participantId": "brentford",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 4
+    },
+    {
+      "participantId": "brighton-and-hove-albion",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 5
+    },
+    {
+      "participantId": "chelsea",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 6
+    },
+    {
+      "participantId": "coventry-city",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 7
+    },
+    {
+      "participantId": "crystal-palace",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 8
+    },
+    {
+      "participantId": "everton",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 9
+    },
+    {
+      "participantId": "fulham",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 10
+    },
+    {
+      "participantId": "hull-city",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 11
+    },
+    {
+      "participantId": "ipswich-town",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 12
+    },
+    {
+      "participantId": "leeds-united",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 13
+    },
+    {
+      "participantId": "liverpool",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 14
+    },
+    {
+      "participantId": "manchester-city",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 15
+    },
+    {
+      "participantId": "manchester-united",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 16
+    },
+    {
+      "participantId": "newcastle-united",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 17
+    },
+    {
+      "participantId": "nottingham-forest",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 18
+    },
+    {
+      "participantId": "sunderland",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 19
+    },
+    {
+      "participantId": "tottenham-hotspur",
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 0,
+      "rank": 20
+    }
+  ],
+  "tour": 0,
+  "tourStatus": "preseason"
+}

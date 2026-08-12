@@ -1,0 +1,19 @@
+{
+  "id": "nba-26-27",
+  "title": "NBA",
+  "fullTitle": "National Basketball Association",
+  "category": "sport",
+  "sport": "basketball",
+  "target": "champion",
+  "season": {
+    "start": "2026-10-20",
+    "end": "2027-06-03"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "wins",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

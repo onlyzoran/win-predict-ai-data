@@ -1,0 +1,105 @@
+{
+  "contestId": "bundesliga-26-27",
+  "participants": [
+    {
+      "id": "1-fc-union-berlin",
+      "name": "1. FC Union Berlin",
+      "aliases": [
+        "Union Berlin"
+      ]
+    },
+    {
+      "id": "bayer-leverkusen",
+      "name": "Bayer Leverkusen",
+      "aliases": []
+    },
+    {
+      "id": "bayern-munich",
+      "name": "Bayern Munich",
+      "aliases": []
+    },
+    {
+      "id": "borussia-dortmund",
+      "name": "Borussia Dortmund",
+      "aliases": []
+    },
+    {
+      "id": "borussia-mönchengladbach",
+      "name": "Borussia Mönchengladbach",
+      "aliases": []
+    },
+    {
+      "id": "eintracht-frankfurt",
+      "name": "Eintracht Frankfurt",
+      "aliases": []
+    },
+    {
+      "id": "fc-augsburg",
+      "name": "FC Augsburg",
+      "aliases": []
+    },
+    {
+      "id": "fc-cologne",
+      "name": "FC Cologne",
+      "aliases": [
+        "1. FC Köln"
+      ]
+    },
+    {
+      "id": "hamburg-sv",
+      "name": "Hamburg SV",
+      "aliases": [
+        "Hamburger SV"
+      ]
+    },
+    {
+      "id": "mainz",
+      "name": "Mainz",
+      "aliases": [
+        "Mainz 05"
+      ]
+    },
+    {
+      "id": "rb-leipzig",
+      "name": "RB Leipzig",
+      "aliases": []
+    },
+    {
+      "id": "sc-freiburg",
+      "name": "SC Freiburg",
+      "aliases": []
+    },
+    {
+      "id": "sc-paderborn-07",
+      "name": "SC Paderborn 07",
+      "aliases": [
+        "SC Paderborn"
+      ]
+    },
+    {
+      "id": "schalke-04",
+      "name": "Schalke 04",
+      "aliases": []
+    },
+    {
+      "id": "sv-elversberg",
+      "name": "SV Elversberg",
+      "aliases": []
+    },
+    {
+      "id": "tsg-hoffenheim",
+      "name": "TSG Hoffenheim",
+      "aliases": []
+    },
+    {
+      "id": "vfb-stuttgart",
+      "name": "VfB Stuttgart",
+      "aliases": []
+    },
+    {
+      "id": "werder-bremen",
+      "name": "Werder Bremen",
+      "aliases": []
+    }
+  ]
+}

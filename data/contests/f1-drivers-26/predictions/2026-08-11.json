@@ -1,0 +1,104 @@
+{
+  "kind": "prediction",
+  "contestId": "f1-drivers-26",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "model": {
+    "name": "legacy-import",
+    "version": "migrated"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "kimi-antonelli",
+      "probability": 75.25
+    },
+    {
+      "participantId": "lewis-hamilton",
+      "probability": 10.05
+    },
+    {
+      "participantId": "george-russell",
+      "probability": 5.5
+    },
+    {
+      "participantId": "lando-norris",
+      "probability": 3.25
+    },
+    {
+      "participantId": "charles-leclerc",
+      "probability": 2.95
+    },
+    {
+      "participantId": "max-verstappen",
+      "probability": 1.75
+    },
+    {
+      "participantId": "oscar-piastri",
+      "probability": 0.45
+    },
+    {
+      "participantId": "esteban-ocon",
+      "probability": 0.1
+    },
+    {
+      "participantId": "alexander-albon",
+      "probability": 0.05
+    },
+    {
+      "participantId": "arvid-lindblad",
+      "probability": 0.05
+    },
+    {
+      "participantId": "carlos-sainz",
+      "probability": 0.05
+    },
+    {
+      "participantId": "fernando-alonso",
+      "probability": 0.05
+    },
+    {
+      "participantId": "franco-colapinto",
+      "probability": 0.05
+    },
+    {
+      "participantId": "gabriel-bortoleto",
+      "probability": 0.05
+    },
+    {
+      "participantId": "isack-hadjar",
+      "probability": 0.05
+    },
+    {
+      "participantId": "lance-stroll",
+      "probability": 0.05
+    },
+    {
+      "participantId": "liam-lawson",
+      "probability": 0.05
+    },
+    {
+      "participantId": "nico-hülkenberg",
+      "probability": 0.05
+    },
+    {
+      "participantId": "oliver-bearman",
+      "probability": 0.05
+    },
+    {
+      "participantId": "pierre-gasly",
+      "probability": 0.05
+    },
+    {
+      "participantId": "sergio-pérez",
+      "probability": 0.05
+    },
+    {
+      "participantId": "valtteri-bottas",
+      "probability": 0.05
+    }
+  ]
+}
