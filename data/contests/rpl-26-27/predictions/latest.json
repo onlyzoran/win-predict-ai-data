@@ -1,8 +1,8 @@
 {
   "kind": "prediction",
   "contestId": "rpl-26-27",
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-12T07:23:46Z",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-12T07:34:54Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
@@ -14,15 +14,15 @@
   "items": [
     {
       "participantId": "zenit-st-petersburg",
-      "probability": 37.8
+      "probability": 38.0
     },
     {
       "participantId": "krasnodar",
-      "probability": 27.0
+      "probability": 27.5
     },
     {
       "participantId": "spartak-moscow",
-      "probability": 14.75
+      "probability": 14.5
     },
     {
       "participantId": "cska-moscow",
@@ -30,15 +30,15 @@
     },
     {
       "participantId": "dinamo-moscow",
-      "probability": 5.75
+      "probability": 5.5
     },
     {
       "participantId": "lokomotiv-moscow",
-      "probability": 4.75
+      "probability": 4.5
     },
     {
       "participantId": "rubin-kazan",
-      "probability": 0.75
+      "probability": 0.8
     },
     {
       "participantId": "akhmat-grozny",
