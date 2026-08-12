@@ -2,7 +2,7 @@
   "kind": "prediction",
   "contestId": "rpl-26-27",
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T07:47:20Z",
+  "generatedAt": "2026-08-12T14:48:51Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
@@ -18,63 +18,63 @@
     },
     {
       "participantId": "krasnodar",
-      "probability": 27.0
+      "probability": 26.61
     },
     {
       "participantId": "spartak-moscow",
-      "probability": 14.75
+      "probability": 14.0
     },
     {
       "participantId": "cska-moscow",
-      "probability": 7.5
+      "probability": 6.91
     },
     {
       "participantId": "dinamo-moscow",
-      "probability": 5.75
+      "probability": 5.21
     },
     {
       "participantId": "lokomotiv-moscow",
-      "probability": 4.75
+      "probability": 4.1
     },
     {
       "participantId": "rubin-kazan",
-      "probability": 0.75
-    },
-    {
-      "participantId": "akhmat-grozny",
-      "probability": 0.45
-    },
-    {
-      "participantId": "rostov",
-      "probability": 0.35
+      "probability": 0.97
     },
     {
       "participantId": "fc-baltika-kaliningrad",
-      "probability": 0.25
+      "probability": 0.79
     },
     {
       "participantId": "dynamo-makhachkala",
-      "probability": 0.2
+      "probability": 0.73
+    },
+    {
+      "participantId": "rostov",
+      "probability": 0.69
+    },
+    {
+      "participantId": "akhmat-grozny",
+      "probability": 0.56
     },
     {
       "participantId": "gazovik-orenburg",
-      "probability": 0.15
+      "probability": 0.51
     },
     {
       "participantId": "rodina-moscow",
-      "probability": 0.12
+      "probability": 0.4
     },
     {
       "participantId": "krylia-sovetov",
-      "probability": 0.08
+      "probability": 0.31
     },
     {
       "participantId": "fakel-voronezh",
-      "probability": 0.06
+      "probability": 0.23
     },
     {
       "participantId": "akron-tolyatti",
-      "probability": 0.04
+      "probability": 0.18
     }
   ]
 }
