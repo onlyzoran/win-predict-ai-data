@@ -2,8 +2,8 @@ name: Snapshot standings
 
 on:
   schedule:
-    # TEMP TEST: every 15 min — revert to "0 20 * * *" after test
-    - cron: "*/15 * * * *"
+    # Every 8 hours: 00:00, 08:00, 16:00 UTC (02:00, 10:00, 18:00 GMT+2)
+    - cron: "0 */8 * * *"
   workflow_dispatch:
 
 permissions:

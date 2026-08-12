@@ -184,7 +184,7 @@ Consumers:
 
 MLB uses [MLB Stats API](https://statsapi.mlb.com) which supports standings **as of any date**, so the full season history can be loaded in one pass. Other leagues only snapshot the current day via ESPN.
 
-GitHub Action `.github/workflows/snapshot-standings.yml` runs daily at 20:00 UTC (22:00 GMT+2) and commits under `data/history/` and `data/contests/`.
+GitHub Action `.github/workflows/snapshot-standings.yml` runs every 8 hours (`0 */8 * * *` — 00:00, 08:00, 16:00 UTC) and commits under `data/history/` and `data/contests/`.
 
 If ESPN has not published the expected season yet (UCL 26/27, NCAA polls, KHL), the script skips that league instead of writing the previous season.
 
@@ -207,9 +207,8 @@ python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only --json
 Championship probabilities are refreshed by a **single Cursor cloud agent**
 (`win-predict-all-refresh` in `cursor-cloud-agents`) on a daily schedule:
 
-- Standings Action: **20:00 UTC / 22:00 GMT+2** (`0 20 * * *`)
-- Predictions agent: **21:00 UTC / 23:00 GMT+2** (`0 21 * * *`) cron fallback, or
-  **Workflow run completed** on `snapshot-standings.yml` (preferred)
+- Standings Action: **every 8 h** (`0 */8 * * *` — 02:00, 10:00, 18:00 GMT+2)
+- Predictions agent: **push to main** after standings, or cron fallback **21:00 UTC / 23:00 GMT+2** (`0 21 * * *`)
 - Contest list: `data/contests/prediction-refresh.json` (14 facts-backed leagues)
 - Instructions live in the Cursor Automation (export in `cursor-cloud-agents`)
 - Prefer `scripts/write_prediction.py --contest <id> --input …`
