@@ -2,8 +2,8 @@ name: Snapshot standings
 
 on:
   schedule:
-    # Daily at 20:00 UTC (22:00 GMT+2) — before the 23:00 GMT+2 win_predict agent
-    - cron: "0 20 * * *"
+    # TEMP TEST: 12:55 UTC / 14:55 GMT+2 on 2026-08-12 — revert to "0 20 * * *" after test
+    - cron: "55 12 12 8 *"
   workflow_dispatch:
 
 permissions:
