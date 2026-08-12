@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "description": "Contests refreshed by the win-predict-all-refresh cloud agent.",
+  "contests": [
+    {
+      "id": "bundesliga-26-27",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points"
+    },
+    {
+      "id": "epl-26-27",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points"
+    },
+    {
+      "id": "f1-constructors-26",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "points"
+    },
+    {
+      "id": "f1-drivers-26",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "points"
+    },
+    {
+      "id": "la-liga-26-27",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points"
+    },
+    {
+      "id": "ligue-1-26-27",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points"
+    },
+    {
+      "id": "mlb-world-series-26",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "wins"
+    },
+    {
+      "id": "mls-cup-26",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points"
+    },
+    {
+      "id": "nba-26-27",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "wins"
+    },
+    {
+      "id": "ncaaf-championship-26-27",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "rank"
+    },
+    {
+      "id": "nfl-super-bowl-26-27",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "wins"
+    },
+    {
+      "id": "nhl-stanley-cup-26-27",
+      "mode": "facts",
+      "factsGrain": "day",
+      "metric": "points"
+    },
+    {
+      "id": "rpl-26-27",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points",
+      "hints": [
+        "Optionally: python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only",
+        "Balance historic contenders (Zenit, Spartak, Krasnodar, CSKA, Dynamo Moscow, Lokomotiv) with the table"
+      ]
+    },
+    {
+      "id": "serie-a-26-27",
+      "mode": "facts",
+      "factsGrain": "matchday",
+      "metric": "points"
+    }
+  ],
+  "deferred": [
+    {
+      "id": "golf-masters-27",
+      "reason": "no facts feed; needs manual or web-sourced estimates"
+    },
+    {
+      "id": "golf-pga-championship-27",
+      "reason": "no facts feed; needs manual or web-sourced estimates"
+    },
+    {
+      "id": "golf-the-open-27",
+      "reason": "no facts feed; needs manual or web-sourced estimates"
+    },
+    {
+      "id": "golf-us-open-27",
+      "reason": "no facts feed; needs manual or web-sourced estimates"
+    },
+    {
+      "id": "khl-gagarin-cup-26-27",
+      "reason": "no ESPN facts feed yet"
+    },
+    {
+      "id": "ncaab-championship-26-27",
+      "reason": "no facts feed yet"
+    },
+    {
+      "id": "ucl-26-27",
+      "reason": "no facts feed yet (season not started on ESPN)"
+    },
+    {
+      "id": "us-presidential-election-28",
+      "reason": "no standings feed; politics needs separate sourcing"
+    }
+  ]
+}

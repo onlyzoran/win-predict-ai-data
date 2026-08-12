@@ -204,11 +204,14 @@ python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only
 python3 scripts/fetch_rpl_results.py --from 20260724 --completed-only --json
 ```
 
-Championship probabilities in `data/contests/rpl-26-27/predictions/` are refreshed by a **Cursor cloud agent** (Composer 2.5) on a daily schedule:
+Championship probabilities are refreshed by a **single Cursor cloud agent**
+(`win-predict-all-refresh` in `cursor-cloud-agents`) on a daily schedule:
 
 - Standings Action: **20:00 UTC / 22:00 GMT+2** (`0 20 * * *`)
-- win_predict agent: **21:00 UTC / 23:00 GMT+2** (`0 21 * * *`), one hour later
-- Instructions live in the Cursor Automation (not in-repo)
-- Prefer `scripts/write_prediction.py --contest rpl-26-27 --input …`
+- Predictions agent: **21:00 UTC / 23:00 GMT+2** (`0 21 * * *`) cron fallback, or
+  **Workflow run completed** on `snapshot-standings.yml` (preferred)
+- Contest list: `data/contests/prediction-refresh.json` (14 facts-backed leagues)
+- Instructions live in the Cursor Automation (export in `cursor-cloud-agents`)
+- Prefer `scripts/write_prediction.py --contest <id> --input …`
 
-Standings update first; the cloud agent refreshes predictions an hour later so it can use the new `facts/latest.json`.
+Standings update first; the cloud agent refreshes all contest predictions in one commit.
