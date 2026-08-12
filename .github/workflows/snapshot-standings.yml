@@ -2,8 +2,8 @@ name: Snapshot standings
 
 on:
   schedule:
-    # TEMP TEST: 12:55 UTC / 14:55 GMT+2 on 2026-08-12 — revert to "0 20 * * *" after test
-    - cron: "55 12 12 8 *"
+    # TEMP TEST: 13:08 UTC / 15:08 GMT+2 on 2026-08-12 — revert to "0 20 * * *" after test
+    - cron: "8 13 12 8 *"
   workflow_dispatch:
 
 permissions:
