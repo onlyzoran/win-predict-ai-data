@@ -1,11 +1,12 @@
 {
   "contestId": "ncaaf-championship-26-27",
   "kind": "predictions",
-  "count": 2,
+  "count": 3,
   "first": "2026-08-11",
-  "last": "2026-08-12",
+  "last": "2026-08-13",
   "days": [
     "2026-08-11",
-    "2026-08-12"
+    "2026-08-12",
+    "2026-08-13"
   ]
 }
