@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-14",
-  "fetchedAt": "2026-08-14T02:26:00Z",
+  "fetchedAt": "2026-08-14T09:12:58Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -19,10 +19,10 @@
     },
     {
       "participantId": "milwaukee-brewers",
-      "played": 121,
-      "wins": 74,
+      "played": 122,
+      "wins": 75,
       "losses": 47,
-      "winPercent": 0.612,
+      "winPercent": 0.615,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 2
@@ -39,10 +39,10 @@
     },
     {
       "participantId": "los-angeles-dodgers",
-      "played": 121,
+      "played": 122,
       "wins": 73,
-      "losses": 48,
-      "winPercent": 0.603,
+      "losses": 49,
+      "winPercent": 0.598,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 4
@@ -89,10 +89,10 @@
     },
     {
       "participantId": "philadelphia-phillies",
-      "played": 122,
-      "wins": 64,
+      "played": 123,
+      "wins": 65,
       "losses": 58,
-      "winPercent": 0.525,
+      "winPercent": 0.528,
       "playoffSeed": 2,
       "group": "National League",
       "rank": 9
@@ -159,20 +159,20 @@
     },
     {
       "participantId": "texas-rangers",
-      "played": 121,
+      "played": 122,
       "wins": 60,
-      "losses": 61,
-      "winPercent": 0.496,
+      "losses": 62,
+      "winPercent": 0.492,
       "playoffSeed": 2,
       "group": "American League",
       "rank": 16
     },
     {
       "participantId": "minnesota-twins",
-      "played": 122,
+      "played": 123,
       "wins": 60,
-      "losses": 62,
-      "winPercent": 0.492,
+      "losses": 63,
+      "winPercent": 0.488,
       "playoffSeed": 3,
       "group": "American League",
       "rank": 17
@@ -288,17 +288,17 @@
       "rank": 28
     },
     {
-      "participantId": "athletics",
-      "played": 121,
-      "wins": 47,
+      "participantId": "los-angeles-angels",
+      "played": 122,
+      "wins": 48,
       "losses": 74,
-      "winPercent": 0.388,
+      "winPercent": 0.393,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 29
     },
     {
-      "participantId": "los-angeles-angels",
+      "participantId": "athletics",
       "played": 121,
       "wins": 47,
       "losses": 74,
