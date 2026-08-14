@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-14",
-  "fetchedAt": "2026-08-14T09:12:58Z",
+  "fetchedAt": "2026-08-14T16:59:35Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
