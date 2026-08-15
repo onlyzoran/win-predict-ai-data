@@ -2,12 +2,12 @@
   "kind": "prediction",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T00:19:50Z",
+  "generatedAt": "2026-08-15T02:13:17Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-08-14",
+  "basedOnFactsDate": "2026-08-15",
   "basedOnTour": null,
   "target": "champion",
   "unit": "percent",
@@ -34,7 +34,7 @@
     },
     {
       "participantId": "chicago-cubs",
-      "probability": 3.86
+      "probability": 3.88
     },
     {
       "participantId": "philadelphia-phillies",
@@ -46,7 +46,7 @@
     },
     {
       "participantId": "chicago-white-sox",
-      "probability": 3.25
+      "probability": 3.27
     },
     {
       "participantId": "houston-astros",
@@ -78,11 +78,11 @@
     },
     {
       "participantId": "detroit-tigers",
-      "probability": 2.31
+      "probability": 2.29
     },
     {
       "participantId": "miami-marlins",
-      "probability": 2.23
+      "probability": 2.21
     },
     {
       "participantId": "baltimore-orioles",
@@ -90,7 +90,7 @@
     },
     {
       "participantId": "st-louis-cardinals",
-      "probability": 2.18
+      "probability": 2.16
     },
     {
       "participantId": "toronto-blue-jays",
@@ -106,7 +106,7 @@
     },
     {
       "participantId": "cincinnati-reds",
-      "probability": 1.87
+      "probability": 1.89
     },
     {
       "participantId": "new-york-mets",
