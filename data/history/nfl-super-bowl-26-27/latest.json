@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-08-15",
-  "fetchedAt": "2026-08-15T01:37:33Z",
+  "fetchedAt": "2026-08-15T08:36:23Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -46,6 +46,19 @@
       "rank": 3
     },
     {
+      "team": "Denver Broncos",
+      "wins": 1,
+      "losses": 0,
+      "goalsFor": 27,
+      "goalsAgainst": 7,
+      "goalDifference": 20,
+      "winPercent": 1.0,
+      "playoffSeed": 5,
+      "group": "American Football Conference",
+      "sourceRank": 5,
+      "rank": 4
+    },
+    {
       "team": "Cincinnati Bengals",
       "wins": 1,
       "losses": 0,
@@ -53,10 +66,10 @@
       "goalsAgainst": 14,
       "goalDifference": 2,
       "winPercent": 1.0,
-      "playoffSeed": 5,
+      "playoffSeed": 6,
       "group": "American Football Conference",
-      "sourceRank": 5,
-      "rank": 4
+      "sourceRank": 6,
+      "rank": 5
     },
     {
       "team": "Carolina Panthers",
@@ -69,7 +82,33 @@
       "playoffSeed": 1,
       "group": "National Football Conference",
       "sourceRank": 1,
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "team": "Washington Commanders",
+      "wins": 1,
+      "losses": 0,
+      "goalsFor": 20,
+      "goalsAgainst": 7,
+      "goalDifference": 13,
+      "winPercent": 1.0,
+      "playoffSeed": 2,
+      "group": "National Football Conference",
+      "sourceRank": 2,
+      "rank": 7
+    },
+    {
+      "team": "Tampa Bay Buccaneers",
+      "wins": 1,
+      "losses": 0,
+      "goalsFor": 24,
+      "goalsAgainst": 16,
+      "goalDifference": 8,
+      "winPercent": 1.0,
+      "playoffSeed": 5,
+      "group": "National Football Conference",
+      "sourceRank": 5,
+      "rank": 8
     },
     {
       "team": "Arizona Cardinals",
@@ -82,7 +121,7 @@
       "playoffSeed": 3,
       "group": "National Football Conference",
       "sourceRank": 3,
-      "rank": 6
+      "rank": 9
     },
     {
       "team": "New England Patriots",
@@ -95,7 +134,7 @@
       "playoffSeed": 4,
       "group": "American Football Conference",
       "sourceRank": 4,
-      "rank": 7
+      "rank": 10
     },
     {
       "team": "Indianapolis Colts",
@@ -105,10 +144,10 @@
       "goalsAgainst": 13,
       "goalDifference": 0,
       "winPercent": 0.5,
-      "playoffSeed": 14,
+      "playoffSeed": 12,
       "group": "American Football Conference",
-      "sourceRank": 14,
-      "rank": 8
+      "sourceRank": 12,
+      "rank": 11
     },
     {
       "team": "Buffalo Bills",
@@ -121,7 +160,7 @@
       "playoffSeed": 0,
       "group": "American Football Conference",
       "sourceRank": 0,
-      "rank": 9
+      "rank": 12
     },
     {
       "team": "Cleveland Browns",
@@ -134,49 +173,10 @@
       "playoffSeed": 0,
       "group": "American Football Conference",
       "sourceRank": 0,
-      "rank": 10
-    },
-    {
-      "team": "Denver Broncos",
-      "wins": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 0,
-      "group": "American Football Conference",
-      "sourceRank": 0,
-      "rank": 11
-    },
-    {
-      "team": "Kansas City Chiefs",
-      "wins": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 0,
-      "group": "American Football Conference",
-      "sourceRank": 0,
-      "rank": 12
-    },
-    {
-      "team": "Miami Dolphins",
-      "wins": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 0,
-      "group": "American Football Conference",
-      "sourceRank": 0,
       "rank": 13
     },
     {
-      "team": "New York Jets",
+      "team": "Kansas City Chiefs",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -215,7 +215,7 @@
       "rank": 16
     },
     {
-      "team": "Atlanta Falcons",
+      "team": "Chicago Bears",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -228,7 +228,7 @@
       "rank": 17
     },
     {
-      "team": "Chicago Bears",
+      "team": "Dallas Cowboys",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -241,7 +241,7 @@
       "rank": 18
     },
     {
-      "team": "Dallas Cowboys",
+      "team": "Los Angeles Rams",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -254,7 +254,7 @@
       "rank": 19
     },
     {
-      "team": "Los Angeles Rams",
+      "team": "Minnesota Vikings",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -267,7 +267,7 @@
       "rank": 20
     },
     {
-      "team": "Minnesota Vikings",
+      "team": "New Orleans Saints",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -280,7 +280,7 @@
       "rank": 21
     },
     {
-      "team": "New Orleans Saints",
+      "team": "New York Giants",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -293,7 +293,7 @@
       "rank": 22
     },
     {
-      "team": "New York Giants",
+      "team": "Philadelphia Eagles",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -306,7 +306,7 @@
       "rank": 23
     },
     {
-      "team": "Philadelphia Eagles",
+      "team": "Seattle Seahawks",
       "wins": 0,
       "losses": 0,
       "goalsFor": 0,
@@ -319,45 +319,6 @@
       "rank": 24
     },
     {
-      "team": "Seattle Seahawks",
-      "wins": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 0,
-      "group": "National Football Conference",
-      "sourceRank": 0,
-      "rank": 25
-    },
-    {
-      "team": "Tampa Bay Buccaneers",
-      "wins": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 0,
-      "group": "National Football Conference",
-      "sourceRank": 0,
-      "rank": 26
-    },
-    {
-      "team": "Washington Commanders",
-      "wins": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 0,
-      "group": "National Football Conference",
-      "sourceRank": 0,
-      "rank": 27
-    },
-    {
       "team": "Houston Texans",
       "wins": 0,
       "losses": 1,
@@ -365,10 +326,36 @@
       "goalsAgainst": 27,
       "goalDifference": -20,
       "winPercent": 0.0,
+      "playoffSeed": 13,
+      "group": "American Football Conference",
+      "sourceRank": 13,
+      "rank": 25
+    },
+    {
+      "team": "New York Jets",
+      "wins": 0,
+      "losses": 1,
+      "goalsFor": 16,
+      "goalsAgainst": 24,
+      "goalDifference": -8,
+      "winPercent": 0.0,
+      "playoffSeed": 14,
+      "group": "American Football Conference",
+      "sourceRank": 14,
+      "rank": 26
+    },
+    {
+      "team": "Miami Dolphins",
+      "wins": 0,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 20,
+      "goalDifference": -13,
+      "winPercent": 0.0,
       "playoffSeed": 15,
       "group": "American Football Conference",
       "sourceRank": 15,
-      "rank": 28
+      "rank": 27
     },
     {
       "team": "Las Vegas Raiders",
@@ -381,7 +368,7 @@
       "playoffSeed": 16,
       "group": "American Football Conference",
       "sourceRank": 16,
-      "rank": 29
+      "rank": 28
     },
     {
       "team": "Detroit Lions",
@@ -394,7 +381,7 @@
       "playoffSeed": 4,
       "group": "National Football Conference",
       "sourceRank": 4,
-      "rank": 30
+      "rank": 29
     },
     {
       "team": "San Francisco 49ers",
@@ -404,10 +391,10 @@
       "goalsAgainst": 19,
       "goalDifference": -6,
       "winPercent": 0.0,
-      "playoffSeed": 15,
+      "playoffSeed": 14,
       "group": "National Football Conference",
-      "sourceRank": 15,
-      "rank": 31
+      "sourceRank": 14,
+      "rank": 30
     },
     {
       "team": "Green Bay Packers",
@@ -416,6 +403,19 @@
       "goalsFor": 9,
       "goalsAgainst": 28,
       "goalDifference": -19,
+      "winPercent": 0.0,
+      "playoffSeed": 15,
+      "group": "National Football Conference",
+      "sourceRank": 15,
+      "rank": 31
+    },
+    {
+      "team": "Atlanta Falcons",
+      "wins": 0,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 27,
+      "goalDifference": -20,
       "winPercent": 0.0,
       "playoffSeed": 16,
       "group": "National Football Conference",
