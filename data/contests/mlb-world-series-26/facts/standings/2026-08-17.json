@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-17",
-  "fetchedAt": "2026-08-17T01:42:25Z",
+  "fetchedAt": "2026-08-17T08:51:09Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -128,16 +128,6 @@
       "rank": 12
     },
     {
-      "participantId": "houston-astros",
-      "played": 124,
-      "wins": 63,
-      "losses": 61,
-      "winPercent": 0.508,
-      "playoffSeed": 1,
-      "group": "American League",
-      "rank": 13
-    },
-    {
       "participantId": "st-louis-cardinals",
       "played": 124,
       "wins": 63,
@@ -145,6 +135,16 @@
       "winPercent": 0.508,
       "playoffSeed": 3,
       "group": "National League",
+      "rank": 13
+    },
+    {
+      "participantId": "houston-astros",
+      "played": 125,
+      "wins": 63,
+      "losses": 62,
+      "winPercent": 0.504,
+      "playoffSeed": 1,
+      "group": "American League",
       "rank": 14
     },
     {
@@ -239,10 +239,10 @@
     },
     {
       "participantId": "seattle-mariners",
-      "played": 124,
-      "wins": 58,
+      "played": 125,
+      "wins": 59,
       "losses": 66,
-      "winPercent": 0.468,
+      "winPercent": 0.472,
       "playoffSeed": 3,
       "group": "American League",
       "rank": 24
