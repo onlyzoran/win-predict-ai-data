@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "f1-constructors-26",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:40Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "mercedes",
+      "name": "Mercedes",
+      "probability": 36.19
+    },
+    {
+      "participantId": "ferrari",
+      "name": "Ferrari",
+      "probability": 26.51
+    },
+    {
+      "participantId": "mclaren",
+      "name": "McLaren",
+      "probability": 16.85
+    },
+    {
+      "participantId": "red-bull",
+      "name": "Red Bull",
+      "probability": 12.57
+    },
+    {
+      "participantId": "racing-bulls",
+      "name": "Racing Bulls",
+      "probability": 3.36
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 4.52,
+      "othersCount": 6
+    }
+  ]
+}

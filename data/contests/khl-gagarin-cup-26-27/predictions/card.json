@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "khl-gagarin-cup-26-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "avangard-omsk",
+      "name": "Avangard Omsk",
+      "probability": 16.39
+    },
+    {
+      "participantId": "lokomotiv-yaroslavl",
+      "name": "Lokomotiv Yaroslavl",
+      "probability": 14.89
+    },
+    {
+      "participantId": "ak-bars-kazan",
+      "name": "Ak Bars Kazan",
+      "probability": 11.7
+    },
+    {
+      "participantId": "cska-moscow",
+      "name": "CSKA Moscow",
+      "probability": 10.23
+    },
+    {
+      "participantId": "metallurg-magnitogorsk",
+      "name": "Metallurg Magnitogorsk",
+      "probability": 10.23
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 36.56,
+      "othersCount": 17
+    }
+  ]
+}

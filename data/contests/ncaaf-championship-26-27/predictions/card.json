@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "ncaaf-championship-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:41Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "ohio-state-buckeyes",
+      "name": "Ohio State Buckeyes",
+      "probability": 8.15
+    },
+    {
+      "participantId": "oregon-ducks",
+      "name": "Oregon Ducks",
+      "probability": 7.61
+    },
+    {
+      "participantId": "georgia-bulldogs",
+      "name": "Georgia Bulldogs",
+      "probability": 7.37
+    },
+    {
+      "participantId": "texas-longhorns",
+      "name": "Texas Longhorns",
+      "probability": 7.12
+    },
+    {
+      "participantId": "notre-dame-fighting-irish",
+      "name": "Notre Dame Fighting Irish",
+      "probability": 7.01
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 62.74,
+      "othersCount": 132
+    }
+  ]
+}

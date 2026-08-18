@@ -11,6 +11,9 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 CONTESTS_DIR = ROOT / "data" / "contests"
 
+PREDICTION_CARD_TOP_N = 5
+PREDICTION_CARD_OTHERS_ID = "others"
+
 # Prediction display names that differ from ESPN/MLB fact names.
 # Keys are prediction-side names; values are preferred fact-side (canonical) names.
 ALIAS_TO_CANONICAL: dict[str, dict[str, str]] = {
@@ -264,6 +267,76 @@ def list_prediction_days(contest_id: str) -> list[str]:
     return sorted(path.stem for path in preds.glob("????-??-??.json"))
 
 
+def participant_id_to_name(participants_payload: dict[str, Any]) -> dict[str, str]:
+    return {
+        participant["id"]: participant.get("name") or participant["id"]
+        for participant in participants_payload.get("participants") or []
+    }
+
+
+def build_prediction_card_items(
+    items: list[dict[str, Any]],
+    name_by_id: dict[str, str],
+    *,
+    top_n: int = PREDICTION_CARD_TOP_N,
+) -> list[dict[str, Any]]:
+    sorted_items = sorted(items, key=lambda item: float(item.get("probability") or 0), reverse=True)
+    top_items = sorted_items[:top_n]
+    rest_items = sorted_items[top_n:]
+
+    card_items: list[dict[str, Any]] = [
+        {
+            "participantId": item["participantId"],
+            "name": name_by_id.get(item["participantId"], item["participantId"]),
+            "probability": float(item["probability"]),
+        }
+        for item in top_items
+    ]
+
+    if rest_items:
+        card_items.append(
+            {
+                "participantId": PREDICTION_CARD_OTHERS_ID,
+                "name": "Others",
+                "probability": round(sum(float(item["probability"]) for item in rest_items), 4),
+                "othersCount": len(rest_items),
+            }
+        )
+
+    return card_items
+
+
+def build_prediction_card_payload(
+    contest_id: str,
+    snapshot: dict[str, Any],
+    items: list[dict[str, Any]],
+) -> dict[str, Any]:
+    name_by_id = participant_id_to_name(load_participants(contest_id))
+    return {
+        "kind": "predictionCard",
+        "contestId": contest_id,
+        "date": snapshot["date"],
+        "generatedAt": snapshot["generatedAt"],
+        "basedOnFactsDate": snapshot.get("basedOnFactsDate"),
+        "basedOnTour": snapshot.get("basedOnTour"),
+        "target": snapshot.get("target", "champion"),
+        "unit": snapshot.get("unit", "percent"),
+        "topN": PREDICTION_CARD_TOP_N,
+        "items": build_prediction_card_items(items, name_by_id),
+    }
+
+
+def write_prediction_card(
+    contest_id: str,
+    snapshot: dict[str, Any],
+    items: list[dict[str, Any]],
+) -> Path:
+    payload = build_prediction_card_payload(contest_id, snapshot, items)
+    out_path = predictions_dir(contest_id) / "card.json"
+    write_json(out_path, payload)
+    return out_path
+
+
 def write_facts_index(contest_id: str) -> dict[str, Any]:
     grain = facts_grain(contest_id)
     facts_root = contest_dir(contest_id) / "facts"
@@ -377,6 +450,7 @@ def write_contests_index() -> dict[str, Any]:
                     "first": (preds_meta or {}).get("first"),
                     "last": (preds_meta or {}).get("last"),
                     "latestFile": f"{contest_id}/predictions/latest.json",
+                    "cardFile": f"{contest_id}/predictions/card.json",
                     "indexFile": f"{contest_id}/predictions/index.json",
                 },
             }
@@ -539,6 +613,7 @@ def write_prediction_snapshot(
     write_json(out_path, payload)
     if update_latest:
         write_json(predictions_dir(contest_id) / "latest.json", payload)
+        write_prediction_card(contest_id, payload, items)
     if refresh_index:
         write_predictions_index(contest_id)
         write_contests_index()

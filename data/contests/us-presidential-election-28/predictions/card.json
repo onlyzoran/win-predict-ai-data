@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "us-presidential-election-28",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "gavin-newsom",
+      "name": "Gavin Newsom",
+      "probability": 12.38
+    },
+    {
+      "participantId": "j-d-vance",
+      "name": "J. D. Vance",
+      "probability": 11.36
+    },
+    {
+      "participantId": "marco-rubio",
+      "name": "Marco Rubio",
+      "probability": 9.01
+    },
+    {
+      "participantId": "jon-ossoff",
+      "name": "Jon Ossoff",
+      "probability": 7.68
+    },
+    {
+      "participantId": "alexandria-ocasio-cortez",
+      "name": "Alexandria Ocasio-Cortez",
+      "probability": 5.02
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 54.55,
+      "othersCount": 128
+    }
+  ]
+}

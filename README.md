@@ -31,6 +31,7 @@ data/contests/
     predictions/
       index.json
       latest.json
+      card.json                  # top-5 + Others for home cards
       YYYY-MM-DD.json
 ```
 
@@ -97,6 +98,34 @@ facts/standings/tour-03/
     { "participantId": "zenit-st-petersburg", "probability": 39.8 }
   ]
 }
+```
+
+### Example prediction card (`predictions/card.json`)
+
+Lightweight snapshot for home-page cards: top 5 teams by probability plus an aggregated **Others** row with resolved display names (no `participants.json` join required). Regenerated on every `latest.json` write.
+
+```json
+{
+  "kind": "predictionCard",
+  "contestId": "rpl-26-27",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T08:16:29Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 3,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    { "participantId": "zenit-st-petersburg", "name": "Zenit St Petersburg", "probability": 39.8 },
+    { "participantId": "others", "name": "Others", "probability": 12.4, "othersCount": 11 }
+  ]
+}
+```
+
+Backfill cards for existing contests:
+
+```bash
+python3 scripts/backfill_prediction_cards.py
 ```
 
 Write predictions:

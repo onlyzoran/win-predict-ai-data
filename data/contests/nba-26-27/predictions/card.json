@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "nba-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:40Z",
+  "basedOnFactsDate": "2026-08-03",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "oklahoma-city-thunder",
+      "name": "Oklahoma City Thunder",
+      "probability": 31.31
+    },
+    {
+      "participantId": "san-antonio-spurs",
+      "name": "San Antonio Spurs",
+      "probability": 27.15
+    },
+    {
+      "participantId": "new-york-knicks",
+      "name": "New York Knicks",
+      "probability": 6.05
+    },
+    {
+      "participantId": "philadelphia-76ers",
+      "name": "Philadelphia 76ers",
+      "probability": 5.13
+    },
+    {
+      "participantId": "boston-celtics",
+      "name": "Boston Celtics",
+      "probability": 4.61
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 25.75,
+      "othersCount": 25
+    }
+  ]
+}

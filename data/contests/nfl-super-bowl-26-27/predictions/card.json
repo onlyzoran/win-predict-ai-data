@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "nfl-super-bowl-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:41Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "los-angeles-rams",
+      "name": "Los Angeles Rams",
+      "probability": 25.4
+    },
+    {
+      "participantId": "buffalo-bills",
+      "name": "Buffalo Bills",
+      "probability": 9.82
+    },
+    {
+      "participantId": "seattle-seahawks",
+      "name": "Seattle Seahawks",
+      "probability": 8.38
+    },
+    {
+      "participantId": "baltimore-ravens",
+      "name": "Baltimore Ravens",
+      "probability": 7.26
+    },
+    {
+      "participantId": "los-angeles-chargers",
+      "name": "Los Angeles Chargers",
+      "probability": 4.99
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 44.15,
+      "othersCount": 27
+    }
+  ]
+}

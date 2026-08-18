@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "golf-the-open-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "scottie-scheffler",
+      "name": "Scottie Scheffler",
+      "probability": 13.13
+    },
+    {
+      "participantId": "rory-mcilroy",
+      "name": "Rory McIlroy",
+      "probability": 8.51
+    },
+    {
+      "participantId": "jon-rahm",
+      "name": "Jon Rahm",
+      "probability": 4.48
+    },
+    {
+      "participantId": "tommy-fleetwood",
+      "name": "Tommy Fleetwood",
+      "probability": 4.05
+    },
+    {
+      "participantId": "cameron-young",
+      "name": "Cameron Young",
+      "probability": 3.27
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 66.56,
+      "othersCount": 46
+    }
+  ]
+}

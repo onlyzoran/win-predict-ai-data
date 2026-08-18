@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "rpl-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:41Z",
+  "basedOnFactsDate": "2026-08-17",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "zenit-st-petersburg",
+      "name": "Zenit St Petersburg",
+      "probability": 32.88
+    },
+    {
+      "participantId": "krasnodar",
+      "name": "Krasnodar",
+      "probability": 20.13
+    },
+    {
+      "participantId": "spartak-moscow",
+      "name": "Spartak Moscow",
+      "probability": 13.32
+    },
+    {
+      "participantId": "cska-moscow",
+      "name": "CSKA Moscow",
+      "probability": 8.08
+    },
+    {
+      "participantId": "dinamo-moscow",
+      "name": "Dinamo Moscow",
+      "probability": 4.7
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 20.89,
+      "othersCount": 11
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "golf-us-open-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "scottie-scheffler",
+      "name": "Scottie Scheffler",
+      "probability": 12.26
+    },
+    {
+      "participantId": "rory-mcilroy",
+      "name": "Rory McIlroy",
+      "probability": 7.54
+    },
+    {
+      "participantId": "jon-rahm",
+      "name": "Jon Rahm",
+      "probability": 5.22
+    },
+    {
+      "participantId": "xander-schauffele",
+      "name": "Xander Schauffele",
+      "probability": 3.99
+    },
+    {
+      "participantId": "tommy-fleetwood",
+      "name": "Tommy Fleetwood",
+      "probability": 2.95
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 68.04,
+      "othersCount": 83
+    }
+  ]
+}
