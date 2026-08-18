@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "ncaab-championship-26-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "florida-gators",
+      "name": "Florida Gators",
+      "probability": 9.62
+    },
+    {
+      "participantId": "duke-blue-devils",
+      "name": "Duke Blue Devils",
+      "probability": 9.5
+    },
+    {
+      "participantId": "uconn-huskies",
+      "name": "UConn Huskies",
+      "probability": 5.18
+    },
+    {
+      "participantId": "illinois-fighting-illini",
+      "name": "Illinois Fighting Illini",
+      "probability": 5.18
+    },
+    {
+      "participantId": "texas-longhorns",
+      "name": "Texas Longhorns",
+      "probability": 4.21
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 66.31,
+      "othersCount": 86
+    }
+  ]
+}

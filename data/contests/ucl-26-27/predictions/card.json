@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "ucl-26-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:33Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "paris-saint-germain",
+      "name": "Paris Saint-Germain",
+      "probability": 14.27
+    },
+    {
+      "participantId": "bayern-munich",
+      "name": "Bayern Munich",
+      "probability": 13.29
+    },
+    {
+      "participantId": "real-madrid",
+      "name": "Real Madrid",
+      "probability": 13.29
+    },
+    {
+      "participantId": "manchester-city",
+      "name": "Manchester City",
+      "probability": 12.3
+    },
+    {
+      "participantId": "arsenal",
+      "name": "Arsenal",
+      "probability": 11.32
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 35.53,
+      "othersCount": 24
+    }
+  ]
+}

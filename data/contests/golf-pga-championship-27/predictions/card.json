@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "golf-pga-championship-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "scottie-scheffler",
+      "name": "Scottie Scheffler",
+      "probability": 12.43
+    },
+    {
+      "participantId": "rory-mcilroy",
+      "name": "Rory McIlroy",
+      "probability": 7.59
+    },
+    {
+      "participantId": "jon-rahm",
+      "name": "Jon Rahm",
+      "probability": 5.69
+    },
+    {
+      "participantId": "xander-schauffele",
+      "name": "Xander Schauffele",
+      "probability": 4.56
+    },
+    {
+      "participantId": "ludvig-aberg",
+      "name": "Ludvig Aberg",
+      "probability": 3.6
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 66.13,
+      "othersCount": 72
+    }
+  ]
+}

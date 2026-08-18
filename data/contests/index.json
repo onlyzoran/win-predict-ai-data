@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T11:51:41Z",
+  "updatedAt": "2026-08-18T15:06:42Z",
   "contests": {
     "bundesliga-26-27": {
       "title": "Bundesliga",
@@ -20,6 +20,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "bundesliga-26-27/predictions/latest.json",
+        "cardFile": "bundesliga-26-27/predictions/card.json",
         "indexFile": "bundesliga-26-27/predictions/index.json"
       }
     },
@@ -42,6 +43,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "epl-26-27/predictions/latest.json",
+        "cardFile": "epl-26-27/predictions/card.json",
         "indexFile": "epl-26-27/predictions/index.json"
       }
     },
@@ -64,6 +66,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "f1-constructors-26/predictions/latest.json",
+        "cardFile": "f1-constructors-26/predictions/card.json",
         "indexFile": "f1-constructors-26/predictions/index.json"
       }
     },
@@ -86,6 +89,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "f1-drivers-26/predictions/latest.json",
+        "cardFile": "f1-drivers-26/predictions/card.json",
         "indexFile": "f1-drivers-26/predictions/index.json"
       }
     },
@@ -101,6 +105,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "golf-masters-27/predictions/latest.json",
+        "cardFile": "golf-masters-27/predictions/card.json",
         "indexFile": "golf-masters-27/predictions/index.json"
       }
     },
@@ -116,6 +121,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "golf-pga-championship-27/predictions/latest.json",
+        "cardFile": "golf-pga-championship-27/predictions/card.json",
         "indexFile": "golf-pga-championship-27/predictions/index.json"
       }
     },
@@ -131,6 +137,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "golf-the-open-27/predictions/latest.json",
+        "cardFile": "golf-the-open-27/predictions/card.json",
         "indexFile": "golf-the-open-27/predictions/index.json"
       }
     },
@@ -146,6 +153,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "golf-us-open-27/predictions/latest.json",
+        "cardFile": "golf-us-open-27/predictions/card.json",
         "indexFile": "golf-us-open-27/predictions/index.json"
       }
     },
@@ -161,6 +169,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "khl-gagarin-cup-26-27/predictions/latest.json",
+        "cardFile": "khl-gagarin-cup-26-27/predictions/card.json",
         "indexFile": "khl-gagarin-cup-26-27/predictions/index.json"
       }
     },
@@ -183,6 +192,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "la-liga-26-27/predictions/latest.json",
+        "cardFile": "la-liga-26-27/predictions/card.json",
         "indexFile": "la-liga-26-27/predictions/index.json"
       }
     },
@@ -205,6 +215,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "ligue-1-26-27/predictions/latest.json",
+        "cardFile": "ligue-1-26-27/predictions/card.json",
         "indexFile": "ligue-1-26-27/predictions/index.json"
       }
     },
@@ -227,6 +238,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "mlb-world-series-26/predictions/latest.json",
+        "cardFile": "mlb-world-series-26/predictions/card.json",
         "indexFile": "mlb-world-series-26/predictions/index.json"
       }
     },
@@ -249,6 +261,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "mls-cup-26/predictions/latest.json",
+        "cardFile": "mls-cup-26/predictions/card.json",
         "indexFile": "mls-cup-26/predictions/index.json"
       }
     },
@@ -271,6 +284,7 @@
         "first": "2026-08-03",
         "last": "2026-08-18",
         "latestFile": "nba-26-27/predictions/latest.json",
+        "cardFile": "nba-26-27/predictions/card.json",
         "indexFile": "nba-26-27/predictions/index.json"
       }
     },
@@ -286,6 +300,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "ncaab-championship-26-27/predictions/latest.json",
+        "cardFile": "ncaab-championship-26-27/predictions/card.json",
         "indexFile": "ncaab-championship-26-27/predictions/index.json"
       }
     },
@@ -308,6 +323,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "ncaaf-championship-26-27/predictions/latest.json",
+        "cardFile": "ncaaf-championship-26-27/predictions/card.json",
         "indexFile": "ncaaf-championship-26-27/predictions/index.json"
       }
     },
@@ -330,6 +346,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "nfl-super-bowl-26-27/predictions/latest.json",
+        "cardFile": "nfl-super-bowl-26-27/predictions/card.json",
         "indexFile": "nfl-super-bowl-26-27/predictions/index.json"
       }
     },
@@ -352,6 +369,7 @@
         "first": "2026-08-03",
         "last": "2026-08-18",
         "latestFile": "nhl-stanley-cup-26-27/predictions/latest.json",
+        "cardFile": "nhl-stanley-cup-26-27/predictions/card.json",
         "indexFile": "nhl-stanley-cup-26-27/predictions/index.json"
       }
     },
@@ -374,6 +392,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "rpl-26-27/predictions/latest.json",
+        "cardFile": "rpl-26-27/predictions/card.json",
         "indexFile": "rpl-26-27/predictions/index.json"
       }
     },
@@ -396,6 +415,7 @@
         "first": "2026-08-11",
         "last": "2026-08-18",
         "latestFile": "serie-a-26-27/predictions/latest.json",
+        "cardFile": "serie-a-26-27/predictions/card.json",
         "indexFile": "serie-a-26-27/predictions/index.json"
       }
     },
@@ -411,6 +431,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "ucl-26-27/predictions/latest.json",
+        "cardFile": "ucl-26-27/predictions/card.json",
         "indexFile": "ucl-26-27/predictions/index.json"
       }
     },
@@ -426,6 +447,7 @@
         "first": "2026-08-12",
         "last": "2026-08-12",
         "latestFile": "us-presidential-election-28/predictions/latest.json",
+        "cardFile": "us-presidential-election-28/predictions/card.json",
         "indexFile": "us-presidential-election-28/predictions/index.json"
       }
     }

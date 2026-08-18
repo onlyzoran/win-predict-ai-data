@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "epl-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:40Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 0,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "arsenal",
+      "name": "Arsenal",
+      "probability": 36.54
+    },
+    {
+      "participantId": "manchester-city",
+      "name": "Manchester City",
+      "probability": 28.89
+    },
+    {
+      "participantId": "liverpool",
+      "name": "Liverpool",
+      "probability": 10.25
+    },
+    {
+      "participantId": "manchester-united",
+      "name": "Manchester United",
+      "probability": 10.25
+    },
+    {
+      "participantId": "chelsea",
+      "name": "Chelsea",
+      "probability": 9.27
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 4.8,
+      "othersCount": 15
+    }
+  ]
+}

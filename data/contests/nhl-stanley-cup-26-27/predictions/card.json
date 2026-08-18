@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "nhl-stanley-cup-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:41Z",
+  "basedOnFactsDate": "2026-08-03",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "colorado-avalanche",
+      "name": "Colorado Avalanche",
+      "probability": 4.39
+    },
+    {
+      "participantId": "carolina-hurricanes",
+      "name": "Carolina Hurricanes",
+      "probability": 4.04
+    },
+    {
+      "participantId": "dallas-stars",
+      "name": "Dallas Stars",
+      "probability": 3.97
+    },
+    {
+      "participantId": "buffalo-sabres",
+      "name": "Buffalo Sabres",
+      "probability": 3.82
+    },
+    {
+      "participantId": "tampa-bay-lightning",
+      "name": "Tampa Bay Lightning",
+      "probability": 3.72
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 80.06,
+      "othersCount": 27
+    }
+  ]
+}

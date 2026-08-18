@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "golf-masters-27",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T07:52:32Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "marco-penge",
+      "name": "Marco Penge",
+      "probability": 2.05
+    },
+    {
+      "participantId": "bud-cauley",
+      "name": "Bud Cauley",
+      "probability": 1.86
+    },
+    {
+      "participantId": "jt-poston",
+      "name": "J.T. Poston",
+      "probability": 1.86
+    },
+    {
+      "participantId": "matti-schmid",
+      "name": "Matti Schmid",
+      "probability": 1.86
+    },
+    {
+      "participantId": "alex-smalley",
+      "name": "Alex Smalley",
+      "probability": 1.86
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 90.51,
+      "othersCount": 86
+    }
+  ]
+}

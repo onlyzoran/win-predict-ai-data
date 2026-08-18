@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "bundesliga-26-27",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:39Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 0,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "bayern-munich",
+      "name": "Bayern Munich",
+      "probability": 87.87
+    },
+    {
+      "participantId": "borussia-dortmund",
+      "name": "Borussia Dortmund",
+      "probability": 5.1
+    },
+    {
+      "participantId": "bayer-leverkusen",
+      "name": "Bayer Leverkusen",
+      "probability": 2.95
+    },
+    {
+      "participantId": "rb-leipzig",
+      "name": "RB Leipzig",
+      "probability": 2.34
+    },
+    {
+      "participantId": "vfb-stuttgart",
+      "name": "VfB Stuttgart",
+      "probability": 0.48
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 1.26,
+      "othersCount": 13
+    }
+  ]
+}

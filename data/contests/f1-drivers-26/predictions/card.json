@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "f1-drivers-26",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-18T11:51:40Z",
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "kimi-antonelli",
+      "name": "Kimi Antonelli",
+      "probability": 22.08
+    },
+    {
+      "participantId": "lewis-hamilton",
+      "name": "Lewis Hamilton",
+      "probability": 14.95
+    },
+    {
+      "participantId": "george-russell",
+      "name": "George Russell",
+      "probability": 13.84
+    },
+    {
+      "participantId": "charles-leclerc",
+      "name": "Charles Leclerc",
+      "probability": 11.33
+    },
+    {
+      "participantId": "lando-norris",
+      "name": "Lando Norris",
+      "probability": 10.25
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 27.55,
+      "othersCount": 17
+    }
+  ]
+}
