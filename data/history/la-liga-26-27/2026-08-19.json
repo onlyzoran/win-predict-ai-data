@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-08-19",
-  "fetchedAt": "2026-08-19T16:37:43Z",
+  "fetchedAt": "2026-08-19T22:12:47Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -35,6 +35,20 @@
       "rank": 2
     },
     {
+      "team": "Atlético Madrid",
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "goalDifference": 2,
+      "points": 3,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
       "team": "Sevilla",
       "played": 1,
       "wins": 1,
@@ -45,25 +59,11 @@
       "goalDifference": 1,
       "points": 3,
       "group": "2026-27 LALIGA",
-      "sourceRank": 3,
-      "rank": 3
-    },
-    {
-      "team": "Racing Santander",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "losses": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 2,
-      "goalDifference": 0,
-      "points": 1,
-      "group": "2026-27 LALIGA",
       "sourceRank": 4,
       "rank": 4
     },
     {
-      "team": "Villarreal",
+      "team": "Racing Santander",
       "played": 1,
       "wins": 0,
       "draws": 1,
@@ -77,13 +77,13 @@
       "rank": 5
     },
     {
-      "team": "Deportivo",
+      "team": "Villarreal",
       "played": 1,
       "wins": 0,
       "draws": 1,
       "losses": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
       "goalDifference": 0,
       "points": 1,
       "group": "2026-27 LALIGA",
@@ -91,7 +91,7 @@
       "rank": 6
     },
     {
-      "team": "Elche",
+      "team": "Deportivo",
       "played": 1,
       "wins": 0,
       "draws": 1,
@@ -105,20 +105,21 @@
       "rank": 7
     },
     {
-      "team": "Athletic Club",
+      "team": "Elche",
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "points": 0,
+      "points": 1,
       "group": "2026-27 LALIGA",
       "sourceRank": 8,
       "rank": 8
     },
     {
-      "team": "Atlético Madrid",
+      "team": "Athletic Club",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -157,7 +158,7 @@
       "rank": 11
     },
     {
-      "team": "Málaga",
+      "team": "Osasuna",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -170,7 +171,7 @@
       "rank": 12
     },
     {
-      "team": "Osasuna",
+      "team": "Real Betis",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -183,7 +184,7 @@
       "rank": 13
     },
     {
-      "team": "Real Betis",
+      "team": "Real Madrid",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -196,7 +197,7 @@
       "rank": 14
     },
     {
-      "team": "Real Madrid",
+      "team": "Real Sociedad",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -209,7 +210,7 @@
       "rank": 15
     },
     {
-      "team": "Real Sociedad",
+      "team": "Valencia",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -222,19 +223,6 @@
       "rank": 16
     },
     {
-      "team": "Valencia",
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "points": 0,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 17,
-      "rank": 17
-    },
-    {
       "team": "Rayo Vallecano",
       "played": 1,
       "wins": 0,
@@ -243,6 +231,20 @@
       "goalsFor": 1,
       "goalsAgainst": 2,
       "goalDifference": -1,
+      "points": 0,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 17,
+      "rank": 17
+    },
+    {
+      "team": "Málaga",
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "goalDifference": -2,
       "points": 0,
       "group": "2026-27 LALIGA",
       "sourceRank": 18,
