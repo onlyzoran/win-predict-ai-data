@@ -170,6 +170,9 @@ python3 scripts/migrate_to_contests.py --contest rpl-26-27 --contest mlb-world-s
       "wins": 1,
       "draws": 0,
       "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "goalDifference": 2,
       "points": 3,
       "group": "2026-27 English Premier League"
     }
@@ -177,6 +180,7 @@ python3 scripts/migrate_to_contests.py --contest rpl-26-27 --contest mlb-world-s
 }
 ```
 
+- Football (soccer): each row includes `goalsFor`, `goalsAgainst`, `goalDifference` (ESPN maps GF/GA as `pointsFor` / `pointsAgainst` in the API)
 - Football / NHL / MLS / F1: `metric` is `points`
 - NBA / NFL: `metric` is `wins` (sorted by win %)
 - NCAAF / NCAAB: AP Top 25 via ESPN rankings (`metric`: `rank`)
