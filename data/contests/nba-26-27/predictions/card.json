@@ -1,8 +1,8 @@
 {
   "kind": "predictionCard",
   "contestId": "nba-26-27",
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T11:51:40Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T18:11:57Z",
   "basedOnFactsDate": "2026-08-03",
   "basedOnTour": null,
   "target": "champion",
@@ -12,32 +12,32 @@
     {
       "participantId": "oklahoma-city-thunder",
       "name": "Oklahoma City Thunder",
-      "probability": 31.31
-    },
-    {
-      "participantId": "san-antonio-spurs",
-      "name": "San Antonio Spurs",
-      "probability": 27.15
-    },
-    {
-      "participantId": "new-york-knicks",
-      "name": "New York Knicks",
-      "probability": 6.05
-    },
-    {
-      "participantId": "philadelphia-76ers",
-      "name": "Philadelphia 76ers",
-      "probability": 5.13
+      "probability": 5.59
     },
     {
       "participantId": "boston-celtics",
       "name": "Boston Celtics",
-      "probability": 4.61
+      "probability": 5.32
+    },
+    {
+      "participantId": "los-angeles-lakers",
+      "name": "Los Angeles Lakers",
+      "probability": 5.03
+    },
+    {
+      "participantId": "san-antonio-spurs",
+      "name": "San Antonio Spurs",
+      "probability": 4.91
+    },
+    {
+      "participantId": "detroit-pistons",
+      "name": "Detroit Pistons",
+      "probability": 4.75
     },
     {
       "participantId": "others",
       "name": "Others",
-      "probability": 25.75,
+      "probability": 74.4,
       "othersCount": 25
     }
   ]

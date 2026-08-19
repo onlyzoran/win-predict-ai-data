@@ -1,8 +1,8 @@
 {
   "kind": "predictionCard",
   "contestId": "la-liga-26-27",
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T11:51:40Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T18:11:57Z",
   "basedOnFactsDate": "2026-08-11",
   "basedOnTour": 0,
   "target": "champion",
@@ -10,34 +10,34 @@
   "topN": 5,
   "items": [
     {
-      "participantId": "barcelona",
-      "name": "Barcelona",
-      "probability": 51.19
-    },
-    {
       "participantId": "real-madrid",
       "name": "Real Madrid",
-      "probability": 43.67
-    },
-    {
-      "participantId": "atlético-madrid",
-      "name": "Atlético Madrid",
-      "probability": 3.51
-    },
-    {
-      "participantId": "real-betis",
-      "name": "Real Betis",
-      "probability": 0.21
+      "probability": 65.29
     },
     {
       "participantId": "athletic-club",
       "name": "Athletic Club",
-      "probability": 0.09
+      "probability": 10.89
+    },
+    {
+      "participantId": "real-sociedad",
+      "name": "Real Sociedad",
+      "probability": 8.71
+    },
+    {
+      "participantId": "villarreal",
+      "name": "Villarreal",
+      "probability": 7.63
+    },
+    {
+      "participantId": "alavés",
+      "name": "Alavés",
+      "probability": 0.44
     },
     {
       "participantId": "others",
       "name": "Others",
-      "probability": 1.33,
+      "probability": 7.04,
       "othersCount": 16
     }
   ]

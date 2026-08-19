@@ -1,8 +1,8 @@
 {
   "kind": "predictionCard",
   "contestId": "mls-cup-26",
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T11:51:40Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T18:11:57Z",
   "basedOnFactsDate": "2026-08-11",
   "basedOnTour": 19,
   "target": "champion",
@@ -10,34 +10,34 @@
   "topN": 5,
   "items": [
     {
+      "participantId": "nashville-sc",
+      "name": "Nashville SC",
+      "probability": 5.69
+    },
+    {
       "participantId": "inter-miami-cf",
       "name": "Inter Miami CF",
-      "probability": 16.96
+      "probability": 5.5
     },
     {
       "participantId": "vancouver-whitecaps",
       "name": "Vancouver Whitecaps",
-      "probability": 9.38
+      "probability": 4.93
     },
     {
       "participantId": "lafc",
       "name": "LAFC",
-      "probability": 7.95
+      "probability": 4.79
     },
     {
-      "participantId": "nashville-sc",
-      "name": "Nashville SC",
-      "probability": 6.94
-    },
-    {
-      "participantId": "chicago-fire-fc",
-      "name": "Chicago Fire FC",
-      "probability": 4.65
+      "participantId": "san-jose-earthquakes",
+      "name": "San Jose Earthquakes",
+      "probability": 4.63
     },
     {
       "participantId": "others",
       "name": "Others",
-      "probability": 54.12,
+      "probability": 74.46,
       "othersCount": 25
     }
   ]

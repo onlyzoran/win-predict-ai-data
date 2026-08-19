@@ -1,8 +1,8 @@
 {
   "kind": "predictionCard",
   "contestId": "serie-a-26-27",
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T11:51:41Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T18:11:58Z",
   "basedOnFactsDate": "2026-08-11",
   "basedOnTour": 0,
   "target": "champion",
@@ -10,34 +10,34 @@
   "topN": 5,
   "items": [
     {
-      "participantId": "internazionale",
-      "name": "Internazionale",
-      "probability": 51.98
+      "participantId": "ac-milan",
+      "name": "AC Milan",
+      "probability": 23.56
     },
     {
       "participantId": "juventus",
       "name": "Juventus",
-      "probability": 13.17
+      "probability": 23.51
     },
     {
       "participantId": "napoli",
       "name": "Napoli",
-      "probability": 12.18
+      "probability": 18.81
     },
     {
-      "participantId": "ac-milan",
-      "name": "AC Milan",
-      "probability": 11.18
+      "participantId": "atalanta",
+      "name": "Atalanta",
+      "probability": 12.54
     },
     {
       "participantId": "as-roma",
       "name": "AS Roma",
-      "probability": 6.05
+      "probability": 9.4
     },
     {
       "participantId": "others",
       "name": "Others",
-      "probability": 5.44,
+      "probability": 12.18,
       "othersCount": 15
     }
   ]
