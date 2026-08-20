@@ -2,17 +2,17 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-20",
-  "fetchedAt": "2026-08-20T01:38:16Z",
+  "fetchedAt": "2026-08-20T08:47:20Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "milwaukee-brewers",
-      "played": 126,
+      "played": 127,
       "wins": 78,
-      "losses": 48,
-      "winPercent": 0.619,
+      "losses": 49,
+      "winPercent": 0.614,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 1
@@ -29,10 +29,10 @@
     },
     {
       "participantId": "los-angeles-dodgers",
-      "played": 127,
-      "wins": 76,
+      "played": 128,
+      "wins": 77,
       "losses": 51,
-      "winPercent": 0.598,
+      "winPercent": 0.602,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 3
@@ -59,10 +59,10 @@
     },
     {
       "participantId": "new-york-yankees",
-      "played": 125,
-      "wins": 70,
+      "played": 126,
+      "wins": 71,
       "losses": 55,
-      "winPercent": 0.56,
+      "winPercent": 0.563,
       "playoffSeed": 2,
       "group": "American League",
       "rank": 6
@@ -119,13 +119,23 @@
     },
     {
       "participantId": "st-louis-cardinals",
-      "played": 127,
+      "played": 128,
       "wins": 65,
-      "losses": 62,
-      "winPercent": 0.512,
+      "losses": 63,
+      "winPercent": 0.508,
       "playoffSeed": 3,
       "group": "National League",
       "rank": 12
+    },
+    {
+      "participantId": "houston-astros",
+      "played": 127,
+      "wins": 64,
+      "losses": 63,
+      "winPercent": 0.504,
+      "playoffSeed": 1,
+      "group": "American League",
+      "rank": 13
     },
     {
       "participantId": "miami-marlins",
@@ -135,16 +145,6 @@
       "winPercent": 0.5,
       "playoffSeed": 3,
       "group": "National League",
-      "rank": 13
-    },
-    {
-      "participantId": "houston-astros",
-      "played": 126,
-      "wins": 63,
-      "losses": 63,
-      "winPercent": 0.5,
-      "playoffSeed": 1,
-      "group": "American League",
       "rank": 14
     },
     {
@@ -158,16 +158,6 @@
       "rank": 15
     },
     {
-      "participantId": "texas-rangers",
-      "played": 126,
-      "wins": 62,
-      "losses": 64,
-      "winPercent": 0.492,
-      "playoffSeed": 2,
-      "group": "American League",
-      "rank": 16
-    },
-    {
       "participantId": "pittsburgh-pirates",
       "played": 129,
       "wins": 63,
@@ -175,6 +165,16 @@
       "winPercent": 0.488,
       "playoffSeed": 4,
       "group": "National League",
+      "rank": 16
+    },
+    {
+      "participantId": "texas-rangers",
+      "played": 127,
+      "wins": 62,
+      "losses": 65,
+      "winPercent": 0.488,
+      "playoffSeed": 2,
+      "group": "American League",
       "rank": 17
     },
     {
@@ -189,10 +189,10 @@
     },
     {
       "participantId": "baltimore-orioles",
-      "played": 126,
+      "played": 127,
       "wins": 61,
-      "losses": 65,
-      "winPercent": 0.484,
+      "losses": 66,
+      "winPercent": 0.48,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 19
@@ -219,30 +219,30 @@
     },
     {
       "participantId": "cincinnati-reds",
-      "played": 126,
-      "wins": 60,
+      "played": 127,
+      "wins": 61,
       "losses": 66,
-      "winPercent": 0.476,
+      "winPercent": 0.48,
       "playoffSeed": 5,
       "group": "National League",
       "rank": 22
     },
     {
       "participantId": "washington-nationals",
-      "played": 127,
-      "wins": 60,
+      "played": 128,
+      "wins": 61,
       "losses": 67,
-      "winPercent": 0.472,
+      "winPercent": 0.477,
       "playoffSeed": 4,
       "group": "National League",
       "rank": 23
     },
     {
       "participantId": "seattle-mariners",
-      "played": 126,
-      "wins": 59,
+      "played": 127,
+      "wins": 60,
       "losses": 67,
-      "winPercent": 0.468,
+      "winPercent": 0.472,
       "playoffSeed": 3,
       "group": "American League",
       "rank": 24
@@ -259,10 +259,10 @@
     },
     {
       "participantId": "kansas-city-royals",
-      "played": 127,
-      "wins": 53,
+      "played": 128,
+      "wins": 54,
       "losses": 74,
-      "winPercent": 0.417,
+      "winPercent": 0.422,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 26
@@ -279,30 +279,30 @@
     },
     {
       "participantId": "los-angeles-angels",
-      "played": 126,
+      "played": 127,
       "wins": 50,
-      "losses": 76,
-      "winPercent": 0.397,
+      "losses": 77,
+      "winPercent": 0.394,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 28
     },
     {
       "participantId": "colorado-rockies",
-      "played": 126,
+      "played": 127,
       "wins": 50,
-      "losses": 76,
-      "winPercent": 0.397,
+      "losses": 77,
+      "winPercent": 0.394,
       "playoffSeed": 5,
       "group": "National League",
       "rank": 29
     },
     {
       "participantId": "athletics",
-      "played": 126,
+      "played": 127,
       "wins": 49,
-      "losses": 77,
-      "winPercent": 0.389,
+      "losses": 78,
+      "winPercent": 0.386,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 30
