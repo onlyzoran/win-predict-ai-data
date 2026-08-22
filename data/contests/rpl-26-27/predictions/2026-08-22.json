@@ -2,79 +2,79 @@
   "kind": "prediction",
   "contestId": "rpl-26-27",
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T03:10:53Z",
+  "generatedAt": "2026-08-22T18:12:29Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-08-17",
-  "basedOnTour": 4,
+  "basedOnFactsDate": "2026-08-22",
+  "basedOnTour": 5,
   "target": "champion",
   "unit": "percent",
   "items": [
     {
       "participantId": "zenit-st-petersburg",
-      "probability": 16.09
+      "probability": 29.81
     },
     {
       "participantId": "krasnodar",
-      "probability": 14.79
+      "probability": 19.0
     },
     {
       "participantId": "spartak-moscow",
-      "probability": 11.95
+      "probability": 10.16
     },
     {
       "participantId": "cska-moscow",
-      "probability": 9.73
+      "probability": 5.9
     },
     {
       "participantId": "dynamo-makhachkala",
-      "probability": 9.19
-    },
-    {
-      "participantId": "fc-baltika-kaliningrad",
-      "probability": 6.04
-    },
-    {
-      "participantId": "rostov",
-      "probability": 5.06
-    },
-    {
-      "participantId": "rubin-kazan",
-      "probability": 4.86
+      "probability": 4.48
     },
     {
       "participantId": "dinamo-moscow",
-      "probability": 4.78
+      "probability": 3.45
+    },
+    {
+      "participantId": "fc-baltika-kaliningrad",
+      "probability": 3.32
     },
     {
       "participantId": "gazovik-orenburg",
-      "probability": 4.76
+      "probability": 3.09
     },
     {
       "participantId": "lokomotiv-moscow",
-      "probability": 3.69
+      "probability": 3.02
+    },
+    {
+      "participantId": "rostov",
+      "probability": 3.02
+    },
+    {
+      "participantId": "rubin-kazan",
+      "probability": 2.96
     },
     {
       "participantId": "rodina-moscow",
-      "probability": 3.58
+      "probability": 2.71
     },
     {
       "participantId": "akhmat-grozny",
-      "probability": 1.81
-    },
-    {
-      "participantId": "krylia-sovetov",
-      "probability": 1.52
+      "probability": 2.29
     },
     {
       "participantId": "akron-tolyatti",
-      "probability": 1.42
+      "probability": 2.28
+    },
+    {
+      "participantId": "krylia-sovetov",
+      "probability": 2.28
     },
     {
       "participantId": "fakel-voronezh",
-      "probability": 0.73
+      "probability": 2.23
     }
   ]
 }
