@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:40:42Z",
+  "updatedAt": "2026-08-22T01:36:33Z",
   "contests": {
     "bundesliga-26-27": {
       "title": "Bundesliga",
@@ -226,9 +226,9 @@
       "hasFacts": true,
       "factsGrain": "day",
       "facts": {
-        "count": 150,
+        "count": 151,
         "first": "2026-03-25",
-        "last": "2026-08-21",
+        "last": "2026-08-22",
         "latestTour": null,
         "latestFile": "mlb-world-series-26/facts/latest.json",
         "indexFile": "mlb-world-series-26/facts/index.json"
