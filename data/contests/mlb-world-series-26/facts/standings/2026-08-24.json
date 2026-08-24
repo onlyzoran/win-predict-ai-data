@@ -2,17 +2,17 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-24",
-  "fetchedAt": "2026-08-24T01:44:14Z",
+  "fetchedAt": "2026-08-24T08:54:59Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "milwaukee-brewers",
-      "played": 130,
+      "played": 131,
       "wins": 81,
-      "losses": 49,
-      "winPercent": 0.623,
+      "losses": 50,
+      "winPercent": 0.618,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 1
@@ -39,10 +39,10 @@
     },
     {
       "participantId": "atlanta-braves",
-      "played": 130,
-      "wins": 75,
+      "played": 131,
+      "wins": 76,
       "losses": 55,
-      "winPercent": 0.577,
+      "winPercent": 0.58,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 4

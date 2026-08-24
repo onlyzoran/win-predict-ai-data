@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-08-24",
-  "fetchedAt": "2026-08-24T01:44:13Z",
+  "fetchedAt": "2026-08-24T08:54:58Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -33,6 +33,19 @@
       "rank": 2
     },
     {
+      "team": "Tennessee Titans",
+      "wins": 2,
+      "losses": 0,
+      "goalsFor": 38,
+      "goalsAgainst": 29,
+      "goalDifference": 9,
+      "winPercent": 1.0,
+      "playoffSeed": 3,
+      "group": "American Football Conference",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
       "team": "Baltimore Ravens",
       "wins": 2,
       "losses": 0,
@@ -43,7 +56,7 @@
       "playoffSeed": 5,
       "group": "American Football Conference",
       "sourceRank": 5,
-      "rank": 3
+      "rank": 4
     },
     {
       "team": "Dallas Cowboys",
@@ -56,7 +69,7 @@
       "playoffSeed": 1,
       "group": "National Football Conference",
       "sourceRank": 1,
-      "rank": 4
+      "rank": 5
     },
     {
       "team": "Los Angeles Rams",
@@ -69,7 +82,7 @@
       "playoffSeed": 2,
       "group": "National Football Conference",
       "sourceRank": 2,
-      "rank": 5
+      "rank": 6
     },
     {
       "team": "Tampa Bay Buccaneers",
@@ -81,19 +94,6 @@
       "winPercent": 1.0,
       "playoffSeed": 3,
       "group": "National Football Conference",
-      "sourceRank": 3,
-      "rank": 6
-    },
-    {
-      "team": "Tennessee Titans",
-      "wins": 1,
-      "losses": 0,
-      "goalsFor": 19,
-      "goalsAgainst": 13,
-      "goalDifference": 6,
-      "winPercent": 1.0,
-      "playoffSeed": 3,
-      "group": "American Football Conference",
       "sourceRank": 3,
       "rank": 7
     },
@@ -332,19 +332,6 @@
       "rank": 25
     },
     {
-      "team": "Seattle Seahawks",
-      "wins": 0,
-      "losses": 1,
-      "goalsFor": 7,
-      "goalsAgainst": 17,
-      "goalDifference": -10,
-      "winPercent": 0.0,
-      "playoffSeed": 14,
-      "group": "National Football Conference",
-      "sourceRank": 14,
-      "rank": 26
-    },
-    {
       "team": "Kansas City Chiefs",
       "wins": 0,
       "losses": 2,
@@ -355,7 +342,7 @@
       "playoffSeed": 13,
       "group": "American Football Conference",
       "sourceRank": 13,
-      "rank": 27
+      "rank": 26
     },
     {
       "team": "Cleveland Browns",
@@ -368,7 +355,7 @@
       "playoffSeed": 14,
       "group": "American Football Conference",
       "sourceRank": 14,
-      "rank": 28
+      "rank": 27
     },
     {
       "team": "Houston Texans",
@@ -381,7 +368,7 @@
       "playoffSeed": 15,
       "group": "American Football Conference",
       "sourceRank": 15,
-      "rank": 29
+      "rank": 28
     },
     {
       "team": "Miami Dolphins",
@@ -394,6 +381,19 @@
       "playoffSeed": 16,
       "group": "American Football Conference",
       "sourceRank": 16,
+      "rank": 29
+    },
+    {
+      "team": "Seattle Seahawks",
+      "wins": 0,
+      "losses": 2,
+      "goalsFor": 23,
+      "goalsAgainst": 36,
+      "goalDifference": -13,
+      "winPercent": 0.0,
+      "playoffSeed": 14,
+      "group": "National Football Conference",
+      "sourceRank": 14,
       "rank": 30
     },
     {
