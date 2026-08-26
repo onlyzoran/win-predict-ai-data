@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T16:44:04Z",
+  "updatedAt": "2026-08-26T03:09:53Z",
   "contests": {
     "bundesliga-26-27": {
       "title": "Bundesliga",
@@ -16,9 +16,9 @@
         "indexFile": "bundesliga-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "bundesliga-26-27/predictions/latest.json",
         "cardFile": "bundesliga-26-27/predictions/card.json",
         "indexFile": "bundesliga-26-27/predictions/index.json"
@@ -39,9 +39,9 @@
         "indexFile": "epl-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "epl-26-27/predictions/latest.json",
         "cardFile": "epl-26-27/predictions/card.json",
         "indexFile": "epl-26-27/predictions/index.json"
@@ -62,9 +62,9 @@
         "indexFile": "f1-constructors-26/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "f1-constructors-26/predictions/latest.json",
         "cardFile": "f1-constructors-26/predictions/card.json",
         "indexFile": "f1-constructors-26/predictions/index.json"
@@ -85,9 +85,9 @@
         "indexFile": "f1-drivers-26/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "f1-drivers-26/predictions/latest.json",
         "cardFile": "f1-drivers-26/predictions/card.json",
         "indexFile": "f1-drivers-26/predictions/index.json"
@@ -188,9 +188,9 @@
         "indexFile": "la-liga-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "la-liga-26-27/predictions/latest.json",
         "cardFile": "la-liga-26-27/predictions/card.json",
         "indexFile": "la-liga-26-27/predictions/index.json"
@@ -211,9 +211,9 @@
         "indexFile": "ligue-1-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "ligue-1-26-27/predictions/latest.json",
         "cardFile": "ligue-1-26-27/predictions/card.json",
         "indexFile": "ligue-1-26-27/predictions/index.json"
@@ -234,9 +234,9 @@
         "indexFile": "mlb-world-series-26/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "mlb-world-series-26/predictions/latest.json",
         "cardFile": "mlb-world-series-26/predictions/card.json",
         "indexFile": "mlb-world-series-26/predictions/index.json"
@@ -257,9 +257,9 @@
         "indexFile": "mls-cup-26/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "mls-cup-26/predictions/latest.json",
         "cardFile": "mls-cup-26/predictions/card.json",
         "indexFile": "mls-cup-26/predictions/index.json"
@@ -280,9 +280,9 @@
         "indexFile": "nba-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-03",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "nba-26-27/predictions/latest.json",
         "cardFile": "nba-26-27/predictions/card.json",
         "indexFile": "nba-26-27/predictions/index.json"
@@ -319,9 +319,9 @@
         "indexFile": "ncaaf-championship-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "ncaaf-championship-26-27/predictions/latest.json",
         "cardFile": "ncaaf-championship-26-27/predictions/card.json",
         "indexFile": "ncaaf-championship-26-27/predictions/index.json"
@@ -342,9 +342,9 @@
         "indexFile": "nfl-super-bowl-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "nfl-super-bowl-26-27/predictions/latest.json",
         "cardFile": "nfl-super-bowl-26-27/predictions/card.json",
         "indexFile": "nfl-super-bowl-26-27/predictions/index.json"
@@ -365,9 +365,9 @@
         "indexFile": "nhl-stanley-cup-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-03",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "nhl-stanley-cup-26-27/predictions/latest.json",
         "cardFile": "nhl-stanley-cup-26-27/predictions/card.json",
         "indexFile": "nhl-stanley-cup-26-27/predictions/index.json"
@@ -388,9 +388,9 @@
         "indexFile": "rpl-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "rpl-26-27/predictions/latest.json",
         "cardFile": "rpl-26-27/predictions/card.json",
         "indexFile": "rpl-26-27/predictions/index.json"
@@ -411,9 +411,9 @@
         "indexFile": "serie-a-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 15,
+        "count": 16,
         "first": "2026-08-11",
-        "last": "2026-08-25",
+        "last": "2026-08-26",
         "latestFile": "serie-a-26-27/predictions/latest.json",
         "cardFile": "serie-a-26-27/predictions/card.json",
         "indexFile": "serie-a-26-27/predictions/index.json"
