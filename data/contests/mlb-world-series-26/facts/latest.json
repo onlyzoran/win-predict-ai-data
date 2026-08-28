@@ -2,27 +2,27 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-28",
-  "fetchedAt": "2026-08-28T00:48:56Z",
+  "fetchedAt": "2026-08-28T20:07:38Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "milwaukee-brewers",
-      "played": 133,
-      "wins": 82,
+      "played": 134,
+      "wins": 83,
       "losses": 51,
-      "winPercent": 0.617,
+      "winPercent": 0.619,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 1
     },
     {
       "participantId": "los-angeles-dodgers",
-      "played": 133,
+      "played": 134,
       "wins": 80,
-      "losses": 53,
-      "winPercent": 0.602,
+      "losses": 54,
+      "winPercent": 0.597,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 2
@@ -39,23 +39,13 @@
     },
     {
       "participantId": "atlanta-braves",
-      "played": 133,
-      "wins": 78,
+      "played": 134,
+      "wins": 79,
       "losses": 55,
-      "winPercent": 0.586,
+      "winPercent": 0.59,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 4
-    },
-    {
-      "participantId": "new-york-yankees",
-      "played": 132,
-      "wins": 75,
-      "losses": 57,
-      "winPercent": 0.568,
-      "playoffSeed": 2,
-      "group": "American League",
-      "rank": 5
     },
     {
       "participantId": "chicago-cubs",
@@ -65,6 +55,16 @@
       "winPercent": 0.567,
       "playoffSeed": 2,
       "group": "National League",
+      "rank": 5
+    },
+    {
+      "participantId": "new-york-yankees",
+      "played": 133,
+      "wins": 75,
+      "losses": 58,
+      "winPercent": 0.564,
+      "playoffSeed": 2,
+      "group": "American League",
       "rank": 6
     },
     {
@@ -99,10 +99,10 @@
     },
     {
       "participantId": "arizona-diamondbacks",
-      "played": 134,
+      "played": 135,
       "wins": 71,
-      "losses": 63,
-      "winPercent": 0.53,
+      "losses": 64,
+      "winPercent": 0.526,
       "playoffSeed": 3,
       "group": "National League",
       "rank": 10
@@ -138,6 +138,16 @@
       "rank": 13
     },
     {
+      "participantId": "houston-astros",
+      "played": 134,
+      "wins": 67,
+      "losses": 67,
+      "winPercent": 0.5,
+      "playoffSeed": 1,
+      "group": "American League",
+      "rank": 14
+    },
+    {
       "participantId": "st-louis-cardinals",
       "played": 135,
       "wins": 67,
@@ -145,16 +155,6 @@
       "winPercent": 0.496,
       "playoffSeed": 3,
       "group": "National League",
-      "rank": 14
-    },
-    {
-      "participantId": "houston-astros",
-      "played": 133,
-      "wins": 66,
-      "losses": 67,
-      "winPercent": 0.496,
-      "playoffSeed": 1,
-      "group": "American League",
       "rank": 15
     },
     {
@@ -168,7 +168,7 @@
       "rank": 16
     },
     {
-      "participantId": "toronto-blue-jays",
+      "participantId": "baltimore-orioles",
       "played": 134,
       "wins": 65,
       "losses": 69,
@@ -178,11 +178,11 @@
       "rank": 17
     },
     {
-      "participantId": "baltimore-orioles",
-      "played": 134,
+      "participantId": "toronto-blue-jays",
+      "played": 135,
       "wins": 65,
-      "losses": 69,
-      "winPercent": 0.485,
+      "losses": 70,
+      "winPercent": 0.481,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 18
@@ -249,30 +249,30 @@
     },
     {
       "participantId": "new-york-mets",
-      "played": 133,
+      "played": 134,
       "wins": 60,
-      "losses": 73,
-      "winPercent": 0.451,
+      "losses": 74,
+      "winPercent": 0.448,
       "playoffSeed": 5,
       "group": "National League",
       "rank": 25
     },
     {
       "participantId": "kansas-city-royals",
-      "played": 134,
-      "wins": 59,
+      "played": 135,
+      "wins": 60,
       "losses": 75,
-      "winPercent": 0.44,
+      "winPercent": 0.444,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 26
     },
     {
       "participantId": "san-francisco-giants",
-      "played": 133,
-      "wins": 54,
+      "played": 134,
+      "wins": 55,
       "losses": 79,
-      "winPercent": 0.406,
+      "winPercent": 0.41,
       "playoffSeed": 4,
       "group": "National League",
       "rank": 27
