@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
   "date": "2026-08-29",
-  "fetchedAt": "2026-08-29T06:41:54Z",
+  "fetchedAt": "2026-08-29T13:45:27Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -134,14 +134,14 @@
     },
     {
       "team": "Liverpool",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 2,
+      "goalsFor": 4,
+      "goalsAgainst": 4,
       "goalDifference": 0,
-      "points": 1,
+      "points": 2,
       "group": "2026-27 English Premier League",
       "sourceRank": 10,
       "rank": 10
@@ -161,6 +161,20 @@
       "rank": 11
     },
     {
+      "team": "Nottingham Forest",
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "goalDifference": -1,
+      "points": 1,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 12,
+      "rank": 12
+    },
+    {
       "team": "Fulham",
       "played": 1,
       "wins": 0,
@@ -171,25 +185,11 @@
       "goalDifference": -1,
       "points": 0,
       "group": "2026-27 English Premier League",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "AFC Bournemouth",
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 2,
-      "goalDifference": -1,
-      "points": 0,
-      "group": "2026-27 English Premier League",
       "sourceRank": 13,
       "rank": 13
     },
     {
-      "team": "Sunderland",
+      "team": "AFC Bournemouth",
       "played": 1,
       "wins": 0,
       "draws": 0,
@@ -203,13 +203,13 @@
       "rank": 14
     },
     {
-      "team": "Nottingham Forest",
+      "team": "Sunderland",
       "played": 1,
       "wins": 0,
       "draws": 0,
       "losses": 1,
-      "goalsFor": 0,
-      "goalsAgainst": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
       "goalDifference": -1,
       "points": 0,
       "group": "2026-27 English Premier League",
