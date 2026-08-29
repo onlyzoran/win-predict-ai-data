@@ -1,0 +1,88 @@
+{
+  "kind": "prediction",
+  "contestId": "bundesliga-26-27",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T03:10:03Z",
+  "model": {
+    "name": "cursor-cloud",
+    "version": "composer-2.5"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 0,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "bayern-munich",
+      "probability": 38.2
+    },
+    {
+      "participantId": "borussia-dortmund",
+      "probability": 19.13
+    },
+    {
+      "participantId": "bayer-leverkusen",
+      "probability": 15.31
+    },
+    {
+      "participantId": "rb-leipzig",
+      "probability": 12.76
+    },
+    {
+      "participantId": "vfb-stuttgart",
+      "probability": 6.38
+    },
+    {
+      "participantId": "eintracht-frankfurt",
+      "probability": 5.1
+    },
+    {
+      "participantId": "1-fc-union-berlin",
+      "probability": 0.26
+    },
+    {
+      "participantId": "fc-augsburg",
+      "probability": 0.26
+    },
+    {
+      "participantId": "hamburg-sv",
+      "probability": 0.26
+    },
+    {
+      "participantId": "sv-elversberg",
+      "probability": 0.26
+    },
+    {
+      "participantId": "sc-freiburg",
+      "probability": 0.26
+    },
+    {
+      "participantId": "fc-cologne",
+      "probability": 0.26
+    },
+    {
+      "participantId": "werder-bremen",
+      "probability": 0.26
+    },
+    {
+      "participantId": "mainz",
+      "probability": 0.26
+    },
+    {
+      "participantId": "schalke-04",
+      "probability": 0.26
+    },
+    {
+      "participantId": "borussia-mönchengladbach",
+      "probability": 0.26
+    },
+    {
+      "participantId": "tsg-hoffenheim",
+      "probability": 0.26
+    },
+    {
+      "participantId": "sc-paderborn-07",
+      "probability": 0.26
+    }
+  ]
+}

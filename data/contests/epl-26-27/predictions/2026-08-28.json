@@ -1,0 +1,96 @@
+{
+  "kind": "prediction",
+  "contestId": "epl-26-27",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T03:21:33Z",
+  "model": {
+    "name": "cursor-cloud",
+    "version": "composer-2.5"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 0,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "arsenal",
+      "probability": 35.78
+    },
+    {
+      "participantId": "manchester-city",
+      "probability": 28.57
+    },
+    {
+      "participantId": "manchester-united",
+      "probability": 10.2
+    },
+    {
+      "participantId": "liverpool",
+      "probability": 10.2
+    },
+    {
+      "participantId": "chelsea",
+      "probability": 9.18
+    },
+    {
+      "participantId": "tottenham-hotspur",
+      "probability": 2.24
+    },
+    {
+      "participantId": "aston-villa",
+      "probability": 1.12
+    },
+    {
+      "participantId": "newcastle-united",
+      "probability": 0.31
+    },
+    {
+      "participantId": "sunderland",
+      "probability": 0.2
+    },
+    {
+      "participantId": "fulham",
+      "probability": 0.2
+    },
+    {
+      "participantId": "brighton-and-hove-albion",
+      "probability": 0.2
+    },
+    {
+      "participantId": "brentford",
+      "probability": 0.2
+    },
+    {
+      "participantId": "ipswich-town",
+      "probability": 0.2
+    },
+    {
+      "participantId": "coventry-city",
+      "probability": 0.2
+    },
+    {
+      "participantId": "hull-city",
+      "probability": 0.2
+    },
+    {
+      "participantId": "everton",
+      "probability": 0.2
+    },
+    {
+      "participantId": "afc-bournemouth",
+      "probability": 0.2
+    },
+    {
+      "participantId": "leeds-united",
+      "probability": 0.2
+    },
+    {
+      "participantId": "crystal-palace",
+      "probability": 0.2
+    },
+    {
+      "participantId": "nottingham-forest",
+      "probability": 0.2
+    }
+  ]
+}

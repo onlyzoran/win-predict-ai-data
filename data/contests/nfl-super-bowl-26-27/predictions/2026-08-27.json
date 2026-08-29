@@ -1,0 +1,144 @@
+{
+  "kind": "prediction",
+  "contestId": "nfl-super-bowl-26-27",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T03:10:04Z",
+  "model": {
+    "name": "cursor-cloud",
+    "version": "composer-2.5"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "kansas-city-chiefs",
+      "probability": 9.88
+    },
+    {
+      "participantId": "buffalo-bills",
+      "probability": 8.17
+    },
+    {
+      "participantId": "san-francisco-49ers",
+      "probability": 7.19
+    },
+    {
+      "participantId": "baltimore-ravens",
+      "probability": 6.54
+    },
+    {
+      "participantId": "philadelphia-eagles",
+      "probability": 6.54
+    },
+    {
+      "participantId": "detroit-lions",
+      "probability": 5.88
+    },
+    {
+      "participantId": "los-angeles-rams",
+      "probability": 5.56
+    },
+    {
+      "participantId": "cincinnati-bengals",
+      "probability": 4.9
+    },
+    {
+      "participantId": "dallas-cowboys",
+      "probability": 4.9
+    },
+    {
+      "participantId": "green-bay-packers",
+      "probability": 4.58
+    },
+    {
+      "participantId": "jacksonville-jaguars",
+      "probability": 1.63
+    },
+    {
+      "participantId": "chicago-bears",
+      "probability": 1.63
+    },
+    {
+      "participantId": "arizona-cardinals",
+      "probability": 1.63
+    },
+    {
+      "participantId": "minnesota-vikings",
+      "probability": 1.63
+    },
+    {
+      "participantId": "las-vegas-raiders",
+      "probability": 1.63
+    },
+    {
+      "participantId": "tampa-bay-buccaneers",
+      "probability": 1.63
+    },
+    {
+      "participantId": "indianapolis-colts",
+      "probability": 1.63
+    },
+    {
+      "participantId": "new-england-patriots",
+      "probability": 1.63
+    },
+    {
+      "participantId": "tennessee-titans",
+      "probability": 1.63
+    },
+    {
+      "participantId": "atlanta-falcons",
+      "probability": 1.63
+    },
+    {
+      "participantId": "new-orleans-saints",
+      "probability": 1.63
+    },
+    {
+      "participantId": "los-angeles-chargers",
+      "probability": 1.63
+    },
+    {
+      "participantId": "houston-texans",
+      "probability": 1.63
+    },
+    {
+      "participantId": "miami-dolphins",
+      "probability": 1.63
+    },
+    {
+      "participantId": "new-york-giants",
+      "probability": 1.63
+    },
+    {
+      "participantId": "washington-commanders",
+      "probability": 1.63
+    },
+    {
+      "participantId": "pittsburgh-steelers",
+      "probability": 1.63
+    },
+    {
+      "participantId": "seattle-seahawks",
+      "probability": 1.63
+    },
+    {
+      "participantId": "denver-broncos",
+      "probability": 1.63
+    },
+    {
+      "participantId": "carolina-panthers",
+      "probability": 1.63
+    },
+    {
+      "participantId": "new-york-jets",
+      "probability": 1.63
+    },
+    {
+      "participantId": "cleveland-browns",
+      "probability": 1.63
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "kind": "prediction",
+  "contestId": "ncaaf-championship-26-27",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T03:10:53Z",
+  "model": {
+    "name": "cursor-cloud",
+    "version": "composer-2.5"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "ohio-state-buckeyes",
+      "probability": 7.62
+    },
+    {
+      "participantId": "oregon-ducks",
+      "probability": 7.17
+    },
+    {
+      "participantId": "georgia-bulldogs",
+      "probability": 6.97
+    },
+    {
+      "participantId": "texas-longhorns",
+      "probability": 6.76
+    },
+    {
+      "participantId": "notre-dame-fighting-irish",
+      "probability": 6.67
+    },
+    {
+      "participantId": "indiana-hoosiers",
+      "probability": 6.67
+    },
+    {
+      "participantId": "miami-hurricanes",
+      "probability": 6.17
+    },
+    {
+      "participantId": "texas-a-and-m-aggies",
+      "probability": 5.14
+    },
+    {
+      "participantId": "oklahoma-sooners",
+      "probability": 4.83
+    },
+    {
+      "participantId": "ole-miss-rebels",
+      "probability": 4.8
+    },
+    {
+      "participantId": "alabama-crimson-tide",
+      "probability": 4.6
+    },
+    {
+      "participantId": "texas-tech-red-raiders",
+      "probability": 4.53
+    },
+    {
+      "participantId": "lsu-tigers",
+      "probability": 4.16
+    },
+    {
+      "participantId": "usc-trojans",
+      "probability": 3.67
+    },
+    {
+      "participantId": "byu-cougars",
+      "probability": 3.42
+    },
+    {
+      "participantId": "michigan-wolverines",
+      "probability": 3.15
+    },
+    {
+      "participantId": "penn-state-nittany-lions",
+      "probability": 2.03
+    },
+    {
+      "participantId": "tennessee-volunteers",
+      "probability": 1.87
+    },
+    {
+      "participantId": "washington-huskies",
+      "probability": 1.78
+    },
+    {
+      "participantId": "smu-mustangs",
+      "probability": 1.66
+    },
+    {
+      "participantId": "utah-utes",
+      "probability": 1.37
+    },
+    {
+      "participantId": "iowa-hawkeyes",
+      "probability": 1.27
+    },
+    {
+      "participantId": "clemson-tigers",
+      "probability": 1.03
+    },
+    {
+      "participantId": "houston-cougars",
+      "probability": 0.85
+    },
+    {
+      "participantId": "missouri-tigers",
+      "probability": 0.69
+    },
+    {
+      "participantId": "air-force-falcons",
+      "probability": 0.01
+    },
+    {
+      "participantId": "akron-zips",
+      "probability": 0.01
+    },
+    {
+      "participantId": "appalachian-state-mountaineers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "arizona-state-sun-devils",
+      "probability": 0.01
+    },
+    {
+      "participantId": "arizona-wildcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "arkansas-razorbacks",
+      "probability": 0.01
+    },
+    {
+      "participantId": "arkansas-state-red-wolves",
+      "probability": 0.01
+    },
+    {
+      "participantId": "army-black-knights",
+      "probability": 0.01
+    },
+    {
+      "participantId": "auburn-tigers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "ball-state-cardinals",
+      "probability": 0.01
+    },
+    {
+      "participantId": "baylor-bears",
+      "probability": 0.01
+    },
+    {
+      "participantId": "boise-state-broncos",
+      "probability": 0.01
+    },
+    {
+      "participantId": "boston-college-eagles",
+      "probability": 0.01
+    },
+    {
+      "participantId": "bowling-green-falcons",
+      "probability": 0.01
+    },
+    {
+      "participantId": "buffalo-bulls",
+      "probability": 0.01
+    },
+    {
+      "participantId": "california-golden-bears",
+      "probability": 0.01
+    },
+    {
+      "participantId": "central-michigan-chippewas",
+      "probability": 0.01
+    },
+    {
+      "participantId": "charlotte-49ers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "cincinnati-bearcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "coastal-carolina-chanticleers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "colorado-buffaloes",
+      "probability": 0.01
+    },
+    {
+      "participantId": "colorado-state-rams",
+      "probability": 0.01
+    },
+    {
+      "participantId": "delaware-blue-hens",
+      "probability": 0.01
+    },
+    {
+      "participantId": "duke-blue-devils",
+      "probability": 0.01
+    },
+    {
+      "participantId": "east-carolina-pirates",
+      "probability": 0.01
+    },
+    {
+      "participantId": "eastern-michigan-eagles",
+      "probability": 0.01
+    },
+    {
+      "participantId": "florida-atlantic-owls",
+      "probability": 0.01
+    },
+    {
+      "participantId": "florida-gators",
+      "probability": 0.01
+    },
+    {
+      "participantId": "florida-international-panthers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "florida-state-seminoles",
+      "probability": 0.01
+    },
+    {
+      "participantId": "fresno-state-bulldogs",
+      "probability": 0.01
+    },
+    {
+      "participantId": "georgia-southern-eagles",
+      "probability": 0.01
+    },
+    {
+      "participantId": "georgia-state-panthers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "georgia-tech-yellow-jackets",
+      "probability": 0.01
+    },
+    {
+      "participantId": "hawaii-rainbow-warriors",
+      "probability": 0.01
+    },
+    {
+      "participantId": "illinois-fighting-illini",
+      "probability": 0.01
+    },
+    {
+      "participantId": "iowa-state-cyclones",
+      "probability": 0.01
+    },
+    {
+      "participantId": "jacksonville-state-gamecocks",
+      "probability": 0.01
+    },
+    {
+      "participantId": "james-madison-dukes",
+      "probability": 0.01
+    },
+    {
+      "participantId": "kansas-jayhawks",
+      "probability": 0.01
+    },
+    {
+      "participantId": "kansas-state-wildcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "kennesaw-state-owls",
+      "probability": 0.01
+    },
+    {
+      "participantId": "kent-state-golden-flashes",
+      "probability": 0.01
+    },
+    {
+      "participantId": "kentucky-wildcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "liberty-flames",
+      "probability": 0.01
+    },
+    {
+      "participantId": "louisiana-ragin-cajuns",
+      "probability": 0.01
+    },
+    {
+      "participantId": "louisiana-tech-bulldogs",
+      "probability": 0.01
+    },
+    {
+      "participantId": "louisville-cardinals",
+      "probability": 0.01
+    },
+    {
+      "participantId": "marshall-thundering-herd",
+      "probability": 0.01
+    },
+    {
+      "participantId": "maryland-terrapins",
+      "probability": 0.01
+    },
+    {
+      "participantId": "memphis-tigers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "miami-oh-redhawks",
+      "probability": 0.01
+    },
+    {
+      "participantId": "michigan-state-spartans",
+      "probability": 0.01
+    },
+    {
+      "participantId": "middle-tennessee-blue-raiders",
+      "probability": 0.01
+    },
+    {
+      "participantId": "minnesota-golden-gophers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "mississippi-state-bulldogs",
+      "probability": 0.01
+    },
+    {
+      "participantId": "missouri-state-bears",
+      "probability": 0.01
+    },
+    {
+      "participantId": "navy-midshipmen",
+      "probability": 0.01
+    },
+    {
+      "participantId": "nc-state-wolfpack",
+      "probability": 0.01
+    },
+    {
+      "participantId": "nebraska-cornhuskers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "nevada-wolf-pack",
+      "probability": 0.01
+    },
+    {
+      "participantId": "new-mexico-lobos",
+      "probability": 0.01
+    },
+    {
+      "participantId": "new-mexico-state-aggies",
+      "probability": 0.01
+    },
+    {
+      "participantId": "north-carolina-tar-heels",
+      "probability": 0.01
+    },
+    {
+      "participantId": "north-dakota-state-bison",
+      "probability": 0.01
+    },
+    {
+      "participantId": "north-texas-mean-green",
+      "probability": 0.01
+    },
+    {
+      "participantId": "northern-illinois-huskies",
+      "probability": 0.01
+    },
+    {
+      "participantId": "northwestern-wildcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "ohio-bobcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "oklahoma-state-cowboys",
+      "probability": 0.01
+    },
+    {
+      "participantId": "old-dominion-monarchs",
+      "probability": 0.01
+    },
+    {
+      "participantId": "oregon-state-beavers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "pittsburgh-panthers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "purdue-boilermakers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "rice-owls",
+      "probability": 0.01
+    },
+    {
+      "participantId": "sacramento-state-hornets",
+      "probability": 0.01
+    },
+    {
+      "participantId": "sam-houston-state-bearkats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "san-diego-state-aztecs",
+      "probability": 0.01
+    },
+    {
+      "participantId": "san-jose-state-spartans",
+      "probability": 0.01
+    },
+    {
+      "participantId": "south-alabama-jaguars",
+      "probability": 0.01
+    },
+    {
+      "participantId": "south-carolina-gamecocks",
+      "probability": 0.01
+    },
+    {
+      "participantId": "south-florida-bulls",
+      "probability": 0.01
+    },
+    {
+      "participantId": "southern-mississippi-golden-eagles",
+      "probability": 0.01
+    },
+    {
+      "participantId": "stanford-cardinal",
+      "probability": 0.01
+    },
+    {
+      "participantId": "syracuse-orange",
+      "probability": 0.01
+    },
+    {
+      "participantId": "tcu-horned-frogs",
+      "probability": 0.01
+    },
+    {
+      "participantId": "temple-owls",
+      "probability": 0.01
+    },
+    {
+      "participantId": "texas-state-bobcats",
+      "probability": 0.01
+    },
+    {
+      "participantId": "toledo-rockets",
+      "probability": 0.01
+    },
+    {
+      "participantId": "troy-trojans",
+      "probability": 0.01
+    },
+    {
+      "participantId": "tulane-green-wave",
+      "probability": 0.01
+    },
+    {
+      "participantId": "tulsa-golden-hurricane",
+      "probability": 0.01
+    },
+    {
+      "participantId": "uab-blazers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "ucf-knights",
+      "probability": 0.01
+    },
+    {
+      "participantId": "ucla-bruins",
+      "probability": 0.01
+    },
+    {
+      "participantId": "uconn-huskies",
+      "probability": 0.01
+    },
+    {
+      "participantId": "ul-monroe-warhawks",
+      "probability": 0.01
+    },
+    {
+      "participantId": "umass-minutemen",
+      "probability": 0.01
+    },
+    {
+      "participantId": "unlv-rebels",
+      "probability": 0.01
+    },
+    {
+      "participantId": "utah-state-aggies",
+      "probability": 0.01
+    },
+    {
+      "participantId": "utep-miners",
+      "probability": 0.01
+    },
+    {
+      "participantId": "utsa-roadrunners",
+      "probability": 0.01
+    },
+    {
+      "participantId": "vanderbilt-commodores",
+      "probability": 0.01
+    },
+    {
+      "participantId": "virginia-cavaliers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "virginia-tech-hokies",
+      "probability": 0.01
+    },
+    {
+      "participantId": "wake-forest-demon-deacons",
+      "probability": 0.01
+    },
+    {
+      "participantId": "washington-state-cougars",
+      "probability": 0.01
+    },
+    {
+      "participantId": "west-virginia-mountaineers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "western-kentucky-hilltoppers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "western-michigan-broncos",
+      "probability": 0.01
+    },
+    {
+      "participantId": "wisconsin-badgers",
+      "probability": 0.01
+    },
+    {
+      "participantId": "wyoming-cowboys",
+      "probability": 0.01
+    }
+  ]
+}

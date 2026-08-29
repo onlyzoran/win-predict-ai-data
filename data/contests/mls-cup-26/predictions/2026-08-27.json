@@ -1,0 +1,136 @@
+{
+  "kind": "prediction",
+  "contestId": "mls-cup-26",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T03:10:03Z",
+  "model": {
+    "name": "cursor-cloud",
+    "version": "composer-2.5"
+  },
+  "basedOnFactsDate": "2026-08-11",
+  "basedOnTour": 19,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "nashville-sc",
+      "probability": 5.69
+    },
+    {
+      "participantId": "inter-miami-cf",
+      "probability": 5.5
+    },
+    {
+      "participantId": "vancouver-whitecaps",
+      "probability": 4.93
+    },
+    {
+      "participantId": "lafc",
+      "probability": 4.79
+    },
+    {
+      "participantId": "san-jose-earthquakes",
+      "probability": 4.63
+    },
+    {
+      "participantId": "houston-dynamo-fc",
+      "probability": 4.32
+    },
+    {
+      "participantId": "new-england-revolution",
+      "probability": 4.09
+    },
+    {
+      "participantId": "chicago-fire-fc",
+      "probability": 4.05
+    },
+    {
+      "participantId": "fc-dallas",
+      "probability": 3.72
+    },
+    {
+      "participantId": "real-salt-lake",
+      "probability": 3.69
+    },
+    {
+      "participantId": "new-york-city-fc",
+      "probability": 3.67
+    },
+    {
+      "participantId": "fc-cincinnati",
+      "probability": 3.58
+    },
+    {
+      "participantId": "st-louis-city-sc",
+      "probability": 3.46
+    },
+    {
+      "participantId": "charlotte-fc",
+      "probability": 3.37
+    },
+    {
+      "participantId": "seattle-sounders-fc",
+      "probability": 3.3
+    },
+    {
+      "participantId": "portland-timbers",
+      "probability": 3.2
+    },
+    {
+      "participantId": "red-bull-new-york",
+      "probability": 3.15
+    },
+    {
+      "participantId": "minnesota-united-fc",
+      "probability": 3.11
+    },
+    {
+      "participantId": "dc-united",
+      "probability": 3.01
+    },
+    {
+      "participantId": "la-galaxy",
+      "probability": 2.98
+    },
+    {
+      "participantId": "colorado-rapids",
+      "probability": 2.97
+    },
+    {
+      "participantId": "san-diego-fc",
+      "probability": 2.85
+    },
+    {
+      "participantId": "columbus-crew",
+      "probability": 2.72
+    },
+    {
+      "participantId": "orlando-city-sc",
+      "probability": 2.36
+    },
+    {
+      "participantId": "toronto-fc",
+      "probability": 2.12
+    },
+    {
+      "participantId": "philadelphia-union",
+      "probability": 2.09
+    },
+    {
+      "participantId": "austin-fc",
+      "probability": 2.01
+    },
+    {
+      "participantId": "cf-montréal",
+      "probability": 1.93
+    },
+    {
+      "participantId": "sporting-kansas-city",
+      "probability": 1.36
+    },
+    {
+      "participantId": "atlanta-united-fc",
+      "probability": 1.35
+    }
+  ]
+}

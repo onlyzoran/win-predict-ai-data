@@ -1,0 +1,171 @@
+{
+  "leagueId": "f1-drivers-26",
+  "date": "2026-08-28",
+  "fetchedAt": "2026-08-28T20:07:38Z",
+  "source": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "team": "Kimi Antonelli",
+      "points": 242,
+      "group": "Driver Standings",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "George Russell",
+      "points": 183,
+      "group": "Driver Standings",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
+      "team": "Lewis Hamilton",
+      "points": 183,
+      "group": "Driver Standings",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
+      "team": "Lando Norris",
+      "points": 159,
+      "group": "Driver Standings",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
+      "team": "Charles Leclerc",
+      "points": 155,
+      "group": "Driver Standings",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
+      "team": "Max Verstappen",
+      "points": 112,
+      "group": "Driver Standings",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
+      "team": "Oscar Piastri",
+      "points": 104,
+      "group": "Driver Standings",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
+      "team": "Isack Hadjar",
+      "points": 68,
+      "group": "Driver Standings",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
+      "team": "Liam Lawson",
+      "points": 49,
+      "group": "Driver Standings",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
+      "team": "Pierre Gasly",
+      "points": 44,
+      "group": "Driver Standings",
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
+      "team": "Arvid Lindblad",
+      "points": 23,
+      "group": "Driver Standings",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
+      "team": "Franco Colapinto",
+      "points": 19,
+      "group": "Driver Standings",
+      "sourceRank": 12,
+      "rank": 12
+    },
+    {
+      "team": "Oliver Bearman",
+      "points": 18,
+      "group": "Driver Standings",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
+      "team": "Gabriel Bortoleto",
+      "points": 10,
+      "group": "Driver Standings",
+      "sourceRank": 14,
+      "rank": 14
+    },
+    {
+      "team": "Nico Hülkenberg",
+      "points": 6,
+      "group": "Driver Standings",
+      "sourceRank": 15,
+      "rank": 15
+    },
+    {
+      "team": "Carlos Sainz",
+      "points": 6,
+      "group": "Driver Standings",
+      "sourceRank": 16,
+      "rank": 16
+    },
+    {
+      "team": "Alexander Albon",
+      "points": 5,
+      "group": "Driver Standings",
+      "sourceRank": 17,
+      "rank": 17
+    },
+    {
+      "team": "Esteban Ocon",
+      "points": 3,
+      "group": "Driver Standings",
+      "sourceRank": 18,
+      "rank": 18
+    },
+    {
+      "team": "Fernando Alonso",
+      "points": 3,
+      "group": "Driver Standings",
+      "sourceRank": 19,
+      "rank": 19
+    },
+    {
+      "team": "Yuki Tsunoda",
+      "points": 0,
+      "group": "Driver Standings",
+      "sourceRank": 20,
+      "rank": 20
+    },
+    {
+      "team": "Lance Stroll",
+      "points": 0,
+      "group": "Driver Standings",
+      "sourceRank": 21,
+      "rank": 21
+    },
+    {
+      "team": "Valtteri Bottas",
+      "points": 0,
+      "group": "Driver Standings",
+      "sourceRank": 22,
+      "rank": 22
+    },
+    {
+      "team": "Sergio Pérez",
+      "points": 0,
+      "group": "Driver Standings",
+      "sourceRank": 23,
+      "rank": 23
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "kind": "prediction",
+  "contestId": "rpl-26-27",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-23T03:11:09Z",
+  "model": {
+    "name": "cursor-cloud",
+    "version": "composer-2.5"
+  },
+  "basedOnFactsDate": "2026-08-23",
+  "basedOnTour": 5,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "zenit-st-petersburg",
+      "probability": 33.55
+    },
+    {
+      "participantId": "krasnodar",
+      "probability": 25.66
+    },
+    {
+      "participantId": "spartak-moscow",
+      "probability": 10.26
+    },
+    {
+      "participantId": "cska-moscow",
+      "probability": 9.15
+    },
+    {
+      "participantId": "dinamo-moscow",
+      "probability": 1.91
+    },
+    {
+      "participantId": "dynamo-makhachkala",
+      "probability": 1.77
+    },
+    {
+      "participantId": "fc-baltika-kaliningrad",
+      "probability": 1.77
+    },
+    {
+      "participantId": "gazovik-orenburg",
+      "probability": 1.77
+    },
+    {
+      "participantId": "akhmat-grozny",
+      "probability": 1.77
+    },
+    {
+      "participantId": "rubin-kazan",
+      "probability": 1.77
+    },
+    {
+      "participantId": "rostov",
+      "probability": 1.77
+    },
+    {
+      "participantId": "rodina-moscow",
+      "probability": 1.77
+    },
+    {
+      "participantId": "lokomotiv-moscow",
+      "probability": 1.77
+    },
+    {
+      "participantId": "fakel-voronezh",
+      "probability": 1.77
+    },
+    {
+      "participantId": "krylia-sovetov",
+      "probability": 1.77
+    },
+    {
+      "participantId": "akron-tolyatti",
+      "probability": 1.77
+    }
+  ]
+}
