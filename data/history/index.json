@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T13:45:29Z",
+  "updatedAt": "2026-08-29T19:20:10Z",
   "leagues": {
     "bundesliga-26-27": {
       "count": 18,
@@ -70,6 +70,13 @@
       "last": "2026-08-29",
       "daysFile": "serie-a-26-27/days.json",
       "latestFile": "serie-a-26-27/latest.json"
+    },
+    "ucl-26-27": {
+      "count": 1,
+      "first": "2026-08-29",
+      "last": "2026-08-29",
+      "daysFile": "ucl-26-27/days.json",
+      "latestFile": "ucl-26-27/latest.json"
     }
   }
 }
