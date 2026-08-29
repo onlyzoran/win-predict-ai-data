@@ -2,135 +2,135 @@
   "kind": "prediction",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T03:18:14Z",
+  "generatedAt": "2026-08-29T10:24:14Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-08-28",
+  "basedOnFactsDate": "2026-08-29",
   "basedOnTour": null,
   "target": "champion",
   "unit": "percent",
   "items": [
     {
       "participantId": "milwaukee-brewers",
-      "probability": 5.58
+      "probability": 5.7
     },
     {
       "participantId": "los-angeles-dodgers",
-      "probability": 5.19
+      "probability": 5.13
     },
     {
       "participantId": "tampa-bay-rays",
-      "probability": 5.0
+      "probability": 5.06
     },
     {
       "participantId": "atlanta-braves",
-      "probability": 4.81
+      "probability": 4.96
     },
     {
       "participantId": "new-york-yankees",
-      "probability": 4.41
-    },
-    {
-      "participantId": "chicago-cubs",
       "probability": 4.39
     },
     {
+      "participantId": "chicago-cubs",
+      "probability": 4.3
+    },
+    {
       "participantId": "philadelphia-phillies",
-      "probability": 4.09
+      "probability": 4.16
     },
     {
       "participantId": "boston-red-sox",
-      "probability": 4.03
+      "probability": 3.95
     },
     {
       "participantId": "san-diego-padres",
-      "probability": 3.81
-    },
-    {
-      "participantId": "arizona-diamondbacks",
-      "probability": 3.68
+      "probability": 3.73
     },
     {
       "participantId": "chicago-white-sox",
-      "probability": 3.61
+      "probability": 3.68
+    },
+    {
+      "participantId": "arizona-diamondbacks",
+      "probability": 3.66
     },
     {
       "participantId": "cleveland-guardians",
-      "probability": 3.3
-    },
-    {
-      "participantId": "miami-marlins",
-      "probability": 3.3
-    },
-    {
-      "participantId": "st-louis-cardinals",
-      "probability": 3.13
+      "probability": 3.25
     },
     {
       "participantId": "houston-astros",
-      "probability": 3.13
+      "probability": 3.25
+    },
+    {
+      "participantId": "miami-marlins",
+      "probability": 3.25
+    },
+    {
+      "participantId": "st-louis-cardinals",
+      "probability": 3.19
+    },
+    {
+      "participantId": "baltimore-orioles",
+      "probability": 3.03
     },
     {
       "participantId": "texas-rangers",
-      "probability": 3.09
+      "probability": 3.03
     },
     {
       "participantId": "toronto-blue-jays",
       "probability": 2.97
     },
     {
-      "participantId": "baltimore-orioles",
-      "probability": 2.97
-    },
-    {
       "participantId": "pittsburgh-pirates",
-      "probability": 2.92
+      "probability": 2.87
     },
     {
       "participantId": "minnesota-twins",
-      "probability": 2.88
+      "probability": 2.82
     },
     {
       "participantId": "seattle-mariners",
-      "probability": 2.88
+      "probability": 2.82
     },
     {
       "participantId": "cincinnati-reds",
-      "probability": 2.77
-    },
-    {
-      "participantId": "detroit-tigers",
-      "probability": 2.72
+      "probability": 2.82
     },
     {
       "participantId": "washington-nationals",
-      "probability": 2.68
+      "probability": 2.72
     },
     {
-      "participantId": "new-york-mets",
-      "probability": 2.53
+      "participantId": "detroit-tigers",
+      "probability": 2.67
     },
     {
       "participantId": "kansas-city-royals",
-      "probability": 2.4
+      "probability": 2.5
+    },
+    {
+      "participantId": "new-york-mets",
+      "probability": 2.44
     },
     {
       "participantId": "san-francisco-giants",
-      "probability": 2.04
+      "probability": 2.05
     },
     {
       "participantId": "athletics",
-      "probability": 1.95
+      "probability": 1.92
     },
     {
       "participantId": "los-angeles-angels",
-      "probability": 1.87
+      "probability": 1.84
     },
     {
       "participantId": "colorado-rockies",
-      "probability": 1.87
+      "probability": 1.84
     }
   ]
 }
