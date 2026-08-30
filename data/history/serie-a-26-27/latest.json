@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-08-30",
-  "fetchedAt": "2026-08-30T13:43:24Z",
+  "fetchedAt": "2026-08-30T19:14:08Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -49,6 +49,20 @@
       "rank": 3
     },
     {
+      "team": "Como",
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "goalDifference": 1,
+      "points": 4,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
       "team": "AS Roma",
       "played": 1,
       "wins": 1,
@@ -59,8 +73,8 @@
       "goalDifference": 4,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 4,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "Internazionale",
@@ -73,8 +87,8 @@
       "goalDifference": 3,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 5,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "Frosinone",
@@ -88,24 +102,10 @@
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 11,
-      "rank": 6
-    },
-    {
-      "team": "Lecce",
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 2,
-      "goalsAgainst": 0,
-      "goalDifference": 2,
-      "points": 3,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 6,
       "rank": 7
     },
     {
-      "team": "Napoli",
+      "team": "Lecce",
       "played": 1,
       "wins": 1,
       "draws": 0,
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Napoli",
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "goalDifference": 1,
+      "points": 3,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 12,
+      "rank": 9
+    },
+    {
       "team": "Atalanta",
       "played": 1,
       "wins": 1,
@@ -130,7 +144,7 @@
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 8,
-      "rank": 9
+      "rank": 10
     },
     {
       "team": "Cagliari",
@@ -144,7 +158,7 @@
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 9,
-      "rank": 10
+      "rank": 11
     },
     {
       "team": "Lazio",
@@ -158,7 +172,7 @@
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 10,
-      "rank": 11
+      "rank": 12
     },
     {
       "team": "Sassuolo",
@@ -170,20 +184,6 @@
       "goalsAgainst": 3,
       "goalDifference": 0,
       "points": 3,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Como",
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "losses": 0,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "goalDifference": 0,
-      "points": 1,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 13,
       "rank": 13

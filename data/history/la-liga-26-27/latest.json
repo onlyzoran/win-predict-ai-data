@@ -1,11 +1,25 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-08-30",
-  "fetchedAt": "2026-08-30T13:43:23Z",
+  "fetchedAt": "2026-08-30T19:14:08Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Real Madrid",
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 10,
+      "goalsAgainst": 2,
+      "goalDifference": 8,
+      "points": 9,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Atlético Madrid",
       "played": 3,
@@ -17,8 +31,8 @@
       "goalDifference": 4,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 1,
-      "rank": 1
+      "sourceRank": 2,
+      "rank": 2
     },
     {
       "team": "Alavés",
@@ -31,8 +45,8 @@
       "goalDifference": 4,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 2,
-      "rank": 2
+      "sourceRank": 3,
+      "rank": 3
     },
     {
       "team": "Barcelona",
@@ -43,20 +57,6 @@
       "goalsFor": 7,
       "goalsAgainst": 0,
       "goalDifference": 7,
-      "points": 6,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 3,
-      "rank": 3
-    },
-    {
-      "team": "Real Madrid",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 2,
-      "goalDifference": 4,
       "points": 6,
       "group": "2026-27 LALIGA",
       "sourceRank": 4,
@@ -245,20 +245,6 @@
       "rank": 17
     },
     {
-      "team": "Málaga",
-      "played": 2,
-      "wins": 0,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 3,
-      "goalDifference": -2,
-      "points": 1,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 18,
-      "rank": 18
-    },
-    {
       "team": "Elche",
       "played": 3,
       "wins": 0,
@@ -266,6 +252,20 @@
       "losses": 2,
       "goalsFor": 3,
       "goalsAgainst": 9,
+      "goalDifference": -6,
+      "points": 1,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 18,
+      "rank": 18
+    },
+    {
+      "team": "Málaga",
+      "played": 3,
+      "wins": 0,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 1,
+      "goalsAgainst": 7,
       "goalDifference": -6,
       "points": 1,
       "group": "2026-27 LALIGA",

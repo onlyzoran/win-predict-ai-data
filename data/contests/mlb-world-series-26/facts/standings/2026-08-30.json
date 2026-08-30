@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-08-30",
-  "fetchedAt": "2026-08-30T13:43:27Z",
+  "fetchedAt": "2026-08-30T19:14:08Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -118,6 +118,16 @@
       "rank": 11
     },
     {
+      "participantId": "miami-marlins",
+      "played": 137,
+      "wins": 69,
+      "losses": 68,
+      "winPercent": 0.504,
+      "playoffSeed": 3,
+      "group": "National League",
+      "rank": 12
+    },
+    {
       "participantId": "cleveland-guardians",
       "played": 136,
       "wins": 68,
@@ -125,7 +135,7 @@
       "winPercent": 0.5,
       "playoffSeed": 2,
       "group": "American League",
-      "rank": 12
+      "rank": 13
     },
     {
       "participantId": "houston-astros",
@@ -135,16 +145,6 @@
       "winPercent": 0.5,
       "playoffSeed": 1,
       "group": "American League",
-      "rank": 13
-    },
-    {
-      "participantId": "miami-marlins",
-      "played": 136,
-      "wins": 68,
-      "losses": 68,
-      "winPercent": 0.5,
-      "playoffSeed": 3,
-      "group": "National League",
       "rank": 14
     },
     {
@@ -198,16 +198,6 @@
       "rank": 19
     },
     {
-      "participantId": "washington-nationals",
-      "played": 138,
-      "wins": 65,
-      "losses": 73,
-      "winPercent": 0.471,
-      "playoffSeed": 4,
-      "group": "National League",
-      "rank": 20
-    },
-    {
       "participantId": "minnesota-twins",
       "played": 136,
       "wins": 64,
@@ -215,7 +205,7 @@
       "winPercent": 0.471,
       "playoffSeed": 3,
       "group": "American League",
-      "rank": 21
+      "rank": 20
     },
     {
       "participantId": "seattle-mariners",
@@ -225,7 +215,7 @@
       "winPercent": 0.471,
       "playoffSeed": 3,
       "group": "American League",
-      "rank": 22
+      "rank": 21
     },
     {
       "participantId": "cincinnati-reds",
@@ -234,6 +224,16 @@
       "losses": 72,
       "winPercent": 0.471,
       "playoffSeed": 5,
+      "group": "National League",
+      "rank": 22
+    },
+    {
+      "participantId": "washington-nationals",
+      "played": 139,
+      "wins": 65,
+      "losses": 74,
+      "winPercent": 0.468,
+      "playoffSeed": 4,
       "group": "National League",
       "rank": 23
     },
