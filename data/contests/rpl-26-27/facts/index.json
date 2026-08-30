@@ -3,9 +3,9 @@
   "kind": "facts",
   "factKind": "standings",
   "grain": "matchday",
-  "count": 19,
+  "count": 20,
   "first": "2026-07-24",
-  "last": "2026-08-29",
+  "last": "2026-08-30",
   "latestTour": 6,
   "tours": [
     {
@@ -70,9 +70,10 @@
       "status": "in_progress",
       "slices": [
         "2026-08-28",
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-30"
       ],
-      "latestDate": "2026-08-29",
+      "latestDate": "2026-08-30",
       "latestFile": "standings/tour-06/latest.json"
     }
   ],
@@ -95,6 +96,7 @@
     "2026-08-24",
     "2026-08-25",
     "2026-08-28",
-    "2026-08-29"
+    "2026-08-29",
+    "2026-08-30"
   ]
 }
