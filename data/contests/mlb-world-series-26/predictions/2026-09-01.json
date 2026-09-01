@@ -2,78 +2,82 @@
   "kind": "prediction",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T03:10:06Z",
+  "generatedAt": "2026-09-01T10:10:17Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-08-31",
+  "basedOnFactsDate": "2026-09-01",
   "basedOnTour": null,
   "target": "champion",
   "unit": "percent",
   "items": [
     {
       "participantId": "milwaukee-brewers",
-      "probability": 5.66
+      "probability": 5.53
     },
     {
       "participantId": "tampa-bay-rays",
-      "probability": 5.2
-    },
-    {
-      "participantId": "atlanta-braves",
-      "probability": 5.1
+      "probability": 5.11
     },
     {
       "participantId": "los-angeles-dodgers",
-      "probability": 5.1
+      "probability": 5.11
+    },
+    {
+      "participantId": "atlanta-braves",
+      "probability": 4.99
     },
     {
       "participantId": "new-york-yankees",
-      "probability": 4.42
+      "probability": 4.35
+    },
+    {
+      "participantId": "chicago-cubs",
+      "probability": 4.35
     },
     {
       "participantId": "philadelphia-phillies",
       "probability": 4.28
     },
     {
-      "participantId": "chicago-cubs",
-      "probability": 4.28
-    },
-    {
       "participantId": "boston-red-sox",
-      "probability": 3.85
+      "probability": 3.91
     },
     {
       "participantId": "arizona-diamondbacks",
-      "probability": 3.65
-    },
-    {
-      "participantId": "chicago-white-sox",
-      "probability": 3.65
+      "probability": 3.66
     },
     {
       "participantId": "san-diego-padres",
-      "probability": 3.6
+      "probability": 3.66
     },
     {
-      "participantId": "cleveland-guardians",
-      "probability": 3.24
+      "participantId": "chicago-white-sox",
+      "probability": 3.61
     },
     {
       "participantId": "houston-astros",
-      "probability": 3.24
+      "probability": 3.3
+    },
+    {
+      "participantId": "cleveland-guardians",
+      "probability": 3.25
     },
     {
       "participantId": "miami-marlins",
-      "probability": 3.24
+      "probability": 3.19
     },
     {
       "participantId": "baltimore-orioles",
-      "probability": 3.12
+      "probability": 3.13
     },
     {
       "participantId": "toronto-blue-jays",
+      "probability": 3.08
+    },
+    {
+      "participantId": "texas-rangers",
       "probability": 3.08
     },
     {
@@ -81,32 +85,28 @@
       "probability": 3.08
     },
     {
-      "participantId": "texas-rangers",
-      "probability": 3.02
-    },
-    {
       "participantId": "pittsburgh-pirates",
       "probability": 2.98
     },
     {
       "participantId": "minnesota-twins",
-      "probability": 2.81
-    },
-    {
-      "participantId": "cincinnati-reds",
-      "probability": 2.81
+      "probability": 2.87
     },
     {
       "participantId": "washington-nationals",
-      "probability": 2.73
+      "probability": 2.78
+    },
+    {
+      "participantId": "cincinnati-reds",
+      "probability": 2.78
     },
     {
       "participantId": "seattle-mariners",
-      "probability": 2.72
+      "probability": 2.69
     },
     {
       "participantId": "detroit-tigers",
-      "probability": 2.67
+      "probability": 2.64
     },
     {
       "participantId": "kansas-city-royals",
@@ -114,19 +114,19 @@
     },
     {
       "participantId": "new-york-mets",
-      "probability": 2.45
+      "probability": 2.5
     },
     {
       "participantId": "san-francisco-giants",
-      "probability": 2.06
+      "probability": 2.11
     },
     {
       "participantId": "athletics",
-      "probability": 1.86
+      "probability": 1.84
     },
     {
       "participantId": "los-angeles-angels",
-      "probability": 1.8
+      "probability": 1.84
     },
     {
       "participantId": "colorado-rockies",
