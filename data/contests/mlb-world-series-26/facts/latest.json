@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-01",
-  "fetchedAt": "2026-09-01T04:37:59Z",
+  "fetchedAt": "2026-09-01T13:23:11Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -58,7 +58,7 @@
       "rank": 5
     },
     {
-      "participantId": "chicago-cubs",
+      "participantId": "philadelphia-phillies",
       "played": 138,
       "wins": 78,
       "losses": 60,
@@ -68,11 +68,11 @@
       "rank": 6
     },
     {
-      "participantId": "philadelphia-phillies",
-      "played": 137,
-      "wins": 77,
+      "participantId": "chicago-cubs",
+      "played": 138,
+      "wins": 78,
       "losses": 60,
-      "winPercent": 0.562,
+      "winPercent": 0.565,
       "playoffSeed": 2,
       "group": "National League",
       "rank": 7
@@ -88,7 +88,7 @@
       "rank": 8
     },
     {
-      "participantId": "arizona-diamondbacks",
+      "participantId": "san-diego-padres",
       "played": 138,
       "wins": 73,
       "losses": 65,
@@ -98,16 +98,6 @@
       "rank": 9
     },
     {
-      "participantId": "san-diego-padres",
-      "played": 138,
-      "wins": 73,
-      "losses": 65,
-      "winPercent": 0.529,
-      "playoffSeed": 3,
-      "group": "National League",
-      "rank": 10
-    },
-    {
       "participantId": "chicago-white-sox",
       "played": 137,
       "wins": 72,
@@ -115,6 +105,16 @@
       "winPercent": 0.526,
       "playoffSeed": 1,
       "group": "American League",
+      "rank": 10
+    },
+    {
+      "participantId": "arizona-diamondbacks",
+      "played": 139,
+      "wins": 73,
+      "losses": 66,
+      "winPercent": 0.525,
+      "playoffSeed": 3,
+      "group": "National League",
       "rank": 11
     },
     {
@@ -138,6 +138,16 @@
       "rank": 13
     },
     {
+      "participantId": "baltimore-orioles",
+      "played": 138,
+      "wins": 69,
+      "losses": 69,
+      "winPercent": 0.5,
+      "playoffSeed": 4,
+      "group": "American League",
+      "rank": 14
+    },
+    {
       "participantId": "miami-marlins",
       "played": 138,
       "wins": 69,
@@ -145,16 +155,6 @@
       "winPercent": 0.5,
       "playoffSeed": 3,
       "group": "National League",
-      "rank": 14
-    },
-    {
-      "participantId": "baltimore-orioles",
-      "played": 137,
-      "wins": 68,
-      "losses": 69,
-      "winPercent": 0.496,
-      "playoffSeed": 4,
-      "group": "American League",
       "rank": 15
     },
     {
@@ -299,10 +299,10 @@
     },
     {
       "participantId": "colorado-rockies",
-      "played": 137,
+      "played": 138,
       "wins": 52,
-      "losses": 85,
-      "winPercent": 0.38,
+      "losses": 86,
+      "winPercent": 0.377,
       "playoffSeed": 5,
       "group": "National League",
       "rank": 30
