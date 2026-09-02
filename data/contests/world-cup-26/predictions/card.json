@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "world-cup-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "france",
+      "name": "France",
+      "probability": 4.61
+    },
+    {
+      "participantId": "argentina",
+      "name": "Argentina",
+      "probability": 4.57
+    },
+    {
+      "participantId": "mexico",
+      "name": "Mexico",
+      "probability": 4.57
+    },
+    {
+      "participantId": "netherlands",
+      "name": "Netherlands",
+      "probability": 3.55
+    },
+    {
+      "participantId": "brazil",
+      "name": "Brazil",
+      "probability": 3.55
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 79.15,
+      "othersCount": 43
+    }
+  ]
+}

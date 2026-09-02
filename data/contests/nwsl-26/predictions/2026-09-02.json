@@ -1,0 +1,80 @@
+{
+  "kind": "prediction",
+  "contestId": "nwsl-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 22,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "gotham-fc",
+      "probability": 9.18
+    },
+    {
+      "participantId": "washington-spirit",
+      "probability": 8.15
+    },
+    {
+      "participantId": "utah-royals",
+      "probability": 7.95
+    },
+    {
+      "participantId": "san-diego-wave-fc",
+      "probability": 7.94
+    },
+    {
+      "participantId": "portland-thorns-fc",
+      "probability": 7.74
+    },
+    {
+      "participantId": "north-carolina-courage",
+      "probability": 7.33
+    },
+    {
+      "participantId": "kansas-city-current",
+      "probability": 6.93
+    },
+    {
+      "participantId": "seattle-reign-fc",
+      "probability": 6.31
+    },
+    {
+      "participantId": "angel-city-fc",
+      "probability": 5.91
+    },
+    {
+      "participantId": "denver-summit-fc",
+      "probability": 5.5
+    },
+    {
+      "participantId": "houston-dash",
+      "probability": 5.29
+    },
+    {
+      "participantId": "orlando-pride",
+      "probability": 5.29
+    },
+    {
+      "participantId": "racing-louisville-fc",
+      "probability": 4.68
+    },
+    {
+      "participantId": "bay-fc",
+      "probability": 4.48
+    },
+    {
+      "participantId": "boston-legacy-fc",
+      "probability": 4.07
+    },
+    {
+      "participantId": "chicago-stars-fc",
+      "probability": 3.25
+    }
+  ]
+}

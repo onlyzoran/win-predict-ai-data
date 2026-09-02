@@ -1,0 +1,160 @@
+{
+  "kind": "prediction",
+  "contestId": "uecl-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "agf",
+      "probability": 3.05
+    },
+    {
+      "participantId": "ajax-amsterdam",
+      "probability": 3.03
+    },
+    {
+      "participantId": "atalanta",
+      "probability": 3.01
+    },
+    {
+      "participantId": "borac-banja-luka",
+      "probability": 3.0
+    },
+    {
+      "participantId": "sk-brann",
+      "probability": 2.98
+    },
+    {
+      "participantId": "brighton-and-hove-albion",
+      "probability": 2.97
+    },
+    {
+      "participantId": "cska-sofia",
+      "probability": 2.95
+    },
+    {
+      "participantId": "egnatia",
+      "probability": 2.94
+    },
+    {
+      "participantId": "fc-københavn",
+      "probability": 2.92
+    },
+    {
+      "participantId": "sc-freiburg",
+      "probability": 2.91
+    },
+    {
+      "participantId": "kaa-gent",
+      "probability": 2.89
+    },
+    {
+      "participantId": "getafe",
+      "probability": 2.88
+    },
+    {
+      "participantId": "hajduk-split",
+      "probability": 2.86
+    },
+    {
+      "participantId": "heart-of-midlothian",
+      "probability": 2.85
+    },
+    {
+      "participantId": "iberia-1999",
+      "probability": 2.83
+    },
+    {
+      "participantId": "inter-descaldes",
+      "probability": 2.82
+    },
+    {
+      "participantId": "jablonec",
+      "probability": 2.8
+    },
+    {
+      "participantId": "kairat-almaty",
+      "probability": 2.79
+    },
+    {
+      "participantId": "kauno-zalgiris",
+      "probability": 2.77
+    },
+    {
+      "participantId": "kups-kuopio",
+      "probability": 2.75
+    },
+    {
+      "participantId": "lincoln-red-imps",
+      "probability": 2.74
+    },
+    {
+      "participantId": "fc-lugano",
+      "probability": 2.72
+    },
+    {
+      "participantId": "fc-midtjylland",
+      "probability": 2.71
+    },
+    {
+      "participantId": "mjällby-aif",
+      "probability": 2.69
+    },
+    {
+      "participantId": "as-monaco",
+      "probability": 2.68
+    },
+    {
+      "participantId": "fc-nordsjælland",
+      "probability": 2.66
+    },
+    {
+      "participantId": "pafos",
+      "probability": 2.65
+    },
+    {
+      "participantId": "panathinaikos",
+      "probability": 2.63
+    },
+    {
+      "participantId": "red-star-belgrade",
+      "probability": 2.62
+    },
+    {
+      "participantId": "riga-fc",
+      "probability": 2.6
+    },
+    {
+      "participantId": "sint-truidense",
+      "probability": 2.59
+    },
+    {
+      "participantId": "braga",
+      "probability": 2.57
+    },
+    {
+      "participantId": "fc-thun",
+      "probability": 2.56
+    },
+    {
+      "participantId": "trabzonspor",
+      "probability": 2.54
+    },
+    {
+      "participantId": "fc-twente",
+      "probability": 2.53
+    },
+    {
+      "participantId": "csu-craiova",
+      "probability": 2.51
+    }
+  ]
+}

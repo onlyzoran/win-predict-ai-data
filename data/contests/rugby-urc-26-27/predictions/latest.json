@@ -1,0 +1,80 @@
+{
+  "kind": "prediction",
+  "contestId": "rugby-urc-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "benetton-treviso",
+      "probability": 6.49
+    },
+    {
+      "participantId": "bulls",
+      "probability": 6.46
+    },
+    {
+      "participantId": "cardiff-blues",
+      "probability": 6.43
+    },
+    {
+      "participantId": "connacht",
+      "probability": 6.4
+    },
+    {
+      "participantId": "dragons",
+      "probability": 6.36
+    },
+    {
+      "participantId": "edinburgh",
+      "probability": 6.33
+    },
+    {
+      "participantId": "glasgow-warriors",
+      "probability": 6.3
+    },
+    {
+      "participantId": "leinster",
+      "probability": 6.27
+    },
+    {
+      "participantId": "lions",
+      "probability": 6.23
+    },
+    {
+      "participantId": "munster",
+      "probability": 6.2
+    },
+    {
+      "participantId": "ospreys",
+      "probability": 6.17
+    },
+    {
+      "participantId": "scarlets",
+      "probability": 6.14
+    },
+    {
+      "participantId": "sharks",
+      "probability": 6.1
+    },
+    {
+      "participantId": "stormers",
+      "probability": 6.07
+    },
+    {
+      "participantId": "ulster",
+      "probability": 6.04
+    },
+    {
+      "participantId": "zebre",
+      "probability": 6.01
+    }
+  ]
+}

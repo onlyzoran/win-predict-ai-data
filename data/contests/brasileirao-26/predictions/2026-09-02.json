@@ -1,0 +1,96 @@
+{
+  "kind": "prediction",
+  "contestId": "brasileirao-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 25,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "palmeiras",
+      "probability": 7.84
+    },
+    {
+      "participantId": "flamengo",
+      "probability": 7.23
+    },
+    {
+      "participantId": "athletico-paranaense",
+      "probability": 6.78
+    },
+    {
+      "participantId": "fluminense",
+      "probability": 6.33
+    },
+    {
+      "participantId": "bahia",
+      "probability": 6.03
+    },
+    {
+      "participantId": "cruzeiro",
+      "probability": 5.87
+    },
+    {
+      "participantId": "coritiba",
+      "probability": 5.57
+    },
+    {
+      "participantId": "atlético-mg",
+      "probability": 5.42
+    },
+    {
+      "participantId": "red-bull-bragantino",
+      "probability": 5.27
+    },
+    {
+      "participantId": "corinthians",
+      "probability": 4.82
+    },
+    {
+      "participantId": "são-paulo",
+      "probability": 4.52
+    },
+    {
+      "participantId": "botafogo",
+      "probability": 4.52
+    },
+    {
+      "participantId": "santos",
+      "probability": 4.37
+    },
+    {
+      "participantId": "vitória",
+      "probability": 4.37
+    },
+    {
+      "participantId": "grêmio",
+      "probability": 4.22
+    },
+    {
+      "participantId": "internacional",
+      "probability": 3.76
+    },
+    {
+      "participantId": "mirassol",
+      "probability": 3.76
+    },
+    {
+      "participantId": "vasco-da-gama",
+      "probability": 3.76
+    },
+    {
+      "participantId": "remo",
+      "probability": 3.46
+    },
+    {
+      "participantId": "chapecoense",
+      "probability": 2.1
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "liga-portugal-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "fc-porto",
+      "name": "FC Porto",
+      "probability": 13.34
+    },
+    {
+      "participantId": "sporting-cp",
+      "name": "Sporting CP",
+      "probability": 11.09
+    },
+    {
+      "participantId": "arouca",
+      "name": "Arouca",
+      "probability": 9.98
+    },
+    {
+      "participantId": "santa-clara",
+      "name": "Santa Clara",
+      "probability": 8.87
+    },
+    {
+      "participantId": "benfica",
+      "name": "Benfica",
+      "probability": 7.77
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 48.95,
+      "othersCount": 13
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "kind": "prediction",
+  "contestId": "tennis-australian-open-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "uniform-prior",
+    "version": "off-season-v1"
+  },
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "alejandro-davidovich-fokina",
+      "probability": 1.72
+    },
+    {
+      "participantId": "alejandro-tabilo",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alex-de-minaur",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alexander-bublik",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alexander-zverev",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alexandra-eala",
+      "probability": 1.56
+    },
+    {
+      "participantId": "amanda-anisimova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "anastasia-potapova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "andrey-rublev",
+      "probability": 1.56
+    },
+    {
+      "participantId": "ann-li",
+      "probability": 1.56
+    },
+    {
+      "participantId": "anna-kalinskaya",
+      "probability": 1.56
+    },
+    {
+      "participantId": "arthur-fils",
+      "probability": 1.56
+    },
+    {
+      "participantId": "arthur-rinderknech",
+      "probability": 1.56
+    },
+    {
+      "participantId": "aryna-sabalenka",
+      "probability": 1.56
+    },
+    {
+      "participantId": "barbora-krejcikova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "belinda-bencic",
+      "probability": 1.56
+    },
+    {
+      "participantId": "ben-shelton",
+      "probability": 1.56
+    },
+    {
+      "participantId": "brandon-nakashima",
+      "probability": 1.56
+    },
+    {
+      "participantId": "carlos-alcaraz",
+      "probability": 1.56
+    },
+    {
+      "participantId": "casper-ruud",
+      "probability": 1.56
+    },
+    {
+      "participantId": "coco-gauff",
+      "probability": 1.56
+    },
+    {
+      "participantId": "daniil-medvedev",
+      "probability": 1.56
+    },
+    {
+      "participantId": "diana-shnaider",
+      "probability": 1.56
+    },
+    {
+      "participantId": "diane-parry",
+      "probability": 1.56
+    },
+    {
+      "participantId": "ekaterina-alexandrova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "elena-rybakina",
+      "probability": 1.56
+    },
+    {
+      "participantId": "elina-svitolina",
+      "probability": 1.56
+    },
+    {
+      "participantId": "elise-mertens",
+      "probability": 1.56
+    },
+    {
+      "participantId": "emma-navarro",
+      "probability": 1.56
+    },
+    {
+      "participantId": "felix-auger-aliassime",
+      "probability": 1.56
+    },
+    {
+      "participantId": "flavio-cobolli",
+      "probability": 1.56
+    },
+    {
+      "participantId": "frances-tiafoe",
+      "probability": 1.56
+    },
+    {
+      "participantId": "francisco-cerundolo",
+      "probability": 1.56
+    },
+    {
+      "participantId": "iga-swiatek",
+      "probability": 1.56
+    },
+    {
+      "participantId": "ignacio-buse",
+      "probability": 1.56
+    },
+    {
+      "participantId": "iva-jovic",
+      "probability": 1.56
+    },
+    {
+      "participantId": "jakub-mensik",
+      "probability": 1.56
+    },
+    {
+      "participantId": "jannik-sinner",
+      "probability": 1.56
+    },
+    {
+      "participantId": "jasmine-paolini",
+      "probability": 1.56
+    },
+    {
+      "participantId": "jelena-ostapenko",
+      "probability": 1.56
+    },
+    {
+      "participantId": "jessica-pegula",
+      "probability": 1.56
+    },
+    {
+      "participantId": "jiri-lehecka",
+      "probability": 1.56
+    },
+    {
+      "participantId": "joao-fonseca",
+      "probability": 1.56
+    },
+    {
+      "participantId": "karolina-muchova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "learner-tien",
+      "probability": 1.56
+    },
+    {
+      "participantId": "linda-noskova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "lorenzo-musetti",
+      "probability": 1.56
+    },
+    {
+      "participantId": "luciano-darderi",
+      "probability": 1.56
+    },
+    {
+      "participantId": "madison-keys",
+      "probability": 1.56
+    },
+    {
+      "participantId": "maja-chwalinska",
+      "probability": 1.56
+    },
+    {
+      "participantId": "marie-bouzkova",
+      "probability": 1.56
+    },
+    {
+      "participantId": "marta-kostyuk",
+      "probability": 1.56
+    },
+    {
+      "participantId": "mirra-andreeva",
+      "probability": 1.56
+    },
+    {
+      "participantId": "naomi-osaka",
+      "probability": 1.56
+    },
+    {
+      "participantId": "novak-djokovic",
+      "probability": 1.56
+    },
+    {
+      "participantId": "rafael-jodar",
+      "probability": 1.56
+    },
+    {
+      "participantId": "sara-bejlek",
+      "probability": 1.56
+    },
+    {
+      "participantId": "sorana-cirstea",
+      "probability": 1.56
+    },
+    {
+      "participantId": "taylor-fritz",
+      "probability": 1.56
+    },
+    {
+      "participantId": "tomas-martin-etcheverry",
+      "probability": 1.56
+    },
+    {
+      "participantId": "tommy-paul",
+      "probability": 1.56
+    },
+    {
+      "participantId": "ugo-humbert",
+      "probability": 1.56
+    },
+    {
+      "participantId": "valentin-vacherot",
+      "probability": 1.56
+    },
+    {
+      "participantId": "victoria-mboko",
+      "probability": 1.56
+    }
+  ]
+}

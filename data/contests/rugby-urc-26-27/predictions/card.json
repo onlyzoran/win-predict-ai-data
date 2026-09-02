@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "rugby-urc-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "benetton-treviso",
+      "name": "Benetton Treviso",
+      "probability": 6.49
+    },
+    {
+      "participantId": "bulls",
+      "name": "Bulls",
+      "probability": 6.46
+    },
+    {
+      "participantId": "cardiff-blues",
+      "name": "Cardiff Blues",
+      "probability": 6.43
+    },
+    {
+      "participantId": "connacht",
+      "name": "Connacht",
+      "probability": 6.4
+    },
+    {
+      "participantId": "dragons",
+      "name": "Dragons",
+      "probability": 6.36
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 67.86,
+      "othersCount": 11
+    }
+  ]
+}

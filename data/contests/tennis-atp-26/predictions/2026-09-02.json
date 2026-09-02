@@ -1,0 +1,616 @@
+{
+  "kind": "prediction",
+  "contestId": "tennis-atp-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "jannik-sinner",
+      "probability": 6.77
+    },
+    {
+      "participantId": "alexander-zverev",
+      "probability": 4.13
+    },
+    {
+      "participantId": "carlos-alcaraz",
+      "probability": 3.8
+    },
+    {
+      "participantId": "felix-auger-aliassime",
+      "probability": 2.46
+    },
+    {
+      "participantId": "novak-djokovic",
+      "probability": 2.0
+    },
+    {
+      "participantId": "flavio-cobolli",
+      "probability": 1.97
+    },
+    {
+      "participantId": "alex-de-minaur",
+      "probability": 1.94
+    },
+    {
+      "participantId": "daniil-medvedev",
+      "probability": 1.9
+    },
+    {
+      "participantId": "ben-shelton",
+      "probability": 1.85
+    },
+    {
+      "participantId": "taylor-fritz",
+      "probability": 1.84
+    },
+    {
+      "participantId": "arthur-fils",
+      "probability": 1.67
+    },
+    {
+      "participantId": "frances-tiafoe",
+      "probability": 1.42
+    },
+    {
+      "participantId": "rafael-jodar",
+      "probability": 1.42
+    },
+    {
+      "participantId": "lorenzo-musetti",
+      "probability": 1.38
+    },
+    {
+      "participantId": "learner-tien",
+      "probability": 1.36
+    },
+    {
+      "participantId": "alexander-bublik",
+      "probability": 1.34
+    },
+    {
+      "participantId": "brandon-nakashima",
+      "probability": 1.32
+    },
+    {
+      "participantId": "jakub-mensik",
+      "probability": 1.3
+    },
+    {
+      "participantId": "jiri-lehecka",
+      "probability": 1.28
+    },
+    {
+      "participantId": "casper-ruud",
+      "probability": 1.26
+    },
+    {
+      "participantId": "tommy-paul",
+      "probability": 1.18
+    },
+    {
+      "participantId": "luciano-darderi",
+      "probability": 1.15
+    },
+    {
+      "participantId": "valentin-vacherot",
+      "probability": 1.15
+    },
+    {
+      "participantId": "andrey-rublev",
+      "probability": 1.1
+    },
+    {
+      "participantId": "francisco-cerundolo",
+      "probability": 1.05
+    },
+    {
+      "participantId": "joao-fonseca",
+      "probability": 0.95
+    },
+    {
+      "participantId": "alejandro-davidovich-fokina",
+      "probability": 0.92
+    },
+    {
+      "participantId": "alejandro-tabilo",
+      "probability": 0.9
+    },
+    {
+      "participantId": "arthur-rinderknech",
+      "probability": 0.89
+    },
+    {
+      "participantId": "ignacio-buse",
+      "probability": 0.82
+    },
+    {
+      "participantId": "ugo-humbert",
+      "probability": 0.82
+    },
+    {
+      "participantId": "tomas-martin-etcheverry",
+      "probability": 0.76
+    },
+    {
+      "participantId": "arthur-fery",
+      "probability": 0.75
+    },
+    {
+      "participantId": "alexander-blockx",
+      "probability": 0.74
+    },
+    {
+      "participantId": "cameron-norrie",
+      "probability": 0.72
+    },
+    {
+      "participantId": "matteo-arnaldi",
+      "probability": 0.72
+    },
+    {
+      "participantId": "zizou-bergs",
+      "probability": 0.71
+    },
+    {
+      "participantId": "raphael-collignon",
+      "probability": 0.64
+    },
+    {
+      "participantId": "daniel-merida",
+      "probability": 0.61
+    },
+    {
+      "participantId": "luca-van-assche",
+      "probability": 0.6
+    },
+    {
+      "participantId": "nuno-borges",
+      "probability": 0.6
+    },
+    {
+      "participantId": "thiago-agustin-tirante",
+      "probability": 0.6
+    },
+    {
+      "participantId": "matteo-berrettini",
+      "probability": 0.59
+    },
+    {
+      "participantId": "jan-lennard-struff",
+      "probability": 0.58
+    },
+    {
+      "participantId": "juan-manuel-cerundolo",
+      "probability": 0.57
+    },
+    {
+      "participantId": "alex-michelsen",
+      "probability": 0.57
+    },
+    {
+      "participantId": "hubert-hurkacz",
+      "probability": 0.57
+    },
+    {
+      "participantId": "denis-shapovalov",
+      "probability": 0.56
+    },
+    {
+      "participantId": "mariano-navone",
+      "probability": 0.56
+    },
+    {
+      "participantId": "karen-khachanov",
+      "probability": 0.56
+    },
+    {
+      "participantId": "sebastian-baez",
+      "probability": 0.55
+    },
+    {
+      "participantId": "quentin-halys",
+      "probability": 0.55
+    },
+    {
+      "participantId": "stefanos-tsitsipas",
+      "probability": 0.54
+    },
+    {
+      "participantId": "yannick-hanfmann",
+      "probability": 0.53
+    },
+    {
+      "participantId": "jaume-munar",
+      "probability": 0.52
+    },
+    {
+      "participantId": "tallon-griekspoor",
+      "probability": 0.52
+    },
+    {
+      "participantId": "daniel-altmaier",
+      "probability": 0.51
+    },
+    {
+      "participantId": "tomas-machac",
+      "probability": 0.51
+    },
+    {
+      "participantId": "roman-andres-burruchaga",
+      "probability": 0.51
+    },
+    {
+      "participantId": "adolfo-daniel-vallejo",
+      "probability": 0.51
+    },
+    {
+      "participantId": "ethan-quinn",
+      "probability": 0.5
+    },
+    {
+      "participantId": "corentin-moutet",
+      "probability": 0.5
+    },
+    {
+      "participantId": "fabian-marozsan",
+      "probability": 0.49
+    },
+    {
+      "participantId": "miomir-kecmanovic",
+      "probability": 0.49
+    },
+    {
+      "participantId": "martin-landaluce",
+      "probability": 0.49
+    },
+    {
+      "participantId": "pablo-carreno-busta",
+      "probability": 0.48
+    },
+    {
+      "participantId": "adrian-mannarino",
+      "probability": 0.47
+    },
+    {
+      "participantId": "sebastian-korda",
+      "probability": 0.47
+    },
+    {
+      "participantId": "vit-kopriva",
+      "probability": 0.47
+    },
+    {
+      "participantId": "botic-van-de-zandschulp",
+      "probability": 0.46
+    },
+    {
+      "participantId": "james-duckworth",
+      "probability": 0.45
+    },
+    {
+      "participantId": "jaime-faria",
+      "probability": 0.45
+    },
+    {
+      "participantId": "kamil-majchrzak",
+      "probability": 0.44
+    },
+    {
+      "participantId": "jenson-brooksby",
+      "probability": 0.43
+    },
+    {
+      "participantId": "valentin-royer",
+      "probability": 0.41
+    },
+    {
+      "participantId": "jan-choinski",
+      "probability": 0.41
+    },
+    {
+      "participantId": "camilo-ugo-carabelli",
+      "probability": 0.41
+    },
+    {
+      "participantId": "marcos-giron",
+      "probability": 0.41
+    },
+    {
+      "participantId": "hamad-medjedovic",
+      "probability": 0.41
+    },
+    {
+      "participantId": "zachary-svajda",
+      "probability": 0.4
+    },
+    {
+      "participantId": "marin-cilic",
+      "probability": 0.4
+    },
+    {
+      "participantId": "facundo-diaz-acosta",
+      "probability": 0.39
+    },
+    {
+      "participantId": "marco-trungelliti",
+      "probability": 0.39
+    },
+    {
+      "participantId": "aleksandar-kovacevic",
+      "probability": 0.39
+    },
+    {
+      "participantId": "rinky-hijikata",
+      "probability": 0.38
+    },
+    {
+      "participantId": "alex-molcan",
+      "probability": 0.38
+    },
+    {
+      "participantId": "arthur-gea",
+      "probability": 0.38
+    },
+    {
+      "participantId": "sho-shimabukuro",
+      "probability": 0.37
+    },
+    {
+      "participantId": "lorenzo-sonego",
+      "probability": 0.37
+    },
+    {
+      "participantId": "martin-damm",
+      "probability": 0.37
+    },
+    {
+      "participantId": "hugo-gaston",
+      "probability": 0.37
+    },
+    {
+      "participantId": "terence-atmane",
+      "probability": 0.36
+    },
+    {
+      "participantId": "adam-walton",
+      "probability": 0.36
+    },
+    {
+      "participantId": "chak-lam-coleman-wong",
+      "probability": 0.35
+    },
+    {
+      "participantId": "mattia-bellucci",
+      "probability": 0.35
+    },
+    {
+      "participantId": "aleksandar-vukic",
+      "probability": 0.35
+    },
+    {
+      "participantId": "benjamin-bonzi",
+      "probability": 0.35
+    },
+    {
+      "participantId": "aleksandr-shevchenko",
+      "probability": 0.35
+    },
+    {
+      "participantId": "roman-safiullin",
+      "probability": 0.34
+    },
+    {
+      "participantId": "jesper-de-jong",
+      "probability": 0.33
+    },
+    {
+      "participantId": "jacob-fearnley",
+      "probability": 0.33
+    },
+    {
+      "participantId": "dino-prizmic",
+      "probability": 0.33
+    },
+    {
+      "participantId": "titouan-droguet",
+      "probability": 0.33
+    },
+    {
+      "participantId": "damir-dzumhur",
+      "probability": 0.32
+    },
+    {
+      "participantId": "giovanni-mpetshi-perricard",
+      "probability": 0.32
+    },
+    {
+      "participantId": "christopher-oconnell",
+      "probability": 0.32
+    },
+    {
+      "participantId": "michael-zheng",
+      "probability": 0.31
+    },
+    {
+      "participantId": "kyrian-jacquet",
+      "probability": 0.31
+    },
+    {
+      "participantId": "otto-virtanen",
+      "probability": 0.3
+    },
+    {
+      "participantId": "toby-samuel",
+      "probability": 0.3
+    },
+    {
+      "participantId": "emilio-nava",
+      "probability": 0.3
+    },
+    {
+      "participantId": "eliot-spizzirri",
+      "probability": 0.3
+    },
+    {
+      "participantId": "wu-yibing",
+      "probability": 0.29
+    },
+    {
+      "participantId": "gabriel-diallo",
+      "probability": 0.29
+    },
+    {
+      "participantId": "nicolas-mejia",
+      "probability": 0.29
+    },
+    {
+      "participantId": "patrick-kypson",
+      "probability": 0.29
+    },
+    {
+      "participantId": "shintaro-mochizuki",
+      "probability": 0.28
+    },
+    {
+      "participantId": "zsombor-piros",
+      "probability": 0.28
+    },
+    {
+      "participantId": "francisco-comesana",
+      "probability": 0.27
+    },
+    {
+      "participantId": "henrique-rocha",
+      "probability": 0.27
+    },
+    {
+      "participantId": "vilius-gaubas",
+      "probability": 0.27
+    },
+    {
+      "participantId": "marton-fucsovics",
+      "probability": 0.27
+    },
+    {
+      "participantId": "dane-sweeny",
+      "probability": 0.27
+    },
+    {
+      "participantId": "bu-yunchaokete",
+      "probability": 0.26
+    },
+    {
+      "participantId": "sebastian-ofner",
+      "probability": 0.26
+    },
+    {
+      "participantId": "pablo-llamas-ruiz",
+      "probability": 0.26
+    },
+    {
+      "participantId": "stan-wawrinka",
+      "probability": 0.26
+    },
+    {
+      "participantId": "gustavo-heide",
+      "probability": 0.25
+    },
+    {
+      "participantId": "andrea-pellegrino",
+      "probability": 0.24
+    },
+    {
+      "participantId": "alexei-popyrin",
+      "probability": 0.24
+    },
+    {
+      "participantId": "leandro-riedi",
+      "probability": 0.24
+    },
+    {
+      "participantId": "nikoloz-basilashvili",
+      "probability": 0.24
+    },
+    {
+      "participantId": "holger-rune",
+      "probability": 0.24
+    },
+    {
+      "participantId": "dalibor-svrcina",
+      "probability": 0.24
+    },
+    {
+      "participantId": "cristian-garin",
+      "probability": 0.23
+    },
+    {
+      "participantId": "stefanos-sakellaridis",
+      "probability": 0.23
+    },
+    {
+      "participantId": "grigor-dimitrov",
+      "probability": 0.23
+    },
+    {
+      "participantId": "alexandre-muller",
+      "probability": 0.23
+    },
+    {
+      "participantId": "lloyd-harris",
+      "probability": 0.23
+    },
+    {
+      "participantId": "hugo-dellien",
+      "probability": 0.22
+    },
+    {
+      "participantId": "jack-draper",
+      "probability": 0.22
+    },
+    {
+      "participantId": "arthur-cazaux",
+      "probability": 0.21
+    },
+    {
+      "participantId": "jurij-rodionov",
+      "probability": 0.21
+    },
+    {
+      "participantId": "tomas-barrios-vera",
+      "probability": 0.21
+    },
+    {
+      "participantId": "tom-gentzsch",
+      "probability": 0.21
+    },
+    {
+      "participantId": "mackenzie-mcdonald",
+      "probability": 0.21
+    },
+    {
+      "participantId": "stefano-travaglia",
+      "probability": 0.21
+    },
+    {
+      "participantId": "pedro-martinez",
+      "probability": 0.21
+    },
+    {
+      "participantId": "nicolai-budkov-kjaer",
+      "probability": 0.2
+    },
+    {
+      "participantId": "soonwoo-kwon",
+      "probability": 0.2
+    }
+  ]
+}

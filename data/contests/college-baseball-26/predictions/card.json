@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "college-baseball-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:13Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "ucla-bruins",
+      "name": "UCLA Bruins",
+      "probability": 1.09
+    },
+    {
+      "participantId": "georgia-tech-yellow-jackets",
+      "name": "Georgia Tech Yellow Jackets",
+      "probability": 0.98
+    },
+    {
+      "participantId": "north-carolina-tar-heels",
+      "name": "North Carolina Tar Heels",
+      "probability": 0.93
+    },
+    {
+      "participantId": "georgia-bulldogs",
+      "name": "Georgia Bulldogs",
+      "probability": 0.93
+    },
+    {
+      "participantId": "jacksonville-state-gamecocks",
+      "name": "Jacksonville State Gamecocks",
+      "probability": 0.91
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 95.16,
+      "othersCount": 155
+    }
+  ]
+}

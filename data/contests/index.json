@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:52:07Z",
+  "updatedAt": "2026-09-02T10:36:13Z",
   "contests": {
     "afc-champions-26-27": {
       "title": "AFC Champions",
@@ -16,9 +16,9 @@
         "indexFile": "afc-champions-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "afc-champions-26-27/predictions/latest.json",
         "cardFile": "afc-champions-26-27/predictions/card.json",
         "indexFile": "afc-champions-26-27/predictions/index.json"
@@ -39,9 +39,9 @@
         "indexFile": "brasileirao-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "brasileirao-26/predictions/latest.json",
         "cardFile": "brasileirao-26/predictions/card.json",
         "indexFile": "brasileirao-26/predictions/index.json"
@@ -85,9 +85,9 @@
         "indexFile": "championship-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "championship-26-27/predictions/latest.json",
         "cardFile": "championship-26-27/predictions/card.json",
         "indexFile": "championship-26-27/predictions/index.json"
@@ -108,9 +108,9 @@
         "indexFile": "college-baseball-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "college-baseball-26/predictions/latest.json",
         "cardFile": "college-baseball-26/predictions/card.json",
         "indexFile": "college-baseball-26/predictions/index.json"
@@ -154,9 +154,9 @@
         "indexFile": "eredivisie-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "eredivisie-26-27/predictions/latest.json",
         "cardFile": "eredivisie-26-27/predictions/card.json",
         "indexFile": "eredivisie-26-27/predictions/index.json"
@@ -287,9 +287,9 @@
         "indexFile": "indycar-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "indycar-26/predictions/latest.json",
         "cardFile": "indycar-26/predictions/card.json",
         "indexFile": "indycar-26/predictions/index.json"
@@ -310,9 +310,9 @@
         "indexFile": "ipl-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "ipl-26/predictions/latest.json",
         "cardFile": "ipl-26/predictions/card.json",
         "indexFile": "ipl-26/predictions/index.json"
@@ -372,9 +372,9 @@
         "indexFile": "libertadores-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "libertadores-26/predictions/latest.json",
         "cardFile": "libertadores-26/predictions/card.json",
         "indexFile": "libertadores-26/predictions/index.json"
@@ -395,9 +395,9 @@
         "indexFile": "liga-mx-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "liga-mx-26-27/predictions/latest.json",
         "cardFile": "liga-mx-26-27/predictions/card.json",
         "indexFile": "liga-mx-26-27/predictions/index.json"
@@ -418,9 +418,9 @@
         "indexFile": "liga-portugal-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "liga-portugal-26-27/predictions/latest.json",
         "cardFile": "liga-portugal-26-27/predictions/card.json",
         "indexFile": "liga-portugal-26-27/predictions/index.json"
@@ -510,9 +510,9 @@
         "indexFile": "nascar-cup-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "nascar-cup-26/predictions/latest.json",
         "cardFile": "nascar-cup-26/predictions/card.json",
         "indexFile": "nascar-cup-26/predictions/index.json"
@@ -641,9 +641,9 @@
         "indexFile": "nwsl-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "nwsl-26/predictions/latest.json",
         "cardFile": "nwsl-26/predictions/card.json",
         "indexFile": "nwsl-26/predictions/index.json"
@@ -687,9 +687,9 @@
         "indexFile": "rugby-prem-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "rugby-prem-26-27/predictions/latest.json",
         "cardFile": "rugby-prem-26-27/predictions/card.json",
         "indexFile": "rugby-prem-26-27/predictions/index.json"
@@ -710,9 +710,9 @@
         "indexFile": "rugby-urc-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "rugby-urc-26-27/predictions/latest.json",
         "cardFile": "rugby-urc-26-27/predictions/card.json",
         "indexFile": "rugby-urc-26-27/predictions/index.json"
@@ -733,9 +733,9 @@
         "indexFile": "rugby-world-cup-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "rugby-world-cup-27/predictions/latest.json",
         "cardFile": "rugby-world-cup-27/predictions/card.json",
         "indexFile": "rugby-world-cup-27/predictions/index.json"
@@ -756,9 +756,9 @@
         "indexFile": "scottish-prem-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "scottish-prem-26-27/predictions/latest.json",
         "cardFile": "scottish-prem-26-27/predictions/card.json",
         "indexFile": "scottish-prem-26-27/predictions/index.json"
@@ -802,9 +802,9 @@
         "indexFile": "super-lig-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "super-lig-26-27/predictions/latest.json",
         "cardFile": "super-lig-26-27/predictions/card.json",
         "indexFile": "super-lig-26-27/predictions/index.json"
@@ -825,9 +825,9 @@
         "indexFile": "tennis-atp-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "tennis-atp-26/predictions/latest.json",
         "cardFile": "tennis-atp-26/predictions/card.json",
         "indexFile": "tennis-atp-26/predictions/index.json"
@@ -841,9 +841,9 @@
       "factsGrain": "day",
       "facts": null,
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "tennis-australian-open-27/predictions/latest.json",
         "cardFile": "tennis-australian-open-27/predictions/card.json",
         "indexFile": "tennis-australian-open-27/predictions/index.json"
@@ -857,9 +857,9 @@
       "factsGrain": "day",
       "facts": null,
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "tennis-french-open-27/predictions/latest.json",
         "cardFile": "tennis-french-open-27/predictions/card.json",
         "indexFile": "tennis-french-open-27/predictions/index.json"
@@ -873,9 +873,9 @@
       "factsGrain": "day",
       "facts": null,
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "tennis-us-open-27/predictions/latest.json",
         "cardFile": "tennis-us-open-27/predictions/card.json",
         "indexFile": "tennis-us-open-27/predictions/index.json"
@@ -889,9 +889,9 @@
       "factsGrain": "day",
       "facts": null,
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "tennis-wimbledon-27/predictions/latest.json",
         "cardFile": "tennis-wimbledon-27/predictions/card.json",
         "indexFile": "tennis-wimbledon-27/predictions/index.json"
@@ -912,9 +912,9 @@
         "indexFile": "tennis-wta-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "tennis-wta-26/predictions/latest.json",
         "cardFile": "tennis-wta-26/predictions/card.json",
         "indexFile": "tennis-wta-26/predictions/index.json"
@@ -951,9 +951,9 @@
         "indexFile": "uecl-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "uecl-26-27/predictions/latest.json",
         "cardFile": "uecl-26-27/predictions/card.json",
         "indexFile": "uecl-26-27/predictions/index.json"
@@ -974,9 +974,9 @@
         "indexFile": "uel-26-27/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "uel-26-27/predictions/latest.json",
         "cardFile": "uel-26-27/predictions/card.json",
         "indexFile": "uel-26-27/predictions/index.json"
@@ -997,9 +997,9 @@
         "indexFile": "ufc-p4p-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "ufc-p4p-26/predictions/latest.json",
         "cardFile": "ufc-p4p-26/predictions/card.json",
         "indexFile": "ufc-p4p-26/predictions/index.json"
@@ -1036,9 +1036,9 @@
         "indexFile": "wnba-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "wnba-26/predictions/latest.json",
         "cardFile": "wnba-26/predictions/card.json",
         "indexFile": "wnba-26/predictions/index.json"
@@ -1059,9 +1059,9 @@
         "indexFile": "world-cup-26/facts/index.json"
       },
       "predictions": {
-        "count": 0,
-        "first": null,
-        "last": null,
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
         "latestFile": "world-cup-26/predictions/latest.json",
         "cardFile": "world-cup-26/predictions/card.json",
         "indexFile": "world-cup-26/predictions/index.json"

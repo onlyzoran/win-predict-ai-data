@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "super-lig-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 3,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "genclerbirligi",
+      "name": "Genclerbirligi",
+      "probability": 9.31
+    },
+    {
+      "participantId": "galatasaray",
+      "name": "Galatasaray",
+      "probability": 9.3
+    },
+    {
+      "participantId": "besiktas",
+      "name": "Besiktas",
+      "probability": 7.98
+    },
+    {
+      "participantId": "fenerbahce",
+      "name": "Fenerbahce",
+      "probability": 7.98
+    },
+    {
+      "participantId": "amed-sfk",
+      "name": "Amed SFK",
+      "probability": 7.98
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 57.45,
+      "othersCount": 13
+    }
+  ]
+}

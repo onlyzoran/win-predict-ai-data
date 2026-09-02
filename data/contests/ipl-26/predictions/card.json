@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "ipl-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:13Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "royal-challengers-bengaluru",
+      "name": "Royal Challengers Bengaluru",
+      "probability": 10.23
+    },
+    {
+      "participantId": "gujarat-titans",
+      "name": "Gujarat Titans",
+      "probability": 10.18
+    },
+    {
+      "participantId": "sunrisers-hyderabad",
+      "name": "Sunrisers Hyderabad",
+      "probability": 10.13
+    },
+    {
+      "participantId": "rajasthan-royals",
+      "name": "Rajasthan Royals",
+      "probability": 10.08
+    },
+    {
+      "participantId": "punjab-kings",
+      "name": "Punjab Kings",
+      "probability": 10.03
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 49.35,
+      "othersCount": 5
+    }
+  ]
+}

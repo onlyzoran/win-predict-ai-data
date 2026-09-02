@@ -1,0 +1,88 @@
+{
+  "kind": "prediction",
+  "contestId": "eredivisie-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "az-alkmaar",
+      "probability": 12.87
+    },
+    {
+      "participantId": "psv-eindhoven",
+      "probability": 10.74
+    },
+    {
+      "participantId": "feyenoord-rotterdam",
+      "probability": 8.59
+    },
+    {
+      "participantId": "ajax-amsterdam",
+      "probability": 7.52
+    },
+    {
+      "participantId": "go-ahead-eagles",
+      "probability": 7.51
+    },
+    {
+      "participantId": "fortuna-sittard",
+      "probability": 7.51
+    },
+    {
+      "participantId": "nec-nijmegen",
+      "probability": 6.44
+    },
+    {
+      "participantId": "excelsior",
+      "probability": 6.44
+    },
+    {
+      "participantId": "fc-twente",
+      "probability": 6.44
+    },
+    {
+      "participantId": "fc-groningen",
+      "probability": 6.44
+    },
+    {
+      "participantId": "heerenveen",
+      "probability": 5.36
+    },
+    {
+      "participantId": "sparta-rotterdam",
+      "probability": 4.29
+    },
+    {
+      "participantId": "pec-zwolle",
+      "probability": 3.21
+    },
+    {
+      "participantId": "telstar",
+      "probability": 3.21
+    },
+    {
+      "participantId": "willem-ii",
+      "probability": 1.07
+    },
+    {
+      "participantId": "ado-den-haag",
+      "probability": 1.07
+    },
+    {
+      "participantId": "fc-utrecht",
+      "probability": 1.06
+    },
+    {
+      "participantId": "sc-cambuur",
+      "probability": 0.23
+    }
+  ]
+}

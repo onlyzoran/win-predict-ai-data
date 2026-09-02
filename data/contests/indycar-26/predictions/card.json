@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "indycar-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "álex-palou",
+      "name": "Álex Palou",
+      "probability": 7.1
+    },
+    {
+      "participantId": "christian-lundgaard",
+      "name": "Christian Lundgaard",
+      "probability": 5.93
+    },
+    {
+      "participantId": "kyle-kirkwood",
+      "name": "Kyle Kirkwood",
+      "probability": 5.91
+    },
+    {
+      "participantId": "pato-oward",
+      "name": "Pato O'Ward",
+      "probability": 5.89
+    },
+    {
+      "participantId": "david-malukas",
+      "name": "David Malukas",
+      "probability": 5.66
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 69.51,
+      "othersCount": 28
+    }
+  ]
+}

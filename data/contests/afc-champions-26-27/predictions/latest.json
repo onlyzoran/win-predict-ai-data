@@ -1,0 +1,144 @@
+{
+  "kind": "prediction",
+  "contestId": "afc-champions-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "beijing-guoan",
+      "probability": 3.39
+    },
+    {
+      "participantId": "newcastle-jets",
+      "probability": 3.37
+    },
+    {
+      "participantId": "gamba-osaka",
+      "probability": 3.35
+    },
+    {
+      "participantId": "kashima-antlers",
+      "probability": 3.34
+    },
+    {
+      "participantId": "jeonbuk-motors",
+      "probability": 3.32
+    },
+    {
+      "participantId": "buriram-united",
+      "probability": 3.3
+    },
+    {
+      "participantId": "kashiwa-reysol",
+      "probability": 3.29
+    },
+    {
+      "participantId": "vissel-kobe",
+      "probability": 3.27
+    },
+    {
+      "participantId": "pohang-steelers",
+      "probability": 3.25
+    },
+    {
+      "participantId": "shanghai-port",
+      "probability": 3.24
+    },
+    {
+      "participantId": "johor-darul-tazim",
+      "probability": 3.22
+    },
+    {
+      "participantId": "port-fc",
+      "probability": 3.2
+    },
+    {
+      "participantId": "ratchaburi-fc",
+      "probability": 3.18
+    },
+    {
+      "participantId": "kyoto-sanga",
+      "probability": 3.17
+    },
+    {
+      "participantId": "cong-an-hanoi",
+      "probability": 3.15
+    },
+    {
+      "participantId": "daejeon-hana-citizen",
+      "probability": 3.13
+    },
+    {
+      "participantId": "shabab-al-ahli",
+      "probability": 3.12
+    },
+    {
+      "participantId": "al-nassr",
+      "probability": 3.1
+    },
+    {
+      "participantId": "al-hilal",
+      "probability": 3.08
+    },
+    {
+      "participantId": "al-ittihad",
+      "probability": 3.07
+    },
+    {
+      "participantId": "pakhtakor-tashkent",
+      "probability": 3.05
+    },
+    {
+      "participantId": "al-ain",
+      "probability": 3.03
+    },
+    {
+      "participantId": "al-gharafa",
+      "probability": 3.01
+    },
+    {
+      "participantId": "al-sadd",
+      "probability": 3.0
+    },
+    {
+      "participantId": "esteghlal",
+      "probability": 2.98
+    },
+    {
+      "participantId": "neftchi-fergana",
+      "probability": 2.96
+    },
+    {
+      "participantId": "al-ahli",
+      "probability": 2.95
+    },
+    {
+      "participantId": "al-wasl",
+      "probability": 2.93
+    },
+    {
+      "participantId": "traktor-sazi-fc",
+      "probability": 2.91
+    },
+    {
+      "participantId": "air-force-club",
+      "probability": 2.9
+    },
+    {
+      "participantId": "al-shamal",
+      "probability": 2.88
+    },
+    {
+      "participantId": "al-qadsiah",
+      "probability": 2.86
+    }
+  ]
+}

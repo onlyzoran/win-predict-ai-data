@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "liga-mx-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 6,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "américa",
+      "name": "América",
+      "probability": 10.58
+    },
+    {
+      "participantId": "toluca",
+      "name": "Toluca",
+      "probability": 8.6
+    },
+    {
+      "participantId": "tijuana",
+      "name": "Tijuana",
+      "probability": 8.6
+    },
+    {
+      "participantId": "atlas",
+      "name": "Atlas",
+      "probability": 7.93
+    },
+    {
+      "participantId": "guadalajara",
+      "name": "Guadalajara",
+      "probability": 7.28
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 57.01,
+      "othersCount": 13
+    }
+  ]
+}

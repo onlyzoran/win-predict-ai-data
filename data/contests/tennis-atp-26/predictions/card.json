@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "tennis-atp-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "jannik-sinner",
+      "name": "Jannik Sinner",
+      "probability": 6.77
+    },
+    {
+      "participantId": "alexander-zverev",
+      "name": "Alexander Zverev",
+      "probability": 4.13
+    },
+    {
+      "participantId": "carlos-alcaraz",
+      "name": "Carlos Alcaraz",
+      "probability": 3.8
+    },
+    {
+      "participantId": "felix-auger-aliassime",
+      "name": "Felix Auger-Aliassime",
+      "probability": 2.46
+    },
+    {
+      "participantId": "novak-djokovic",
+      "name": "Novak Djokovic",
+      "probability": 2.0
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 80.84,
+      "othersCount": 145
+    }
+  ]
+}

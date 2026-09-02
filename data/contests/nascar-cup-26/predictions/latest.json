@@ -1,0 +1,180 @@
+{
+  "kind": "prediction",
+  "contestId": "nascar-cup-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "denny-hamlin",
+      "probability": 5.15
+    },
+    {
+      "participantId": "ryan-blaney",
+      "probability": 5.1
+    },
+    {
+      "participantId": "tyler-reddick",
+      "probability": 5.08
+    },
+    {
+      "participantId": "ty-gibbs",
+      "probability": 5.06
+    },
+    {
+      "participantId": "chase-briscoe",
+      "probability": 5.05
+    },
+    {
+      "participantId": "christopher-bell",
+      "probability": 5.04
+    },
+    {
+      "participantId": "kyle-larson",
+      "probability": 5.03
+    },
+    {
+      "participantId": "chase-elliott",
+      "probability": 5.01
+    },
+    {
+      "participantId": "joey-logano",
+      "probability": 5.0
+    },
+    {
+      "participantId": "chris-buescher",
+      "probability": 4.99
+    },
+    {
+      "participantId": "daniel-suarez",
+      "probability": 4.98
+    },
+    {
+      "participantId": "carson-hocevar",
+      "probability": 4.96
+    },
+    {
+      "participantId": "william-byron",
+      "probability": 4.95
+    },
+    {
+      "participantId": "bubba-wallace",
+      "probability": 4.94
+    },
+    {
+      "participantId": "austin-cindric",
+      "probability": 4.93
+    },
+    {
+      "participantId": "ryan-preece",
+      "probability": 4.92
+    },
+    {
+      "participantId": "shane-van-gisbergen",
+      "probability": 1.49
+    },
+    {
+      "participantId": "brad-keselowski",
+      "probability": 1.33
+    },
+    {
+      "participantId": "ross-chastain",
+      "probability": 1.27
+    },
+    {
+      "participantId": "michael-mcdowell",
+      "probability": 1.27
+    },
+    {
+      "participantId": "erik-jones",
+      "probability": 1.22
+    },
+    {
+      "participantId": "todd-gilliland",
+      "probability": 1.15
+    },
+    {
+      "participantId": "aj-allmendinger",
+      "probability": 1.14
+    },
+    {
+      "participantId": "zane-smith",
+      "probability": 1.12
+    },
+    {
+      "participantId": "austin-dillon",
+      "probability": 1.07
+    },
+    {
+      "participantId": "ricky-stenhouse-jr",
+      "probability": 1.06
+    },
+    {
+      "participantId": "john-hunter-nemechek",
+      "probability": 1.03
+    },
+    {
+      "participantId": "josh-berry",
+      "probability": 1.02
+    },
+    {
+      "participantId": "riley-herbst",
+      "probability": 0.99
+    },
+    {
+      "participantId": "alex-bowman",
+      "probability": 0.96
+    },
+    {
+      "participantId": "noah-gragson",
+      "probability": 0.85
+    },
+    {
+      "participantId": "cole-custer",
+      "probability": 0.81
+    },
+    {
+      "participantId": "ty-dillon",
+      "probability": 0.76
+    },
+    {
+      "participantId": "connor-zilisch",
+      "probability": 0.67
+    },
+    {
+      "participantId": "cody-ware",
+      "probability": 0.49
+    },
+    {
+      "participantId": "casey-mears",
+      "probability": 0.03
+    },
+    {
+      "participantId": "kevin-magnussen",
+      "probability": 0.03
+    },
+    {
+      "participantId": "jimmie-johnson",
+      "probability": 0.02
+    },
+    {
+      "participantId": "katherine-legge",
+      "probability": 0.02
+    },
+    {
+      "participantId": "bj-mcleod",
+      "probability": 0.01
+    },
+    {
+      "participantId": "harrison-burton",
+      "probability": 0.0
+    }
+  ]
+}

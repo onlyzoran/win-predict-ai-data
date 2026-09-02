@@ -1,0 +1,64 @@
+{
+  "kind": "prediction",
+  "contestId": "scottish-prem-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "celtic",
+      "probability": 16.61
+    },
+    {
+      "participantId": "st-mirren",
+      "probability": 12.92
+    },
+    {
+      "participantId": "heart-of-midlothian",
+      "probability": 11.07
+    },
+    {
+      "participantId": "dundee",
+      "probability": 11.07
+    },
+    {
+      "participantId": "hibernian",
+      "probability": 11.07
+    },
+    {
+      "participantId": "motherwell",
+      "probability": 9.22
+    },
+    {
+      "participantId": "rangers",
+      "probability": 7.38
+    },
+    {
+      "participantId": "dundee-united",
+      "probability": 7.37
+    },
+    {
+      "participantId": "st-johnstone",
+      "probability": 5.53
+    },
+    {
+      "participantId": "aberdeen",
+      "probability": 5.53
+    },
+    {
+      "participantId": "falkirk",
+      "probability": 1.84
+    },
+    {
+      "participantId": "kilmarnock",
+      "probability": 0.39
+    }
+  ]
+}

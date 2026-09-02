@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "eredivisie-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "az-alkmaar",
+      "name": "AZ Alkmaar",
+      "probability": 12.87
+    },
+    {
+      "participantId": "psv-eindhoven",
+      "name": "PSV Eindhoven",
+      "probability": 10.74
+    },
+    {
+      "participantId": "feyenoord-rotterdam",
+      "name": "Feyenoord Rotterdam",
+      "probability": 8.59
+    },
+    {
+      "participantId": "ajax-amsterdam",
+      "name": "Ajax Amsterdam",
+      "probability": 7.52
+    },
+    {
+      "participantId": "go-ahead-eagles",
+      "name": "Go Ahead Eagles",
+      "probability": 7.51
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 52.77,
+      "othersCount": 13
+    }
+  ]
+}

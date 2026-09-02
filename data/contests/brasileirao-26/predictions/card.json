@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "brasileirao-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 25,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "palmeiras",
+      "name": "Palmeiras",
+      "probability": 7.84
+    },
+    {
+      "participantId": "flamengo",
+      "name": "Flamengo",
+      "probability": 7.23
+    },
+    {
+      "participantId": "athletico-paranaense",
+      "name": "Athletico Paranaense",
+      "probability": 6.78
+    },
+    {
+      "participantId": "fluminense",
+      "name": "Fluminense",
+      "probability": 6.33
+    },
+    {
+      "participantId": "bahia",
+      "name": "Bahia",
+      "probability": 6.03
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 65.79,
+      "othersCount": 15
+    }
+  ]
+}

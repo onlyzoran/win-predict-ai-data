@@ -1,0 +1,88 @@
+{
+  "kind": "prediction",
+  "contestId": "liga-portugal-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "fc-porto",
+      "probability": 13.34
+    },
+    {
+      "participantId": "sporting-cp",
+      "probability": 11.09
+    },
+    {
+      "participantId": "arouca",
+      "probability": 9.98
+    },
+    {
+      "participantId": "santa-clara",
+      "probability": 8.87
+    },
+    {
+      "participantId": "benfica",
+      "probability": 7.77
+    },
+    {
+      "participantId": "gil-vicente",
+      "probability": 7.76
+    },
+    {
+      "participantId": "maritimo",
+      "probability": 7.76
+    },
+    {
+      "participantId": "estrela",
+      "probability": 5.54
+    },
+    {
+      "participantId": "braga",
+      "probability": 4.43
+    },
+    {
+      "participantId": "cd-nacional",
+      "probability": 4.43
+    },
+    {
+      "participantId": "moreirense",
+      "probability": 4.43
+    },
+    {
+      "participantId": "vitória-de-guimaraes",
+      "probability": 3.32
+    },
+    {
+      "participantId": "rio-ave",
+      "probability": 3.32
+    },
+    {
+      "participantId": "fc-famalicao",
+      "probability": 2.21
+    },
+    {
+      "participantId": "académico-de-viseu",
+      "probability": 2.21
+    },
+    {
+      "participantId": "alverca",
+      "probability": 2.21
+    },
+    {
+      "participantId": "estoril",
+      "probability": 1.1
+    },
+    {
+      "participantId": "casa-pia",
+      "probability": 0.23
+    }
+  ]
+}

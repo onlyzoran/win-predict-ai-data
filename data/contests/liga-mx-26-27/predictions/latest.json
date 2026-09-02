@@ -1,0 +1,88 @@
+{
+  "kind": "prediction",
+  "contestId": "liga-mx-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 6,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "américa",
+      "probability": 10.58
+    },
+    {
+      "participantId": "toluca",
+      "probability": 8.6
+    },
+    {
+      "participantId": "tijuana",
+      "probability": 8.6
+    },
+    {
+      "participantId": "atlas",
+      "probability": 7.93
+    },
+    {
+      "participantId": "guadalajara",
+      "probability": 7.28
+    },
+    {
+      "participantId": "querétaro",
+      "probability": 6.61
+    },
+    {
+      "participantId": "león",
+      "probability": 6.61
+    },
+    {
+      "participantId": "puebla",
+      "probability": 6.61
+    },
+    {
+      "participantId": "monterrey",
+      "probability": 5.95
+    },
+    {
+      "participantId": "cruz-azul",
+      "probability": 5.95
+    },
+    {
+      "participantId": "pumas-unam",
+      "probability": 5.29
+    },
+    {
+      "participantId": "necaxa",
+      "probability": 4.63
+    },
+    {
+      "participantId": "atlético-de-san-luis",
+      "probability": 3.97
+    },
+    {
+      "participantId": "atlante",
+      "probability": 3.97
+    },
+    {
+      "participantId": "pachuca",
+      "probability": 3.31
+    },
+    {
+      "participantId": "tigres-uanl",
+      "probability": 3.3
+    },
+    {
+      "participantId": "santos",
+      "probability": 0.66
+    },
+    {
+      "participantId": "fc-juarez",
+      "probability": 0.15
+    }
+  ]
+}

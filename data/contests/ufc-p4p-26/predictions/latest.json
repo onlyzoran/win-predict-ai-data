@@ -1,0 +1,52 @@
+{
+  "kind": "prediction",
+  "contestId": "ufc-p4p-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "kamaru-usman",
+      "probability": 11.39
+    },
+    {
+      "participantId": "israel-adesanya",
+      "probability": 11.28
+    },
+    {
+      "participantId": "francis-ngannou",
+      "probability": 11.22
+    },
+    {
+      "participantId": "alexander-volkanovski",
+      "probability": 11.16
+    },
+    {
+      "participantId": "jan-blachowicz",
+      "probability": 11.1
+    },
+    {
+      "participantId": "dustin-poirier",
+      "probability": 11.05
+    },
+    {
+      "participantId": "deiveson-figueiredo",
+      "probability": 10.99
+    },
+    {
+      "participantId": "stipe-miocic",
+      "probability": 10.93
+    },
+    {
+      "participantId": "charles-oliveira",
+      "probability": 10.88
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "uecl-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "agf",
+      "name": "AGF",
+      "probability": 3.05
+    },
+    {
+      "participantId": "ajax-amsterdam",
+      "name": "Ajax Amsterdam",
+      "probability": 3.03
+    },
+    {
+      "participantId": "atalanta",
+      "name": "Atalanta",
+      "probability": 3.01
+    },
+    {
+      "participantId": "borac-banja-luka",
+      "name": "Borac Banja Luka",
+      "probability": 3.0
+    },
+    {
+      "participantId": "sk-brann",
+      "name": "SK Brann",
+      "probability": 2.98
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 84.93,
+      "othersCount": 31
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "rugby-world-cup-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:13Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "clermont-auvergne",
+      "name": "Clermont Auvergne",
+      "probability": 4.42
+    },
+    {
+      "participantId": "glasgow-warriors",
+      "name": "Glasgow Warriors",
+      "probability": 4.4
+    },
+    {
+      "participantId": "leicester-tigers",
+      "name": "Leicester Tigers",
+      "probability": 4.38
+    },
+    {
+      "participantId": "leinster",
+      "name": "Leinster",
+      "probability": 4.35
+    },
+    {
+      "participantId": "sale-sharks",
+      "name": "Sale Sharks",
+      "probability": 4.33
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 78.12,
+      "othersCount": 19
+    }
+  ]
+}

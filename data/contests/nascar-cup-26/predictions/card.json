@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "nascar-cup-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "denny-hamlin",
+      "name": "Denny Hamlin",
+      "probability": 5.15
+    },
+    {
+      "participantId": "ryan-blaney",
+      "name": "Ryan Blaney",
+      "probability": 5.1
+    },
+    {
+      "participantId": "tyler-reddick",
+      "name": "Tyler Reddick",
+      "probability": 5.08
+    },
+    {
+      "participantId": "ty-gibbs",
+      "name": "Ty Gibbs",
+      "probability": 5.06
+    },
+    {
+      "participantId": "chase-briscoe",
+      "name": "Chase Briscoe",
+      "probability": 5.05
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 74.56,
+      "othersCount": 36
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kind": "prediction",
+  "contestId": "rugby-prem-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "bath-rugby",
+      "probability": 10.23
+    },
+    {
+      "participantId": "bristol-rugby",
+      "probability": 10.18
+    },
+    {
+      "participantId": "exeter-chiefs",
+      "probability": 10.13
+    },
+    {
+      "participantId": "gloucester-rugby",
+      "probability": 10.08
+    },
+    {
+      "participantId": "harlequins",
+      "probability": 10.03
+    },
+    {
+      "participantId": "leicester-tigers",
+      "probability": 9.97
+    },
+    {
+      "participantId": "newcastle-falcons",
+      "probability": 9.92
+    },
+    {
+      "participantId": "northampton-saints",
+      "probability": 9.87
+    },
+    {
+      "participantId": "sale-sharks",
+      "probability": 9.82
+    },
+    {
+      "participantId": "saracens",
+      "probability": 9.77
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "nwsl-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 22,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "gotham-fc",
+      "name": "Gotham FC",
+      "probability": 9.18
+    },
+    {
+      "participantId": "washington-spirit",
+      "name": "Washington Spirit",
+      "probability": 8.15
+    },
+    {
+      "participantId": "utah-royals",
+      "name": "Utah Royals",
+      "probability": 7.95
+    },
+    {
+      "participantId": "san-diego-wave-fc",
+      "name": "San Diego Wave FC",
+      "probability": 7.94
+    },
+    {
+      "participantId": "portland-thorns-fc",
+      "name": "Portland Thorns FC",
+      "probability": 7.74
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 59.04,
+      "othersCount": 11
+    }
+  ]
+}

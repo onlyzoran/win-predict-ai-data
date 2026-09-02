@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "uel-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "ac-milan",
+      "name": "AC Milan",
+      "probability": 3.05
+    },
+    {
+      "participantId": "az-alkmaar",
+      "name": "AZ Alkmaar",
+      "probability": 3.03
+    },
+    {
+      "participantId": "anderlecht",
+      "name": "Anderlecht",
+      "probability": 3.01
+    },
+    {
+      "participantId": "ararat-armenia",
+      "name": "Ararat-Armenia",
+      "probability": 3.0
+    },
+    {
+      "participantId": "bayer-leverkusen",
+      "name": "Bayer Leverkusen",
+      "probability": 2.98
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 84.93,
+      "othersCount": 31
+    }
+  ]
+}

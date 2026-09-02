@@ -1,0 +1,56 @@
+{
+  "kind": "prediction",
+  "contestId": "ipl-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:13Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "royal-challengers-bengaluru",
+      "probability": 10.23
+    },
+    {
+      "participantId": "gujarat-titans",
+      "probability": 10.18
+    },
+    {
+      "participantId": "sunrisers-hyderabad",
+      "probability": 10.13
+    },
+    {
+      "participantId": "rajasthan-royals",
+      "probability": 10.08
+    },
+    {
+      "participantId": "punjab-kings",
+      "probability": 10.03
+    },
+    {
+      "participantId": "delhi-capitals",
+      "probability": 9.97
+    },
+    {
+      "participantId": "kolkata-knight-riders",
+      "probability": 9.92
+    },
+    {
+      "participantId": "chennai-super-kings",
+      "probability": 9.87
+    },
+    {
+      "participantId": "mumbai-indians",
+      "probability": 9.82
+    },
+    {
+      "participantId": "lucknow-super-giants",
+      "probability": 9.77
+    }
+  ]
+}

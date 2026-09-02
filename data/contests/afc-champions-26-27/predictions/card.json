@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "afc-champions-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "beijing-guoan",
+      "name": "Beijing Guoan",
+      "probability": 3.39
+    },
+    {
+      "participantId": "newcastle-jets",
+      "name": "Newcastle Jets",
+      "probability": 3.37
+    },
+    {
+      "participantId": "gamba-osaka",
+      "name": "Gamba Osaka",
+      "probability": 3.35
+    },
+    {
+      "participantId": "kashima-antlers",
+      "name": "Kashima Antlers",
+      "probability": 3.34
+    },
+    {
+      "participantId": "jeonbuk-motors",
+      "name": "Jeonbuk Motors",
+      "probability": 3.32
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 83.23,
+      "othersCount": 27
+    }
+  ]
+}

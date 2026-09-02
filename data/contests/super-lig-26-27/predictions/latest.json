@@ -1,0 +1,88 @@
+{
+  "kind": "prediction",
+  "contestId": "super-lig-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 3,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "galatasaray",
+      "probability": 9.3
+    },
+    {
+      "participantId": "genclerbirligi",
+      "probability": 9.31
+    },
+    {
+      "participantId": "besiktas",
+      "probability": 7.98
+    },
+    {
+      "participantId": "fenerbahce",
+      "probability": 7.98
+    },
+    {
+      "participantId": "amed-sfk",
+      "probability": 7.98
+    },
+    {
+      "participantId": "kocaelispor",
+      "probability": 7.98
+    },
+    {
+      "participantId": "caykur-rizespor",
+      "probability": 7.98
+    },
+    {
+      "participantId": "kasimpasa",
+      "probability": 6.65
+    },
+    {
+      "participantId": "istanbul-basaksehir",
+      "probability": 5.32
+    },
+    {
+      "participantId": "samsunspor",
+      "probability": 5.32
+    },
+    {
+      "participantId": "trabzonspor",
+      "probability": 5.32
+    },
+    {
+      "participantId": "alanyaspor",
+      "probability": 5.32
+    },
+    {
+      "participantId": "gaziantep-fk",
+      "probability": 5.32
+    },
+    {
+      "participantId": "eyupspor",
+      "probability": 3.99
+    },
+    {
+      "participantId": "goztepe",
+      "probability": 1.33
+    },
+    {
+      "participantId": "çorum-fk",
+      "probability": 1.32
+    },
+    {
+      "participantId": "erzurum-bb",
+      "probability": 1.32
+    },
+    {
+      "participantId": "konyaspor",
+      "probability": 0.28
+    }
+  ]
+}

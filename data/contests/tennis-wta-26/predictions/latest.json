@@ -1,0 +1,616 @@
+{
+  "kind": "prediction",
+  "contestId": "tennis-wta-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "aryna-sabalenka",
+      "probability": 4.15
+    },
+    {
+      "participantId": "elena-rybakina",
+      "probability": 3.91
+    },
+    {
+      "participantId": "jessica-pegula",
+      "probability": 3.49
+    },
+    {
+      "participantId": "coco-gauff",
+      "probability": 3.22
+    },
+    {
+      "participantId": "mirra-andreeva",
+      "probability": 2.62
+    },
+    {
+      "participantId": "linda-noskova",
+      "probability": 2.42
+    },
+    {
+      "participantId": "karolina-muchova",
+      "probability": 2.39
+    },
+    {
+      "participantId": "iga-swiatek",
+      "probability": 2.31
+    },
+    {
+      "participantId": "elina-svitolina",
+      "probability": 2.25
+    },
+    {
+      "participantId": "amanda-anisimova",
+      "probability": 2.18
+    },
+    {
+      "participantId": "marta-kostyuk",
+      "probability": 1.91
+    },
+    {
+      "participantId": "belinda-bencic",
+      "probability": 1.44
+    },
+    {
+      "participantId": "naomi-osaka",
+      "probability": 1.37
+    },
+    {
+      "participantId": "iva-jovic",
+      "probability": 1.28
+    },
+    {
+      "participantId": "victoria-mboko",
+      "probability": 1.22
+    },
+    {
+      "participantId": "diana-shnaider",
+      "probability": 1.19
+    },
+    {
+      "participantId": "sorana-cirstea",
+      "probability": 1.1
+    },
+    {
+      "participantId": "alexandra-eala",
+      "probability": 1.1
+    },
+    {
+      "participantId": "ekaterina-alexandrova",
+      "probability": 1.05
+    },
+    {
+      "participantId": "elise-mertens",
+      "probability": 1.04
+    },
+    {
+      "participantId": "jasmine-paolini",
+      "probability": 1.02
+    },
+    {
+      "participantId": "maja-chwalinska",
+      "probability": 0.98
+    },
+    {
+      "participantId": "anna-kalinskaya",
+      "probability": 0.93
+    },
+    {
+      "participantId": "madison-keys",
+      "probability": 0.92
+    },
+    {
+      "participantId": "anastasia-potapova",
+      "probability": 0.84
+    },
+    {
+      "participantId": "marie-bouzkova",
+      "probability": 0.84
+    },
+    {
+      "participantId": "emma-navarro",
+      "probability": 0.83
+    },
+    {
+      "participantId": "ann-li",
+      "probability": 0.81
+    },
+    {
+      "participantId": "barbora-krejcikova",
+      "probability": 0.8
+    },
+    {
+      "participantId": "sara-bejlek",
+      "probability": 0.79
+    },
+    {
+      "participantId": "diane-parry",
+      "probability": 0.77
+    },
+    {
+      "participantId": "jelena-ostapenko",
+      "probability": 0.73
+    },
+    {
+      "participantId": "leylah-fernandez",
+      "probability": 0.7
+    },
+    {
+      "participantId": "nikola-bartunkova",
+      "probability": 0.68
+    },
+    {
+      "participantId": "maria-sakkari",
+      "probability": 0.68
+    },
+    {
+      "participantId": "janice-tjen",
+      "probability": 0.64
+    },
+    {
+      "participantId": "hailey-baptiste",
+      "probability": 0.62
+    },
+    {
+      "participantId": "clara-tauson",
+      "probability": 0.62
+    },
+    {
+      "participantId": "donna-vekic",
+      "probability": 0.61
+    },
+    {
+      "participantId": "cristina-bucsa",
+      "probability": 0.61
+    },
+    {
+      "participantId": "magdalena-frech",
+      "probability": 0.6
+    },
+    {
+      "participantId": "katerina-siniakova",
+      "probability": 0.59
+    },
+    {
+      "participantId": "wang-xinyu",
+      "probability": 0.57
+    },
+    {
+      "participantId": "jaqueline-cristian",
+      "probability": 0.57
+    },
+    {
+      "participantId": "daria-snigur",
+      "probability": 0.57
+    },
+    {
+      "participantId": "oleksandra-oliynykova",
+      "probability": 0.56
+    },
+    {
+      "participantId": "liudmila-samsonova",
+      "probability": 0.56
+    },
+    {
+      "participantId": "tamara-korpatsch",
+      "probability": 0.55
+    },
+    {
+      "participantId": "lilli-tagger",
+      "probability": 0.55
+    },
+    {
+      "participantId": "tereza-valentova",
+      "probability": 0.54
+    },
+    {
+      "participantId": "anhelina-kalinina",
+      "probability": 0.54
+    },
+    {
+      "participantId": "mayar-sherif",
+      "probability": 0.53
+    },
+    {
+      "participantId": "zeynep-sonmez",
+      "probability": 0.52
+    },
+    {
+      "participantId": "zhang-shuai",
+      "probability": 0.52
+    },
+    {
+      "participantId": "peyton-stearns",
+      "probability": 0.51
+    },
+    {
+      "participantId": "viktorija-golubic",
+      "probability": 0.51
+    },
+    {
+      "participantId": "karolina-pliskova",
+      "probability": 0.51
+    },
+    {
+      "participantId": "yuliia-starodubtseva",
+      "probability": 0.5
+    },
+    {
+      "participantId": "camila-osorio",
+      "probability": 0.49
+    },
+    {
+      "participantId": "ashlyn-krueger",
+      "probability": 0.48
+    },
+    {
+      "participantId": "daria-kasatkina",
+      "probability": 0.48
+    },
+    {
+      "participantId": "katie-boulter",
+      "probability": 0.48
+    },
+    {
+      "participantId": "talia-gibson",
+      "probability": 0.48
+    },
+    {
+      "participantId": "elena-gabriela-ruse",
+      "probability": 0.48
+    },
+    {
+      "participantId": "catherine-mcnally",
+      "probability": 0.48
+    },
+    {
+      "participantId": "mccartney-kessler",
+      "probability": 0.47
+    },
+    {
+      "participantId": "elisabetta-cocciaretto",
+      "probability": 0.47
+    },
+    {
+      "participantId": "panna-udvardy",
+      "probability": 0.47
+    },
+    {
+      "participantId": "alina-korneeva",
+      "probability": 0.47
+    },
+    {
+      "participantId": "emma-raducanu",
+      "probability": 0.47
+    },
+    {
+      "participantId": "kimberly-birrell",
+      "probability": 0.47
+    },
+    {
+      "participantId": "maya-joint",
+      "probability": 0.46
+    },
+    {
+      "participantId": "anna-bondar",
+      "probability": 0.46
+    },
+    {
+      "participantId": "renata-zarazua",
+      "probability": 0.46
+    },
+    {
+      "participantId": "darja-vidmanova",
+      "probability": 0.46
+    },
+    {
+      "participantId": "lanlana-tararudee",
+      "probability": 0.46
+    },
+    {
+      "participantId": "petra-marcinko",
+      "probability": 0.46
+    },
+    {
+      "participantId": "katie-volynets",
+      "probability": 0.45
+    },
+    {
+      "participantId": "alycia-parks",
+      "probability": 0.45
+    },
+    {
+      "participantId": "wang-xiyu",
+      "probability": 0.44
+    },
+    {
+      "participantId": "hanne-vandewinkel",
+      "probability": 0.44
+    },
+    {
+      "participantId": "magda-linette",
+      "probability": 0.44
+    },
+    {
+      "participantId": "tatjana-maria",
+      "probability": 0.44
+    },
+    {
+      "participantId": "yulia-putintseva",
+      "probability": 0.43
+    },
+    {
+      "participantId": "antonia-ruzic",
+      "probability": 0.43
+    },
+    {
+      "participantId": "maria-timofeeva",
+      "probability": 0.43
+    },
+    {
+      "participantId": "paula-badosa",
+      "probability": 0.43
+    },
+    {
+      "participantId": "emiliana-arango",
+      "probability": 0.42
+    },
+    {
+      "participantId": "simona-waltert",
+      "probability": 0.41
+    },
+    {
+      "participantId": "sinja-kraus",
+      "probability": 0.41
+    },
+    {
+      "participantId": "solana-sierra",
+      "probability": 0.41
+    },
+    {
+      "participantId": "kamilla-rakhimova",
+      "probability": 0.41
+    },
+    {
+      "participantId": "oksana-selekhmeteva",
+      "probability": 0.4
+    },
+    {
+      "participantId": "mananchaya-sawangkaew",
+      "probability": 0.39
+    },
+    {
+      "participantId": "anna-blinkova",
+      "probability": 0.38
+    },
+    {
+      "participantId": "taylor-townsend",
+      "probability": 0.38
+    },
+    {
+      "participantId": "polina-kudermetova",
+      "probability": 0.38
+    },
+    {
+      "participantId": "eva-lys",
+      "probability": 0.37
+    },
+    {
+      "participantId": "moyuka-uchijima",
+      "probability": 0.37
+    },
+    {
+      "participantId": "taylah-preston",
+      "probability": 0.37
+    },
+    {
+      "participantId": "anastasia-zakharova",
+      "probability": 0.36
+    },
+    {
+      "participantId": "laura-siegemund",
+      "probability": 0.36
+    },
+    {
+      "participantId": "ajla-tomljanovic",
+      "probability": 0.36
+    },
+    {
+      "participantId": "francesca-jones",
+      "probability": 0.36
+    },
+    {
+      "participantId": "jessica-bouzas-maneiro",
+      "probability": 0.36
+    },
+    {
+      "participantId": "veronika-erjavec",
+      "probability": 0.36
+    },
+    {
+      "participantId": "kaitlin-quevedo",
+      "probability": 0.35
+    },
+    {
+      "participantId": "alina-charaeva",
+      "probability": 0.34
+    },
+    {
+      "participantId": "darja-semenistaja",
+      "probability": 0.34
+    },
+    {
+      "participantId": "sofia-kenin",
+      "probability": 0.34
+    },
+    {
+      "participantId": "claire-liu",
+      "probability": 0.34
+    },
+    {
+      "participantId": "julia-grabher",
+      "probability": 0.33
+    },
+    {
+      "participantId": "dayana-yastremska",
+      "probability": 0.33
+    },
+    {
+      "participantId": "elsa-jacquemot",
+      "probability": 0.32
+    },
+    {
+      "participantId": "elvina-kalieva",
+      "probability": 0.31
+    },
+    {
+      "participantId": "laura-samson",
+      "probability": 0.3
+    },
+    {
+      "participantId": "kayla-day",
+      "probability": 0.3
+    },
+    {
+      "participantId": "dominika-salkova",
+      "probability": 0.3
+    },
+    {
+      "participantId": "lucrezia-stefanini",
+      "probability": 0.3
+    },
+    {
+      "participantId": "victoria-jimenez-kasintseva",
+      "probability": 0.3
+    },
+    {
+      "participantId": "zheng-qinwen",
+      "probability": 0.29
+    },
+    {
+      "participantId": "mary-stoiana",
+      "probability": 0.29
+    },
+    {
+      "participantId": "ella-seidel",
+      "probability": 0.29
+    },
+    {
+      "participantId": "sonay-kartal",
+      "probability": 0.29
+    },
+    {
+      "participantId": "kristina-liutova",
+      "probability": 0.29
+    },
+    {
+      "participantId": "emerson-jones",
+      "probability": 0.29
+    },
+    {
+      "participantId": "leolia-jeanjean",
+      "probability": 0.29
+    },
+    {
+      "participantId": "lulu-sun",
+      "probability": 0.29
+    },
+    {
+      "participantId": "katarzyna-kawa",
+      "probability": 0.28
+    },
+    {
+      "participantId": "lisa-pigato",
+      "probability": 0.28
+    },
+    {
+      "participantId": "harriet-dart",
+      "probability": 0.28
+    },
+    {
+      "participantId": "veronika-podrez",
+      "probability": 0.27
+    },
+    {
+      "participantId": "marina-bassols-ribera",
+      "probability": 0.27
+    },
+    {
+      "participantId": "maddison-inglis",
+      "probability": 0.27
+    },
+    {
+      "participantId": "lucia-bronzetti",
+      "probability": 0.27
+    },
+    {
+      "participantId": "aliaksandra-sasnovich",
+      "probability": 0.27
+    },
+    {
+      "participantId": "noma-noha-akugue",
+      "probability": 0.27
+    },
+    {
+      "participantId": "yuan-yue",
+      "probability": 0.26
+    },
+    {
+      "participantId": "jeline-vandromme",
+      "probability": 0.26
+    },
+    {
+      "participantId": "marina-stakusic",
+      "probability": 0.26
+    },
+    {
+      "participantId": "fiona-ferro",
+      "probability": 0.26
+    },
+    {
+      "participantId": "andrea-lazaro-garcia",
+      "probability": 0.26
+    },
+    {
+      "participantId": "carol-young-suh-lee",
+      "probability": 0.25
+    },
+    {
+      "participantId": "himeno-sakatsume",
+      "probability": 0.25
+    },
+    {
+      "participantId": "leyre-romero-gormaz",
+      "probability": 0.25
+    },
+    {
+      "participantId": "tamara-zidansek",
+      "probability": 0.25
+    },
+    {
+      "participantId": "julia-riera",
+      "probability": 0.25
+    },
+    {
+      "participantId": "varvara-gracheva",
+      "probability": 0.24
+    },
+    {
+      "participantId": "tyra-caterina-grant",
+      "probability": 0.24
+    },
+    {
+      "participantId": "lola-radivojevic",
+      "probability": 0.24
+    }
+  ]
+}

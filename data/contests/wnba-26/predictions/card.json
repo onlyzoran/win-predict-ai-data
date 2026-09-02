@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "wnba-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "minnesota-lynx",
+      "name": "Minnesota Lynx",
+      "probability": 10.32
+    },
+    {
+      "participantId": "golden-state-valkyries",
+      "name": "Golden State Valkyries",
+      "probability": 9.67
+    },
+    {
+      "participantId": "las-vegas-aces",
+      "name": "Las Vegas Aces",
+      "probability": 9.0
+    },
+    {
+      "participantId": "atlanta-dream",
+      "name": "Atlanta Dream",
+      "probability": 8.67
+    },
+    {
+      "participantId": "indiana-fever",
+      "name": "Indiana Fever",
+      "probability": 8.67
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 53.67,
+      "othersCount": 10
+    }
+  ]
+}

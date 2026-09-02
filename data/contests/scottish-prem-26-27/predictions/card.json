@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "scottish-prem-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "celtic",
+      "name": "Celtic",
+      "probability": 16.61
+    },
+    {
+      "participantId": "st-mirren",
+      "name": "St Mirren",
+      "probability": 12.92
+    },
+    {
+      "participantId": "heart-of-midlothian",
+      "name": "Heart of Midlothian",
+      "probability": 11.07
+    },
+    {
+      "participantId": "dundee",
+      "name": "Dundee",
+      "probability": 11.07
+    },
+    {
+      "participantId": "hibernian",
+      "name": "Hibernian",
+      "probability": 11.07
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 37.26,
+      "othersCount": 7
+    }
+  ]
+}

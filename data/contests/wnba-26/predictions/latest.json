@@ -1,0 +1,76 @@
+{
+  "kind": "prediction",
+  "contestId": "wnba-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "minnesota-lynx",
+      "probability": 10.32
+    },
+    {
+      "participantId": "golden-state-valkyries",
+      "probability": 9.67
+    },
+    {
+      "participantId": "las-vegas-aces",
+      "probability": 9.0
+    },
+    {
+      "participantId": "atlanta-dream",
+      "probability": 8.67
+    },
+    {
+      "participantId": "indiana-fever",
+      "probability": 8.67
+    },
+    {
+      "participantId": "new-york-liberty",
+      "probability": 8.0
+    },
+    {
+      "participantId": "washington-mystics",
+      "probability": 8.0
+    },
+    {
+      "participantId": "dallas-wings",
+      "probability": 8.0
+    },
+    {
+      "participantId": "portland-fire",
+      "probability": 5.33
+    },
+    {
+      "participantId": "chicago-sky",
+      "probability": 5.0
+    },
+    {
+      "participantId": "los-angeles-sparks",
+      "probability": 5.0
+    },
+    {
+      "participantId": "phoenix-mercury",
+      "probability": 4.67
+    },
+    {
+      "participantId": "toronto-tempo",
+      "probability": 3.67
+    },
+    {
+      "participantId": "connecticut-sun",
+      "probability": 3.33
+    },
+    {
+      "participantId": "seattle-storm",
+      "probability": 2.67
+    }
+  ]
+}

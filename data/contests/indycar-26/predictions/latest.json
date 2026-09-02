@@ -1,0 +1,148 @@
+{
+  "kind": "prediction",
+  "contestId": "indycar-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "álex-palou",
+      "probability": 7.1
+    },
+    {
+      "participantId": "christian-lundgaard",
+      "probability": 5.93
+    },
+    {
+      "participantId": "kyle-kirkwood",
+      "probability": 5.91
+    },
+    {
+      "participantId": "pato-oward",
+      "probability": 5.89
+    },
+    {
+      "participantId": "david-malukas",
+      "probability": 5.66
+    },
+    {
+      "participantId": "scott-mclaughlin",
+      "probability": 5.01
+    },
+    {
+      "participantId": "josef-newgarden",
+      "probability": 4.77
+    },
+    {
+      "participantId": "marcus-ericsson",
+      "probability": 4.76
+    },
+    {
+      "participantId": "felix-rosenqvist",
+      "probability": 4.43
+    },
+    {
+      "participantId": "rinus-veekay",
+      "probability": 4.26
+    },
+    {
+      "participantId": "will-power",
+      "probability": 4.11
+    },
+    {
+      "participantId": "scott-dixon",
+      "probability": 3.72
+    },
+    {
+      "participantId": "kyffin-simpson",
+      "probability": 3.59
+    },
+    {
+      "participantId": "marcus-armstrong",
+      "probability": 3.43
+    },
+    {
+      "participantId": "graham-rahal",
+      "probability": 3.41
+    },
+    {
+      "participantId": "alexander-rossi",
+      "probability": 3.17
+    },
+    {
+      "participantId": "santino-ferrucci",
+      "probability": 3.07
+    },
+    {
+      "participantId": "nolan-siegel",
+      "probability": 2.96
+    },
+    {
+      "participantId": "louis-foster",
+      "probability": 2.94
+    },
+    {
+      "participantId": "romain-grosjean",
+      "probability": 2.89
+    },
+    {
+      "participantId": "christian-rasmussen",
+      "probability": 2.76
+    },
+    {
+      "participantId": "dennis-hauger",
+      "probability": 2.61
+    },
+    {
+      "participantId": "mick-schumacher",
+      "probability": 2.4
+    },
+    {
+      "participantId": "caio-collet",
+      "probability": 2.26
+    },
+    {
+      "participantId": "sting-ray-robb",
+      "probability": 2.05
+    },
+    {
+      "participantId": "conor-daly",
+      "probability": 0.28
+    },
+    {
+      "participantId": "takuma-sato",
+      "probability": 0.23
+    },
+    {
+      "participantId": "jack-harvey",
+      "probability": 0.09
+    },
+    {
+      "participantId": "jacob-abel",
+      "probability": 0.07
+    },
+    {
+      "participantId": "helio-castroneves",
+      "probability": 0.06
+    },
+    {
+      "participantId": "ryan-hunter-reay",
+      "probability": 0.06
+    },
+    {
+      "participantId": "ed-carpenter",
+      "probability": 0.06
+    },
+    {
+      "participantId": "katherine-legge",
+      "probability": 0.06
+    }
+  ]
+}

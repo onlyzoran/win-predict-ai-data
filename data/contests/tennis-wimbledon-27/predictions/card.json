@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "tennis-wimbledon-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": null,
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "alejandro-davidovich-fokina",
+      "name": "Alejandro Davidovich Fokina",
+      "probability": 1.72
+    },
+    {
+      "participantId": "alejandro-tabilo",
+      "name": "Alejandro Tabilo",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alex-de-minaur",
+      "name": "Alex de Minaur",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alexander-bublik",
+      "name": "Alexander Bublik",
+      "probability": 1.56
+    },
+    {
+      "participantId": "alexander-zverev",
+      "name": "Alexander Zverev",
+      "probability": 1.56
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 92.04,
+      "othersCount": 59
+    }
+  ]
+}

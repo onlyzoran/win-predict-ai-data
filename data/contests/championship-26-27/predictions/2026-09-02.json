@@ -1,0 +1,112 @@
+{
+  "kind": "prediction",
+  "contestId": "championship-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "swansea-city",
+      "probability": 8.69
+    },
+    {
+      "participantId": "charlton-athletic",
+      "probability": 7.81
+    },
+    {
+      "participantId": "wolverhampton-wanderers",
+      "probability": 6.08
+    },
+    {
+      "participantId": "queens-park-rangers",
+      "probability": 6.08
+    },
+    {
+      "participantId": "bristol-city",
+      "probability": 6.08
+    },
+    {
+      "participantId": "middlesbrough",
+      "probability": 5.21
+    },
+    {
+      "participantId": "millwall",
+      "probability": 5.21
+    },
+    {
+      "participantId": "west-bromwich-albion",
+      "probability": 5.21
+    },
+    {
+      "participantId": "birmingham-city",
+      "probability": 5.21
+    },
+    {
+      "participantId": "sheffield-united",
+      "probability": 5.21
+    },
+    {
+      "participantId": "west-ham-united",
+      "probability": 4.34
+    },
+    {
+      "participantId": "blackburn-rovers",
+      "probability": 4.34
+    },
+    {
+      "participantId": "watford",
+      "probability": 4.34
+    },
+    {
+      "participantId": "bolton-wanderers",
+      "probability": 3.47
+    },
+    {
+      "participantId": "derby-county",
+      "probability": 3.47
+    },
+    {
+      "participantId": "lincoln-city",
+      "probability": 3.47
+    },
+    {
+      "participantId": "southampton",
+      "probability": 2.61
+    },
+    {
+      "participantId": "cardiff-city",
+      "probability": 2.6
+    },
+    {
+      "participantId": "norwich-city",
+      "probability": 2.6
+    },
+    {
+      "participantId": "portsmouth",
+      "probability": 2.6
+    },
+    {
+      "participantId": "stoke-city",
+      "probability": 2.6
+    },
+    {
+      "participantId": "wrexham",
+      "probability": 1.73
+    },
+    {
+      "participantId": "burnley",
+      "probability": 0.86
+    },
+    {
+      "participantId": "preston-north-end",
+      "probability": 0.18
+    }
+  ]
+}

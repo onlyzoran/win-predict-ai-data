@@ -1,0 +1,112 @@
+{
+  "kind": "prediction",
+  "contestId": "rugby-world-cup-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:13Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "clermont-auvergne",
+      "probability": 4.42
+    },
+    {
+      "participantId": "glasgow-warriors",
+      "probability": 4.4
+    },
+    {
+      "participantId": "leicester-tigers",
+      "probability": 4.38
+    },
+    {
+      "participantId": "leinster",
+      "probability": 4.35
+    },
+    {
+      "participantId": "sale-sharks",
+      "probability": 4.33
+    },
+    {
+      "participantId": "pau",
+      "probability": 4.31
+    },
+    {
+      "participantId": "connacht",
+      "probability": 4.29
+    },
+    {
+      "participantId": "exeter-chiefs",
+      "probability": 4.27
+    },
+    {
+      "participantId": "lions",
+      "probability": 4.24
+    },
+    {
+      "participantId": "saracens",
+      "probability": 4.22
+    },
+    {
+      "participantId": "la-rochelle",
+      "probability": 4.2
+    },
+    {
+      "participantId": "stade-toulousain",
+      "probability": 4.18
+    },
+    {
+      "participantId": "bristol-rugby",
+      "probability": 4.16
+    },
+    {
+      "participantId": "gloucester-rugby",
+      "probability": 4.13
+    },
+    {
+      "participantId": "munster",
+      "probability": 4.11
+    },
+    {
+      "participantId": "racing-92",
+      "probability": 4.09
+    },
+    {
+      "participantId": "stormers",
+      "probability": 4.07
+    },
+    {
+      "participantId": "bordeaux-begles",
+      "probability": 4.05
+    },
+    {
+      "participantId": "bath-rugby",
+      "probability": 4.02
+    },
+    {
+      "participantId": "bulls",
+      "probability": 4.0
+    },
+    {
+      "participantId": "cardiff-blues",
+      "probability": 3.98
+    },
+    {
+      "participantId": "montpellier-herault",
+      "probability": 3.96
+    },
+    {
+      "participantId": "northampton-saints",
+      "probability": 3.93
+    },
+    {
+      "participantId": "stade-francais-paris",
+      "probability": 3.91
+    }
+  ]
+}

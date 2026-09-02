@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "tennis-wta-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "aryna-sabalenka",
+      "name": "Aryna Sabalenka",
+      "probability": 4.15
+    },
+    {
+      "participantId": "elena-rybakina",
+      "name": "Elena Rybakina",
+      "probability": 3.91
+    },
+    {
+      "participantId": "jessica-pegula",
+      "name": "Jessica Pegula",
+      "probability": 3.49
+    },
+    {
+      "participantId": "coco-gauff",
+      "name": "Coco Gauff",
+      "probability": 3.22
+    },
+    {
+      "participantId": "mirra-andreeva",
+      "name": "Mirra Andreeva",
+      "probability": 2.62
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 82.61,
+      "othersCount": 145
+    }
+  ]
+}

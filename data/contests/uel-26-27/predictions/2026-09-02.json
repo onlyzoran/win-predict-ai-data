@@ -1,0 +1,160 @@
+{
+  "kind": "prediction",
+  "contestId": "uel-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "ac-milan",
+      "probability": 3.05
+    },
+    {
+      "participantId": "az-alkmaar",
+      "probability": 3.03
+    },
+    {
+      "participantId": "anderlecht",
+      "probability": 3.01
+    },
+    {
+      "participantId": "ararat-armenia",
+      "probability": 3.0
+    },
+    {
+      "participantId": "bayer-leverkusen",
+      "probability": 2.98
+    },
+    {
+      "participantId": "benfica",
+      "probability": 2.97
+    },
+    {
+      "participantId": "besiktas",
+      "probability": 2.95
+    },
+    {
+      "participantId": "afc-bournemouth",
+      "probability": 2.94
+    },
+    {
+      "participantId": "nk-celje",
+      "probability": 2.92
+    },
+    {
+      "participantId": "celta-vigo",
+      "probability": 2.91
+    },
+    {
+      "participantId": "celtic",
+      "probability": 2.89
+    },
+    {
+      "participantId": "crystal-palace",
+      "probability": 2.88
+    },
+    {
+      "participantId": "dinamo-zagreb",
+      "probability": 2.86
+    },
+    {
+      "participantId": "ferencvaros",
+      "probability": 2.85
+    },
+    {
+      "participantId": "hapoel-beer",
+      "probability": 2.83
+    },
+    {
+      "participantId": "tsg-hoffenheim",
+      "probability": 2.82
+    },
+    {
+      "participantId": "jagiellonia-bialystok",
+      "probability": 2.8
+    },
+    {
+      "participantId": "juventus",
+      "probability": 2.79
+    },
+    {
+      "participantId": "lech-poznan",
+      "probability": 2.77
+    },
+    {
+      "participantId": "levski-sofia",
+      "probability": 2.75
+    },
+    {
+      "participantId": "lillestrom",
+      "probability": 2.74
+    },
+    {
+      "participantId": "lyon",
+      "probability": 2.72
+    },
+    {
+      "participantId": "marseille",
+      "probability": 2.71
+    },
+    {
+      "participantId": "nec-nijmegen",
+      "probability": 2.69
+    },
+    {
+      "participantId": "ofi-crete",
+      "probability": 2.68
+    },
+    {
+      "participantId": "olympiacos",
+      "probability": 2.66
+    },
+    {
+      "participantId": "omonia-nicosia",
+      "probability": 2.65
+    },
+    {
+      "participantId": "real-sociedad",
+      "probability": 2.63
+    },
+    {
+      "participantId": "stade-rennais",
+      "probability": 2.62
+    },
+    {
+      "participantId": "rb-salzburg",
+      "probability": 2.6
+    },
+    {
+      "participantId": "sparta-prague",
+      "probability": 2.59
+    },
+    {
+      "participantId": "sk-sturm-graz",
+      "probability": 2.57
+    },
+    {
+      "participantId": "sunderland",
+      "probability": 2.56
+    },
+    {
+      "participantId": "torreense",
+      "probability": 2.54
+    },
+    {
+      "participantId": "union-st-gilloise",
+      "probability": 2.53
+    },
+    {
+      "participantId": "viktoria-plzen",
+      "probability": 2.51
+    }
+  ]
+}

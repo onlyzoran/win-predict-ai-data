@@ -63,6 +63,19 @@ class CatalogIntegrityTests(unittest.TestCase):
                 self.assertIn("path", source, contest_id)
                 self.assertIn("metric", source, contest_id)
 
+    def test_every_league_has_prediction_card(self) -> None:
+        for entry in self.leagues:
+            contest_id = entry["id"]
+            card_path = CONTESTS_DIR / contest_id / "predictions" / "card.json"
+            self.assertTrue(card_path.is_file(), contest_id)
+            card = json.loads(card_path.read_text(encoding="utf-8"))
+            self.assertEqual(card.get("kind"), "predictionCard", contest_id)
+            self.assertEqual(card.get("contestId"), contest_id, contest_id)
+            items = card.get("items") or []
+            self.assertTrue(items, f"{contest_id}: card items must not be empty")
+            self.assertEqual(items[-1].get("participantId"), "others", contest_id)
+            self.assertGreater(items[-1].get("probability", 0), 0, contest_id)
+
 
 if __name__ == "__main__":
     raise SystemExit(unittest.main())

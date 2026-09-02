@@ -1,0 +1,144 @@
+{
+  "kind": "prediction",
+  "contestId": "libertadores-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "flamengo",
+      "probability": 5.98
+    },
+    {
+      "participantId": "independiente-rivadavia",
+      "probability": 5.97
+    },
+    {
+      "participantId": "rosario-central",
+      "probability": 4.85
+    },
+    {
+      "participantId": "independiente-del-valle",
+      "probability": 4.85
+    },
+    {
+      "participantId": "universidad-católica",
+      "probability": 4.85
+    },
+    {
+      "participantId": "cerro-porteño",
+      "probability": 4.85
+    },
+    {
+      "participantId": "liga-de-quito",
+      "probability": 4.47
+    },
+    {
+      "participantId": "mirassol",
+      "probability": 4.47
+    },
+    {
+      "participantId": "palmeiras",
+      "probability": 4.1
+    },
+    {
+      "participantId": "cruzeiro",
+      "probability": 4.1
+    },
+    {
+      "participantId": "corinthians",
+      "probability": 4.1
+    },
+    {
+      "participantId": "coquimbo-unido",
+      "probability": 3.73
+    },
+    {
+      "participantId": "platense",
+      "probability": 3.73
+    },
+    {
+      "participantId": "estudiantes-de-la-plata",
+      "probability": 3.36
+    },
+    {
+      "participantId": "ucv-fc",
+      "probability": 3.35
+    },
+    {
+      "participantId": "lanús",
+      "probability": 3.35
+    },
+    {
+      "participantId": "deportes-tolima",
+      "probability": 2.98
+    },
+    {
+      "participantId": "fluminense",
+      "probability": 2.98
+    },
+    {
+      "participantId": "independiente-santa-fe",
+      "probability": 2.98
+    },
+    {
+      "participantId": "nacional",
+      "probability": 2.98
+    },
+    {
+      "participantId": "boca-juniors",
+      "probability": 2.61
+    },
+    {
+      "participantId": "independiente-medellín",
+      "probability": 2.61
+    },
+    {
+      "participantId": "universitario",
+      "probability": 2.24
+    },
+    {
+      "participantId": "sporting-cristal",
+      "probability": 2.24
+    },
+    {
+      "participantId": "bolívar",
+      "probability": 1.86
+    },
+    {
+      "participantId": "atlético-junior",
+      "probability": 1.49
+    },
+    {
+      "participantId": "always-ready",
+      "probability": 1.12
+    },
+    {
+      "participantId": "peñarol",
+      "probability": 1.12
+    },
+    {
+      "participantId": "deportivo-la-guaira",
+      "probability": 1.12
+    },
+    {
+      "participantId": "barcelona-sc",
+      "probability": 1.11
+    },
+    {
+      "participantId": "cusco-fc",
+      "probability": 0.37
+    },
+    {
+      "participantId": "libertad",
+      "probability": 0.08
+    }
+  ]
+}

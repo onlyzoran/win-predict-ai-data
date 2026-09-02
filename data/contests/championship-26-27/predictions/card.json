@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "championship-26-27",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": 4,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "swansea-city",
+      "name": "Swansea City",
+      "probability": 8.69
+    },
+    {
+      "participantId": "charlton-athletic",
+      "name": "Charlton Athletic",
+      "probability": 7.81
+    },
+    {
+      "participantId": "wolverhampton-wanderers",
+      "name": "Wolverhampton Wanderers",
+      "probability": 6.08
+    },
+    {
+      "participantId": "queens-park-rangers",
+      "name": "Queens Park Rangers",
+      "probability": 6.08
+    },
+    {
+      "participantId": "bristol-city",
+      "name": "Bristol City",
+      "probability": 6.08
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 65.26,
+      "othersCount": 19
+    }
+  ]
+}

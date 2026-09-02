@@ -1,0 +1,208 @@
+{
+  "kind": "prediction",
+  "contestId": "world-cup-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "model": {
+    "name": "standings-heuristic",
+    "version": "seed-v1"
+  },
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "items": [
+    {
+      "participantId": "france",
+      "probability": 4.61
+    },
+    {
+      "participantId": "argentina",
+      "probability": 4.57
+    },
+    {
+      "participantId": "mexico",
+      "probability": 4.57
+    },
+    {
+      "participantId": "netherlands",
+      "probability": 3.55
+    },
+    {
+      "participantId": "brazil",
+      "probability": 3.55
+    },
+    {
+      "participantId": "spain",
+      "probability": 3.55
+    },
+    {
+      "participantId": "switzerland",
+      "probability": 3.55
+    },
+    {
+      "participantId": "england",
+      "probability": 3.55
+    },
+    {
+      "participantId": "morocco",
+      "probability": 3.55
+    },
+    {
+      "participantId": "colombia",
+      "probability": 3.55
+    },
+    {
+      "participantId": "germany",
+      "probability": 3.05
+    },
+    {
+      "participantId": "united-states",
+      "probability": 3.05
+    },
+    {
+      "participantId": "ivory-coast",
+      "probability": 3.04
+    },
+    {
+      "participantId": "norway",
+      "probability": 3.04
+    },
+    {
+      "participantId": "croatia",
+      "probability": 3.04
+    },
+    {
+      "participantId": "portugal",
+      "probability": 2.54
+    },
+    {
+      "participantId": "japan",
+      "probability": 2.54
+    },
+    {
+      "participantId": "belgium",
+      "probability": 2.54
+    },
+    {
+      "participantId": "egypt",
+      "probability": 2.54
+    },
+    {
+      "participantId": "canada",
+      "probability": 2.03
+    },
+    {
+      "participantId": "congo-dr",
+      "probability": 2.03
+    },
+    {
+      "participantId": "sweden",
+      "probability": 2.03
+    },
+    {
+      "participantId": "austria",
+      "probability": 2.03
+    },
+    {
+      "participantId": "australia",
+      "probability": 2.03
+    },
+    {
+      "participantId": "ecuador",
+      "probability": 2.03
+    },
+    {
+      "participantId": "ghana",
+      "probability": 2.03
+    },
+    {
+      "participantId": "bosnia-herzegovina",
+      "probability": 2.03
+    },
+    {
+      "participantId": "south-africa",
+      "probability": 2.03
+    },
+    {
+      "participantId": "algeria",
+      "probability": 2.03
+    },
+    {
+      "participantId": "paraguay",
+      "probability": 2.03
+    },
+    {
+      "participantId": "senegal",
+      "probability": 1.52
+    },
+    {
+      "participantId": "iran",
+      "probability": 1.52
+    },
+    {
+      "participantId": "cape-verde",
+      "probability": 1.52
+    },
+    {
+      "participantId": "south-korea",
+      "probability": 1.52
+    },
+    {
+      "participantId": "türkiye",
+      "probability": 1.52
+    },
+    {
+      "participantId": "scotland",
+      "probability": 1.52
+    },
+    {
+      "participantId": "uruguay",
+      "probability": 1.01
+    },
+    {
+      "participantId": "saudi-arabia",
+      "probability": 1.01
+    },
+    {
+      "participantId": "czechia",
+      "probability": 0.51
+    },
+    {
+      "participantId": "new-zealand",
+      "probability": 0.5
+    },
+    {
+      "participantId": "qatar",
+      "probability": 0.5
+    },
+    {
+      "participantId": "curaçao",
+      "probability": 0.5
+    },
+    {
+      "participantId": "panama",
+      "probability": 0.09
+    },
+    {
+      "participantId": "jordan",
+      "probability": 0.09
+    },
+    {
+      "participantId": "haiti",
+      "probability": 0.09
+    },
+    {
+      "participantId": "uzbekistan",
+      "probability": 0.09
+    },
+    {
+      "participantId": "tunisia",
+      "probability": 0.09
+    },
+    {
+      "participantId": "iraq",
+      "probability": 0.09
+    }
+  ]
+}

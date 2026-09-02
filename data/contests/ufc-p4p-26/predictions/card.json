@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "ufc-p4p-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "kamaru-usman",
+      "name": "Kamaru Usman",
+      "probability": 11.39
+    },
+    {
+      "participantId": "israel-adesanya",
+      "name": "Israel Adesanya",
+      "probability": 11.28
+    },
+    {
+      "participantId": "francis-ngannou",
+      "name": "Francis Ngannou",
+      "probability": 11.22
+    },
+    {
+      "participantId": "alexander-volkanovski",
+      "name": "Alexander Volkanovski",
+      "probability": 11.16
+    },
+    {
+      "participantId": "jan-blachowicz",
+      "name": "Jan Blachowicz",
+      "probability": 11.1
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 43.85,
+      "othersCount": 4
+    }
+  ]
+}

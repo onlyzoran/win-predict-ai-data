@@ -1,0 +1,44 @@
+{
+  "kind": "predictionCard",
+  "contestId": "libertadores-26",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T10:36:12Z",
+  "basedOnFactsDate": "2026-09-02",
+  "basedOnTour": null,
+  "target": "champion",
+  "unit": "percent",
+  "topN": 5,
+  "items": [
+    {
+      "participantId": "flamengo",
+      "name": "Flamengo",
+      "probability": 5.98
+    },
+    {
+      "participantId": "independiente-rivadavia",
+      "name": "Independiente Rivadavia",
+      "probability": 5.97
+    },
+    {
+      "participantId": "rosario-central",
+      "name": "Rosario Central",
+      "probability": 4.85
+    },
+    {
+      "participantId": "independiente-del-valle",
+      "name": "Independiente del Valle",
+      "probability": 4.85
+    },
+    {
+      "participantId": "universidad-católica",
+      "name": "Universidad Católica",
+      "probability": 4.85
+    },
+    {
+      "participantId": "others",
+      "name": "Others",
+      "probability": 73.5,
+      "othersCount": 27
+    }
+  ]
+}
