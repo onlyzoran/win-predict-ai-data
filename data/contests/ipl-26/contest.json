@@ -1,0 +1,19 @@
+{
+  "id": "ipl-26",
+  "title": "IPL",
+  "fullTitle": "Indian Premier League",
+  "category": "sport",
+  "sport": "cricket",
+  "target": "champion",
+  "season": {
+    "start": "2026-03-22",
+    "end": "2026-05-31"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

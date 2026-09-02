@@ -1,0 +1,19 @@
+{
+  "id": "scottish-prem-26-27",
+  "title": "Scottish Prem",
+  "fullTitle": "Scottish Premiership",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-08-02",
+    "end": "2027-05-17"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "matchday"
+}

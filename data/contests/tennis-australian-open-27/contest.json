@@ -1,0 +1,14 @@
+{
+  "id": "tennis-australian-open-27",
+  "title": "Australian Open",
+  "fullTitle": "Australian Open",
+  "category": "sport",
+  "sport": "tennis",
+  "target": "champion",
+  "season": {
+    "start": "2027-01-18",
+    "end": "2027-01-31"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

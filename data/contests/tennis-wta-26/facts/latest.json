@@ -1,0 +1,761 @@
+{
+  "kind": "standings",
+  "contestId": "tennis-wta-26",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:00Z",
+  "provider": "espn",
+  "metric": "rank",
+  "seasonYear": null,
+  "rows": [
+    {
+      "participantId": "aryna-sabalenka",
+      "rank": 1,
+      "points": 8575.0
+    },
+    {
+      "participantId": "elena-rybakina",
+      "rank": 2,
+      "points": 8141.0
+    },
+    {
+      "participantId": "jessica-pegula",
+      "rank": 3,
+      "points": 7265.0
+    },
+    {
+      "participantId": "coco-gauff",
+      "rank": 4,
+      "points": 6704.0
+    },
+    {
+      "participantId": "mirra-andreeva",
+      "rank": 5,
+      "points": 5443.0
+    },
+    {
+      "participantId": "linda-noskova",
+      "rank": 6,
+      "points": 5028.0
+    },
+    {
+      "participantId": "karolina-muchova",
+      "rank": 7,
+      "points": 4983.0
+    },
+    {
+      "participantId": "iga-swiatek",
+      "rank": 8,
+      "points": 4809.0
+    },
+    {
+      "participantId": "elina-svitolina",
+      "rank": 9,
+      "points": 4689.0
+    },
+    {
+      "participantId": "amanda-anisimova",
+      "rank": 10,
+      "points": 4533.0
+    },
+    {
+      "participantId": "marta-kostyuk",
+      "rank": 11,
+      "points": 3980.0
+    },
+    {
+      "participantId": "belinda-bencic",
+      "rank": 12,
+      "points": 2995.0
+    },
+    {
+      "participantId": "naomi-osaka",
+      "rank": 13,
+      "points": 2846.0
+    },
+    {
+      "participantId": "iva-jovic",
+      "rank": 14,
+      "points": 2671.0
+    },
+    {
+      "participantId": "victoria-mboko",
+      "rank": 15,
+      "points": 2531.0
+    },
+    {
+      "participantId": "diana-shnaider",
+      "rank": 16,
+      "points": 2468.0
+    },
+    {
+      "participantId": "sorana-cirstea",
+      "rank": 17,
+      "points": 2294.0
+    },
+    {
+      "participantId": "alexandra-eala",
+      "rank": 18,
+      "points": 2281.0
+    },
+    {
+      "participantId": "ekaterina-alexandrova",
+      "rank": 19,
+      "points": 2186.0
+    },
+    {
+      "participantId": "elise-mertens",
+      "rank": 20,
+      "points": 2165.0
+    },
+    {
+      "participantId": "jasmine-paolini",
+      "rank": 21,
+      "points": 2123.0
+    },
+    {
+      "participantId": "maja-chwalinska",
+      "rank": 22,
+      "points": 2037.0
+    },
+    {
+      "participantId": "anna-kalinskaya",
+      "rank": 23,
+      "points": 1933.0
+    },
+    {
+      "participantId": "madison-keys",
+      "rank": 24,
+      "points": 1909.0
+    },
+    {
+      "participantId": "anastasia-potapova",
+      "rank": 25,
+      "points": 1756.0
+    },
+    {
+      "participantId": "marie-bouzkova",
+      "rank": 26,
+      "points": 1753.0
+    },
+    {
+      "participantId": "emma-navarro",
+      "rank": 27,
+      "points": 1724.0
+    },
+    {
+      "participantId": "ann-li",
+      "rank": 28,
+      "points": 1683.0
+    },
+    {
+      "participantId": "barbora-krejcikova",
+      "rank": 29,
+      "points": 1666.0
+    },
+    {
+      "participantId": "sara-bejlek",
+      "rank": 30,
+      "points": 1652.0
+    },
+    {
+      "participantId": "diane-parry",
+      "rank": 31,
+      "points": 1611.0
+    },
+    {
+      "participantId": "jelena-ostapenko",
+      "rank": 32,
+      "points": 1512.0
+    },
+    {
+      "participantId": "leylah-fernandez",
+      "rank": 33,
+      "points": 1454.0
+    },
+    {
+      "participantId": "nikola-bartunkova",
+      "rank": 34,
+      "points": 1417.0
+    },
+    {
+      "participantId": "maria-sakkari",
+      "rank": 35,
+      "points": 1415.0
+    },
+    {
+      "participantId": "janice-tjen",
+      "rank": 36,
+      "points": 1323.0
+    },
+    {
+      "participantId": "hailey-baptiste",
+      "rank": 37,
+      "points": 1300.0
+    },
+    {
+      "participantId": "clara-tauson",
+      "rank": 38,
+      "points": 1282.0
+    },
+    {
+      "participantId": "donna-vekic",
+      "rank": 39,
+      "points": 1278.0
+    },
+    {
+      "participantId": "cristina-bucsa",
+      "rank": 40,
+      "points": 1274.0
+    },
+    {
+      "participantId": "magdalena-frech",
+      "rank": 41,
+      "points": 1240.0
+    },
+    {
+      "participantId": "katerina-siniakova",
+      "rank": 42,
+      "points": 1234.0
+    },
+    {
+      "participantId": "wang-xinyu",
+      "rank": 43,
+      "points": 1195.0
+    },
+    {
+      "participantId": "jaqueline-cristian",
+      "rank": 44,
+      "points": 1181.0
+    },
+    {
+      "participantId": "daria-snigur",
+      "rank": 45,
+      "points": 1180.0
+    },
+    {
+      "participantId": "oleksandra-oliynykova",
+      "rank": 46,
+      "points": 1170.0
+    },
+    {
+      "participantId": "liudmila-samsonova",
+      "rank": 47,
+      "points": 1159.0
+    },
+    {
+      "participantId": "tamara-korpatsch",
+      "rank": 48,
+      "points": 1148.0
+    },
+    {
+      "participantId": "lilli-tagger",
+      "rank": 49,
+      "points": 1141.0
+    },
+    {
+      "participantId": "tereza-valentova",
+      "rank": 50,
+      "points": 1124.0
+    },
+    {
+      "participantId": "anhelina-kalinina",
+      "rank": 51,
+      "points": 1115.0
+    },
+    {
+      "participantId": "mayar-sherif",
+      "rank": 52,
+      "points": 1105.0
+    },
+    {
+      "participantId": "zeynep-sonmez",
+      "rank": 53,
+      "points": 1087.0
+    },
+    {
+      "participantId": "zhang-shuai",
+      "rank": 54,
+      "points": 1085.0
+    },
+    {
+      "participantId": "peyton-stearns",
+      "rank": 55,
+      "points": 1061.0
+    },
+    {
+      "participantId": "viktorija-golubic",
+      "rank": 56,
+      "points": 1053.0
+    },
+    {
+      "participantId": "karolina-pliskova",
+      "rank": 57,
+      "points": 1051.0
+    },
+    {
+      "participantId": "yuliia-starodubtseva",
+      "rank": 58,
+      "points": 1045.0
+    },
+    {
+      "participantId": "camila-osorio",
+      "rank": 59,
+      "points": 1023.0
+    },
+    {
+      "participantId": "ashlyn-krueger",
+      "rank": 60,
+      "points": 1005.0
+    },
+    {
+      "participantId": "daria-kasatkina",
+      "rank": 61,
+      "points": 1003.0
+    },
+    {
+      "participantId": "katie-boulter",
+      "rank": 62,
+      "points": 1002.0
+    },
+    {
+      "participantId": "talia-gibson",
+      "rank": 63,
+      "points": 997.0
+    },
+    {
+      "participantId": "elena-gabriela-ruse",
+      "rank": 64,
+      "points": 991.0
+    },
+    {
+      "participantId": "catherine-mcnally",
+      "rank": 65,
+      "points": 990.0
+    },
+    {
+      "participantId": "mccartney-kessler",
+      "rank": 66,
+      "points": 985.0
+    },
+    {
+      "participantId": "elisabetta-cocciaretto",
+      "rank": 67,
+      "points": 985.0
+    },
+    {
+      "participantId": "panna-udvardy",
+      "rank": 68,
+      "points": 984.0
+    },
+    {
+      "participantId": "alina-korneeva",
+      "rank": 69,
+      "points": 980.0
+    },
+    {
+      "participantId": "emma-raducanu",
+      "rank": 70,
+      "points": 975.0
+    },
+    {
+      "participantId": "kimberly-birrell",
+      "rank": 71,
+      "points": 974.0
+    },
+    {
+      "participantId": "maya-joint",
+      "rank": 72,
+      "points": 966.0
+    },
+    {
+      "participantId": "anna-bondar",
+      "rank": 73,
+      "points": 961.0
+    },
+    {
+      "participantId": "renata-zarazua",
+      "rank": 74,
+      "points": 957.0
+    },
+    {
+      "participantId": "darja-vidmanova",
+      "rank": 75,
+      "points": 957.0
+    },
+    {
+      "participantId": "lanlana-tararudee",
+      "rank": 76,
+      "points": 955.0
+    },
+    {
+      "participantId": "petra-marcinko",
+      "rank": 77,
+      "points": 954.0
+    },
+    {
+      "participantId": "katie-volynets",
+      "rank": 78,
+      "points": 938.0
+    },
+    {
+      "participantId": "alycia-parks",
+      "rank": 79,
+      "points": 927.0
+    },
+    {
+      "participantId": "wang-xiyu",
+      "rank": 80,
+      "points": 919.0
+    },
+    {
+      "participantId": "hanne-vandewinkel",
+      "rank": 81,
+      "points": 919.0
+    },
+    {
+      "participantId": "magda-linette",
+      "rank": 82,
+      "points": 916.0
+    },
+    {
+      "participantId": "tatjana-maria",
+      "rank": 83,
+      "points": 912.0
+    },
+    {
+      "participantId": "yulia-putintseva",
+      "rank": 84,
+      "points": 904.0
+    },
+    {
+      "participantId": "antonia-ruzic",
+      "rank": 85,
+      "points": 894.0
+    },
+    {
+      "participantId": "maria-timofeeva",
+      "rank": 86,
+      "points": 890.0
+    },
+    {
+      "participantId": "paula-badosa",
+      "rank": 87,
+      "points": 885.0
+    },
+    {
+      "participantId": "emiliana-arango",
+      "rank": 88,
+      "points": 868.0
+    },
+    {
+      "participantId": "simona-waltert",
+      "rank": 89,
+      "points": 861.0
+    },
+    {
+      "participantId": "sinja-kraus",
+      "rank": 90,
+      "points": 860.0
+    },
+    {
+      "participantId": "solana-sierra",
+      "rank": 91,
+      "points": 854.0
+    },
+    {
+      "participantId": "kamilla-rakhimova",
+      "rank": 92,
+      "points": 852.0
+    },
+    {
+      "participantId": "oksana-selekhmeteva",
+      "rank": 93,
+      "points": 824.0
+    },
+    {
+      "participantId": "mananchaya-sawangkaew",
+      "rank": 94,
+      "points": 804.0
+    },
+    {
+      "participantId": "anna-blinkova",
+      "rank": 95,
+      "points": 789.0
+    },
+    {
+      "participantId": "taylor-townsend",
+      "rank": 96,
+      "points": 783.0
+    },
+    {
+      "participantId": "polina-kudermetova",
+      "rank": 97,
+      "points": 783.0
+    },
+    {
+      "participantId": "eva-lys",
+      "rank": 98,
+      "points": 777.0
+    },
+    {
+      "participantId": "moyuka-uchijima",
+      "rank": 99,
+      "points": 775.0
+    },
+    {
+      "participantId": "taylah-preston",
+      "rank": 100,
+      "points": 762.0
+    },
+    {
+      "participantId": "anastasia-zakharova",
+      "rank": 101,
+      "points": 759.0
+    },
+    {
+      "participantId": "laura-siegemund",
+      "rank": 102,
+      "points": 758.0
+    },
+    {
+      "participantId": "ajla-tomljanovic",
+      "rank": 103,
+      "points": 752.0
+    },
+    {
+      "participantId": "francesca-jones",
+      "rank": 104,
+      "points": 751.0
+    },
+    {
+      "participantId": "jessica-bouzas-maneiro",
+      "rank": 105,
+      "points": 749.0
+    },
+    {
+      "participantId": "veronika-erjavec",
+      "rank": 106,
+      "points": 741.0
+    },
+    {
+      "participantId": "kaitlin-quevedo",
+      "rank": 107,
+      "points": 735.0
+    },
+    {
+      "participantId": "alina-charaeva",
+      "rank": 108,
+      "points": 715.0
+    },
+    {
+      "participantId": "darja-semenistaja",
+      "rank": 109,
+      "points": 714.0
+    },
+    {
+      "participantId": "sofia-kenin",
+      "rank": 110,
+      "points": 709.0
+    },
+    {
+      "participantId": "claire-liu",
+      "rank": 111,
+      "points": 704.0
+    },
+    {
+      "participantId": "julia-grabher",
+      "rank": 112,
+      "points": 694.0
+    },
+    {
+      "participantId": "dayana-yastremska",
+      "rank": 113,
+      "points": 692.0
+    },
+    {
+      "participantId": "elsa-jacquemot",
+      "rank": 114,
+      "points": 668.0
+    },
+    {
+      "participantId": "elvina-kalieva",
+      "rank": 115,
+      "points": 636.0
+    },
+    {
+      "participantId": "laura-samson",
+      "rank": 116,
+      "points": 627.0
+    },
+    {
+      "participantId": "kayla-day",
+      "rank": 117,
+      "points": 625.0
+    },
+    {
+      "participantId": "dominika-salkova",
+      "rank": 118,
+      "points": 622.0
+    },
+    {
+      "participantId": "lucrezia-stefanini",
+      "rank": 119,
+      "points": 620.0
+    },
+    {
+      "participantId": "victoria-jimenez-kasintseva",
+      "rank": 120,
+      "points": 617.0
+    },
+    {
+      "participantId": "zheng-qinwen",
+      "rank": 121,
+      "points": 613.0
+    },
+    {
+      "participantId": "mary-stoiana",
+      "rank": 122,
+      "points": 612.0
+    },
+    {
+      "participantId": "ella-seidel",
+      "rank": 123,
+      "points": 611.0
+    },
+    {
+      "participantId": "sonay-kartal",
+      "rank": 124,
+      "points": 607.0
+    },
+    {
+      "participantId": "kristina-liutova",
+      "rank": 125,
+      "points": 603.0
+    },
+    {
+      "participantId": "emerson-jones",
+      "rank": 126,
+      "points": 601.0
+    },
+    {
+      "participantId": "leolia-jeanjean",
+      "rank": 127,
+      "points": 599.0
+    },
+    {
+      "participantId": "lulu-sun",
+      "rank": 128,
+      "points": 597.0
+    },
+    {
+      "participantId": "katarzyna-kawa",
+      "rank": 129,
+      "points": 590.0
+    },
+    {
+      "participantId": "lisa-pigato",
+      "rank": 130,
+      "points": 577.0
+    },
+    {
+      "participantId": "harriet-dart",
+      "rank": 131,
+      "points": 575.0
+    },
+    {
+      "participantId": "veronika-podrez",
+      "rank": 132,
+      "points": 572.0
+    },
+    {
+      "participantId": "marina-bassols-ribera",
+      "rank": 133,
+      "points": 571.0
+    },
+    {
+      "participantId": "maddison-inglis",
+      "rank": 134,
+      "points": 566.0
+    },
+    {
+      "participantId": "lucia-bronzetti",
+      "rank": 135,
+      "points": 566.0
+    },
+    {
+      "participantId": "aliaksandra-sasnovich",
+      "rank": 136,
+      "points": 563.0
+    },
+    {
+      "participantId": "noma-noha-akugue",
+      "rank": 137,
+      "points": 559.0
+    },
+    {
+      "participantId": "yuan-yue",
+      "rank": 138,
+      "points": 550.0
+    },
+    {
+      "participantId": "jeline-vandromme",
+      "rank": 139,
+      "points": 544.0
+    },
+    {
+      "participantId": "marina-stakusic",
+      "rank": 140,
+      "points": 542.0
+    },
+    {
+      "participantId": "fiona-ferro",
+      "rank": 141,
+      "points": 534.0
+    },
+    {
+      "participantId": "andrea-lazaro-garcia",
+      "rank": 142,
+      "points": 531.0
+    },
+    {
+      "participantId": "carol-young-suh-lee",
+      "rank": 143,
+      "points": 527.0
+    },
+    {
+      "participantId": "himeno-sakatsume",
+      "rank": 144,
+      "points": 526.0
+    },
+    {
+      "participantId": "leyre-romero-gormaz",
+      "rank": 145,
+      "points": 521.0
+    },
+    {
+      "participantId": "tamara-zidansek",
+      "rank": 146,
+      "points": 520.0
+    },
+    {
+      "participantId": "julia-riera",
+      "rank": 147,
+      "points": 517.0
+    },
+    {
+      "participantId": "varvara-gracheva",
+      "rank": 148,
+      "points": 503.0
+    },
+    {
+      "participantId": "tyra-caterina-grant",
+      "rank": 149,
+      "points": 503.0
+    },
+    {
+      "participantId": "lola-radivojevic",
+      "rank": 150,
+      "points": 503.0
+    }
+  ]
+}

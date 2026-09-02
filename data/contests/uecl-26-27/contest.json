@@ -1,0 +1,19 @@
+{
+  "id": "uecl-26-27",
+  "title": "UECL",
+  "fullTitle": "UEFA Conference League",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-09-25",
+    "end": "2027-05-27"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

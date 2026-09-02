@@ -1,0 +1,19 @@
+{
+  "id": "liga-portugal-26-27",
+  "title": "Liga Portugal",
+  "fullTitle": "Liga Portugal",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-08-08",
+    "end": "2027-05-17"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "matchday"
+}

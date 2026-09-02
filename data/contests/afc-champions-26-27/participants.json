@@ -1,0 +1,165 @@
+{
+  "contestId": "afc-champions-26-27",
+  "participants": [
+    {
+      "id": "air-force-club",
+      "name": "Air Force Club",
+      "aliases": []
+    },
+    {
+      "id": "al-ahli",
+      "name": "Al Ahli",
+      "aliases": []
+    },
+    {
+      "id": "al-ain",
+      "name": "Al Ain",
+      "aliases": []
+    },
+    {
+      "id": "al-gharafa",
+      "name": "Al Gharafa",
+      "aliases": []
+    },
+    {
+      "id": "al-hilal",
+      "name": "Al Hilal",
+      "aliases": []
+    },
+    {
+      "id": "al-ittihad",
+      "name": "Al Ittihad",
+      "aliases": []
+    },
+    {
+      "id": "al-nassr",
+      "name": "Al Nassr",
+      "aliases": []
+    },
+    {
+      "id": "al-qadsiah",
+      "name": "Al Qadsiah",
+      "aliases": []
+    },
+    {
+      "id": "al-sadd",
+      "name": "Al Sadd",
+      "aliases": []
+    },
+    {
+      "id": "al-shamal",
+      "name": "Al Shamal",
+      "aliases": []
+    },
+    {
+      "id": "al-wasl",
+      "name": "Al Wasl",
+      "aliases": []
+    },
+    {
+      "id": "beijing-guoan",
+      "name": "Beijing Guoan",
+      "aliases": []
+    },
+    {
+      "id": "buriram-united",
+      "name": "Buriram United",
+      "aliases": []
+    },
+    {
+      "id": "cong-an-hanoi",
+      "name": "Cong An Hanoi",
+      "aliases": []
+    },
+    {
+      "id": "daejeon-hana-citizen",
+      "name": "Daejeon Hana Citizen",
+      "aliases": []
+    },
+    {
+      "id": "esteghlal",
+      "name": "Esteghlal",
+      "aliases": []
+    },
+    {
+      "id": "gamba-osaka",
+      "name": "Gamba Osaka",
+      "aliases": []
+    },
+    {
+      "id": "jeonbuk-motors",
+      "name": "Jeonbuk Motors",
+      "aliases": []
+    },
+    {
+      "id": "johor-darul-tazim",
+      "name": "Johor Darul Ta'zim",
+      "aliases": []
+    },
+    {
+      "id": "kashima-antlers",
+      "name": "Kashima Antlers",
+      "aliases": []
+    },
+    {
+      "id": "kashiwa-reysol",
+      "name": "Kashiwa Reysol",
+      "aliases": []
+    },
+    {
+      "id": "kyoto-sanga",
+      "name": "Kyoto Sanga",
+      "aliases": []
+    },
+    {
+      "id": "neftchi-fergana",
+      "name": "Neftchi Fergana",
+      "aliases": []
+    },
+    {
+      "id": "newcastle-jets",
+      "name": "Newcastle Jets",
+      "aliases": []
+    },
+    {
+      "id": "pakhtakor-tashkent",
+      "name": "Pakhtakor Tashkent",
+      "aliases": []
+    },
+    {
+      "id": "pohang-steelers",
+      "name": "Pohang Steelers",
+      "aliases": []
+    },
+    {
+      "id": "port-fc",
+      "name": "Port FC",
+      "aliases": []
+    },
+    {
+      "id": "ratchaburi-fc",
+      "name": "Ratchaburi FC",
+      "aliases": []
+    },
+    {
+      "id": "shabab-al-ahli",
+      "name": "Shabab Al-Ahli",
+      "aliases": []
+    },
+    {
+      "id": "shanghai-port",
+      "name": "Shanghai Port",
+      "aliases": []
+    },
+    {
+      "id": "traktor-sazi-fc",
+      "name": "Traktor Sazi FC",
+      "aliases": []
+    },
+    {
+      "id": "vissel-kobe",
+      "name": "Vissel Kobe",
+      "aliases": []
+    }
+  ]
+}

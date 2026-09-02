@@ -1,0 +1,14 @@
+{
+  "id": "tennis-wimbledon-27",
+  "title": "Wimbledon",
+  "fullTitle": "Wimbledon",
+  "category": "sport",
+  "sport": "tennis",
+  "target": "champion",
+  "season": {
+    "start": "2027-06-28",
+    "end": "2027-07-11"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eredivisie-26-27",
+  "title": "Eredivisie",
+  "fullTitle": "Eredivisie",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-08-08",
+    "end": "2027-05-17"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "matchday"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "college-baseball-26",
+  "title": "College Baseball",
+  "fullTitle": "NCAA Division I Baseball",
+  "category": "sport",
+  "sport": "baseball",
+  "target": "champion",
+  "season": {
+    "start": "2026-02-13",
+    "end": "2026-06-28"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "wins",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

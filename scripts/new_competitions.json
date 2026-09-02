@@ -1,0 +1,478 @@
+[
+  {
+    "id": "uel-26-27",
+    "title": "UEL",
+    "fullTitle": "UEFA Europa League",
+    "sport": "football",
+    "startDate": "2026-09-25",
+    "endDate": "2027-05-20",
+    "popularPriority": 210,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/uefa.europa",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "uecl-26-27",
+    "title": "UECL",
+    "fullTitle": "UEFA Conference League",
+    "sport": "football",
+    "startDate": "2026-09-25",
+    "endDate": "2027-05-27",
+    "popularPriority": 215,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/uefa.europa.conf",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "championship-26-27",
+    "title": "Championship",
+    "fullTitle": "EFL Championship",
+    "sport": "football",
+    "startDate": "2026-08-07",
+    "endDate": "2027-05-30",
+    "popularPriority": 220,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/eng.2",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "eredivisie-26-27",
+    "title": "Eredivisie",
+    "fullTitle": "Eredivisie",
+    "sport": "football",
+    "startDate": "2026-08-08",
+    "endDate": "2027-05-17",
+    "popularPriority": 225,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/ned.1",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "liga-portugal-26-27",
+    "title": "Liga Portugal",
+    "fullTitle": "Liga Portugal",
+    "sport": "football",
+    "startDate": "2026-08-08",
+    "endDate": "2027-05-17",
+    "popularPriority": 230,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/por.1",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "scottish-prem-26-27",
+    "title": "Scottish Prem",
+    "fullTitle": "Scottish Premiership",
+    "sport": "football",
+    "startDate": "2026-08-02",
+    "endDate": "2027-05-17",
+    "popularPriority": 235,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/sco.1",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "liga-mx-26-27",
+    "title": "Liga MX",
+    "fullTitle": "Liga MX",
+    "sport": "football",
+    "startDate": "2026-07-03",
+    "endDate": "2027-05-31",
+    "popularPriority": 240,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/mex.1",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "brasileirao-26",
+    "title": "Brasileirão",
+    "fullTitle": "Campeonato Brasileiro Série A",
+    "sport": "football",
+    "startDate": "2026-04-12",
+    "endDate": "2026-12-06",
+    "popularPriority": 245,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/bra.1",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "super-lig-26-27",
+    "title": "Süper Lig",
+    "fullTitle": "Turkish Süper Lig",
+    "sport": "football",
+    "startDate": "2026-08-08",
+    "endDate": "2027-05-24",
+    "popularPriority": 250,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/tur.1",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "libertadores-26",
+    "title": "Libertadores",
+    "fullTitle": "Copa Libertadores",
+    "sport": "football",
+    "startDate": "2026-02-04",
+    "endDate": "2026-11-28",
+    "popularPriority": 255,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/conmebol.libertadores",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "world-cup-26",
+    "title": "World Cup",
+    "fullTitle": "FIFA World Cup",
+    "sport": "football",
+    "startDate": "2026-06-11",
+    "endDate": "2026-07-19",
+    "popularPriority": 15,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/fifa.world",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "nwsl-26",
+    "title": "NWSL",
+    "fullTitle": "National Women's Soccer League",
+    "sport": "football",
+    "startDate": "2026-03-14",
+    "endDate": "2026-11-22",
+    "popularPriority": 260,
+    "factsGrain": "matchday",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/usa.nwsl",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "afc-champions-26-27",
+    "title": "AFC Champions",
+    "fullTitle": "AFC Champions League Elite",
+    "sport": "football",
+    "startDate": "2026-09-16",
+    "endDate": "2027-05-30",
+    "popularPriority": 265,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "soccer/afc.champions",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "wnba-26",
+    "title": "WNBA",
+    "fullTitle": "Women's National Basketball Association",
+    "sport": "basketball",
+    "startDate": "2026-05-15",
+    "endDate": "2026-10-18",
+    "popularPriority": 270,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "basketball/wnba",
+      "metric": "wins",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "tennis-atp-26",
+    "title": "ATP Tour",
+    "fullTitle": "ATP Tour Rankings",
+    "sport": "tennis",
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
+    "popularPriority": 275,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "rankings",
+      "path": "tennis/atp",
+      "metric": "rank",
+      "poll": "atp",
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "tennis-wta-26",
+    "title": "WTA Tour",
+    "fullTitle": "WTA Tour Rankings",
+    "sport": "tennis",
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
+    "popularPriority": 280,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "rankings",
+      "path": "tennis/wta",
+      "metric": "rank",
+      "poll": "wta",
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "tennis-australian-open-27",
+    "title": "Australian Open",
+    "fullTitle": "Australian Open",
+    "sport": "tennis",
+    "startDate": "2027-01-18",
+    "endDate": "2027-01-31",
+    "popularPriority": 285,
+    "factsGrain": "day",
+    "hasFacts": false
+  },
+  {
+    "id": "tennis-french-open-27",
+    "title": "French Open",
+    "fullTitle": "French Open",
+    "sport": "tennis",
+    "startDate": "2027-05-24",
+    "endDate": "2027-06-06",
+    "popularPriority": 290,
+    "factsGrain": "day",
+    "hasFacts": false
+  },
+  {
+    "id": "tennis-wimbledon-27",
+    "title": "Wimbledon",
+    "fullTitle": "Wimbledon",
+    "sport": "tennis",
+    "startDate": "2027-06-28",
+    "endDate": "2027-07-11",
+    "popularPriority": 295,
+    "factsGrain": "day",
+    "hasFacts": false
+  },
+  {
+    "id": "tennis-us-open-27",
+    "title": "US Open Tennis",
+    "fullTitle": "US Open",
+    "sport": "tennis",
+    "startDate": "2027-08-30",
+    "endDate": "2027-09-12",
+    "popularPriority": 300,
+    "factsGrain": "day",
+    "hasFacts": false
+  },
+  {
+    "id": "ufc-p4p-26",
+    "title": "UFC P4P",
+    "fullTitle": "UFC Pound-for-Pound Rankings",
+    "sport": "mma",
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
+    "popularPriority": 305,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "rankings",
+      "path": "mma/ufc",
+      "metric": "rank",
+      "poll": "pound",
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "nascar-cup-26",
+    "title": "NASCAR Cup",
+    "fullTitle": "NASCAR Cup Series",
+    "sport": "motorsport",
+    "startDate": "2026-02-15",
+    "endDate": "2026-11-08",
+    "popularPriority": 310,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "racing/nascar-premier",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "indycar-26",
+    "title": "IndyCar",
+    "fullTitle": "NTT IndyCar Series",
+    "sport": "motorsport",
+    "startDate": "2026-03-01",
+    "endDate": "2026-09-13",
+    "popularPriority": 315,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "racing/irl",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "rugby-prem-26-27",
+    "title": "Premiership",
+    "fullTitle": "Gallagher Premiership",
+    "sport": "rugby",
+    "startDate": "2026-09-12",
+    "endDate": "2027-05-30",
+    "popularPriority": 320,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "rugby/267979",
+      "metric": "points",
+      "seasonYear": 2027,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "rugby-urc-26-27",
+    "title": "URC",
+    "fullTitle": "United Rugby Championship",
+    "sport": "rugby",
+    "startDate": "2026-09-12",
+    "endDate": "2027-05-30",
+    "popularPriority": 325,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "rugby/270557",
+      "metric": "points",
+      "seasonYear": 2027,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "rugby-world-cup-27",
+    "title": "Rugby World Cup",
+    "fullTitle": "Rugby World Cup",
+    "sport": "rugby",
+    "startDate": "2027-09-08",
+    "endDate": "2027-10-23",
+    "popularPriority": 330,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "rugby/271937",
+      "metric": "points",
+      "seasonYear": 2027,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "ipl-26",
+    "title": "IPL",
+    "fullTitle": "Indian Premier League",
+    "sport": "cricket",
+    "startDate": "2026-03-22",
+    "endDate": "2026-05-31",
+    "popularPriority": 335,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "cricket/8048",
+      "metric": "points",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  },
+  {
+    "id": "college-baseball-26",
+    "title": "College Baseball",
+    "fullTitle": "NCAA Division I Baseball",
+    "sport": "baseball",
+    "startDate": "2026-02-13",
+    "endDate": "2026-06-28",
+    "popularPriority": 340,
+    "factsGrain": "day",
+    "source": {
+      "provider": "espn",
+      "kind": "standings",
+      "path": "baseball/college-baseball",
+      "metric": "wins",
+      "seasonYear": 2026,
+      "layout": "contests"
+    }
+  }
+]

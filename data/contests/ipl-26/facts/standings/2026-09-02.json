@@ -1,0 +1,51 @@
+{
+  "kind": "standings",
+  "contestId": "ipl-26",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:05Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "royal-challengers-bengaluru",
+      "rank": 1
+    },
+    {
+      "participantId": "gujarat-titans",
+      "rank": 2
+    },
+    {
+      "participantId": "sunrisers-hyderabad",
+      "rank": 3
+    },
+    {
+      "participantId": "rajasthan-royals",
+      "rank": 4
+    },
+    {
+      "participantId": "punjab-kings",
+      "rank": 5
+    },
+    {
+      "participantId": "delhi-capitals",
+      "rank": 6
+    },
+    {
+      "participantId": "kolkata-knight-riders",
+      "rank": 7
+    },
+    {
+      "participantId": "chennai-super-kings",
+      "rank": 8
+    },
+    {
+      "participantId": "mumbai-indians",
+      "rank": 9
+    },
+    {
+      "participantId": "lucknow-super-giants",
+      "rank": 10
+    }
+  ]
+}

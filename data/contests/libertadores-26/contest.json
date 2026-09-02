@@ -1,0 +1,19 @@
+{
+  "id": "libertadores-26",
+  "title": "Libertadores",
+  "fullTitle": "Copa Libertadores",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-02-04",
+    "end": "2026-11-28"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

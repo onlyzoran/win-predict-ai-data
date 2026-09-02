@@ -1,0 +1,14 @@
+{
+  "id": "tennis-us-open-27",
+  "title": "US Open Tennis",
+  "fullTitle": "US Open",
+  "category": "sport",
+  "sport": "tennis",
+  "target": "champion",
+  "season": {
+    "start": "2027-08-30",
+    "end": "2027-09-12"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

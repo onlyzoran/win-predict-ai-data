@@ -267,12 +267,16 @@ def fetch_espn_rankings(path: str, poll: str) -> tuple[list[dict[str, Any]], int
 
     rows: list[dict[str, Any]] = []
     for item in selected.get("ranks") or []:
-        team = item.get("team") or {}
-        name = team.get("displayName")
+        entity = item.get("team") or item.get("athlete") or item.get("fighter") or {}
+        name = entity.get("displayName")
         if not name:
-            location = team.get("location") or ""
-            nickname = team.get("name") or team.get("nickname") or ""
-            name = f"{location} {nickname}".strip() or team.get("abbreviation") or "Unknown"
+            first = entity.get("firstName") or ""
+            last = entity.get("lastName") or ""
+            name = f"{first} {last}".strip()
+        if not name:
+            location = entity.get("location") or ""
+            nickname = entity.get("name") or entity.get("nickname") or ""
+            name = f"{location} {nickname}".strip() or entity.get("abbreviation") or "Unknown"
         wins, draws, losses = parse_record(item.get("recordSummary"))
         rows.append(
             {

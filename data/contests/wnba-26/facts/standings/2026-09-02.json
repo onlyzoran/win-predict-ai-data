@@ -1,0 +1,161 @@
+{
+  "kind": "standings",
+  "contestId": "wnba-26",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:51:58Z",
+  "provider": "espn",
+  "metric": "wins",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "minnesota-lynx",
+      "wins": 31,
+      "losses": 9,
+      "goalDifference": 315,
+      "winPercent": 0.775,
+      "playoffSeed": 1,
+      "group": "Western Conference",
+      "rank": 1
+    },
+    {
+      "participantId": "golden-state-valkyries",
+      "wins": 29,
+      "losses": 11,
+      "goalDifference": 288,
+      "winPercent": 0.725,
+      "playoffSeed": 2,
+      "group": "Western Conference",
+      "rank": 2
+    },
+    {
+      "participantId": "las-vegas-aces",
+      "wins": 27,
+      "losses": 13,
+      "goalDifference": 163,
+      "winPercent": 0.675,
+      "playoffSeed": 3,
+      "group": "Western Conference",
+      "rank": 3
+    },
+    {
+      "participantId": "atlanta-dream",
+      "wins": 26,
+      "losses": 14,
+      "goalDifference": 204,
+      "winPercent": 0.65,
+      "playoffSeed": 1,
+      "group": "Eastern Conference",
+      "rank": 4
+    },
+    {
+      "participantId": "indiana-fever",
+      "wins": 26,
+      "losses": 14,
+      "goalDifference": 242,
+      "winPercent": 0.65,
+      "playoffSeed": 2,
+      "group": "Eastern Conference",
+      "rank": 5
+    },
+    {
+      "participantId": "new-york-liberty",
+      "wins": 24,
+      "losses": 16,
+      "goalDifference": 119,
+      "winPercent": 0.6,
+      "playoffSeed": 3,
+      "group": "Eastern Conference",
+      "rank": 6
+    },
+    {
+      "participantId": "washington-mystics",
+      "wins": 24,
+      "losses": 16,
+      "goalDifference": -8,
+      "winPercent": 0.6,
+      "playoffSeed": 4,
+      "group": "Eastern Conference",
+      "rank": 7
+    },
+    {
+      "participantId": "dallas-wings",
+      "wins": 24,
+      "losses": 16,
+      "goalDifference": 146,
+      "winPercent": 0.6,
+      "playoffSeed": 4,
+      "group": "Western Conference",
+      "rank": 8
+    },
+    {
+      "participantId": "portland-fire",
+      "wins": 16,
+      "losses": 24,
+      "goalDifference": -179,
+      "winPercent": 0.4,
+      "playoffSeed": 5,
+      "group": "Western Conference",
+      "rank": 9
+    },
+    {
+      "participantId": "chicago-sky",
+      "wins": 15,
+      "losses": 25,
+      "goalDifference": -120,
+      "winPercent": 0.375,
+      "playoffSeed": 5,
+      "group": "Eastern Conference",
+      "rank": 10
+    },
+    {
+      "participantId": "los-angeles-sparks",
+      "wins": 15,
+      "losses": 25,
+      "goalDifference": -178,
+      "winPercent": 0.375,
+      "playoffSeed": 6,
+      "group": "Western Conference",
+      "rank": 11
+    },
+    {
+      "participantId": "phoenix-mercury",
+      "wins": 14,
+      "losses": 26,
+      "goalDifference": -123,
+      "winPercent": 0.35,
+      "playoffSeed": 7,
+      "group": "Western Conference",
+      "rank": 12
+    },
+    {
+      "participantId": "toronto-tempo",
+      "wins": 11,
+      "losses": 29,
+      "goalDifference": -302,
+      "winPercent": 0.275,
+      "playoffSeed": 6,
+      "group": "Eastern Conference",
+      "rank": 13
+    },
+    {
+      "participantId": "connecticut-sun",
+      "wins": 10,
+      "losses": 30,
+      "goalDifference": -353,
+      "winPercent": 0.25,
+      "playoffSeed": 7,
+      "group": "Eastern Conference",
+      "rank": 14
+    },
+    {
+      "participantId": "seattle-storm",
+      "wins": 8,
+      "losses": 32,
+      "goalDifference": -214,
+      "winPercent": 0.2,
+      "playoffSeed": 8,
+      "group": "Western Conference",
+      "rank": 15
+    }
+  ]
+}

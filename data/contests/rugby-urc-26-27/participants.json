@@ -1,0 +1,85 @@
+{
+  "contestId": "rugby-urc-26-27",
+  "participants": [
+    {
+      "id": "benetton-treviso",
+      "name": "Benetton Treviso",
+      "aliases": []
+    },
+    {
+      "id": "bulls",
+      "name": "Bulls",
+      "aliases": []
+    },
+    {
+      "id": "cardiff-blues",
+      "name": "Cardiff Blues",
+      "aliases": []
+    },
+    {
+      "id": "connacht",
+      "name": "Connacht",
+      "aliases": []
+    },
+    {
+      "id": "dragons",
+      "name": "Dragons",
+      "aliases": []
+    },
+    {
+      "id": "edinburgh",
+      "name": "Edinburgh",
+      "aliases": []
+    },
+    {
+      "id": "glasgow-warriors",
+      "name": "Glasgow Warriors",
+      "aliases": []
+    },
+    {
+      "id": "leinster",
+      "name": "Leinster",
+      "aliases": []
+    },
+    {
+      "id": "lions",
+      "name": "Lions",
+      "aliases": []
+    },
+    {
+      "id": "munster",
+      "name": "Munster",
+      "aliases": []
+    },
+    {
+      "id": "ospreys",
+      "name": "Ospreys",
+      "aliases": []
+    },
+    {
+      "id": "scarlets",
+      "name": "Scarlets",
+      "aliases": []
+    },
+    {
+      "id": "sharks",
+      "name": "Sharks",
+      "aliases": []
+    },
+    {
+      "id": "stormers",
+      "name": "Stormers",
+      "aliases": []
+    },
+    {
+      "id": "ulster",
+      "name": "Ulster",
+      "aliases": []
+    },
+    {
+      "id": "zebre",
+      "name": "Zebre",
+      "aliases": []
+    }
+  ]
+}

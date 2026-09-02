@@ -121,5 +121,197 @@
     "group": "constructor",
     "metric": "points",
     "seasonYear": 2026
+  },
+  "uel-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/uefa.europa",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "uecl-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/uefa.europa.conf",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "championship-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/eng.2",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "eredivisie-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/ned.1",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "liga-portugal-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/por.1",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "scottish-prem-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/sco.1",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "liga-mx-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/mex.1",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "brasileirao-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/bra.1",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "super-lig-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/tur.1",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "libertadores-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/conmebol.libertadores",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "world-cup-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/fifa.world",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "nwsl-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/usa.nwsl",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "afc-champions-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "soccer/afc.champions",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "wnba-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "basketball/wnba",
+    "metric": "wins",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "tennis-atp-26": {
+    "provider": "espn",
+    "kind": "rankings",
+    "path": "tennis/atp",
+    "metric": "rank",
+    "poll": "atp",
+    "layout": "contests"
+  },
+  "tennis-wta-26": {
+    "provider": "espn",
+    "kind": "rankings",
+    "path": "tennis/wta",
+    "metric": "rank",
+    "poll": "wta",
+    "layout": "contests"
+  },
+  "ufc-p4p-26": {
+    "provider": "espn",
+    "kind": "rankings",
+    "path": "mma/ufc",
+    "metric": "rank",
+    "poll": "pound",
+    "layout": "contests"
+  },
+  "nascar-cup-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "racing/nascar-premier",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "indycar-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "racing/irl",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "rugby-prem-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "rugby/267979",
+    "metric": "points",
+    "seasonYear": 2027,
+    "layout": "contests"
+  },
+  "rugby-urc-26-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "rugby/270557",
+    "metric": "points",
+    "seasonYear": 2027,
+    "layout": "contests"
+  },
+  "rugby-world-cup-27": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "rugby/271937",
+    "metric": "points",
+    "seasonYear": 2027,
+    "layout": "contests"
+  },
+  "ipl-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "cricket/8048",
+    "metric": "points",
+    "seasonYear": 2026,
+    "layout": "contests"
+  },
+  "college-baseball-26": {
+    "provider": "espn",
+    "kind": "standings",
+    "path": "baseball/college-baseball",
+    "metric": "wins",
+    "seasonYear": 2026,
+    "layout": "contests"
   }
 }

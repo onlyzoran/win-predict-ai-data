@@ -1,0 +1,19 @@
+{
+  "id": "tennis-atp-26",
+  "title": "ATP Tour",
+  "fullTitle": "ATP Tour Rankings",
+  "category": "sport",
+  "sport": "tennis",
+  "target": "champion",
+  "season": {
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "rank",
+  "factKinds": [
+    "rankings"
+  ],
+  "factsGrain": "day"
+}

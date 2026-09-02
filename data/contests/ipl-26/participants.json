@@ -1,0 +1,55 @@
+{
+  "contestId": "ipl-26",
+  "participants": [
+    {
+      "id": "chennai-super-kings",
+      "name": "Chennai Super Kings",
+      "aliases": []
+    },
+    {
+      "id": "delhi-capitals",
+      "name": "Delhi Capitals",
+      "aliases": []
+    },
+    {
+      "id": "gujarat-titans",
+      "name": "Gujarat Titans",
+      "aliases": []
+    },
+    {
+      "id": "kolkata-knight-riders",
+      "name": "Kolkata Knight Riders",
+      "aliases": []
+    },
+    {
+      "id": "lucknow-super-giants",
+      "name": "Lucknow Super Giants",
+      "aliases": []
+    },
+    {
+      "id": "mumbai-indians",
+      "name": "Mumbai Indians",
+      "aliases": []
+    },
+    {
+      "id": "punjab-kings",
+      "name": "Punjab Kings",
+      "aliases": []
+    },
+    {
+      "id": "rajasthan-royals",
+      "name": "Rajasthan Royals",
+      "aliases": []
+    },
+    {
+      "id": "royal-challengers-bengaluru",
+      "name": "Royal Challengers Bengaluru",
+      "aliases": []
+    },
+    {
+      "id": "sunrisers-hyderabad",
+      "name": "Sunrisers Hyderabad",
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "kind": "standings",
+  "contestId": "rugby-world-cup-27",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:05Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2027,
+  "rows": [
+    {
+      "participantId": "clermont-auvergne",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 1,
+      "group": "Pool 1",
+      "rank": 1
+    },
+    {
+      "participantId": "glasgow-warriors",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 2,
+      "group": "Pool 1",
+      "rank": 2
+    },
+    {
+      "participantId": "leicester-tigers",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 3,
+      "group": "Pool 1",
+      "rank": 3
+    },
+    {
+      "participantId": "leinster",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "group": "Pool 1",
+      "rank": 4
+    },
+    {
+      "participantId": "sale-sharks",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 5,
+      "group": "Pool 1",
+      "rank": 5
+    },
+    {
+      "participantId": "pau",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 6,
+      "group": "Pool 1",
+      "rank": 6
+    },
+    {
+      "participantId": "connacht",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 1,
+      "group": "Pool 2",
+      "rank": 7
+    },
+    {
+      "participantId": "exeter-chiefs",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 2,
+      "group": "Pool 2",
+      "rank": 8
+    },
+    {
+      "participantId": "lions",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 3,
+      "group": "Pool 2",
+      "rank": 9
+    },
+    {
+      "participantId": "saracens",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "group": "Pool 2",
+      "rank": 10
+    },
+    {
+      "participantId": "la-rochelle",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 5,
+      "group": "Pool 2",
+      "rank": 11
+    },
+    {
+      "participantId": "stade-toulousain",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 6,
+      "group": "Pool 2",
+      "rank": 12
+    },
+    {
+      "participantId": "bristol-rugby",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 1,
+      "group": "Pool 3",
+      "rank": 13
+    },
+    {
+      "participantId": "gloucester-rugby",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 2,
+      "group": "Pool 3",
+      "rank": 14
+    },
+    {
+      "participantId": "munster",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 3,
+      "group": "Pool 3",
+      "rank": 15
+    },
+    {
+      "participantId": "racing-92",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "group": "Pool 3",
+      "rank": 16
+    },
+    {
+      "participantId": "stormers",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 5,
+      "group": "Pool 3",
+      "rank": 17
+    },
+    {
+      "participantId": "bordeaux-begles",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 6,
+      "group": "Pool 3",
+      "rank": 18
+    },
+    {
+      "participantId": "bath-rugby",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 1,
+      "group": "Pool 4",
+      "rank": 19
+    },
+    {
+      "participantId": "bulls",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 2,
+      "group": "Pool 4",
+      "rank": 20
+    },
+    {
+      "participantId": "cardiff-blues",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 3,
+      "group": "Pool 4",
+      "rank": 21
+    },
+    {
+      "participantId": "montpellier-herault",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "group": "Pool 4",
+      "rank": 22
+    },
+    {
+      "participantId": "northampton-saints",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 5,
+      "group": "Pool 4",
+      "rank": 23
+    },
+    {
+      "participantId": "stade-francais-paris",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 6,
+      "group": "Pool 4",
+      "rank": 24
+    }
+  ]
+}

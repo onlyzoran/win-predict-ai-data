@@ -1,0 +1,19 @@
+{
+  "id": "rugby-world-cup-27",
+  "title": "Rugby World Cup",
+  "fullTitle": "Rugby World Cup",
+  "category": "sport",
+  "sport": "rugby",
+  "target": "champion",
+  "season": {
+    "start": "2027-09-08",
+    "end": "2027-10-23"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

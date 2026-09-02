@@ -1,0 +1,50 @@
+{
+  "contestId": "ufc-p4p-26",
+  "participants": [
+    {
+      "id": "alexander-volkanovski",
+      "name": "Alexander Volkanovski",
+      "aliases": []
+    },
+    {
+      "id": "charles-oliveira",
+      "name": "Charles Oliveira",
+      "aliases": []
+    },
+    {
+      "id": "deiveson-figueiredo",
+      "name": "Deiveson Figueiredo",
+      "aliases": []
+    },
+    {
+      "id": "dustin-poirier",
+      "name": "Dustin Poirier",
+      "aliases": []
+    },
+    {
+      "id": "francis-ngannou",
+      "name": "Francis Ngannou",
+      "aliases": []
+    },
+    {
+      "id": "israel-adesanya",
+      "name": "Israel Adesanya",
+      "aliases": []
+    },
+    {
+      "id": "jan-blachowicz",
+      "name": "Jan Blachowicz",
+      "aliases": []
+    },
+    {
+      "id": "kamaru-usman",
+      "name": "Kamaru Usman",
+      "aliases": []
+    },
+    {
+      "id": "stipe-miocic",
+      "name": "Stipe Miocic",
+      "aliases": []
+    }
+  ]
+}
