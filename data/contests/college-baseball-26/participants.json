@@ -1,0 +1,805 @@
+{
+  "contestId": "college-baseball-26",
+  "participants": [
+    {
+      "id": "alabama-crimson-tide",
+      "name": "Alabama Crimson Tide",
+      "aliases": []
+    },
+    {
+      "id": "alabama-state-hornets",
+      "name": "Alabama State Hornets",
+      "aliases": []
+    },
+    {
+      "id": "app-state-mountaineers",
+      "name": "App State Mountaineers",
+      "aliases": []
+    },
+    {
+      "id": "arizona-state-sun-devils",
+      "name": "Arizona State Sun Devils",
+      "aliases": []
+    },
+    {
+      "id": "arizona-wildcats",
+      "name": "Arizona Wildcats",
+      "aliases": []
+    },
+    {
+      "id": "arkansas-razorbacks",
+      "name": "Arkansas Razorbacks",
+      "aliases": []
+    },
+    {
+      "id": "arkansas-state-red-wolves",
+      "name": "Arkansas State Red Wolves",
+      "aliases": []
+    },
+    {
+      "id": "auburn-tigers",
+      "name": "Auburn Tigers",
+      "aliases": []
+    },
+    {
+      "id": "austin-peay-governors",
+      "name": "Austin Peay Governors",
+      "aliases": []
+    },
+    {
+      "id": "baylor-bears",
+      "name": "Baylor Bears",
+      "aliases": []
+    },
+    {
+      "id": "binghamton-bearcats",
+      "name": "Binghamton Bearcats",
+      "aliases": []
+    },
+    {
+      "id": "boston-college-eagles",
+      "name": "Boston College Eagles",
+      "aliases": []
+    },
+    {
+      "id": "butler-bulldogs",
+      "name": "Butler Bulldogs",
+      "aliases": []
+    },
+    {
+      "id": "byu-cougars",
+      "name": "BYU Cougars",
+      "aliases": []
+    },
+    {
+      "id": "cal-poly-mustangs",
+      "name": "Cal Poly Mustangs",
+      "aliases": []
+    },
+    {
+      "id": "cal-state-bakersfield-roadrunners",
+      "name": "Cal State Bakersfield Roadrunners",
+      "aliases": []
+    },
+    {
+      "id": "cal-state-fullerton-titans",
+      "name": "Cal State Fullerton Titans",
+      "aliases": []
+    },
+    {
+      "id": "cal-state-northridge-matadors",
+      "name": "Cal State Northridge Matadors",
+      "aliases": []
+    },
+    {
+      "id": "california-golden-bears",
+      "name": "California Golden Bears",
+      "aliases": []
+    },
+    {
+      "id": "campbell-fighting-camels",
+      "name": "Campbell Fighting Camels",
+      "aliases": []
+    },
+    {
+      "id": "central-arkansas-bears",
+      "name": "Central Arkansas Bears",
+      "aliases": []
+    },
+    {
+      "id": "charleston-cougars",
+      "name": "Charleston Cougars",
+      "aliases": []
+    },
+    {
+      "id": "charlotte-49ers",
+      "name": "Charlotte 49ers",
+      "aliases": []
+    },
+    {
+      "id": "cincinnati-bearcats",
+      "name": "Cincinnati Bearcats",
+      "aliases": []
+    },
+    {
+      "id": "clemson-tigers",
+      "name": "Clemson Tigers",
+      "aliases": []
+    },
+    {
+      "id": "coastal-carolina-chanticleers",
+      "name": "Coastal Carolina Chanticleers",
+      "aliases": []
+    },
+    {
+      "id": "creighton-bluejays",
+      "name": "Creighton Bluejays",
+      "aliases": []
+    },
+    {
+      "id": "dallas-baptist-patriots",
+      "name": "Dallas Baptist Patriots",
+      "aliases": []
+    },
+    {
+      "id": "delaware-blue-hens",
+      "name": "Delaware Blue Hens",
+      "aliases": []
+    },
+    {
+      "id": "duke-blue-devils",
+      "name": "Duke Blue Devils",
+      "aliases": []
+    },
+    {
+      "id": "east-carolina-pirates",
+      "name": "East Carolina Pirates",
+      "aliases": []
+    },
+    {
+      "id": "eastern-kentucky-colonels",
+      "name": "Eastern Kentucky Colonels",
+      "aliases": []
+    },
+    {
+      "id": "elon-phoenix",
+      "name": "Elon Phoenix",
+      "aliases": []
+    },
+    {
+      "id": "florida-atlantic-owls",
+      "name": "Florida Atlantic Owls",
+      "aliases": []
+    },
+    {
+      "id": "florida-gators",
+      "name": "Florida Gators",
+      "aliases": []
+    },
+    {
+      "id": "florida-gulf-coast-eagles",
+      "name": "Florida Gulf Coast Eagles",
+      "aliases": []
+    },
+    {
+      "id": "florida-international-panthers",
+      "name": "Florida International Panthers",
+      "aliases": []
+    },
+    {
+      "id": "florida-state-seminoles",
+      "name": "Florida State Seminoles",
+      "aliases": []
+    },
+    {
+      "id": "georgetown-hoyas",
+      "name": "Georgetown Hoyas",
+      "aliases": []
+    },
+    {
+      "id": "georgia-bulldogs",
+      "name": "Georgia Bulldogs",
+      "aliases": []
+    },
+    {
+      "id": "georgia-southern-eagles",
+      "name": "Georgia Southern Eagles",
+      "aliases": []
+    },
+    {
+      "id": "georgia-state-panthers",
+      "name": "Georgia State Panthers",
+      "aliases": []
+    },
+    {
+      "id": "georgia-tech-yellow-jackets",
+      "name": "Georgia Tech Yellow Jackets",
+      "aliases": []
+    },
+    {
+      "id": "gonzaga-bulldogs",
+      "name": "Gonzaga Bulldogs",
+      "aliases": []
+    },
+    {
+      "id": "hawaii-rainbow-warriors",
+      "name": "Hawai'i Rainbow Warriors",
+      "aliases": []
+    },
+    {
+      "id": "hofstra-pride",
+      "name": "Hofstra Pride",
+      "aliases": []
+    },
+    {
+      "id": "holy-cross-crusaders",
+      "name": "Holy Cross Crusaders",
+      "aliases": []
+    },
+    {
+      "id": "houston-cougars",
+      "name": "Houston Cougars",
+      "aliases": []
+    },
+    {
+      "id": "illinois-fighting-illini",
+      "name": "Illinois Fighting Illini",
+      "aliases": []
+    },
+    {
+      "id": "indiana-hoosiers",
+      "name": "Indiana Hoosiers",
+      "aliases": []
+    },
+    {
+      "id": "iowa-hawkeyes",
+      "name": "Iowa Hawkeyes",
+      "aliases": []
+    },
+    {
+      "id": "jacksonville-dolphins",
+      "name": "Jacksonville Dolphins",
+      "aliases": []
+    },
+    {
+      "id": "jacksonville-state-gamecocks",
+      "name": "Jacksonville State Gamecocks",
+      "aliases": []
+    },
+    {
+      "id": "james-madison-dukes",
+      "name": "James Madison Dukes",
+      "aliases": []
+    },
+    {
+      "id": "kansas-jayhawks",
+      "name": "Kansas Jayhawks",
+      "aliases": []
+    },
+    {
+      "id": "kansas-state-wildcats",
+      "name": "Kansas State Wildcats",
+      "aliases": []
+    },
+    {
+      "id": "kennesaw-state-owls",
+      "name": "Kennesaw State Owls",
+      "aliases": []
+    },
+    {
+      "id": "kentucky-wildcats",
+      "name": "Kentucky Wildcats",
+      "aliases": []
+    },
+    {
+      "id": "lamar-cardinals",
+      "name": "Lamar Cardinals",
+      "aliases": []
+    },
+    {
+      "id": "liberty-flames",
+      "name": "Liberty Flames",
+      "aliases": []
+    },
+    {
+      "id": "lipscomb-bisons",
+      "name": "Lipscomb Bisons",
+      "aliases": []
+    },
+    {
+      "id": "little-rock-trojans",
+      "name": "Little Rock Trojans",
+      "aliases": []
+    },
+    {
+      "id": "long-beach-state-beach",
+      "name": "Long Beach State Beach",
+      "aliases": []
+    },
+    {
+      "id": "long-island-university-sharks",
+      "name": "Long Island University Sharks",
+      "aliases": []
+    },
+    {
+      "id": "louisiana-ragin-cajuns",
+      "name": "Louisiana Ragin' Cajuns",
+      "aliases": []
+    },
+    {
+      "id": "louisiana-tech-bulldogs",
+      "name": "Louisiana Tech Bulldogs",
+      "aliases": []
+    },
+    {
+      "id": "louisville-cardinals",
+      "name": "Louisville Cardinals",
+      "aliases": []
+    },
+    {
+      "id": "loyola-marymount-lions",
+      "name": "Loyola Marymount Lions",
+      "aliases": []
+    },
+    {
+      "id": "lsu-tigers",
+      "name": "LSU Tigers",
+      "aliases": []
+    },
+    {
+      "id": "marshall-thundering-herd",
+      "name": "Marshall Thundering Herd",
+      "aliases": []
+    },
+    {
+      "id": "maryland-terrapins",
+      "name": "Maryland Terrapins",
+      "aliases": []
+    },
+    {
+      "id": "memphis-tigers",
+      "name": "Memphis Tigers",
+      "aliases": []
+    },
+    {
+      "id": "miami-hurricanes",
+      "name": "Miami Hurricanes",
+      "aliases": []
+    },
+    {
+      "id": "michigan-state-spartans",
+      "name": "Michigan State Spartans",
+      "aliases": []
+    },
+    {
+      "id": "michigan-wolverines",
+      "name": "Michigan Wolverines",
+      "aliases": []
+    },
+    {
+      "id": "middle-tennessee-blue-raiders",
+      "name": "Middle Tennessee Blue Raiders",
+      "aliases": []
+    },
+    {
+      "id": "milwaukee-panthers",
+      "name": "Milwaukee Panthers",
+      "aliases": []
+    },
+    {
+      "id": "minnesota-golden-gophers",
+      "name": "Minnesota Golden Gophers",
+      "aliases": []
+    },
+    {
+      "id": "mississippi-state-bulldogs",
+      "name": "Mississippi State Bulldogs",
+      "aliases": []
+    },
+    {
+      "id": "missouri-state-bears",
+      "name": "Missouri State Bears",
+      "aliases": []
+    },
+    {
+      "id": "missouri-tigers",
+      "name": "Missouri Tigers",
+      "aliases": []
+    },
+    {
+      "id": "monmouth-hawks",
+      "name": "Monmouth Hawks",
+      "aliases": []
+    },
+    {
+      "id": "nc-state-wolfpack",
+      "name": "NC State Wolfpack",
+      "aliases": []
+    },
+    {
+      "id": "nebraska-cornhuskers",
+      "name": "Nebraska Cornhuskers",
+      "aliases": []
+    },
+    {
+      "id": "new-mexico-state-aggies",
+      "name": "New Mexico State Aggies",
+      "aliases": []
+    },
+    {
+      "id": "north-carolina-a-and-t-aggies",
+      "name": "North Carolina A&T Aggies",
+      "aliases": []
+    },
+    {
+      "id": "north-carolina-tar-heels",
+      "name": "North Carolina Tar Heels",
+      "aliases": []
+    },
+    {
+      "id": "north-florida-ospreys",
+      "name": "North Florida Ospreys",
+      "aliases": []
+    },
+    {
+      "id": "northern-illinois-huskies",
+      "name": "Northern Illinois Huskies",
+      "aliases": []
+    },
+    {
+      "id": "northwestern-wildcats",
+      "name": "Northwestern Wildcats",
+      "aliases": []
+    },
+    {
+      "id": "notre-dame-fighting-irish",
+      "name": "Notre Dame Fighting Irish",
+      "aliases": []
+    },
+    {
+      "id": "ohio-state-buckeyes",
+      "name": "Ohio State Buckeyes",
+      "aliases": []
+    },
+    {
+      "id": "oklahoma-sooners",
+      "name": "Oklahoma Sooners",
+      "aliases": []
+    },
+    {
+      "id": "oklahoma-state-cowboys",
+      "name": "Oklahoma State Cowboys",
+      "aliases": []
+    },
+    {
+      "id": "old-dominion-monarchs",
+      "name": "Old Dominion Monarchs",
+      "aliases": []
+    },
+    {
+      "id": "ole-miss-rebels",
+      "name": "Ole Miss Rebels",
+      "aliases": []
+    },
+    {
+      "id": "oregon-ducks",
+      "name": "Oregon Ducks",
+      "aliases": []
+    },
+    {
+      "id": "pacific-tigers",
+      "name": "Pacific Tigers",
+      "aliases": []
+    },
+    {
+      "id": "penn-state-nittany-lions",
+      "name": "Penn State Nittany Lions",
+      "aliases": []
+    },
+    {
+      "id": "pepperdine-waves",
+      "name": "Pepperdine Waves",
+      "aliases": []
+    },
+    {
+      "id": "pittsburgh-panthers",
+      "name": "Pittsburgh Panthers",
+      "aliases": []
+    },
+    {
+      "id": "portland-pilots",
+      "name": "Portland Pilots",
+      "aliases": []
+    },
+    {
+      "id": "purdue-boilermakers",
+      "name": "Purdue Boilermakers",
+      "aliases": []
+    },
+    {
+      "id": "rice-owls",
+      "name": "Rice Owls",
+      "aliases": []
+    },
+    {
+      "id": "rider-broncs",
+      "name": "Rider Broncs",
+      "aliases": []
+    },
+    {
+      "id": "rutgers-scarlet-knights",
+      "name": "Rutgers Scarlet Knights",
+      "aliases": []
+    },
+    {
+      "id": "sam-houston-bearkats",
+      "name": "Sam Houston Bearkats",
+      "aliases": []
+    },
+    {
+      "id": "san-diego-toreros",
+      "name": "San Diego Toreros",
+      "aliases": []
+    },
+    {
+      "id": "san-francisco-dons",
+      "name": "San Francisco Dons",
+      "aliases": []
+    },
+    {
+      "id": "santa-clara-broncos",
+      "name": "Santa Clara Broncos",
+      "aliases": []
+    },
+    {
+      "id": "seattle-u-redhawks",
+      "name": "Seattle U Redhawks",
+      "aliases": []
+    },
+    {
+      "id": "seton-hall-pirates",
+      "name": "Seton Hall Pirates",
+      "aliases": []
+    },
+    {
+      "id": "south-alabama-jaguars",
+      "name": "South Alabama Jaguars",
+      "aliases": []
+    },
+    {
+      "id": "south-carolina-gamecocks",
+      "name": "South Carolina Gamecocks",
+      "aliases": []
+    },
+    {
+      "id": "south-carolina-upstate-spartans",
+      "name": "South Carolina Upstate Spartans",
+      "aliases": []
+    },
+    {
+      "id": "south-dakota-state-jackrabbits",
+      "name": "South Dakota State Jackrabbits",
+      "aliases": []
+    },
+    {
+      "id": "south-florida-bulls",
+      "name": "South Florida Bulls",
+      "aliases": []
+    },
+    {
+      "id": "southern-miss-golden-eagles",
+      "name": "Southern Miss Golden Eagles",
+      "aliases": []
+    },
+    {
+      "id": "st-johns-red-storm",
+      "name": "St. John's Red Storm",
+      "aliases": []
+    },
+    {
+      "id": "stanford-cardinal",
+      "name": "Stanford Cardinal",
+      "aliases": []
+    },
+    {
+      "id": "stetson-hatters",
+      "name": "Stetson Hatters",
+      "aliases": []
+    },
+    {
+      "id": "stony-brook-seawolves",
+      "name": "Stony Brook Seawolves",
+      "aliases": []
+    },
+    {
+      "id": "tcu-horned-frogs",
+      "name": "TCU Horned Frogs",
+      "aliases": []
+    },
+    {
+      "id": "tennessee-volunteers",
+      "name": "Tennessee Volunteers",
+      "aliases": []
+    },
+    {
+      "id": "texas-a-and-m-aggies",
+      "name": "Texas A&M Aggies",
+      "aliases": []
+    },
+    {
+      "id": "texas-longhorns",
+      "name": "Texas Longhorns",
+      "aliases": []
+    },
+    {
+      "id": "texas-state-bobcats",
+      "name": "Texas State Bobcats",
+      "aliases": []
+    },
+    {
+      "id": "texas-tech-red-raiders",
+      "name": "Texas Tech Red Raiders",
+      "aliases": []
+    },
+    {
+      "id": "the-citadel-bulldogs",
+      "name": "The Citadel Bulldogs",
+      "aliases": []
+    },
+    {
+      "id": "towson-tigers",
+      "name": "Towson Tigers",
+      "aliases": []
+    },
+    {
+      "id": "troy-trojans",
+      "name": "Troy Trojans",
+      "aliases": []
+    },
+    {
+      "id": "tulane-green-wave",
+      "name": "Tulane Green Wave",
+      "aliases": []
+    },
+    {
+      "id": "uab-blazers",
+      "name": "UAB Blazers",
+      "aliases": []
+    },
+    {
+      "id": "uc-davis-aggies",
+      "name": "UC Davis Aggies",
+      "aliases": []
+    },
+    {
+      "id": "uc-irvine-anteaters",
+      "name": "UC Irvine Anteaters",
+      "aliases": []
+    },
+    {
+      "id": "uc-riverside-highlanders",
+      "name": "UC Riverside Highlanders",
+      "aliases": []
+    },
+    {
+      "id": "ucf-knights",
+      "name": "UCF Knights",
+      "aliases": []
+    },
+    {
+      "id": "ucla-bruins",
+      "name": "UCLA Bruins",
+      "aliases": []
+    },
+    {
+      "id": "uconn-huskies",
+      "name": "UConn Huskies",
+      "aliases": []
+    },
+    {
+      "id": "uic-flames",
+      "name": "UIC Flames",
+      "aliases": []
+    },
+    {
+      "id": "ul-monroe-warhawks",
+      "name": "UL Monroe Warhawks",
+      "aliases": []
+    },
+    {
+      "id": "unc-wilmington-seahawks",
+      "name": "UNC Wilmington Seahawks",
+      "aliases": []
+    },
+    {
+      "id": "usc-trojans",
+      "name": "USC Trojans",
+      "aliases": []
+    },
+    {
+      "id": "utah-utes",
+      "name": "Utah Utes",
+      "aliases": []
+    },
+    {
+      "id": "utsa-roadrunners",
+      "name": "UTSA Roadrunners",
+      "aliases": []
+    },
+    {
+      "id": "vanderbilt-commodores",
+      "name": "Vanderbilt Commodores",
+      "aliases": []
+    },
+    {
+      "id": "vcu-rams",
+      "name": "VCU Rams",
+      "aliases": []
+    },
+    {
+      "id": "villanova-wildcats",
+      "name": "Villanova Wildcats",
+      "aliases": []
+    },
+    {
+      "id": "virginia-cavaliers",
+      "name": "Virginia Cavaliers",
+      "aliases": []
+    },
+    {
+      "id": "virginia-tech-hokies",
+      "name": "Virginia Tech Hokies",
+      "aliases": []
+    },
+    {
+      "id": "wake-forest-demon-deacons",
+      "name": "Wake Forest Demon Deacons",
+      "aliases": []
+    },
+    {
+      "id": "washington-huskies",
+      "name": "Washington Huskies",
+      "aliases": []
+    },
+    {
+      "id": "washington-state-cougars",
+      "name": "Washington State Cougars",
+      "aliases": []
+    },
+    {
+      "id": "west-georgia-wolves",
+      "name": "West Georgia Wolves",
+      "aliases": []
+    },
+    {
+      "id": "west-virginia-mountaineers",
+      "name": "West Virginia Mountaineers",
+      "aliases": []
+    },
+    {
+      "id": "western-kentucky-hilltoppers",
+      "name": "Western Kentucky Hilltoppers",
+      "aliases": []
+    },
+    {
+      "id": "wichita-state-shockers",
+      "name": "Wichita State Shockers",
+      "aliases": []
+    },
+    {
+      "id": "william-and-mary-tribe",
+      "name": "William & Mary Tribe",
+      "aliases": []
+    },
+    {
+      "id": "xavier-musketeers",
+      "name": "Xavier Musketeers",
+      "aliases": []
+    },
+    {
+      "id": "yale-bulldogs",
+      "name": "Yale Bulldogs",
+      "aliases": []
+    }
+  ]
+}

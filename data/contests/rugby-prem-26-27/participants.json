@@ -1,0 +1,55 @@
+{
+  "contestId": "rugby-prem-26-27",
+  "participants": [
+    {
+      "id": "bath-rugby",
+      "name": "Bath Rugby",
+      "aliases": []
+    },
+    {
+      "id": "bristol-rugby",
+      "name": "Bristol Rugby",
+      "aliases": []
+    },
+    {
+      "id": "exeter-chiefs",
+      "name": "Exeter Chiefs",
+      "aliases": []
+    },
+    {
+      "id": "gloucester-rugby",
+      "name": "Gloucester Rugby",
+      "aliases": []
+    },
+    {
+      "id": "harlequins",
+      "name": "Harlequins",
+      "aliases": []
+    },
+    {
+      "id": "leicester-tigers",
+      "name": "Leicester Tigers",
+      "aliases": []
+    },
+    {
+      "id": "newcastle-falcons",
+      "name": "Newcastle Falcons",
+      "aliases": []
+    },
+    {
+      "id": "northampton-saints",
+      "name": "Northampton Saints",
+      "aliases": []
+    },
+    {
+      "id": "sale-sharks",
+      "name": "Sale Sharks",
+      "aliases": []
+    },
+    {
+      "id": "saracens",
+      "name": "Saracens",
+      "aliases": []
+    }
+  ]
+}

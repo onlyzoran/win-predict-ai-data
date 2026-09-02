@@ -1,0 +1,19 @@
+{
+  "id": "nascar-cup-26",
+  "title": "NASCAR Cup",
+  "fullTitle": "NASCAR Cup Series",
+  "category": "sport",
+  "sport": "motorsport",
+  "target": "champion",
+  "season": {
+    "start": "2026-02-15",
+    "end": "2026-11-08"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

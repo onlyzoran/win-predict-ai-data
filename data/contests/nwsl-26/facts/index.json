@@ -1,0 +1,24 @@
+{
+  "contestId": "nwsl-26",
+  "kind": "facts",
+  "factKind": "standings",
+  "grain": "matchday",
+  "count": 1,
+  "first": "2026-09-02",
+  "last": "2026-09-02",
+  "latestTour": 22,
+  "tours": [
+    {
+      "tour": 22,
+      "status": "in_progress",
+      "slices": [
+        "2026-09-02"
+      ],
+      "latestDate": "2026-09-02",
+      "latestFile": "standings/tour-22/latest.json"
+    }
+  ],
+  "days": [
+    "2026-09-02"
+  ]
+}

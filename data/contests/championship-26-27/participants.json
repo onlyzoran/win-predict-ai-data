@@ -1,0 +1,125 @@
+{
+  "contestId": "championship-26-27",
+  "participants": [
+    {
+      "id": "birmingham-city",
+      "name": "Birmingham City",
+      "aliases": []
+    },
+    {
+      "id": "blackburn-rovers",
+      "name": "Blackburn Rovers",
+      "aliases": []
+    },
+    {
+      "id": "bolton-wanderers",
+      "name": "Bolton Wanderers",
+      "aliases": []
+    },
+    {
+      "id": "bristol-city",
+      "name": "Bristol City",
+      "aliases": []
+    },
+    {
+      "id": "burnley",
+      "name": "Burnley",
+      "aliases": []
+    },
+    {
+      "id": "cardiff-city",
+      "name": "Cardiff City",
+      "aliases": []
+    },
+    {
+      "id": "charlton-athletic",
+      "name": "Charlton Athletic",
+      "aliases": []
+    },
+    {
+      "id": "derby-county",
+      "name": "Derby County",
+      "aliases": []
+    },
+    {
+      "id": "lincoln-city",
+      "name": "Lincoln City",
+      "aliases": []
+    },
+    {
+      "id": "middlesbrough",
+      "name": "Middlesbrough",
+      "aliases": []
+    },
+    {
+      "id": "millwall",
+      "name": "Millwall",
+      "aliases": []
+    },
+    {
+      "id": "norwich-city",
+      "name": "Norwich City",
+      "aliases": []
+    },
+    {
+      "id": "portsmouth",
+      "name": "Portsmouth",
+      "aliases": []
+    },
+    {
+      "id": "preston-north-end",
+      "name": "Preston North End",
+      "aliases": []
+    },
+    {
+      "id": "queens-park-rangers",
+      "name": "Queens Park Rangers",
+      "aliases": []
+    },
+    {
+      "id": "sheffield-united",
+      "name": "Sheffield United",
+      "aliases": []
+    },
+    {
+      "id": "southampton",
+      "name": "Southampton",
+      "aliases": []
+    },
+    {
+      "id": "stoke-city",
+      "name": "Stoke City",
+      "aliases": []
+    },
+    {
+      "id": "swansea-city",
+      "name": "Swansea City",
+      "aliases": []
+    },
+    {
+      "id": "watford",
+      "name": "Watford",
+      "aliases": []
+    },
+    {
+      "id": "west-bromwich-albion",
+      "name": "West Bromwich Albion",
+      "aliases": []
+    },
+    {
+      "id": "west-ham-united",
+      "name": "West Ham United",
+      "aliases": []
+    },
+    {
+      "id": "wolverhampton-wanderers",
+      "name": "Wolverhampton Wanderers",
+      "aliases": []
+    },
+    {
+      "id": "wrexham",
+      "name": "Wrexham",
+      "aliases": []
+    }
+  ]
+}

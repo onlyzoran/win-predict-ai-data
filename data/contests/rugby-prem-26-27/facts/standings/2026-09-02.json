@@ -1,0 +1,91 @@
+{
+  "kind": "standings",
+  "contestId": "rugby-prem-26-27",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:03Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2027,
+  "rows": [
+    {
+      "participantId": "bath-rugby",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 1,
+      "rank": 1
+    },
+    {
+      "participantId": "bristol-rugby",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 2,
+      "rank": 2
+    },
+    {
+      "participantId": "exeter-chiefs",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 3,
+      "rank": 3
+    },
+    {
+      "participantId": "gloucester-rugby",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "rank": 4
+    },
+    {
+      "participantId": "harlequins",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 5,
+      "rank": 5
+    },
+    {
+      "participantId": "leicester-tigers",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 6,
+      "rank": 6
+    },
+    {
+      "participantId": "newcastle-falcons",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 7,
+      "rank": 7
+    },
+    {
+      "participantId": "northampton-saints",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 8,
+      "rank": 8
+    },
+    {
+      "participantId": "sale-sharks",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 9,
+      "rank": 9
+    },
+    {
+      "participantId": "saracens",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 10,
+      "rank": 10
+    }
+  ]
+}

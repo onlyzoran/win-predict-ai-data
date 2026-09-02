@@ -1,0 +1,761 @@
+{
+  "kind": "standings",
+  "contestId": "tennis-atp-26",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:51:59Z",
+  "provider": "espn",
+  "metric": "rank",
+  "seasonYear": null,
+  "rows": [
+    {
+      "participantId": "jannik-sinner",
+      "rank": 1,
+      "points": 12800.0
+    },
+    {
+      "participantId": "alexander-zverev",
+      "rank": 2,
+      "points": 7790.0
+    },
+    {
+      "participantId": "carlos-alcaraz",
+      "rank": 3,
+      "points": 7160.0
+    },
+    {
+      "participantId": "felix-auger-aliassime",
+      "rank": 4,
+      "points": 4640.0
+    },
+    {
+      "participantId": "novak-djokovic",
+      "rank": 5,
+      "points": 3770.0
+    },
+    {
+      "participantId": "flavio-cobolli",
+      "rank": 6,
+      "points": 3720.0
+    },
+    {
+      "participantId": "alex-de-minaur",
+      "rank": 7,
+      "points": 3650.0
+    },
+    {
+      "participantId": "daniil-medvedev",
+      "rank": 8,
+      "points": 3580.0
+    },
+    {
+      "participantId": "ben-shelton",
+      "rank": 9,
+      "points": 3480.0
+    },
+    {
+      "participantId": "taylor-fritz",
+      "rank": 10,
+      "points": 3475.0
+    },
+    {
+      "participantId": "arthur-fils",
+      "rank": 11,
+      "points": 3140.0
+    },
+    {
+      "participantId": "frances-tiafoe",
+      "rank": 12,
+      "points": 2680.0
+    },
+    {
+      "participantId": "rafael-jodar",
+      "rank": 13,
+      "points": 2671.0
+    },
+    {
+      "participantId": "lorenzo-musetti",
+      "rank": 14,
+      "points": 2605.0
+    },
+    {
+      "participantId": "learner-tien",
+      "rank": 15,
+      "points": 2565.0
+    },
+    {
+      "participantId": "alexander-bublik",
+      "rank": 16,
+      "points": 2525.0
+    },
+    {
+      "participantId": "brandon-nakashima",
+      "rank": 17,
+      "points": 2485.0
+    },
+    {
+      "participantId": "jakub-mensik",
+      "rank": 18,
+      "points": 2445.0
+    },
+    {
+      "participantId": "jiri-lehecka",
+      "rank": 19,
+      "points": 2420.0
+    },
+    {
+      "participantId": "casper-ruud",
+      "rank": 20,
+      "points": 2385.0
+    },
+    {
+      "participantId": "tommy-paul",
+      "rank": 21,
+      "points": 2225.0
+    },
+    {
+      "participantId": "luciano-darderi",
+      "rank": 22,
+      "points": 2175.0
+    },
+    {
+      "participantId": "valentin-vacherot",
+      "rank": 23,
+      "points": 2168.0
+    },
+    {
+      "participantId": "andrey-rublev",
+      "rank": 24,
+      "points": 2080.0
+    },
+    {
+      "participantId": "francisco-cerundolo",
+      "rank": 25,
+      "points": 1980.0
+    },
+    {
+      "participantId": "joao-fonseca",
+      "rank": 26,
+      "points": 1800.0
+    },
+    {
+      "participantId": "alejandro-davidovich-fokina",
+      "rank": 27,
+      "points": 1730.0
+    },
+    {
+      "participantId": "alejandro-tabilo",
+      "rank": 28,
+      "points": 1688.0
+    },
+    {
+      "participantId": "arthur-rinderknech",
+      "rank": 29,
+      "points": 1683.0
+    },
+    {
+      "participantId": "ignacio-buse",
+      "rank": 30,
+      "points": 1550.0
+    },
+    {
+      "participantId": "ugo-humbert",
+      "rank": 31,
+      "points": 1545.0
+    },
+    {
+      "participantId": "tomas-martin-etcheverry",
+      "rank": 32,
+      "points": 1440.0
+    },
+    {
+      "participantId": "arthur-fery",
+      "rank": 33,
+      "points": 1415.0
+    },
+    {
+      "participantId": "alexander-blockx",
+      "rank": 34,
+      "points": 1396.0
+    },
+    {
+      "participantId": "cameron-norrie",
+      "rank": 35,
+      "points": 1365.0
+    },
+    {
+      "participantId": "matteo-arnaldi",
+      "rank": 36,
+      "points": 1349.0
+    },
+    {
+      "participantId": "zizou-bergs",
+      "rank": 37,
+      "points": 1345.0
+    },
+    {
+      "participantId": "raphael-collignon",
+      "rank": 38,
+      "points": 1207.0
+    },
+    {
+      "participantId": "daniel-merida",
+      "rank": 39,
+      "points": 1157.0
+    },
+    {
+      "participantId": "luca-van-assche",
+      "rank": 40,
+      "points": 1140.0
+    },
+    {
+      "participantId": "nuno-borges",
+      "rank": 41,
+      "points": 1135.0
+    },
+    {
+      "participantId": "thiago-agustin-tirante",
+      "rank": 42,
+      "points": 1125.0
+    },
+    {
+      "participantId": "matteo-berrettini",
+      "rank": 43,
+      "points": 1115.0
+    },
+    {
+      "participantId": "jan-lennard-struff",
+      "rank": 44,
+      "points": 1089.0
+    },
+    {
+      "participantId": "juan-manuel-cerundolo",
+      "rank": 45,
+      "points": 1076.0
+    },
+    {
+      "participantId": "alex-michelsen",
+      "rank": 46,
+      "points": 1070.0
+    },
+    {
+      "participantId": "hubert-hurkacz",
+      "rank": 47,
+      "points": 1070.0
+    },
+    {
+      "participantId": "denis-shapovalov",
+      "rank": 48,
+      "points": 1065.0
+    },
+    {
+      "participantId": "mariano-navone",
+      "rank": 49,
+      "points": 1065.0
+    },
+    {
+      "participantId": "karen-khachanov",
+      "rank": 50,
+      "points": 1050.0
+    },
+    {
+      "participantId": "sebastian-baez",
+      "rank": 51,
+      "points": 1044.0
+    },
+    {
+      "participantId": "quentin-halys",
+      "rank": 52,
+      "points": 1030.0
+    },
+    {
+      "participantId": "stefanos-tsitsipas",
+      "rank": 53,
+      "points": 1015.0
+    },
+    {
+      "participantId": "yannick-hanfmann",
+      "rank": 54,
+      "points": 991.0
+    },
+    {
+      "participantId": "jaume-munar",
+      "rank": 55,
+      "points": 990.0
+    },
+    {
+      "participantId": "tallon-griekspoor",
+      "rank": 56,
+      "points": 975.0
+    },
+    {
+      "participantId": "daniel-altmaier",
+      "rank": 57,
+      "points": 964.0
+    },
+    {
+      "participantId": "tomas-machac",
+      "rank": 58,
+      "points": 960.0
+    },
+    {
+      "participantId": "roman-andres-burruchaga",
+      "rank": 59,
+      "points": 960.0
+    },
+    {
+      "participantId": "adolfo-daniel-vallejo",
+      "rank": 60,
+      "points": 954.0
+    },
+    {
+      "participantId": "ethan-quinn",
+      "rank": 61,
+      "points": 949.0
+    },
+    {
+      "participantId": "corentin-moutet",
+      "rank": 62,
+      "points": 935.0
+    },
+    {
+      "participantId": "fabian-marozsan",
+      "rank": 63,
+      "points": 930.0
+    },
+    {
+      "participantId": "miomir-kecmanovic",
+      "rank": 64,
+      "points": 925.0
+    },
+    {
+      "participantId": "martin-landaluce",
+      "rank": 65,
+      "points": 922.0
+    },
+    {
+      "participantId": "pablo-carreno-busta",
+      "rank": 66,
+      "points": 899.0
+    },
+    {
+      "participantId": "adrian-mannarino",
+      "rank": 67,
+      "points": 895.0
+    },
+    {
+      "participantId": "sebastian-korda",
+      "rank": 68,
+      "points": 890.0
+    },
+    {
+      "participantId": "vit-kopriva",
+      "rank": 69,
+      "points": 883.0
+    },
+    {
+      "participantId": "botic-van-de-zandschulp",
+      "rank": 70,
+      "points": 868.0
+    },
+    {
+      "participantId": "james-duckworth",
+      "rank": 71,
+      "points": 853.0
+    },
+    {
+      "participantId": "jaime-faria",
+      "rank": 72,
+      "points": 847.0
+    },
+    {
+      "participantId": "kamil-majchrzak",
+      "rank": 73,
+      "points": 827.0
+    },
+    {
+      "participantId": "jenson-brooksby",
+      "rank": 74,
+      "points": 803.0
+    },
+    {
+      "participantId": "valentin-royer",
+      "rank": 75,
+      "points": 778.0
+    },
+    {
+      "participantId": "jan-choinski",
+      "rank": 76,
+      "points": 773.0
+    },
+    {
+      "participantId": "camilo-ugo-carabelli",
+      "rank": 77,
+      "points": 770.0
+    },
+    {
+      "participantId": "marcos-giron",
+      "rank": 78,
+      "points": 765.0
+    },
+    {
+      "participantId": "hamad-medjedovic",
+      "rank": 79,
+      "points": 764.0
+    },
+    {
+      "participantId": "zachary-svajda",
+      "rank": 80,
+      "points": 759.0
+    },
+    {
+      "participantId": "marin-cilic",
+      "rank": 81,
+      "points": 751.0
+    },
+    {
+      "participantId": "facundo-diaz-acosta",
+      "rank": 82,
+      "points": 732.0
+    },
+    {
+      "participantId": "marco-trungelliti",
+      "rank": 83,
+      "points": 731.0
+    },
+    {
+      "participantId": "aleksandar-kovacevic",
+      "rank": 84,
+      "points": 730.0
+    },
+    {
+      "participantId": "rinky-hijikata",
+      "rank": 85,
+      "points": 724.0
+    },
+    {
+      "participantId": "alex-molcan",
+      "rank": 86,
+      "points": 710.0
+    },
+    {
+      "participantId": "arthur-gea",
+      "rank": 87,
+      "points": 709.0
+    },
+    {
+      "participantId": "sho-shimabukuro",
+      "rank": 88,
+      "points": 705.0
+    },
+    {
+      "participantId": "lorenzo-sonego",
+      "rank": 89,
+      "points": 698.0
+    },
+    {
+      "participantId": "martin-damm",
+      "rank": 90,
+      "points": 697.0
+    },
+    {
+      "participantId": "hugo-gaston",
+      "rank": 91,
+      "points": 697.0
+    },
+    {
+      "participantId": "terence-atmane",
+      "rank": 92,
+      "points": 687.0
+    },
+    {
+      "participantId": "adam-walton",
+      "rank": 93,
+      "points": 670.0
+    },
+    {
+      "participantId": "chak-lam-coleman-wong",
+      "rank": 94,
+      "points": 668.0
+    },
+    {
+      "participantId": "mattia-bellucci",
+      "rank": 95,
+      "points": 659.0
+    },
+    {
+      "participantId": "aleksandar-vukic",
+      "rank": 96,
+      "points": 659.0
+    },
+    {
+      "participantId": "benjamin-bonzi",
+      "rank": 97,
+      "points": 656.0
+    },
+    {
+      "participantId": "aleksandr-shevchenko",
+      "rank": 98,
+      "points": 655.0
+    },
+    {
+      "participantId": "roman-safiullin",
+      "rank": 99,
+      "points": 634.0
+    },
+    {
+      "participantId": "jesper-de-jong",
+      "rank": 100,
+      "points": 628.0
+    },
+    {
+      "participantId": "jacob-fearnley",
+      "rank": 101,
+      "points": 623.0
+    },
+    {
+      "participantId": "dino-prizmic",
+      "rank": 102,
+      "points": 618.0
+    },
+    {
+      "participantId": "titouan-droguet",
+      "rank": 103,
+      "points": 616.0
+    },
+    {
+      "participantId": "damir-dzumhur",
+      "rank": 104,
+      "points": 612.0
+    },
+    {
+      "participantId": "giovanni-mpetshi-perricard",
+      "rank": 105,
+      "points": 600.0
+    },
+    {
+      "participantId": "christopher-oconnell",
+      "rank": 106,
+      "points": 598.0
+    },
+    {
+      "participantId": "michael-zheng",
+      "rank": 107,
+      "points": 590.0
+    },
+    {
+      "participantId": "kyrian-jacquet",
+      "rank": 108,
+      "points": 581.0
+    },
+    {
+      "participantId": "otto-virtanen",
+      "rank": 109,
+      "points": 574.0
+    },
+    {
+      "participantId": "toby-samuel",
+      "rank": 110,
+      "points": 567.0
+    },
+    {
+      "participantId": "emilio-nava",
+      "rank": 111,
+      "points": 561.0
+    },
+    {
+      "participantId": "eliot-spizzirri",
+      "rank": 112,
+      "points": 557.0
+    },
+    {
+      "participantId": "wu-yibing",
+      "rank": 113,
+      "points": 551.0
+    },
+    {
+      "participantId": "gabriel-diallo",
+      "rank": 114,
+      "points": 550.0
+    },
+    {
+      "participantId": "nicolas-mejia",
+      "rank": 115,
+      "points": 548.0
+    },
+    {
+      "participantId": "patrick-kypson",
+      "rank": 116,
+      "points": 540.0
+    },
+    {
+      "participantId": "shintaro-mochizuki",
+      "rank": 117,
+      "points": 532.0
+    },
+    {
+      "participantId": "zsombor-piros",
+      "rank": 118,
+      "points": 530.0
+    },
+    {
+      "participantId": "francisco-comesana",
+      "rank": 119,
+      "points": 516.0
+    },
+    {
+      "participantId": "henrique-rocha",
+      "rank": 120,
+      "points": 513.0
+    },
+    {
+      "participantId": "vilius-gaubas",
+      "rank": 121,
+      "points": 511.0
+    },
+    {
+      "participantId": "marton-fucsovics",
+      "rank": 122,
+      "points": 510.0
+    },
+    {
+      "participantId": "dane-sweeny",
+      "rank": 123,
+      "points": 506.0
+    },
+    {
+      "participantId": "bu-yunchaokete",
+      "rank": 124,
+      "points": 496.0
+    },
+    {
+      "participantId": "sebastian-ofner",
+      "rank": 125,
+      "points": 495.0
+    },
+    {
+      "participantId": "pablo-llamas-ruiz",
+      "rank": 126,
+      "points": 491.0
+    },
+    {
+      "participantId": "stan-wawrinka",
+      "rank": 127,
+      "points": 486.0
+    },
+    {
+      "participantId": "gustavo-heide",
+      "rank": 128,
+      "points": 474.0
+    },
+    {
+      "participantId": "andrea-pellegrino",
+      "rank": 129,
+      "points": 462.0
+    },
+    {
+      "participantId": "alexei-popyrin",
+      "rank": 130,
+      "points": 458.0
+    },
+    {
+      "participantId": "leandro-riedi",
+      "rank": 131,
+      "points": 457.0
+    },
+    {
+      "participantId": "nikoloz-basilashvili",
+      "rank": 132,
+      "points": 456.0
+    },
+    {
+      "participantId": "holger-rune",
+      "rank": 133,
+      "points": 450.0
+    },
+    {
+      "participantId": "dalibor-svrcina",
+      "rank": 134,
+      "points": 445.0
+    },
+    {
+      "participantId": "cristian-garin",
+      "rank": 135,
+      "points": 438.0
+    },
+    {
+      "participantId": "stefanos-sakellaridis",
+      "rank": 136,
+      "points": 435.0
+    },
+    {
+      "participantId": "grigor-dimitrov",
+      "rank": 137,
+      "points": 432.0
+    },
+    {
+      "participantId": "alexandre-muller",
+      "rank": 138,
+      "points": 430.0
+    },
+    {
+      "participantId": "lloyd-harris",
+      "rank": 139,
+      "points": 428.0
+    },
+    {
+      "participantId": "hugo-dellien",
+      "rank": 140,
+      "points": 422.0
+    },
+    {
+      "participantId": "jack-draper",
+      "rank": 141,
+      "points": 410.0
+    },
+    {
+      "participantId": "arthur-cazaux",
+      "rank": 142,
+      "points": 396.0
+    },
+    {
+      "participantId": "jurij-rodionov",
+      "rank": 143,
+      "points": 395.0
+    },
+    {
+      "participantId": "tomas-barrios-vera",
+      "rank": 144,
+      "points": 395.0
+    },
+    {
+      "participantId": "tom-gentzsch",
+      "rank": 145,
+      "points": 393.0
+    },
+    {
+      "participantId": "mackenzie-mcdonald",
+      "rank": 146,
+      "points": 390.0
+    },
+    {
+      "participantId": "stefano-travaglia",
+      "rank": 147,
+      "points": 388.0
+    },
+    {
+      "participantId": "pedro-martinez",
+      "rank": 148,
+      "points": 387.0
+    },
+    {
+      "participantId": "nicolai-budkov-kjaer",
+      "rank": 149,
+      "points": 379.0
+    },
+    {
+      "participantId": "soonwoo-kwon",
+      "rank": 150,
+      "points": 379.0
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "contestId": "libertadores-26",
+  "participants": [
+    {
+      "id": "always-ready",
+      "name": "Always Ready",
+      "aliases": []
+    },
+    {
+      "id": "atlético-junior",
+      "name": "Atlético Junior",
+      "aliases": []
+    },
+    {
+      "id": "barcelona-sc",
+      "name": "Barcelona SC",
+      "aliases": []
+    },
+    {
+      "id": "boca-juniors",
+      "name": "Boca Juniors",
+      "aliases": []
+    },
+    {
+      "id": "bolívar",
+      "name": "Bolívar",
+      "aliases": []
+    },
+    {
+      "id": "cerro-porteño",
+      "name": "Cerro Porteño",
+      "aliases": []
+    },
+    {
+      "id": "coquimbo-unido",
+      "name": "Coquimbo Unido",
+      "aliases": []
+    },
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "aliases": []
+    },
+    {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "aliases": []
+    },
+    {
+      "id": "cusco-fc",
+      "name": "Cusco FC",
+      "aliases": []
+    },
+    {
+      "id": "deportes-tolima",
+      "name": "Deportes Tolima",
+      "aliases": []
+    },
+    {
+      "id": "deportivo-la-guaira",
+      "name": "Deportivo La Guaira",
+      "aliases": []
+    },
+    {
+      "id": "estudiantes-de-la-plata",
+      "name": "Estudiantes de La Plata",
+      "aliases": []
+    },
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "aliases": []
+    },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "aliases": []
+    },
+    {
+      "id": "independiente-del-valle",
+      "name": "Independiente del Valle",
+      "aliases": []
+    },
+    {
+      "id": "independiente-medellín",
+      "name": "Independiente Medellín",
+      "aliases": []
+    },
+    {
+      "id": "independiente-rivadavia",
+      "name": "Independiente Rivadavia",
+      "aliases": []
+    },
+    {
+      "id": "independiente-santa-fe",
+      "name": "Independiente Santa Fe",
+      "aliases": []
+    },
+    {
+      "id": "lanús",
+      "name": "Lanús",
+      "aliases": []
+    },
+    {
+      "id": "libertad",
+      "name": "Libertad",
+      "aliases": []
+    },
+    {
+      "id": "liga-de-quito",
+      "name": "Liga de Quito",
+      "aliases": []
+    },
+    {
+      "id": "mirassol",
+      "name": "Mirassol",
+      "aliases": []
+    },
+    {
+      "id": "nacional",
+      "name": "Nacional",
+      "aliases": []
+    },
+    {
+      "id": "palmeiras",
+      "name": "Palmeiras",
+      "aliases": []
+    },
+    {
+      "id": "peñarol",
+      "name": "Peñarol",
+      "aliases": []
+    },
+    {
+      "id": "platense",
+      "name": "Platense",
+      "aliases": []
+    },
+    {
+      "id": "rosario-central",
+      "name": "Rosario Central",
+      "aliases": []
+    },
+    {
+      "id": "sporting-cristal",
+      "name": "Sporting Cristal",
+      "aliases": []
+    },
+    {
+      "id": "ucv-fc",
+      "name": "UCV FC",
+      "aliases": []
+    },
+    {
+      "id": "universidad-católica",
+      "name": "Universidad Católica",
+      "aliases": []
+    },
+    {
+      "id": "universitario",
+      "name": "Universitario",
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contestId": "eredivisie-26-27",
+  "participants": [
+    {
+      "id": "ado-den-haag",
+      "name": "ADO Den Haag",
+      "aliases": []
+    },
+    {
+      "id": "ajax-amsterdam",
+      "name": "Ajax Amsterdam",
+      "aliases": []
+    },
+    {
+      "id": "az-alkmaar",
+      "name": "AZ Alkmaar",
+      "aliases": []
+    },
+    {
+      "id": "excelsior",
+      "name": "Excelsior",
+      "aliases": []
+    },
+    {
+      "id": "fc-groningen",
+      "name": "FC Groningen",
+      "aliases": []
+    },
+    {
+      "id": "fc-twente",
+      "name": "FC Twente",
+      "aliases": []
+    },
+    {
+      "id": "fc-utrecht",
+      "name": "FC Utrecht",
+      "aliases": []
+    },
+    {
+      "id": "feyenoord-rotterdam",
+      "name": "Feyenoord Rotterdam",
+      "aliases": []
+    },
+    {
+      "id": "fortuna-sittard",
+      "name": "Fortuna Sittard",
+      "aliases": []
+    },
+    {
+      "id": "go-ahead-eagles",
+      "name": "Go Ahead Eagles",
+      "aliases": []
+    },
+    {
+      "id": "heerenveen",
+      "name": "Heerenveen",
+      "aliases": []
+    },
+    {
+      "id": "nec-nijmegen",
+      "name": "NEC Nijmegen",
+      "aliases": []
+    },
+    {
+      "id": "pec-zwolle",
+      "name": "PEC Zwolle",
+      "aliases": []
+    },
+    {
+      "id": "psv-eindhoven",
+      "name": "PSV Eindhoven",
+      "aliases": []
+    },
+    {
+      "id": "sc-cambuur",
+      "name": "SC Cambuur",
+      "aliases": []
+    },
+    {
+      "id": "sparta-rotterdam",
+      "name": "Sparta Rotterdam",
+      "aliases": []
+    },
+    {
+      "id": "telstar",
+      "name": "Telstar",
+      "aliases": []
+    },
+    {
+      "id": "willem-ii",
+      "name": "Willem II",
+      "aliases": []
+    }
+  ]
+}

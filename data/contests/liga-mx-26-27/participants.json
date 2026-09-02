@@ -1,0 +1,95 @@
+{
+  "contestId": "liga-mx-26-27",
+  "participants": [
+    {
+      "id": "américa",
+      "name": "América",
+      "aliases": []
+    },
+    {
+      "id": "atlante",
+      "name": "Atlante",
+      "aliases": []
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "aliases": []
+    },
+    {
+      "id": "atlético-de-san-luis",
+      "name": "Atlético de San Luis",
+      "aliases": []
+    },
+    {
+      "id": "cruz-azul",
+      "name": "Cruz Azul",
+      "aliases": []
+    },
+    {
+      "id": "fc-juarez",
+      "name": "FC Juarez",
+      "aliases": []
+    },
+    {
+      "id": "guadalajara",
+      "name": "Guadalajara",
+      "aliases": []
+    },
+    {
+      "id": "león",
+      "name": "León",
+      "aliases": []
+    },
+    {
+      "id": "monterrey",
+      "name": "Monterrey",
+      "aliases": []
+    },
+    {
+      "id": "necaxa",
+      "name": "Necaxa",
+      "aliases": []
+    },
+    {
+      "id": "pachuca",
+      "name": "Pachuca",
+      "aliases": []
+    },
+    {
+      "id": "puebla",
+      "name": "Puebla",
+      "aliases": []
+    },
+    {
+      "id": "pumas-unam",
+      "name": "Pumas UNAM",
+      "aliases": []
+    },
+    {
+      "id": "querétaro",
+      "name": "Querétaro",
+      "aliases": []
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "aliases": []
+    },
+    {
+      "id": "tigres-uanl",
+      "name": "Tigres UANL",
+      "aliases": []
+    },
+    {
+      "id": "tijuana",
+      "name": "Tijuana",
+      "aliases": []
+    },
+    {
+      "id": "toluca",
+      "name": "Toluca",
+      "aliases": []
+    }
+  ]
+}

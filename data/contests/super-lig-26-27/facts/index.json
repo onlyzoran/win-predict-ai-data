@@ -1,0 +1,24 @@
+{
+  "contestId": "super-lig-26-27",
+  "kind": "facts",
+  "factKind": "standings",
+  "grain": "matchday",
+  "count": 1,
+  "first": "2026-09-02",
+  "last": "2026-09-02",
+  "latestTour": 3,
+  "tours": [
+    {
+      "tour": 3,
+      "status": "final",
+      "slices": [
+        "2026-09-02"
+      ],
+      "latestDate": "2026-09-02",
+      "latestFile": "standings/tour-03/latest.json"
+    }
+  ],
+  "days": [
+    "2026-09-02"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "contestId": "college-baseball-26",
+  "kind": "facts",
+  "factKind": "standings",
+  "grain": "day",
+  "count": 1,
+  "first": "2026-09-02",
+  "last": "2026-09-02",
+  "days": [
+    "2026-09-02"
+  ]
+}

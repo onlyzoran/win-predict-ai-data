@@ -1,0 +1,65 @@
+{
+  "contestId": "scottish-prem-26-27",
+  "participants": [
+    {
+      "id": "aberdeen",
+      "name": "Aberdeen",
+      "aliases": []
+    },
+    {
+      "id": "celtic",
+      "name": "Celtic",
+      "aliases": []
+    },
+    {
+      "id": "dundee",
+      "name": "Dundee",
+      "aliases": []
+    },
+    {
+      "id": "dundee-united",
+      "name": "Dundee United",
+      "aliases": []
+    },
+    {
+      "id": "falkirk",
+      "name": "Falkirk",
+      "aliases": []
+    },
+    {
+      "id": "heart-of-midlothian",
+      "name": "Heart of Midlothian",
+      "aliases": []
+    },
+    {
+      "id": "hibernian",
+      "name": "Hibernian",
+      "aliases": []
+    },
+    {
+      "id": "kilmarnock",
+      "name": "Kilmarnock",
+      "aliases": []
+    },
+    {
+      "id": "motherwell",
+      "name": "Motherwell",
+      "aliases": []
+    },
+    {
+      "id": "rangers",
+      "name": "Rangers",
+      "aliases": []
+    },
+    {
+      "id": "st-johnstone",
+      "name": "St Johnstone",
+      "aliases": []
+    },
+    {
+      "id": "st-mirren",
+      "name": "St Mirren",
+      "aliases": []
+    }
+  ]
+}

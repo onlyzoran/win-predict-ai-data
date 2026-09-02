@@ -1,0 +1,19 @@
+{
+  "id": "world-cup-26",
+  "title": "World Cup",
+  "fullTitle": "FIFA World Cup",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-06-11",
+    "end": "2026-07-19"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

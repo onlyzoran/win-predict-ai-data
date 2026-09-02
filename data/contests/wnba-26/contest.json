@@ -1,0 +1,19 @@
+{
+  "id": "wnba-26",
+  "title": "WNBA",
+  "fullTitle": "Women's National Basketball Association",
+  "category": "sport",
+  "sport": "basketball",
+  "target": "champion",
+  "season": {
+    "start": "2026-05-15",
+    "end": "2026-10-18"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "wins",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

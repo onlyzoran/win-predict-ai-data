@@ -1,0 +1,85 @@
+{
+  "contestId": "nwsl-26",
+  "participants": [
+    {
+      "id": "angel-city-fc",
+      "name": "Angel City FC",
+      "aliases": []
+    },
+    {
+      "id": "bay-fc",
+      "name": "Bay FC",
+      "aliases": []
+    },
+    {
+      "id": "boston-legacy-fc",
+      "name": "Boston Legacy FC",
+      "aliases": []
+    },
+    {
+      "id": "chicago-stars-fc",
+      "name": "Chicago Stars FC",
+      "aliases": []
+    },
+    {
+      "id": "denver-summit-fc",
+      "name": "Denver Summit FC",
+      "aliases": []
+    },
+    {
+      "id": "gotham-fc",
+      "name": "Gotham FC",
+      "aliases": []
+    },
+    {
+      "id": "houston-dash",
+      "name": "Houston Dash",
+      "aliases": []
+    },
+    {
+      "id": "kansas-city-current",
+      "name": "Kansas City Current",
+      "aliases": []
+    },
+    {
+      "id": "north-carolina-courage",
+      "name": "North Carolina Courage",
+      "aliases": []
+    },
+    {
+      "id": "orlando-pride",
+      "name": "Orlando Pride",
+      "aliases": []
+    },
+    {
+      "id": "portland-thorns-fc",
+      "name": "Portland Thorns FC",
+      "aliases": []
+    },
+    {
+      "id": "racing-louisville-fc",
+      "name": "Racing Louisville FC",
+      "aliases": []
+    },
+    {
+      "id": "san-diego-wave-fc",
+      "name": "San Diego Wave FC",
+      "aliases": []
+    },
+    {
+      "id": "seattle-reign-fc",
+      "name": "Seattle Reign FC",
+      "aliases": []
+    },
+    {
+      "id": "utah-royals",
+      "name": "Utah Royals",
+      "aliases": []
+    },
+    {
+      "id": "washington-spirit",
+      "name": "Washington Spirit",
+      "aliases": []
+    }
+  ]
+}

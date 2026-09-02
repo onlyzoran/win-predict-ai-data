@@ -1,0 +1,19 @@
+{
+  "id": "brasileirao-26",
+  "title": "Brasileirão",
+  "fullTitle": "Campeonato Brasileiro Série A",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-04-12",
+    "end": "2026-12-06"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "matchday"
+}

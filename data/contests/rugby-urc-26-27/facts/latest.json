@@ -1,0 +1,139 @@
+{
+  "kind": "standings",
+  "contestId": "rugby-urc-26-27",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:03Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2027,
+  "rows": [
+    {
+      "participantId": "benetton-treviso",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 1,
+      "rank": 1
+    },
+    {
+      "participantId": "bulls",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 2,
+      "rank": 2
+    },
+    {
+      "participantId": "cardiff-blues",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 3,
+      "rank": 3
+    },
+    {
+      "participantId": "connacht",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 4,
+      "rank": 4
+    },
+    {
+      "participantId": "dragons",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 5,
+      "rank": 5
+    },
+    {
+      "participantId": "edinburgh",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 6,
+      "rank": 6
+    },
+    {
+      "participantId": "glasgow-warriors",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 7,
+      "rank": 7
+    },
+    {
+      "participantId": "leinster",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 8,
+      "rank": 8
+    },
+    {
+      "participantId": "lions",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 9,
+      "rank": 9
+    },
+    {
+      "participantId": "munster",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 10,
+      "rank": 10
+    },
+    {
+      "participantId": "ospreys",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 11,
+      "rank": 11
+    },
+    {
+      "participantId": "scarlets",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 12,
+      "rank": 12
+    },
+    {
+      "participantId": "sharks",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 13,
+      "rank": 13
+    },
+    {
+      "participantId": "stormers",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 14,
+      "rank": 14
+    },
+    {
+      "participantId": "ulster",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 15,
+      "rank": 15
+    },
+    {
+      "participantId": "zebre",
+      "goalDifference": 0,
+      "points": 0,
+      "winPercent": 0.0,
+      "playoffSeed": 16,
+      "rank": 16
+    }
+  ]
+}

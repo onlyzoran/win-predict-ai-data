@@ -1,0 +1,80 @@
+{
+  "contestId": "wnba-26",
+  "participants": [
+    {
+      "id": "atlanta-dream",
+      "name": "Atlanta Dream",
+      "aliases": []
+    },
+    {
+      "id": "chicago-sky",
+      "name": "Chicago Sky",
+      "aliases": []
+    },
+    {
+      "id": "connecticut-sun",
+      "name": "Connecticut Sun",
+      "aliases": []
+    },
+    {
+      "id": "dallas-wings",
+      "name": "Dallas Wings",
+      "aliases": []
+    },
+    {
+      "id": "golden-state-valkyries",
+      "name": "Golden State Valkyries",
+      "aliases": []
+    },
+    {
+      "id": "indiana-fever",
+      "name": "Indiana Fever",
+      "aliases": []
+    },
+    {
+      "id": "las-vegas-aces",
+      "name": "Las Vegas Aces",
+      "aliases": []
+    },
+    {
+      "id": "los-angeles-sparks",
+      "name": "Los Angeles Sparks",
+      "aliases": []
+    },
+    {
+      "id": "minnesota-lynx",
+      "name": "Minnesota Lynx",
+      "aliases": []
+    },
+    {
+      "id": "new-york-liberty",
+      "name": "New York Liberty",
+      "aliases": []
+    },
+    {
+      "id": "phoenix-mercury",
+      "name": "Phoenix Mercury",
+      "aliases": []
+    },
+    {
+      "id": "portland-fire",
+      "name": "Portland Fire",
+      "aliases": []
+    },
+    {
+      "id": "seattle-storm",
+      "name": "Seattle Storm",
+      "aliases": []
+    },
+    {
+      "id": "toronto-tempo",
+      "name": "Toronto Tempo",
+      "aliases": []
+    },
+    {
+      "id": "washington-mystics",
+      "name": "Washington Mystics",
+      "aliases": []
+    }
+  ]
+}

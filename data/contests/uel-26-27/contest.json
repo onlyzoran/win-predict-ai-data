@@ -1,0 +1,19 @@
+{
+  "id": "uel-26-27",
+  "title": "UEL",
+  "fullTitle": "UEFA Europa League",
+  "category": "sport",
+  "sport": "football",
+  "target": "champion",
+  "season": {
+    "start": "2026-09-25",
+    "end": "2027-05-20"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

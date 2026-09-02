@@ -1,0 +1,24 @@
+{
+  "contestId": "brasileirao-26",
+  "kind": "facts",
+  "factKind": "standings",
+  "grain": "matchday",
+  "count": 1,
+  "first": "2026-09-02",
+  "last": "2026-09-02",
+  "latestTour": 25,
+  "tours": [
+    {
+      "tour": 25,
+      "status": "in_progress",
+      "slices": [
+        "2026-09-02"
+      ],
+      "latestDate": "2026-09-02",
+      "latestFile": "standings/tour-25/latest.json"
+    }
+  ],
+  "days": [
+    "2026-09-02"
+  ]
+}

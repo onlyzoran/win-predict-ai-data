@@ -1,0 +1,24 @@
+{
+  "contestId": "eredivisie-26-27",
+  "kind": "facts",
+  "factKind": "standings",
+  "grain": "matchday",
+  "count": 1,
+  "first": "2026-09-02",
+  "last": "2026-09-02",
+  "latestTour": 4,
+  "tours": [
+    {
+      "tour": 4,
+      "status": "in_progress",
+      "slices": [
+        "2026-09-02"
+      ],
+      "latestDate": "2026-09-02",
+      "latestFile": "standings/tour-04/latest.json"
+    }
+  ],
+  "days": [
+    "2026-09-02"
+  ]
+}

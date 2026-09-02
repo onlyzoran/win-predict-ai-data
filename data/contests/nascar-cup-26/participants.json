@@ -1,0 +1,210 @@
+{
+  "contestId": "nascar-cup-26",
+  "participants": [
+    {
+      "id": "aj-allmendinger",
+      "name": "AJ Allmendinger",
+      "aliases": []
+    },
+    {
+      "id": "alex-bowman",
+      "name": "Alex Bowman",
+      "aliases": []
+    },
+    {
+      "id": "austin-cindric",
+      "name": "Austin Cindric",
+      "aliases": []
+    },
+    {
+      "id": "austin-dillon",
+      "name": "Austin Dillon",
+      "aliases": []
+    },
+    {
+      "id": "bj-mcleod",
+      "name": "B.J. McLeod",
+      "aliases": []
+    },
+    {
+      "id": "brad-keselowski",
+      "name": "Brad Keselowski",
+      "aliases": []
+    },
+    {
+      "id": "bubba-wallace",
+      "name": "Bubba Wallace",
+      "aliases": []
+    },
+    {
+      "id": "carson-hocevar",
+      "name": "Carson Hocevar",
+      "aliases": []
+    },
+    {
+      "id": "casey-mears",
+      "name": "Casey Mears",
+      "aliases": []
+    },
+    {
+      "id": "chase-briscoe",
+      "name": "Chase Briscoe",
+      "aliases": []
+    },
+    {
+      "id": "chase-elliott",
+      "name": "Chase Elliott",
+      "aliases": []
+    },
+    {
+      "id": "chris-buescher",
+      "name": "Chris Buescher",
+      "aliases": []
+    },
+    {
+      "id": "christopher-bell",
+      "name": "Christopher Bell",
+      "aliases": []
+    },
+    {
+      "id": "cody-ware",
+      "name": "Cody Ware",
+      "aliases": []
+    },
+    {
+      "id": "cole-custer",
+      "name": "Cole Custer",
+      "aliases": []
+    },
+    {
+      "id": "connor-zilisch",
+      "name": "Connor Zilisch",
+      "aliases": []
+    },
+    {
+      "id": "daniel-suarez",
+      "name": "Daniel Suarez",
+      "aliases": []
+    },
+    {
+      "id": "denny-hamlin",
+      "name": "Denny Hamlin",
+      "aliases": []
+    },
+    {
+      "id": "erik-jones",
+      "name": "Erik Jones",
+      "aliases": []
+    },
+    {
+      "id": "harrison-burton",
+      "name": "Harrison Burton",
+      "aliases": []
+    },
+    {
+      "id": "jimmie-johnson",
+      "name": "Jimmie Johnson",
+      "aliases": []
+    },
+    {
+      "id": "joey-logano",
+      "name": "Joey Logano",
+      "aliases": []
+    },
+    {
+      "id": "john-hunter-nemechek",
+      "name": "John Hunter Nemechek",
+      "aliases": []
+    },
+    {
+      "id": "josh-berry",
+      "name": "Josh Berry",
+      "aliases": []
+    },
+    {
+      "id": "katherine-legge",
+      "name": "Katherine Legge",
+      "aliases": []
+    },
+    {
+      "id": "kevin-magnussen",
+      "name": "Kevin Magnussen",
+      "aliases": []
+    },
+    {
+      "id": "kyle-larson",
+      "name": "Kyle Larson",
+      "aliases": []
+    },
+    {
+      "id": "michael-mcdowell",
+      "name": "Michael McDowell",
+      "aliases": []
+    },
+    {
+      "id": "noah-gragson",
+      "name": "Noah Gragson",
+      "aliases": []
+    },
+    {
+      "id": "ricky-stenhouse-jr",
+      "name": "Ricky Stenhouse Jr.",
+      "aliases": []
+    },
+    {
+      "id": "riley-herbst",
+      "name": "Riley Herbst",
+      "aliases": []
+    },
+    {
+      "id": "ross-chastain",
+      "name": "Ross Chastain",
+      "aliases": []
+    },
+    {
+      "id": "ryan-blaney",
+      "name": "Ryan Blaney",
+      "aliases": []
+    },
+    {
+      "id": "ryan-preece",
+      "name": "Ryan Preece",
+      "aliases": []
+    },
+    {
+      "id": "shane-van-gisbergen",
+      "name": "Shane van Gisbergen",
+      "aliases": []
+    },
+    {
+      "id": "todd-gilliland",
+      "name": "Todd Gilliland",
+      "aliases": []
+    },
+    {
+      "id": "ty-dillon",
+      "name": "Ty Dillon",
+      "aliases": []
+    },
+    {
+      "id": "ty-gibbs",
+      "name": "Ty Gibbs",
+      "aliases": []
+    },
+    {
+      "id": "tyler-reddick",
+      "name": "Tyler Reddick",
+      "aliases": []
+    },
+    {
+      "id": "william-byron",
+      "name": "William Byron",
+      "aliases": []
+    },
+    {
+      "id": "zane-smith",
+      "name": "Zane Smith",
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "contestId": "uecl-26-27",
+  "participants": [
+    {
+      "id": "agf",
+      "name": "AGF",
+      "aliases": []
+    },
+    {
+      "id": "ajax-amsterdam",
+      "name": "Ajax Amsterdam",
+      "aliases": []
+    },
+    {
+      "id": "as-monaco",
+      "name": "AS Monaco",
+      "aliases": []
+    },
+    {
+      "id": "atalanta",
+      "name": "Atalanta",
+      "aliases": []
+    },
+    {
+      "id": "borac-banja-luka",
+      "name": "Borac Banja Luka",
+      "aliases": []
+    },
+    {
+      "id": "braga",
+      "name": "Braga",
+      "aliases": []
+    },
+    {
+      "id": "brighton-and-hove-albion",
+      "name": "Brighton & Hove Albion",
+      "aliases": []
+    },
+    {
+      "id": "cska-sofia",
+      "name": "CSKA Sofia",
+      "aliases": []
+    },
+    {
+      "id": "csu-craiova",
+      "name": "CSU Craiova",
+      "aliases": []
+    },
+    {
+      "id": "egnatia",
+      "name": "Egnatia",
+      "aliases": []
+    },
+    {
+      "id": "fc-københavn",
+      "name": "F.C. København",
+      "aliases": []
+    },
+    {
+      "id": "fc-lugano",
+      "name": "FC Lugano",
+      "aliases": []
+    },
+    {
+      "id": "fc-midtjylland",
+      "name": "FC Midtjylland",
+      "aliases": []
+    },
+    {
+      "id": "fc-nordsjælland",
+      "name": "FC Nordsjælland",
+      "aliases": []
+    },
+    {
+      "id": "fc-thun",
+      "name": "FC Thun",
+      "aliases": []
+    },
+    {
+      "id": "fc-twente",
+      "name": "FC Twente",
+      "aliases": []
+    },
+    {
+      "id": "getafe",
+      "name": "Getafe",
+      "aliases": []
+    },
+    {
+      "id": "hajduk-split",
+      "name": "Hajduk Split",
+      "aliases": []
+    },
+    {
+      "id": "heart-of-midlothian",
+      "name": "Heart of Midlothian",
+      "aliases": []
+    },
+    {
+      "id": "iberia-1999",
+      "name": "Iberia 1999",
+      "aliases": []
+    },
+    {
+      "id": "inter-descaldes",
+      "name": "Inter D'Escaldes",
+      "aliases": []
+    },
+    {
+      "id": "jablonec",
+      "name": "Jablonec",
+      "aliases": []
+    },
+    {
+      "id": "kaa-gent",
+      "name": "KAA Gent",
+      "aliases": []
+    },
+    {
+      "id": "kairat-almaty",
+      "name": "Kairat Almaty",
+      "aliases": []
+    },
+    {
+      "id": "kauno-zalgiris",
+      "name": "Kauno Zalgiris",
+      "aliases": []
+    },
+    {
+      "id": "kups-kuopio",
+      "name": "KuPS Kuopio",
+      "aliases": []
+    },
+    {
+      "id": "lincoln-red-imps",
+      "name": "Lincoln Red Imps",
+      "aliases": []
+    },
+    {
+      "id": "mjällby-aif",
+      "name": "Mjällby AIF",
+      "aliases": []
+    },
+    {
+      "id": "pafos",
+      "name": "Pafos",
+      "aliases": []
+    },
+    {
+      "id": "panathinaikos",
+      "name": "Panathinaikos",
+      "aliases": []
+    },
+    {
+      "id": "red-star-belgrade",
+      "name": "Red Star Belgrade",
+      "aliases": []
+    },
+    {
+      "id": "riga-fc",
+      "name": "Riga FC",
+      "aliases": []
+    },
+    {
+      "id": "sc-freiburg",
+      "name": "SC Freiburg",
+      "aliases": []
+    },
+    {
+      "id": "sint-truidense",
+      "name": "Sint-Truidense",
+      "aliases": []
+    },
+    {
+      "id": "sk-brann",
+      "name": "SK Brann",
+      "aliases": []
+    },
+    {
+      "id": "trabzonspor",
+      "name": "Trabzonspor",
+      "aliases": []
+    }
+  ]
+}

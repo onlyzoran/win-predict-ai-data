@@ -1,0 +1,14 @@
+{
+  "id": "tennis-french-open-27",
+  "title": "French Open",
+  "fullTitle": "French Open",
+  "category": "sport",
+  "sport": "tennis",
+  "target": "champion",
+  "season": {
+    "start": "2027-05-24",
+    "end": "2027-06-06"
+  },
+  "hasFacts": false,
+  "predictionTarget": "win_probability"
+}

@@ -1,0 +1,245 @@
+{
+  "contestId": "world-cup-26",
+  "participants": [
+    {
+      "id": "algeria",
+      "name": "Algeria",
+      "aliases": []
+    },
+    {
+      "id": "argentina",
+      "name": "Argentina",
+      "aliases": []
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "aliases": []
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "aliases": []
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "aliases": []
+    },
+    {
+      "id": "bosnia-herzegovina",
+      "name": "Bosnia-Herzegovina",
+      "aliases": []
+    },
+    {
+      "id": "brazil",
+      "name": "Brazil",
+      "aliases": []
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "aliases": []
+    },
+    {
+      "id": "cape-verde",
+      "name": "Cape Verde",
+      "aliases": []
+    },
+    {
+      "id": "colombia",
+      "name": "Colombia",
+      "aliases": []
+    },
+    {
+      "id": "congo-dr",
+      "name": "Congo DR",
+      "aliases": []
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "aliases": []
+    },
+    {
+      "id": "curaçao",
+      "name": "Curaçao",
+      "aliases": []
+    },
+    {
+      "id": "czechia",
+      "name": "Czechia",
+      "aliases": []
+    },
+    {
+      "id": "ecuador",
+      "name": "Ecuador",
+      "aliases": []
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt",
+      "aliases": []
+    },
+    {
+      "id": "england",
+      "name": "England",
+      "aliases": []
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "aliases": []
+    },
+    {
+      "id": "germany",
+      "name": "Germany",
+      "aliases": []
+    },
+    {
+      "id": "ghana",
+      "name": "Ghana",
+      "aliases": []
+    },
+    {
+      "id": "haiti",
+      "name": "Haiti",
+      "aliases": []
+    },
+    {
+      "id": "iran",
+      "name": "Iran",
+      "aliases": []
+    },
+    {
+      "id": "iraq",
+      "name": "Iraq",
+      "aliases": []
+    },
+    {
+      "id": "ivory-coast",
+      "name": "Ivory Coast",
+      "aliases": []
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "aliases": []
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan",
+      "aliases": []
+    },
+    {
+      "id": "mexico",
+      "name": "Mexico",
+      "aliases": []
+    },
+    {
+      "id": "morocco",
+      "name": "Morocco",
+      "aliases": []
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "aliases": []
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "aliases": []
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "aliases": []
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "aliases": []
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay",
+      "aliases": []
+    },
+    {
+      "id": "portugal",
+      "name": "Portugal",
+      "aliases": []
+    },
+    {
+      "id": "qatar",
+      "name": "Qatar",
+      "aliases": []
+    },
+    {
+      "id": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "aliases": []
+    },
+    {
+      "id": "scotland",
+      "name": "Scotland",
+      "aliases": []
+    },
+    {
+      "id": "senegal",
+      "name": "Senegal",
+      "aliases": []
+    },
+    {
+      "id": "south-africa",
+      "name": "South Africa",
+      "aliases": []
+    },
+    {
+      "id": "south-korea",
+      "name": "South Korea",
+      "aliases": []
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "aliases": []
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "aliases": []
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "aliases": []
+    },
+    {
+      "id": "tunisia",
+      "name": "Tunisia",
+      "aliases": []
+    },
+    {
+      "id": "türkiye",
+      "name": "Türkiye",
+      "aliases": []
+    },
+    {
+      "id": "united-states",
+      "name": "United States",
+      "aliases": []
+    },
+    {
+      "id": "uruguay",
+      "name": "Uruguay",
+      "aliases": []
+    },
+    {
+      "id": "uzbekistan",
+      "name": "Uzbekistan",
+      "aliases": []
+    }
+  ]
+}

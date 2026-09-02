@@ -1,0 +1,105 @@
+{
+  "contestId": "brasileirao-26",
+  "participants": [
+    {
+      "id": "athletico-paranaense",
+      "name": "Athletico Paranaense",
+      "aliases": []
+    },
+    {
+      "id": "atlético-mg",
+      "name": "Atlético-MG",
+      "aliases": []
+    },
+    {
+      "id": "bahia",
+      "name": "Bahia",
+      "aliases": []
+    },
+    {
+      "id": "botafogo",
+      "name": "Botafogo",
+      "aliases": []
+    },
+    {
+      "id": "chapecoense",
+      "name": "Chapecoense",
+      "aliases": []
+    },
+    {
+      "id": "corinthians",
+      "name": "Corinthians",
+      "aliases": []
+    },
+    {
+      "id": "coritiba",
+      "name": "Coritiba",
+      "aliases": []
+    },
+    {
+      "id": "cruzeiro",
+      "name": "Cruzeiro",
+      "aliases": []
+    },
+    {
+      "id": "flamengo",
+      "name": "Flamengo",
+      "aliases": []
+    },
+    {
+      "id": "fluminense",
+      "name": "Fluminense",
+      "aliases": []
+    },
+    {
+      "id": "grêmio",
+      "name": "Grêmio",
+      "aliases": []
+    },
+    {
+      "id": "internacional",
+      "name": "Internacional",
+      "aliases": []
+    },
+    {
+      "id": "mirassol",
+      "name": "Mirassol",
+      "aliases": []
+    },
+    {
+      "id": "palmeiras",
+      "name": "Palmeiras",
+      "aliases": []
+    },
+    {
+      "id": "red-bull-bragantino",
+      "name": "Red Bull Bragantino",
+      "aliases": []
+    },
+    {
+      "id": "remo",
+      "name": "Remo",
+      "aliases": []
+    },
+    {
+      "id": "santos",
+      "name": "Santos",
+      "aliases": []
+    },
+    {
+      "id": "são-paulo",
+      "name": "São Paulo",
+      "aliases": []
+    },
+    {
+      "id": "vasco-da-gama",
+      "name": "Vasco da Gama",
+      "aliases": []
+    },
+    {
+      "id": "vitória",
+      "name": "Vitória",
+      "aliases": []
+    }
+  ]
+}

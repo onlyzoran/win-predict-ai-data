@@ -1,0 +1,95 @@
+{
+  "contestId": "liga-portugal-26-27",
+  "participants": [
+    {
+      "id": "académico-de-viseu",
+      "name": "Académico de Viseu",
+      "aliases": []
+    },
+    {
+      "id": "alverca",
+      "name": "Alverca",
+      "aliases": []
+    },
+    {
+      "id": "arouca",
+      "name": "Arouca",
+      "aliases": []
+    },
+    {
+      "id": "benfica",
+      "name": "Benfica",
+      "aliases": []
+    },
+    {
+      "id": "braga",
+      "name": "Braga",
+      "aliases": []
+    },
+    {
+      "id": "cd-nacional",
+      "name": "C.D. Nacional",
+      "aliases": []
+    },
+    {
+      "id": "casa-pia",
+      "name": "Casa Pia",
+      "aliases": []
+    },
+    {
+      "id": "estoril",
+      "name": "Estoril",
+      "aliases": []
+    },
+    {
+      "id": "estrela",
+      "name": "Estrela",
+      "aliases": []
+    },
+    {
+      "id": "fc-famalicao",
+      "name": "FC Famalicao",
+      "aliases": []
+    },
+    {
+      "id": "fc-porto",
+      "name": "FC Porto",
+      "aliases": []
+    },
+    {
+      "id": "gil-vicente",
+      "name": "Gil Vicente",
+      "aliases": []
+    },
+    {
+      "id": "maritimo",
+      "name": "Maritimo",
+      "aliases": []
+    },
+    {
+      "id": "moreirense",
+      "name": "Moreirense",
+      "aliases": []
+    },
+    {
+      "id": "rio-ave",
+      "name": "Rio Ave",
+      "aliases": []
+    },
+    {
+      "id": "santa-clara",
+      "name": "Santa Clara",
+      "aliases": []
+    },
+    {
+      "id": "sporting-cp",
+      "name": "Sporting CP",
+      "aliases": []
+    },
+    {
+      "id": "vitória-de-guimaraes",
+      "name": "Vitória de Guimaraes",
+      "aliases": []
+    }
+  ]
+}

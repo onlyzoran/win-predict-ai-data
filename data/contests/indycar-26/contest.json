@@ -1,0 +1,19 @@
+{
+  "id": "indycar-26",
+  "title": "IndyCar",
+  "fullTitle": "NTT IndyCar Series",
+  "category": "sport",
+  "sport": "motorsport",
+  "target": "champion",
+  "season": {
+    "start": "2026-03-01",
+    "end": "2026-09-13"
+  },
+  "hasFacts": true,
+  "predictionTarget": "win_probability",
+  "metric": "points",
+  "factKinds": [
+    "standings"
+  ],
+  "factsGrain": "day"
+}

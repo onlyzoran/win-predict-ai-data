@@ -1,0 +1,95 @@
+{
+  "contestId": "super-lig-26-27",
+  "participants": [
+    {
+      "id": "alanyaspor",
+      "name": "Alanyaspor",
+      "aliases": []
+    },
+    {
+      "id": "amed-sfk",
+      "name": "Amed SFK",
+      "aliases": []
+    },
+    {
+      "id": "besiktas",
+      "name": "Besiktas",
+      "aliases": []
+    },
+    {
+      "id": "caykur-rizespor",
+      "name": "Caykur Rizespor",
+      "aliases": []
+    },
+    {
+      "id": "erzurum-bb",
+      "name": "Erzurum BB",
+      "aliases": []
+    },
+    {
+      "id": "eyupspor",
+      "name": "Eyupspor",
+      "aliases": []
+    },
+    {
+      "id": "fenerbahce",
+      "name": "Fenerbahce",
+      "aliases": []
+    },
+    {
+      "id": "galatasaray",
+      "name": "Galatasaray",
+      "aliases": []
+    },
+    {
+      "id": "gaziantep-fk",
+      "name": "Gaziantep FK",
+      "aliases": []
+    },
+    {
+      "id": "genclerbirligi",
+      "name": "Genclerbirligi",
+      "aliases": []
+    },
+    {
+      "id": "goztepe",
+      "name": "Goztepe",
+      "aliases": []
+    },
+    {
+      "id": "istanbul-basaksehir",
+      "name": "Istanbul Basaksehir",
+      "aliases": []
+    },
+    {
+      "id": "kasimpasa",
+      "name": "Kasimpasa",
+      "aliases": []
+    },
+    {
+      "id": "kocaelispor",
+      "name": "Kocaelispor",
+      "aliases": []
+    },
+    {
+      "id": "konyaspor",
+      "name": "Konyaspor",
+      "aliases": []
+    },
+    {
+      "id": "samsunspor",
+      "name": "Samsunspor",
+      "aliases": []
+    },
+    {
+      "id": "trabzonspor",
+      "name": "Trabzonspor",
+      "aliases": []
+    },
+    {
+      "id": "çorum-fk",
+      "name": "Çorum FK",
+      "aliases": []
+    }
+  ]
+}

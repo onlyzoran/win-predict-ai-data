@@ -1,0 +1,216 @@
+{
+  "kind": "standings",
+  "contestId": "nascar-cup-26",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:02Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "denny-hamlin",
+      "points": 2100,
+      "rank": 1
+    },
+    {
+      "participantId": "ryan-blaney",
+      "points": 2075,
+      "rank": 2
+    },
+    {
+      "participantId": "tyler-reddick",
+      "points": 2065,
+      "rank": 3
+    },
+    {
+      "participantId": "ty-gibbs",
+      "points": 2060,
+      "rank": 4
+    },
+    {
+      "participantId": "chase-briscoe",
+      "points": 2055,
+      "rank": 5
+    },
+    {
+      "participantId": "christopher-bell",
+      "points": 2050,
+      "rank": 6
+    },
+    {
+      "participantId": "kyle-larson",
+      "points": 2045,
+      "rank": 7
+    },
+    {
+      "participantId": "chase-elliott",
+      "points": 2040,
+      "rank": 8
+    },
+    {
+      "participantId": "joey-logano",
+      "points": 2035,
+      "rank": 9
+    },
+    {
+      "participantId": "chris-buescher",
+      "points": 2030,
+      "rank": 10
+    },
+    {
+      "participantId": "daniel-suarez",
+      "points": 2025,
+      "rank": 11
+    },
+    {
+      "participantId": "carson-hocevar",
+      "points": 2020,
+      "rank": 12
+    },
+    {
+      "participantId": "william-byron",
+      "points": 2015,
+      "rank": 13
+    },
+    {
+      "participantId": "bubba-wallace",
+      "points": 2010,
+      "rank": 14
+    },
+    {
+      "participantId": "austin-cindric",
+      "points": 2005,
+      "rank": 15
+    },
+    {
+      "participantId": "ryan-preece",
+      "points": 2000,
+      "rank": 16
+    },
+    {
+      "participantId": "shane-van-gisbergen",
+      "points": 605,
+      "rank": 17
+    },
+    {
+      "participantId": "brad-keselowski",
+      "points": 543,
+      "rank": 18
+    },
+    {
+      "participantId": "ross-chastain",
+      "points": 518,
+      "rank": 19
+    },
+    {
+      "participantId": "michael-mcdowell",
+      "points": 517,
+      "rank": 20
+    },
+    {
+      "participantId": "erik-jones",
+      "points": 498,
+      "rank": 21
+    },
+    {
+      "participantId": "todd-gilliland",
+      "points": 468,
+      "rank": 22
+    },
+    {
+      "participantId": "aj-allmendinger",
+      "points": 463,
+      "rank": 23
+    },
+    {
+      "participantId": "zane-smith",
+      "points": 455,
+      "rank": 24
+    },
+    {
+      "participantId": "austin-dillon",
+      "points": 435,
+      "rank": 25
+    },
+    {
+      "participantId": "ricky-stenhouse-jr",
+      "points": 430,
+      "rank": 26
+    },
+    {
+      "participantId": "john-hunter-nemechek",
+      "points": 418,
+      "rank": 27
+    },
+    {
+      "participantId": "josh-berry",
+      "points": 414,
+      "rank": 28
+    },
+    {
+      "participantId": "riley-herbst",
+      "points": 402,
+      "rank": 29
+    },
+    {
+      "participantId": "alex-bowman",
+      "points": 391,
+      "rank": 30
+    },
+    {
+      "participantId": "noah-gragson",
+      "points": 346,
+      "rank": 31
+    },
+    {
+      "participantId": "cole-custer",
+      "points": 329,
+      "rank": 32
+    },
+    {
+      "participantId": "ty-dillon",
+      "points": 310,
+      "rank": 33
+    },
+    {
+      "participantId": "connor-zilisch",
+      "points": 271,
+      "rank": 34
+    },
+    {
+      "participantId": "cody-ware",
+      "points": 201,
+      "rank": 35
+    },
+    {
+      "participantId": "casey-mears",
+      "points": 13,
+      "rank": 36
+    },
+    {
+      "participantId": "kevin-magnussen",
+      "points": 11,
+      "rank": 37
+    },
+    {
+      "participantId": "jimmie-johnson",
+      "points": 9,
+      "rank": 38
+    },
+    {
+      "participantId": "katherine-legge",
+      "points": 8,
+      "rank": 39
+    },
+    {
+      "participantId": "bj-mcleod",
+      "points": 4,
+      "rank": 40
+    },
+    {
+      "participantId": "harrison-burton",
+      "points": 0,
+      "rank": 41
+    }
+  ]
+}

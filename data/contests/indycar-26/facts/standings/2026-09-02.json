@@ -1,0 +1,176 @@
+{
+  "kind": "standings",
+  "contestId": "indycar-26",
+  "date": "2026-09-02",
+  "fetchedAt": "2026-09-02T06:52:02Z",
+  "provider": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "rows": [
+    {
+      "participantId": "álex-palou",
+      "points": 607,
+      "rank": 1
+    },
+    {
+      "participantId": "christian-lundgaard",
+      "points": 507,
+      "rank": 2
+    },
+    {
+      "participantId": "kyle-kirkwood",
+      "points": 505,
+      "rank": 3
+    },
+    {
+      "participantId": "pato-oward",
+      "points": 503,
+      "rank": 4
+    },
+    {
+      "participantId": "david-malukas",
+      "points": 484,
+      "rank": 5
+    },
+    {
+      "participantId": "scott-mclaughlin",
+      "points": 428,
+      "rank": 6
+    },
+    {
+      "participantId": "josef-newgarden",
+      "points": 408,
+      "rank": 7
+    },
+    {
+      "participantId": "marcus-ericsson",
+      "points": 407,
+      "rank": 8
+    },
+    {
+      "participantId": "felix-rosenqvist",
+      "points": 379,
+      "rank": 9
+    },
+    {
+      "participantId": "rinus-veekay",
+      "points": 364,
+      "rank": 10
+    },
+    {
+      "participantId": "will-power",
+      "points": 351,
+      "rank": 11
+    },
+    {
+      "participantId": "scott-dixon",
+      "points": 318,
+      "rank": 12
+    },
+    {
+      "participantId": "kyffin-simpson",
+      "points": 307,
+      "rank": 13
+    },
+    {
+      "participantId": "marcus-armstrong",
+      "points": 293,
+      "rank": 14
+    },
+    {
+      "participantId": "graham-rahal",
+      "points": 291,
+      "rank": 15
+    },
+    {
+      "participantId": "alexander-rossi",
+      "points": 271,
+      "rank": 16
+    },
+    {
+      "participantId": "santino-ferrucci",
+      "points": 262,
+      "rank": 17
+    },
+    {
+      "participantId": "nolan-siegel",
+      "points": 253,
+      "rank": 18
+    },
+    {
+      "participantId": "louis-foster",
+      "points": 251,
+      "rank": 19
+    },
+    {
+      "participantId": "romain-grosjean",
+      "points": 247,
+      "rank": 20
+    },
+    {
+      "participantId": "christian-rasmussen",
+      "points": 236,
+      "rank": 21
+    },
+    {
+      "participantId": "dennis-hauger",
+      "points": 223,
+      "rank": 22
+    },
+    {
+      "participantId": "mick-schumacher",
+      "points": 205,
+      "rank": 23
+    },
+    {
+      "participantId": "caio-collet",
+      "points": 193,
+      "rank": 24
+    },
+    {
+      "participantId": "sting-ray-robb",
+      "points": 175,
+      "rank": 25
+    },
+    {
+      "participantId": "conor-daly",
+      "points": 24,
+      "rank": 26
+    },
+    {
+      "participantId": "takuma-sato",
+      "points": 20,
+      "rank": 27
+    },
+    {
+      "participantId": "jack-harvey",
+      "points": 8,
+      "rank": 28
+    },
+    {
+      "participantId": "jacob-abel",
+      "points": 6,
+      "rank": 29
+    },
+    {
+      "participantId": "helio-castroneves",
+      "points": 5,
+      "rank": 30
+    },
+    {
+      "participantId": "ryan-hunter-reay",
+      "points": 5,
+      "rank": 31
+    },
+    {
+      "participantId": "ed-carpenter",
+      "points": 5,
+      "rank": 32
+    },
+    {
+      "participantId": "katherine-legge",
+      "points": 5,
+      "rank": 33
+    }
+  ]
+}

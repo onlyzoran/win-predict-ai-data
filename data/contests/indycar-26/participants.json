@@ -1,0 +1,170 @@
+{
+  "contestId": "indycar-26",
+  "participants": [
+    {
+      "id": "alexander-rossi",
+      "name": "Alexander Rossi",
+      "aliases": []
+    },
+    {
+      "id": "caio-collet",
+      "name": "Caio Collet",
+      "aliases": []
+    },
+    {
+      "id": "christian-lundgaard",
+      "name": "Christian Lundgaard",
+      "aliases": []
+    },
+    {
+      "id": "christian-rasmussen",
+      "name": "Christian Rasmussen",
+      "aliases": []
+    },
+    {
+      "id": "conor-daly",
+      "name": "Conor Daly",
+      "aliases": []
+    },
+    {
+      "id": "david-malukas",
+      "name": "David Malukas",
+      "aliases": []
+    },
+    {
+      "id": "dennis-hauger",
+      "name": "Dennis Hauger",
+      "aliases": []
+    },
+    {
+      "id": "ed-carpenter",
+      "name": "Ed Carpenter",
+      "aliases": []
+    },
+    {
+      "id": "felix-rosenqvist",
+      "name": "Felix Rosenqvist",
+      "aliases": []
+    },
+    {
+      "id": "graham-rahal",
+      "name": "Graham Rahal",
+      "aliases": []
+    },
+    {
+      "id": "helio-castroneves",
+      "name": "Helio Castroneves",
+      "aliases": []
+    },
+    {
+      "id": "jack-harvey",
+      "name": "Jack Harvey",
+      "aliases": []
+    },
+    {
+      "id": "jacob-abel",
+      "name": "Jacob Abel",
+      "aliases": []
+    },
+    {
+      "id": "josef-newgarden",
+      "name": "Josef Newgarden",
+      "aliases": []
+    },
+    {
+      "id": "katherine-legge",
+      "name": "Katherine Legge",
+      "aliases": []
+    },
+    {
+      "id": "kyffin-simpson",
+      "name": "Kyffin Simpson",
+      "aliases": []
+    },
+    {
+      "id": "kyle-kirkwood",
+      "name": "Kyle Kirkwood",
+      "aliases": []
+    },
+    {
+      "id": "louis-foster",
+      "name": "Louis Foster",
+      "aliases": []
+    },
+    {
+      "id": "marcus-armstrong",
+      "name": "Marcus Armstrong",
+      "aliases": []
+    },
+    {
+      "id": "marcus-ericsson",
+      "name": "Marcus Ericsson",
+      "aliases": []
+    },
+    {
+      "id": "mick-schumacher",
+      "name": "Mick Schumacher",
+      "aliases": []
+    },
+    {
+      "id": "nolan-siegel",
+      "name": "Nolan Siegel",
+      "aliases": []
+    },
+    {
+      "id": "pato-oward",
+      "name": "Pato O'Ward",
+      "aliases": []
+    },
+    {
+      "id": "rinus-veekay",
+      "name": "Rinus VeeKay",
+      "aliases": []
+    },
+    {
+      "id": "romain-grosjean",
+      "name": "Romain Grosjean",
+      "aliases": []
+    },
+    {
+      "id": "ryan-hunter-reay",
+      "name": "Ryan Hunter-Reay",
+      "aliases": []
+    },
+    {
+      "id": "santino-ferrucci",
+      "name": "Santino Ferrucci",
+      "aliases": []
+    },
+    {
+      "id": "scott-dixon",
+      "name": "Scott Dixon",
+      "aliases": []
+    },
+    {
+      "id": "scott-mclaughlin",
+      "name": "Scott McLaughlin",
+      "aliases": []
+    },
+    {
+      "id": "sting-ray-robb",
+      "name": "Sting Ray Robb",
+      "aliases": []
+    },
+    {
+      "id": "takuma-sato",
+      "name": "Takuma Sato",
+      "aliases": []
+    },
+    {
+      "id": "will-power",
+      "name": "Will Power",
+      "aliases": []
+    },
+    {
+      "id": "álex-palou",
+      "name": "Álex Palou",
+      "aliases": []
+    }
+  ]
+}

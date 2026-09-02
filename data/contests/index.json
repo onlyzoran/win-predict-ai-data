@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-02T04:00:04Z",
+  "updatedAt": "2026-09-02T06:52:07Z",
   "contests": {
+    "afc-champions-26-27": {
+      "title": "AFC Champions",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "afc-champions-26-27/facts/latest.json",
+        "indexFile": "afc-champions-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "afc-champions-26-27/predictions/latest.json",
+        "cardFile": "afc-champions-26-27/predictions/card.json",
+        "indexFile": "afc-champions-26-27/predictions/index.json"
+      }
+    },
+    "brasileirao-26": {
+      "title": "Brasileirão",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 25,
+        "latestFile": "brasileirao-26/facts/latest.json",
+        "indexFile": "brasileirao-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "brasileirao-26/predictions/latest.json",
+        "cardFile": "brasileirao-26/predictions/card.json",
+        "indexFile": "brasileirao-26/predictions/index.json"
+      }
+    },
     "bundesliga-26-27": {
       "title": "Bundesliga",
       "category": "sport",
@@ -24,6 +70,52 @@
         "indexFile": "bundesliga-26-27/predictions/index.json"
       }
     },
+    "championship-26-27": {
+      "title": "Championship",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 4,
+        "latestFile": "championship-26-27/facts/latest.json",
+        "indexFile": "championship-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "championship-26-27/predictions/latest.json",
+        "cardFile": "championship-26-27/predictions/card.json",
+        "indexFile": "championship-26-27/predictions/index.json"
+      }
+    },
+    "college-baseball-26": {
+      "title": "College Baseball",
+      "category": "sport",
+      "sport": "baseball",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "college-baseball-26/facts/latest.json",
+        "indexFile": "college-baseball-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "college-baseball-26/predictions/latest.json",
+        "cardFile": "college-baseball-26/predictions/card.json",
+        "indexFile": "college-baseball-26/predictions/index.json"
+      }
+    },
     "epl-26-27": {
       "title": "EPL",
       "category": "sport",
@@ -45,6 +137,29 @@
         "latestFile": "epl-26-27/predictions/latest.json",
         "cardFile": "epl-26-27/predictions/card.json",
         "indexFile": "epl-26-27/predictions/index.json"
+      }
+    },
+    "eredivisie-26-27": {
+      "title": "Eredivisie",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 4,
+        "latestFile": "eredivisie-26-27/facts/latest.json",
+        "indexFile": "eredivisie-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "eredivisie-26-27/predictions/latest.json",
+        "cardFile": "eredivisie-26-27/predictions/card.json",
+        "indexFile": "eredivisie-26-27/predictions/index.json"
       }
     },
     "f1-constructors-26": {
@@ -157,6 +272,52 @@
         "indexFile": "golf-us-open-27/predictions/index.json"
       }
     },
+    "indycar-26": {
+      "title": "IndyCar",
+      "category": "sport",
+      "sport": "motorsport",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "indycar-26/facts/latest.json",
+        "indexFile": "indycar-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "indycar-26/predictions/latest.json",
+        "cardFile": "indycar-26/predictions/card.json",
+        "indexFile": "indycar-26/predictions/index.json"
+      }
+    },
+    "ipl-26": {
+      "title": "IPL",
+      "category": "sport",
+      "sport": "cricket",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "ipl-26/facts/latest.json",
+        "indexFile": "ipl-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "ipl-26/predictions/latest.json",
+        "cardFile": "ipl-26/predictions/card.json",
+        "indexFile": "ipl-26/predictions/index.json"
+      }
+    },
     "khl-gagarin-cup-26-27": {
       "title": "KHL Gagarin Cup",
       "category": "sport",
@@ -194,6 +355,75 @@
         "latestFile": "la-liga-26-27/predictions/latest.json",
         "cardFile": "la-liga-26-27/predictions/card.json",
         "indexFile": "la-liga-26-27/predictions/index.json"
+      }
+    },
+    "libertadores-26": {
+      "title": "Libertadores",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "libertadores-26/facts/latest.json",
+        "indexFile": "libertadores-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "libertadores-26/predictions/latest.json",
+        "cardFile": "libertadores-26/predictions/card.json",
+        "indexFile": "libertadores-26/predictions/index.json"
+      }
+    },
+    "liga-mx-26-27": {
+      "title": "Liga MX",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 6,
+        "latestFile": "liga-mx-26-27/facts/latest.json",
+        "indexFile": "liga-mx-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "liga-mx-26-27/predictions/latest.json",
+        "cardFile": "liga-mx-26-27/predictions/card.json",
+        "indexFile": "liga-mx-26-27/predictions/index.json"
+      }
+    },
+    "liga-portugal-26-27": {
+      "title": "Liga Portugal",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 4,
+        "latestFile": "liga-portugal-26-27/facts/latest.json",
+        "indexFile": "liga-portugal-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "liga-portugal-26-27/predictions/latest.json",
+        "cardFile": "liga-portugal-26-27/predictions/card.json",
+        "indexFile": "liga-portugal-26-27/predictions/index.json"
       }
     },
     "ligue-1-26-27": {
@@ -263,6 +493,29 @@
         "latestFile": "mls-cup-26/predictions/latest.json",
         "cardFile": "mls-cup-26/predictions/card.json",
         "indexFile": "mls-cup-26/predictions/index.json"
+      }
+    },
+    "nascar-cup-26": {
+      "title": "NASCAR Cup",
+      "category": "sport",
+      "sport": "motorsport",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "nascar-cup-26/facts/latest.json",
+        "indexFile": "nascar-cup-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "nascar-cup-26/predictions/latest.json",
+        "cardFile": "nascar-cup-26/predictions/card.json",
+        "indexFile": "nascar-cup-26/predictions/index.json"
       }
     },
     "nba-26-27": {
@@ -373,6 +626,29 @@
         "indexFile": "nhl-stanley-cup-26-27/predictions/index.json"
       }
     },
+    "nwsl-26": {
+      "title": "NWSL",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 22,
+        "latestFile": "nwsl-26/facts/latest.json",
+        "indexFile": "nwsl-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "nwsl-26/predictions/latest.json",
+        "cardFile": "nwsl-26/predictions/card.json",
+        "indexFile": "nwsl-26/predictions/index.json"
+      }
+    },
     "rpl-26-27": {
       "title": "RPL",
       "category": "sport",
@@ -394,6 +670,98 @@
         "latestFile": "rpl-26-27/predictions/latest.json",
         "cardFile": "rpl-26-27/predictions/card.json",
         "indexFile": "rpl-26-27/predictions/index.json"
+      }
+    },
+    "rugby-prem-26-27": {
+      "title": "Premiership",
+      "category": "sport",
+      "sport": "rugby",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "rugby-prem-26-27/facts/latest.json",
+        "indexFile": "rugby-prem-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "rugby-prem-26-27/predictions/latest.json",
+        "cardFile": "rugby-prem-26-27/predictions/card.json",
+        "indexFile": "rugby-prem-26-27/predictions/index.json"
+      }
+    },
+    "rugby-urc-26-27": {
+      "title": "URC",
+      "category": "sport",
+      "sport": "rugby",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "rugby-urc-26-27/facts/latest.json",
+        "indexFile": "rugby-urc-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "rugby-urc-26-27/predictions/latest.json",
+        "cardFile": "rugby-urc-26-27/predictions/card.json",
+        "indexFile": "rugby-urc-26-27/predictions/index.json"
+      }
+    },
+    "rugby-world-cup-27": {
+      "title": "Rugby World Cup",
+      "category": "sport",
+      "sport": "rugby",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "rugby-world-cup-27/facts/latest.json",
+        "indexFile": "rugby-world-cup-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "rugby-world-cup-27/predictions/latest.json",
+        "cardFile": "rugby-world-cup-27/predictions/card.json",
+        "indexFile": "rugby-world-cup-27/predictions/index.json"
+      }
+    },
+    "scottish-prem-26-27": {
+      "title": "Scottish Prem",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 4,
+        "latestFile": "scottish-prem-26-27/facts/latest.json",
+        "indexFile": "scottish-prem-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "scottish-prem-26-27/predictions/latest.json",
+        "cardFile": "scottish-prem-26-27/predictions/card.json",
+        "indexFile": "scottish-prem-26-27/predictions/index.json"
       }
     },
     "serie-a-26-27": {
@@ -419,6 +787,139 @@
         "indexFile": "serie-a-26-27/predictions/index.json"
       }
     },
+    "super-lig-26-27": {
+      "title": "Süper Lig",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "matchday",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": 3,
+        "latestFile": "super-lig-26-27/facts/latest.json",
+        "indexFile": "super-lig-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "super-lig-26-27/predictions/latest.json",
+        "cardFile": "super-lig-26-27/predictions/card.json",
+        "indexFile": "super-lig-26-27/predictions/index.json"
+      }
+    },
+    "tennis-atp-26": {
+      "title": "ATP Tour",
+      "category": "sport",
+      "sport": "tennis",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "tennis-atp-26/facts/latest.json",
+        "indexFile": "tennis-atp-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "tennis-atp-26/predictions/latest.json",
+        "cardFile": "tennis-atp-26/predictions/card.json",
+        "indexFile": "tennis-atp-26/predictions/index.json"
+      }
+    },
+    "tennis-australian-open-27": {
+      "title": "Australian Open",
+      "category": "sport",
+      "sport": "tennis",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "tennis-australian-open-27/predictions/latest.json",
+        "cardFile": "tennis-australian-open-27/predictions/card.json",
+        "indexFile": "tennis-australian-open-27/predictions/index.json"
+      }
+    },
+    "tennis-french-open-27": {
+      "title": "French Open",
+      "category": "sport",
+      "sport": "tennis",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "tennis-french-open-27/predictions/latest.json",
+        "cardFile": "tennis-french-open-27/predictions/card.json",
+        "indexFile": "tennis-french-open-27/predictions/index.json"
+      }
+    },
+    "tennis-us-open-27": {
+      "title": "US Open Tennis",
+      "category": "sport",
+      "sport": "tennis",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "tennis-us-open-27/predictions/latest.json",
+        "cardFile": "tennis-us-open-27/predictions/card.json",
+        "indexFile": "tennis-us-open-27/predictions/index.json"
+      }
+    },
+    "tennis-wimbledon-27": {
+      "title": "Wimbledon",
+      "category": "sport",
+      "sport": "tennis",
+      "hasFacts": false,
+      "factsGrain": "day",
+      "facts": null,
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "tennis-wimbledon-27/predictions/latest.json",
+        "cardFile": "tennis-wimbledon-27/predictions/card.json",
+        "indexFile": "tennis-wimbledon-27/predictions/index.json"
+      }
+    },
+    "tennis-wta-26": {
+      "title": "WTA Tour",
+      "category": "sport",
+      "sport": "tennis",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "tennis-wta-26/facts/latest.json",
+        "indexFile": "tennis-wta-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "tennis-wta-26/predictions/latest.json",
+        "cardFile": "tennis-wta-26/predictions/card.json",
+        "indexFile": "tennis-wta-26/predictions/index.json"
+      }
+    },
     "ucl-26-27": {
       "title": "UCL",
       "category": "sport",
@@ -435,6 +936,75 @@
         "indexFile": "ucl-26-27/predictions/index.json"
       }
     },
+    "uecl-26-27": {
+      "title": "UECL",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "uecl-26-27/facts/latest.json",
+        "indexFile": "uecl-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "uecl-26-27/predictions/latest.json",
+        "cardFile": "uecl-26-27/predictions/card.json",
+        "indexFile": "uecl-26-27/predictions/index.json"
+      }
+    },
+    "uel-26-27": {
+      "title": "UEL",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "uel-26-27/facts/latest.json",
+        "indexFile": "uel-26-27/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "uel-26-27/predictions/latest.json",
+        "cardFile": "uel-26-27/predictions/card.json",
+        "indexFile": "uel-26-27/predictions/index.json"
+      }
+    },
+    "ufc-p4p-26": {
+      "title": "UFC P4P",
+      "category": "sport",
+      "sport": "mma",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "ufc-p4p-26/facts/latest.json",
+        "indexFile": "ufc-p4p-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "ufc-p4p-26/predictions/latest.json",
+        "cardFile": "ufc-p4p-26/predictions/card.json",
+        "indexFile": "ufc-p4p-26/predictions/index.json"
+      }
+    },
     "us-presidential-election-28": {
       "title": "US Presidential Election",
       "category": "politics",
@@ -449,6 +1019,52 @@
         "latestFile": "us-presidential-election-28/predictions/latest.json",
         "cardFile": "us-presidential-election-28/predictions/card.json",
         "indexFile": "us-presidential-election-28/predictions/index.json"
+      }
+    },
+    "wnba-26": {
+      "title": "WNBA",
+      "category": "sport",
+      "sport": "basketball",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "wnba-26/facts/latest.json",
+        "indexFile": "wnba-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "wnba-26/predictions/latest.json",
+        "cardFile": "wnba-26/predictions/card.json",
+        "indexFile": "wnba-26/predictions/index.json"
+      }
+    },
+    "world-cup-26": {
+      "title": "World Cup",
+      "category": "sport",
+      "sport": "football",
+      "hasFacts": true,
+      "factsGrain": "day",
+      "facts": {
+        "count": 1,
+        "first": "2026-09-02",
+        "last": "2026-09-02",
+        "latestTour": null,
+        "latestFile": "world-cup-26/facts/latest.json",
+        "indexFile": "world-cup-26/facts/index.json"
+      },
+      "predictions": {
+        "count": 0,
+        "first": null,
+        "last": null,
+        "latestFile": "world-cup-26/predictions/latest.json",
+        "cardFile": "world-cup-26/predictions/card.json",
+        "indexFile": "world-cup-26/predictions/index.json"
       }
     }
   }

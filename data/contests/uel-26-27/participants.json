@@ -1,0 +1,185 @@
+{
+  "contestId": "uel-26-27",
+  "participants": [
+    {
+      "id": "ac-milan",
+      "name": "AC Milan",
+      "aliases": []
+    },
+    {
+      "id": "afc-bournemouth",
+      "name": "AFC Bournemouth",
+      "aliases": []
+    },
+    {
+      "id": "anderlecht",
+      "name": "Anderlecht",
+      "aliases": []
+    },
+    {
+      "id": "ararat-armenia",
+      "name": "Ararat-Armenia",
+      "aliases": []
+    },
+    {
+      "id": "az-alkmaar",
+      "name": "AZ Alkmaar",
+      "aliases": []
+    },
+    {
+      "id": "bayer-leverkusen",
+      "name": "Bayer Leverkusen",
+      "aliases": []
+    },
+    {
+      "id": "benfica",
+      "name": "Benfica",
+      "aliases": []
+    },
+    {
+      "id": "besiktas",
+      "name": "Besiktas",
+      "aliases": []
+    },
+    {
+      "id": "celta-vigo",
+      "name": "Celta Vigo",
+      "aliases": []
+    },
+    {
+      "id": "celtic",
+      "name": "Celtic",
+      "aliases": []
+    },
+    {
+      "id": "crystal-palace",
+      "name": "Crystal Palace",
+      "aliases": []
+    },
+    {
+      "id": "dinamo-zagreb",
+      "name": "Dinamo Zagreb",
+      "aliases": []
+    },
+    {
+      "id": "ferencvaros",
+      "name": "Ferencvaros",
+      "aliases": []
+    },
+    {
+      "id": "hapoel-beer",
+      "name": "Hapoel Be'er",
+      "aliases": []
+    },
+    {
+      "id": "jagiellonia-bialystok",
+      "name": "Jagiellonia Bialystok",
+      "aliases": []
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus",
+      "aliases": []
+    },
+    {
+      "id": "lech-poznan",
+      "name": "Lech Poznan",
+      "aliases": []
+    },
+    {
+      "id": "levski-sofia",
+      "name": "Levski Sofia",
+      "aliases": []
+    },
+    {
+      "id": "lillestrom",
+      "name": "Lillestrom",
+      "aliases": []
+    },
+    {
+      "id": "lyon",
+      "name": "Lyon",
+      "aliases": []
+    },
+    {
+      "id": "marseille",
+      "name": "Marseille",
+      "aliases": []
+    },
+    {
+      "id": "nec-nijmegen",
+      "name": "NEC Nijmegen",
+      "aliases": []
+    },
+    {
+      "id": "nk-celje",
+      "name": "NK Celje",
+      "aliases": []
+    },
+    {
+      "id": "ofi-crete",
+      "name": "OFI Crete",
+      "aliases": []
+    },
+    {
+      "id": "olympiacos",
+      "name": "Olympiacos",
+      "aliases": []
+    },
+    {
+      "id": "omonia-nicosia",
+      "name": "Omonia Nicosia",
+      "aliases": []
+    },
+    {
+      "id": "rb-salzburg",
+      "name": "RB Salzburg",
+      "aliases": []
+    },
+    {
+      "id": "real-sociedad",
+      "name": "Real Sociedad",
+      "aliases": []
+    },
+    {
+      "id": "sk-sturm-graz",
+      "name": "SK Sturm Graz",
+      "aliases": []
+    },
+    {
+      "id": "sparta-prague",
+      "name": "Sparta Prague",
+      "aliases": []
+    },
+    {
+      "id": "stade-rennais",
+      "name": "Stade Rennais",
+      "aliases": []
+    },
+    {
+      "id": "sunderland",
+      "name": "Sunderland",
+      "aliases": []
+    },
+    {
+      "id": "torreense",
+      "name": "Torreense",
+      "aliases": []
+    },
+    {
+      "id": "tsg-hoffenheim",
+      "name": "TSG Hoffenheim",
+      "aliases": []
+    },
+    {
+      "id": "union-st-gilloise",
+      "name": "Union St.-Gilloise",
+      "aliases": []
+    },
+    {
+      "id": "viktoria-plzen",
+      "name": "Viktoria Plzen",
+      "aliases": []
+    }
+  ]
+}
