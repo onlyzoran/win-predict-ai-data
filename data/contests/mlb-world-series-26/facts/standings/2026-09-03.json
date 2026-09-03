@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-03",
-  "fetchedAt": "2026-09-03T03:59:15Z",
+  "fetchedAt": "2026-09-03T12:44:02Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -28,16 +28,6 @@
       "rank": 2
     },
     {
-      "participantId": "los-angeles-dodgers",
-      "played": 138,
-      "wins": 82,
-      "losses": 56,
-      "winPercent": 0.594,
-      "playoffSeed": 1,
-      "group": "National League",
-      "rank": 3
-    },
-    {
       "participantId": "atlanta-braves",
       "played": 140,
       "wins": 83,
@@ -45,14 +35,24 @@
       "winPercent": 0.593,
       "playoffSeed": 1,
       "group": "National League",
+      "rank": 3
+    },
+    {
+      "participantId": "los-angeles-dodgers",
+      "played": 139,
+      "wins": 82,
+      "losses": 57,
+      "winPercent": 0.59,
+      "playoffSeed": 1,
+      "group": "National League",
       "rank": 4
     },
     {
       "participantId": "new-york-yankees",
-      "played": 139,
-      "wins": 79,
+      "played": 140,
+      "wins": 80,
       "losses": 60,
-      "winPercent": 0.568,
+      "winPercent": 0.571,
       "playoffSeed": 2,
       "group": "American League",
       "rank": 5
@@ -149,10 +149,10 @@
     },
     {
       "participantId": "st-louis-cardinals",
-      "played": 139,
-      "wins": 69,
+      "played": 140,
+      "wins": 70,
       "losses": 70,
-      "winPercent": 0.496,
+      "winPercent": 0.5,
       "playoffSeed": 3,
       "group": "National League",
       "rank": 15
@@ -299,10 +299,10 @@
     },
     {
       "participantId": "los-angeles-angels",
-      "played": 139,
+      "played": 140,
       "wins": 53,
-      "losses": 86,
-      "winPercent": 0.381,
+      "losses": 87,
+      "winPercent": 0.379,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 30
