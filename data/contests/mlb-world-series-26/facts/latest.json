@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-04",
-  "fetchedAt": "2026-09-04T04:01:16Z",
+  "fetchedAt": "2026-09-04T12:38:07Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -39,10 +39,10 @@
     },
     {
       "participantId": "los-angeles-dodgers",
-      "played": 139,
-      "wins": 82,
+      "played": 140,
+      "wins": 83,
       "losses": 57,
-      "winPercent": 0.59,
+      "winPercent": 0.593,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 4
@@ -148,16 +148,6 @@
       "rank": 14
     },
     {
-      "participantId": "st-louis-cardinals",
-      "played": 140,
-      "wins": 70,
-      "losses": 70,
-      "winPercent": 0.5,
-      "playoffSeed": 3,
-      "group": "National League",
-      "rank": 15
-    },
-    {
       "participantId": "toronto-blue-jays",
       "played": 141,
       "wins": 70,
@@ -165,7 +155,7 @@
       "winPercent": 0.496,
       "playoffSeed": 4,
       "group": "American League",
-      "rank": 16
+      "rank": 15
     },
     {
       "participantId": "texas-rangers",
@@ -175,6 +165,16 @@
       "winPercent": 0.496,
       "playoffSeed": 2,
       "group": "American League",
+      "rank": 16
+    },
+    {
+      "participantId": "st-louis-cardinals",
+      "played": 141,
+      "wins": 70,
+      "losses": 71,
+      "winPercent": 0.496,
+      "playoffSeed": 3,
+      "group": "National League",
       "rank": 17
     },
     {
@@ -229,10 +229,10 @@
     },
     {
       "participantId": "seattle-mariners",
-      "played": 140,
+      "played": 141,
       "wins": 66,
-      "losses": 74,
-      "winPercent": 0.471,
+      "losses": 75,
+      "winPercent": 0.468,
       "playoffSeed": 3,
       "group": "American League",
       "rank": 23
@@ -279,10 +279,10 @@
     },
     {
       "participantId": "athletics",
-      "played": 140,
-      "wins": 54,
+      "played": 141,
+      "wins": 55,
       "losses": 86,
-      "winPercent": 0.386,
+      "winPercent": 0.39,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 28

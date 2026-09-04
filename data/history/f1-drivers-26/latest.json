@@ -1,7 +1,7 @@
 {
   "leagueId": "f1-drivers-26",
   "date": "2026-09-04",
-  "fetchedAt": "2026-09-04T04:01:16Z",
+  "fetchedAt": "2026-09-04T12:38:08Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -50,35 +50,35 @@
     },
     {
       "team": "Oscar Piastri",
-      "points": 104,
+      "points": 106,
       "group": "Driver Standings",
       "sourceRank": 7,
       "rank": 7
     },
     {
       "team": "Isack Hadjar",
-      "points": 68,
+      "points": 71,
       "group": "Driver Standings",
       "sourceRank": 8,
       "rank": 8
     },
     {
       "team": "Liam Lawson",
-      "points": 49,
+      "points": 51,
       "group": "Driver Standings",
       "sourceRank": 9,
       "rank": 9
     },
     {
       "team": "Pierre Gasly",
-      "points": 44,
+      "points": 35,
       "group": "Driver Standings",
       "sourceRank": 10,
       "rank": 10
     },
     {
       "team": "Arvid Lindblad",
-      "points": 23,
+      "points": 25,
       "group": "Driver Standings",
       "sourceRank": 11,
       "rank": 11
