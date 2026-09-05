@@ -2,54 +2,46 @@
   "kind": "prediction",
   "contestId": "rpl-26-27",
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T03:15:16Z",
+  "generatedAt": "2026-09-05T18:29:00Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-08-30",
-  "basedOnTour": 6,
+  "basedOnFactsDate": "2026-09-05",
+  "basedOnTour": 7,
   "target": "champion",
   "unit": "percent",
   "items": [
     {
       "participantId": "krasnodar",
-      "probability": 28.69
+      "probability": 29.4
     },
     {
       "participantId": "spartak-moscow",
-      "probability": 18.48
+      "probability": 16.54
     },
     {
       "participantId": "cska-moscow",
-      "probability": 12.55
+      "probability": 16.12
     },
     {
       "participantId": "zenit-st-petersburg",
-      "probability": 12.37
+      "probability": 10.59
     },
     {
       "participantId": "dinamo-moscow",
-      "probability": 6.83
+      "probability": 6.46
     },
     {
       "participantId": "lokomotiv-moscow",
-      "probability": 3.38
-    },
-    {
-      "participantId": "akhmat-grozny",
-      "probability": 1.77
-    },
-    {
-      "participantId": "akron-tolyatti",
-      "probability": 1.77
-    },
-    {
-      "participantId": "dynamo-makhachkala",
-      "probability": 1.77
+      "probability": 3.19
     },
     {
       "participantId": "fakel-voronezh",
+      "probability": 1.77
+    },
+    {
+      "participantId": "krylia-sovetov",
       "probability": 1.77
     },
     {
@@ -57,11 +49,7 @@
       "probability": 1.77
     },
     {
-      "participantId": "gazovik-orenburg",
-      "probability": 1.77
-    },
-    {
-      "participantId": "krylia-sovetov",
+      "participantId": "rubin-kazan",
       "probability": 1.77
     },
     {
@@ -73,7 +61,19 @@
       "probability": 1.77
     },
     {
-      "participantId": "rubin-kazan",
+      "participantId": "akron-tolyatti",
+      "probability": 1.77
+    },
+    {
+      "participantId": "dynamo-makhachkala",
+      "probability": 1.77
+    },
+    {
+      "participantId": "akhmat-grozny",
+      "probability": 1.77
+    },
+    {
+      "participantId": "gazovik-orenburg",
       "probability": 1.77
     }
   ]
