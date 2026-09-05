@@ -1,8 +1,8 @@
 {
   "kind": "predictionCard",
   "contestId": "ligue-1-26-27",
-  "date": "2026-09-04",
-  "generatedAt": "2026-09-04T03:10:08Z",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-05T03:15:16Z",
   "basedOnFactsDate": "2026-08-11",
   "basedOnTour": 0,
   "target": "champion",
@@ -12,32 +12,32 @@
     {
       "participantId": "paris-saint-germain",
       "name": "Paris Saint-Germain",
-      "probability": 61.65
+      "probability": 60.37
     },
     {
       "participantId": "as-monaco",
       "name": "AS Monaco",
-      "probability": 17.61
+      "probability": 17.25
     },
     {
       "participantId": "lille",
       "name": "Lille",
-      "probability": 8.8
+      "probability": 8.62
     },
     {
       "participantId": "nice",
       "name": "Nice",
-      "probability": 7.04
+      "probability": 6.9
     },
     {
       "participantId": "strasbourg",
       "name": "Strasbourg",
-      "probability": 0.35
+      "probability": 0.49
     },
     {
       "participantId": "others",
       "name": "Others",
-      "probability": 4.55,
+      "probability": 6.37,
       "othersCount": 13
     }
   ]
