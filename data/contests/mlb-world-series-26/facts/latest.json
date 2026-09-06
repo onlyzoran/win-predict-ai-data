@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-06",
-  "fetchedAt": "2026-09-06T04:04:48Z",
+  "fetchedAt": "2026-09-06T12:03:42Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -229,10 +229,10 @@
     },
     {
       "participantId": "seattle-mariners",
-      "played": 142,
+      "played": 143,
       "wins": 66,
-      "losses": 76,
-      "winPercent": 0.465,
+      "losses": 77,
+      "winPercent": 0.462,
       "playoffSeed": 3,
       "group": "American League",
       "rank": 23
@@ -279,10 +279,10 @@
     },
     {
       "participantId": "athletics",
-      "played": 142,
-      "wins": 56,
+      "played": 143,
+      "wins": 57,
       "losses": 86,
-      "winPercent": 0.394,
+      "winPercent": 0.399,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 28
