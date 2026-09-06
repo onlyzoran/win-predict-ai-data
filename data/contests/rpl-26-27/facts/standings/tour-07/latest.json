@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-09-06",
-  "fetchedAt": "2026-09-06T12:03:41Z",
+  "fetchedAt": "2026-09-06T18:10:13Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -33,15 +33,27 @@
     },
     {
       "participantId": "spartak-moscow",
-      "played": 6,
+      "played": 7,
       "wins": 4,
       "draws": 1,
-      "losses": 1,
-      "goalsFor": 11,
-      "goalsAgainst": 5,
-      "goalDifference": 6,
+      "losses": 2,
+      "goalsFor": 12,
+      "goalsAgainst": 7,
+      "goalDifference": 5,
       "points": 13,
       "rank": 3
+    },
+    {
+      "participantId": "dinamo-moscow",
+      "played": 7,
+      "wins": 4,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 8,
+      "goalDifference": 2,
+      "points": 13,
+      "rank": 4
     },
     {
       "participantId": "zenit-st-petersburg",
@@ -53,7 +65,19 @@
       "goalsAgainst": 6,
       "goalDifference": 8,
       "points": 12,
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "participantId": "dynamo-makhachkala",
+      "played": 7,
+      "wins": 4,
+      "draws": 0,
+      "losses": 3,
+      "goalsFor": 12,
+      "goalsAgainst": 10,
+      "goalDifference": 2,
+      "points": 12,
+      "rank": 6
     },
     {
       "participantId": "fc-baltika-kaliningrad",
@@ -65,19 +89,7 @@
       "goalsAgainst": 6,
       "goalDifference": 4,
       "points": 10,
-      "rank": 5
-    },
-    {
-      "participantId": "dinamo-moscow",
-      "played": 6,
-      "wins": 3,
-      "draws": 1,
-      "losses": 2,
-      "goalsFor": 8,
-      "goalsAgainst": 7,
-      "goalDifference": 1,
-      "points": 10,
-      "rank": 6
+      "rank": 7
     },
     {
       "participantId": "rubin-kazan",
@@ -88,18 +100,6 @@
       "goalsFor": 9,
       "goalsAgainst": 8,
       "goalDifference": 1,
-      "points": 9,
-      "rank": 7
-    },
-    {
-      "participantId": "dynamo-makhachkala",
-      "played": 6,
-      "wins": 3,
-      "draws": 0,
-      "losses": 3,
-      "goalsFor": 10,
-      "goalsAgainst": 10,
-      "goalDifference": 0,
       "points": 9,
       "rank": 8
     },
@@ -116,6 +116,18 @@
       "rank": 9
     },
     {
+      "participantId": "gazovik-orenburg",
+      "played": 7,
+      "wins": 1,
+      "draws": 5,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 9,
+      "goalDifference": -2,
+      "points": 8,
+      "rank": 10
+    },
+    {
       "participantId": "krylia-sovetov",
       "played": 7,
       "wins": 1,
@@ -123,18 +135,6 @@
       "losses": 2,
       "goalsFor": 10,
       "goalsAgainst": 12,
-      "goalDifference": -2,
-      "points": 7,
-      "rank": 10
-    },
-    {
-      "participantId": "gazovik-orenburg",
-      "played": 6,
-      "wins": 1,
-      "draws": 4,
-      "losses": 1,
-      "goalsFor": 5,
-      "goalsAgainst": 7,
       "goalDifference": -2,
       "points": 7,
       "rank": 11
@@ -152,16 +152,28 @@
       "rank": 12
     },
     {
-      "participantId": "rodina-moscow",
-      "played": 6,
-      "wins": 1,
-      "draws": 1,
-      "losses": 4,
+      "participantId": "akron-tolyatti",
+      "played": 7,
+      "wins": 0,
+      "draws": 4,
+      "losses": 3,
       "goalsFor": 8,
       "goalsAgainst": 17,
       "goalDifference": -9,
       "points": 4,
       "rank": 13
+    },
+    {
+      "participantId": "rodina-moscow",
+      "played": 7,
+      "wins": 1,
+      "draws": 1,
+      "losses": 5,
+      "goalsFor": 8,
+      "goalsAgainst": 19,
+      "goalDifference": -11,
+      "points": 4,
+      "rank": 14
     },
     {
       "participantId": "lokomotiv-moscow",
@@ -172,18 +184,6 @@
       "goalsFor": 5,
       "goalsAgainst": 8,
       "goalDifference": -3,
-      "points": 3,
-      "rank": 14
-    },
-    {
-      "participantId": "akron-tolyatti",
-      "played": 6,
-      "wins": 0,
-      "draws": 3,
-      "losses": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 15,
-      "goalDifference": -9,
       "points": 3,
       "rank": 15
     },

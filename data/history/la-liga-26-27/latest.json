@@ -1,21 +1,21 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-09-06",
-  "fetchedAt": "2026-09-06T12:03:40Z",
+  "fetchedAt": "2026-09-06T18:10:13Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Barcelona",
-      "played": 3,
-      "wins": 3,
+      "played": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "goalsFor": 12,
+      "goalsFor": 17,
       "goalsAgainst": 2,
-      "goalDifference": 10,
-      "points": 9,
+      "goalDifference": 15,
+      "points": 12,
       "group": "2026-27 LALIGA",
       "sourceRank": 1,
       "rank": 1
@@ -245,20 +245,6 @@
       "rank": 17
     },
     {
-      "team": "Valencia",
-      "played": 3,
-      "wins": 0,
-      "draws": 1,
-      "losses": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 4,
-      "goalDifference": -3,
-      "points": 1,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 18,
-      "rank": 18
-    },
-    {
       "team": "Elche",
       "played": 3,
       "wins": 0,
@@ -269,8 +255,8 @@
       "goalDifference": -6,
       "points": 1,
       "group": "2026-27 LALIGA",
-      "sourceRank": 19,
-      "rank": 19
+      "sourceRank": 18,
+      "rank": 18
     },
     {
       "team": "Málaga",
@@ -281,6 +267,20 @@
       "goalsFor": 1,
       "goalsAgainst": 7,
       "goalDifference": -6,
+      "points": 1,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 19,
+      "rank": 19
+    },
+    {
+      "team": "Valencia",
+      "played": 4,
+      "wins": 0,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 1,
+      "goalsAgainst": 9,
+      "goalDifference": -8,
       "points": 1,
       "group": "2026-27 LALIGA",
       "sourceRank": 20,
