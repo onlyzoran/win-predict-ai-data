@@ -2,12 +2,12 @@
   "kind": "prediction",
   "contestId": "rpl-26-27",
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T03:31:39Z",
+  "generatedAt": "2026-09-06T10:09:51Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-09-05",
+  "basedOnFactsDate": "2026-09-06",
   "basedOnTour": 7,
   "target": "champion",
   "unit": "percent",
