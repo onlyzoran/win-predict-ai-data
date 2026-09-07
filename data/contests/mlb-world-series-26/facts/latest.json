@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-07",
-  "fetchedAt": "2026-09-07T14:08:55Z",
+  "fetchedAt": "2026-09-07T19:46:58Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -39,10 +39,10 @@
     },
     {
       "participantId": "atlanta-braves",
-      "played": 143,
+      "played": 144,
       "wins": 85,
-      "losses": 58,
-      "winPercent": 0.594,
+      "losses": 59,
+      "winPercent": 0.59,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 4
@@ -58,7 +58,7 @@
       "rank": 5
     },
     {
-      "participantId": "chicago-cubs",
+      "participantId": "philadelphia-phillies",
       "played": 144,
       "wins": 81,
       "losses": 63,
@@ -68,11 +68,11 @@
       "rank": 6
     },
     {
-      "participantId": "philadelphia-phillies",
-      "played": 143,
-      "wins": 80,
+      "participantId": "chicago-cubs",
+      "played": 144,
+      "wins": 81,
       "losses": 63,
-      "winPercent": 0.559,
+      "winPercent": 0.563,
       "playoffSeed": 2,
       "group": "National League",
       "rank": 7

@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-09-07",
-  "fetchedAt": "2026-09-07T14:08:55Z",
+  "fetchedAt": "2026-09-07T19:46:57Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Cagliari",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "goalDifference": 1,
+      "points": 6,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Udinese",
       "played": 2,
       "wins": 1,
@@ -129,8 +143,8 @@
       "goalDifference": 1,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Sassuolo",
@@ -143,8 +157,8 @@
       "goalDifference": 0,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Napoli",
@@ -157,21 +171,7 @@
       "goalDifference": 0,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 13,
-      "rank": 11
-    },
-    {
-      "team": "Cagliari",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "goalDifference": 0,
-      "points": 3,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 11,
+      "sourceRank": 12,
       "rank": 12
     },
     {
@@ -185,21 +185,21 @@
       "goalDifference": -1,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 14,
+      "sourceRank": 13,
       "rank": 13
     },
     {
       "team": "Lecce",
-      "played": 2,
+      "played": 3,
       "wins": 1,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "goalsFor": 2,
-      "goalsAgainst": 4,
-      "goalDifference": -2,
+      "goalsAgainst": 5,
+      "goalDifference": -3,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 12,
+      "sourceRank": 14,
       "rank": 14
     },
     {
