@@ -2,46 +2,42 @@
   "kind": "prediction",
   "contestId": "rpl-26-27",
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T03:09:40Z",
+  "generatedAt": "2026-09-07T10:12:12Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-09-06",
+  "basedOnFactsDate": "2026-09-07",
   "basedOnTour": 7,
   "target": "champion",
   "unit": "percent",
   "items": [
     {
       "participantId": "krasnodar",
-      "probability": 29.4
+      "probability": 29.0
     },
     {
       "participantId": "spartak-moscow",
-      "probability": 16.54
+      "probability": 16.43
     },
     {
       "participantId": "cska-moscow",
-      "probability": 16.12
+      "probability": 14.86
     },
     {
       "participantId": "zenit-st-petersburg",
-      "probability": 10.59
+      "probability": 11.89
     },
     {
       "participantId": "dinamo-moscow",
-      "probability": 6.46
+      "probability": 7.12
     },
     {
       "participantId": "lokomotiv-moscow",
-      "probability": 3.19
+      "probability": 3.0
     },
     {
-      "participantId": "fakel-voronezh",
-      "probability": 1.77
-    },
-    {
-      "participantId": "krylia-sovetov",
+      "participantId": "dynamo-makhachkala",
       "probability": 1.77
     },
     {
@@ -53,19 +49,15 @@
       "probability": 1.77
     },
     {
-      "participantId": "rodina-moscow",
-      "probability": 1.77
-    },
-    {
       "participantId": "rostov",
       "probability": 1.77
     },
     {
-      "participantId": "akron-tolyatti",
+      "participantId": "gazovik-orenburg",
       "probability": 1.77
     },
     {
-      "participantId": "dynamo-makhachkala",
+      "participantId": "krylia-sovetov",
       "probability": 1.77
     },
     {
@@ -73,7 +65,15 @@
       "probability": 1.77
     },
     {
-      "participantId": "gazovik-orenburg",
+      "participantId": "akron-tolyatti",
+      "probability": 1.77
+    },
+    {
+      "participantId": "rodina-moscow",
+      "probability": 1.77
+    },
+    {
+      "participantId": "fakel-voronezh",
       "probability": 1.77
     }
   ]
