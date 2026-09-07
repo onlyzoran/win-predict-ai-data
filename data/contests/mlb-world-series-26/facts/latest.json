@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-07",
-  "fetchedAt": "2026-09-07T04:03:53Z",
+  "fetchedAt": "2026-09-07T14:08:55Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -19,10 +19,10 @@
     },
     {
       "participantId": "los-angeles-dodgers",
-      "played": 142,
-      "wins": 85,
+      "played": 143,
+      "wins": 86,
       "losses": 57,
-      "winPercent": 0.599,
+      "winPercent": 0.601,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 2
@@ -229,10 +229,10 @@
     },
     {
       "participantId": "washington-nationals",
-      "played": 144,
+      "played": 145,
       "wins": 67,
-      "losses": 77,
-      "winPercent": 0.465,
+      "losses": 78,
+      "winPercent": 0.462,
       "playoffSeed": 4,
       "group": "National League",
       "rank": 23
