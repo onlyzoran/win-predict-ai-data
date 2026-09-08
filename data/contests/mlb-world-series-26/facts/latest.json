@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-08",
-  "fetchedAt": "2026-09-08T04:05:39Z",
+  "fetchedAt": "2026-09-08T12:47:05Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -139,10 +139,10 @@
     },
     {
       "participantId": "toronto-blue-jays",
-      "played": 144,
+      "played": 145,
       "wins": 72,
-      "losses": 72,
-      "winPercent": 0.5,
+      "losses": 73,
+      "winPercent": 0.497,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 14
@@ -279,10 +279,10 @@
     },
     {
       "participantId": "athletics",
-      "played": 144,
-      "wins": 57,
+      "played": 145,
+      "wins": 58,
       "losses": 87,
-      "winPercent": 0.396,
+      "winPercent": 0.4,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 28
