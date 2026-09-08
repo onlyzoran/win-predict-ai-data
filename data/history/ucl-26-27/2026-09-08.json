@@ -1,39 +1,41 @@
 {
   "leagueId": "ucl-26-27",
   "date": "2026-09-08",
-  "fetchedAt": "2026-09-08T12:47:01Z",
+  "fetchedAt": "2026-09-08T19:21:31Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
-      "team": "AEK Athens",
-      "wins": 0,
+      "team": "Aston Villa",
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "points": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 2,
+      "goalDifference": 1,
+      "points": 3,
       "group": "League Phase",
       "sourceRank": 1,
       "rank": 1
     },
     {
-      "team": "Arsenal",
-      "wins": 0,
+      "team": "AEK Athens",
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "goalsFor": 0,
+      "goalsFor": 1,
       "goalsAgainst": 0,
-      "goalDifference": 0,
-      "points": 0,
+      "goalDifference": 1,
+      "points": 3,
       "group": "League Phase",
       "sourceRank": 2,
       "rank": 2
     },
     {
-      "team": "Aston Villa",
+      "team": "Arsenal",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -111,7 +113,7 @@
       "rank": 8
     },
     {
-      "team": "Club Brugge",
+      "team": "Como",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -124,7 +126,7 @@
       "rank": 9
     },
     {
-      "team": "Como",
+      "team": "Fenerbahce",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -137,7 +139,7 @@
       "rank": 10
     },
     {
-      "team": "Fenerbahce",
+      "team": "Feyenoord Rotterdam",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -150,7 +152,7 @@
       "rank": 11
     },
     {
-      "team": "Feyenoord Rotterdam",
+      "team": "Galatasaray",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -163,7 +165,7 @@
       "rank": 12
     },
     {
-      "team": "Galatasaray",
+      "team": "Internazionale",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -176,7 +178,7 @@
       "rank": 13
     },
     {
-      "team": "Internazionale",
+      "team": "Lens",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -189,7 +191,7 @@
       "rank": 14
     },
     {
-      "team": "LASK Linz",
+      "team": "Lille",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -202,7 +204,7 @@
       "rank": 15
     },
     {
-      "team": "Lens",
+      "team": "Liverpool",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -215,7 +217,7 @@
       "rank": 16
     },
     {
-      "team": "Lille",
+      "team": "Manchester City",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -228,7 +230,7 @@
       "rank": 17
     },
     {
-      "team": "Liverpool",
+      "team": "Manchester United",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -241,7 +243,7 @@
       "rank": 18
     },
     {
-      "team": "Manchester City",
+      "team": "Napoli",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -254,7 +256,7 @@
       "rank": 19
     },
     {
-      "team": "Manchester United",
+      "team": "PSV Eindhoven",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -267,7 +269,7 @@
       "rank": 20
     },
     {
-      "team": "Napoli",
+      "team": "Paris Saint-Germain",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -280,7 +282,7 @@
       "rank": 21
     },
     {
-      "team": "PSV Eindhoven",
+      "team": "FC Porto",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -293,7 +295,7 @@
       "rank": 22
     },
     {
-      "team": "Paris Saint-Germain",
+      "team": "RB Leipzig",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -306,7 +308,7 @@
       "rank": 23
     },
     {
-      "team": "FC Porto",
+      "team": "Real Betis",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -319,7 +321,7 @@
       "rank": 24
     },
     {
-      "team": "RB Leipzig",
+      "team": "Real Madrid",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -332,7 +334,7 @@
       "rank": 25
     },
     {
-      "team": "Real Betis",
+      "team": "AS Roma",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -345,7 +347,7 @@
       "rank": 26
     },
     {
-      "team": "Real Madrid",
+      "team": "Sabah FK",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -358,7 +360,7 @@
       "rank": 27
     },
     {
-      "team": "AS Roma",
+      "team": "Shakhtar Donetsk",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -371,7 +373,7 @@
       "rank": 28
     },
     {
-      "team": "Sabah FK",
+      "team": "Slavia Prague",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -384,7 +386,7 @@
       "rank": 29
     },
     {
-      "team": "Shakhtar Donetsk",
+      "team": "Slovan Bratislava",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -397,7 +399,7 @@
       "rank": 30
     },
     {
-      "team": "Slavia Prague",
+      "team": "Sporting CP",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -410,7 +412,7 @@
       "rank": 31
     },
     {
-      "team": "Slovan Bratislava",
+      "team": "VfB Stuttgart",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -423,7 +425,7 @@
       "rank": 32
     },
     {
-      "team": "Sporting CP",
+      "team": "Viking FK",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -436,7 +438,7 @@
       "rank": 33
     },
     {
-      "team": "VfB Stuttgart",
+      "team": "Villarreal",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -449,26 +451,28 @@
       "rank": 34
     },
     {
-      "team": "Viking FK",
+      "team": "Club Brugge",
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
+      "losses": 1,
+      "goalsFor": 2,
+      "goalsAgainst": 3,
+      "goalDifference": -1,
       "points": 0,
       "group": "League Phase",
       "sourceRank": 35,
       "rank": 35
     },
     {
-      "team": "Villarreal",
+      "team": "LASK Linz",
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
+      "goalsAgainst": 1,
+      "goalDifference": -1,
       "points": 0,
       "group": "League Phase",
       "sourceRank": 36,
