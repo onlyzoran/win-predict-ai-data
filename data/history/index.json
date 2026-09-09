@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T12:52:01Z",
+  "updatedAt": "2026-09-09T19:11:15Z",
   "leagues": {
     "bundesliga-26-27": {
       "count": 29,
@@ -63,6 +63,13 @@
       "last": "2026-09-09",
       "daysFile": "nfl-super-bowl-26-27/days.json",
       "latestFile": "nfl-super-bowl-26-27/latest.json"
+    },
+    "nhl-stanley-cup-26-27": {
+      "count": 1,
+      "first": "2026-09-09",
+      "last": "2026-09-09",
+      "daysFile": "nhl-stanley-cup-26-27/days.json",
+      "latestFile": "nhl-stanley-cup-26-27/latest.json"
     },
     "serie-a-26-27": {
       "count": 29,
