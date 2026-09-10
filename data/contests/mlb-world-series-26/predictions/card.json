@@ -2,8 +2,8 @@
   "kind": "predictionCard",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T03:09:45Z",
-  "basedOnFactsDate": "2026-09-09",
+  "generatedAt": "2026-09-10T10:10:25Z",
+  "basedOnFactsDate": "2026-09-10",
   "basedOnTour": null,
   "target": "champion",
   "unit": "percent",
@@ -12,32 +12,32 @@
     {
       "participantId": "milwaukee-brewers",
       "name": "Milwaukee Brewers",
-      "probability": 6.15
+      "probability": 6.06
     },
     {
       "participantId": "los-angeles-dodgers",
       "name": "Los Angeles Dodgers",
-      "probability": 5.83
+      "probability": 5.7
     },
     {
       "participantId": "tampa-bay-rays",
       "name": "Tampa Bay Rays",
-      "probability": 5.64
+      "probability": 5.52
     },
     {
       "participantId": "atlanta-braves",
       "name": "Atlanta Braves",
-      "probability": 5.35
+      "probability": 5.06
     },
     {
       "participantId": "new-york-yankees",
       "name": "New York Yankees",
-      "probability": 4.49
+      "probability": 4.6
     },
     {
       "participantId": "others",
       "name": "Others",
-      "probability": 72.54,
+      "probability": 73.06,
       "othersCount": 25
     }
   ]

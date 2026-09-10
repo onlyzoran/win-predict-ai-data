@@ -2,135 +2,135 @@
   "kind": "prediction",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T03:09:45Z",
+  "generatedAt": "2026-09-10T10:10:25Z",
   "model": {
     "name": "cursor-cloud",
     "version": "composer-2.5"
   },
-  "basedOnFactsDate": "2026-09-09",
+  "basedOnFactsDate": "2026-09-10",
   "basedOnTour": null,
   "target": "champion",
   "unit": "percent",
   "items": [
     {
       "participantId": "milwaukee-brewers",
-      "probability": 6.15
+      "probability": 6.06
     },
     {
       "participantId": "los-angeles-dodgers",
-      "probability": 5.83
+      "probability": 5.7
     },
     {
       "participantId": "tampa-bay-rays",
-      "probability": 5.64
+      "probability": 5.52
     },
     {
       "participantId": "atlanta-braves",
-      "probability": 5.35
+      "probability": 5.06
     },
     {
       "participantId": "new-york-yankees",
-      "probability": 4.49
+      "probability": 4.6
     },
     {
       "participantId": "philadelphia-phillies",
-      "probability": 4.28
+      "probability": 4.39
     },
     {
       "participantId": "chicago-cubs",
-      "probability": 4.2
-    },
-    {
-      "participantId": "chicago-white-sox",
-      "probability": 3.93
+      "probability": 4.16
     },
     {
       "participantId": "boston-red-sox",
-      "probability": 3.87
-    },
-    {
-      "participantId": "arizona-diamondbacks",
-      "probability": 3.8
-    },
-    {
-      "participantId": "houston-astros",
-      "probability": 3.73
+      "probability": 3.84
     },
     {
       "participantId": "san-diego-padres",
-      "probability": 3.57
+      "probability": 3.84
+    },
+    {
+      "participantId": "chicago-white-sox",
+      "probability": 3.72
+    },
+    {
+      "participantId": "arizona-diamondbacks",
+      "probability": 3.61
+    },
+    {
+      "participantId": "houston-astros",
+      "probability": 3.54
     },
     {
       "participantId": "cleveland-guardians",
-      "probability": 3.34
+      "probability": 3.31
     },
     {
       "participantId": "texas-rangers",
-      "probability": 3.13
+      "probability": 3.16
     },
     {
       "participantId": "pittsburgh-pirates",
-      "probability": 3.04
+      "probability": 3.11
     },
     {
       "participantId": "miami-marlins",
-      "probability": 2.98
+      "probability": 2.97
     },
     {
       "participantId": "toronto-blue-jays",
-      "probability": 2.94
+      "probability": 2.93
     },
     {
       "participantId": "st-louis-cardinals",
-      "probability": 2.84
-    },
-    {
-      "participantId": "minnesota-twins",
-      "probability": 2.75
-    },
-    {
-      "participantId": "seattle-mariners",
-      "probability": 2.61
+      "probability": 2.83
     },
     {
       "participantId": "baltimore-orioles",
-      "probability": 2.6
+      "probability": 2.74
+    },
+    {
+      "participantId": "minnesota-twins",
+      "probability": 2.74
     },
     {
       "participantId": "cincinnati-reds",
-      "probability": 2.6
+      "probability": 2.65
+    },
+    {
+      "participantId": "seattle-mariners",
+      "probability": 2.65
     },
     {
       "participantId": "new-york-mets",
-      "probability": 2.45
+      "probability": 2.53
     },
     {
       "participantId": "detroit-tigers",
-      "probability": 2.37
+      "probability": 2.44
     },
     {
       "participantId": "washington-nationals",
-      "probability": 2.33
+      "probability": 2.37
     },
     {
       "participantId": "kansas-city-royals",
-      "probability": 2.14
+      "probability": 2.25
     },
     {
       "participantId": "san-francisco-giants",
-      "probability": 1.99
+      "probability": 2.05
     },
     {
       "participantId": "athletics",
-      "probability": 1.8
-    },
-    {
-      "participantId": "colorado-rockies",
-      "probability": 1.64
+      "probability": 1.85
     },
     {
       "participantId": "los-angeles-angels",
-      "probability": 1.61
+      "probability": 1.71
+    },
+    {
+      "participantId": "colorado-rockies",
+      "probability": 1.67
     }
   ]
 }
