@@ -1,7 +1,7 @@
 {
   "leagueId": "ucl-26-27",
   "date": "2026-09-10",
-  "fetchedAt": "2026-09-10T12:49:53Z",
+  "fetchedAt": "2026-09-10T19:02:45Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -175,59 +175,63 @@
       "rank": 12
     },
     {
-      "team": "Bayern Munich",
+      "team": "AS Roma",
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "points": 0,
+      "points": 1,
       "group": "League Phase",
       "sourceRank": 13,
       "rank": 13
     },
     {
-      "team": "Bodo/Glimt",
+      "team": "Shakhtar Donetsk",
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "points": 0,
+      "points": 1,
       "group": "League Phase",
       "sourceRank": 14,
       "rank": 14
     },
     {
-      "team": "Como",
+      "team": "Fenerbahce",
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "points": 0,
+      "points": 1,
       "group": "League Phase",
       "sourceRank": 15,
       "rank": 15
     },
     {
-      "team": "Fenerbahce",
+      "team": "PSV Eindhoven",
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "points": 0,
+      "points": 1,
       "group": "League Phase",
       "sourceRank": 16,
       "rank": 16
     },
     {
-      "team": "Lens",
+      "team": "Bayern Munich",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -240,7 +244,7 @@
       "rank": 17
     },
     {
-      "team": "Manchester United",
+      "team": "Bodo/Glimt",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -253,7 +257,7 @@
       "rank": 18
     },
     {
-      "team": "PSV Eindhoven",
+      "team": "Como",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -266,7 +270,7 @@
       "rank": 19
     },
     {
-      "team": "RB Leipzig",
+      "team": "Lens",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -279,7 +283,7 @@
       "rank": 20
     },
     {
-      "team": "AS Roma",
+      "team": "Manchester United",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -292,7 +296,7 @@
       "rank": 21
     },
     {
-      "team": "Sabah FK",
+      "team": "RB Leipzig",
       "wins": 0,
       "draws": 0,
       "losses": 0,
@@ -305,7 +309,7 @@
       "rank": 22
     },
     {
-      "team": "Shakhtar Donetsk",
+      "team": "Sabah FK",
       "wins": 0,
       "draws": 0,
       "losses": 0,
