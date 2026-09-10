@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
   "date": "2026-09-10",
-  "fetchedAt": "2026-09-10T04:09:39Z",
+  "fetchedAt": "2026-09-10T12:49:54Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -21,6 +21,20 @@
       "rank": 1
     },
     {
+      "team": "Vancouver Whitecaps",
+      "played": 23,
+      "wins": 14,
+      "draws": 4,
+      "losses": 5,
+      "goalsFor": 52,
+      "goalsAgainst": 21,
+      "goalDifference": 31,
+      "points": 46,
+      "group": "Western Conference",
+      "sourceRank": 1,
+      "rank": 2
+    },
+    {
       "team": "Inter Miami CF",
       "played": 24,
       "wins": 12,
@@ -32,20 +46,6 @@
       "points": 44,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 2
-    },
-    {
-      "team": "Vancouver Whitecaps",
-      "played": 22,
-      "wins": 13,
-      "draws": 4,
-      "losses": 5,
-      "goalsFor": 49,
-      "goalsAgainst": 21,
-      "goalDifference": 28,
-      "points": 43,
-      "group": "Western Conference",
-      "sourceRank": 1,
       "rank": 3
     },
     {
@@ -63,6 +63,20 @@
       "rank": 4
     },
     {
+      "team": "LAFC",
+      "played": 25,
+      "wins": 11,
+      "draws": 7,
+      "losses": 7,
+      "goalsFor": 40,
+      "goalsAgainst": 24,
+      "goalDifference": 16,
+      "points": 40,
+      "group": "Western Conference",
+      "sourceRank": 3,
+      "rank": 5
+    },
+    {
       "team": "New England Revolution",
       "played": 24,
       "wins": 12,
@@ -74,7 +88,7 @@
       "points": 40,
       "group": "Eastern Conference",
       "sourceRank": 3,
-      "rank": 5
+      "rank": 6
     },
     {
       "team": "FC Dallas",
@@ -87,8 +101,8 @@
       "goalDifference": 6,
       "points": 40,
       "group": "Western Conference",
-      "sourceRank": 3,
-      "rank": 6
+      "sourceRank": 4,
+      "rank": 7
     },
     {
       "team": "Chicago Fire FC",
@@ -102,7 +116,7 @@
       "points": 39,
       "group": "Eastern Conference",
       "sourceRank": 4,
-      "rank": 7
+      "rank": 8
     },
     {
       "team": "Charlotte FC",
@@ -116,49 +130,49 @@
       "points": 39,
       "group": "Eastern Conference",
       "sourceRank": 5,
-      "rank": 8
-    },
-    {
-      "team": "LAFC",
-      "played": 24,
-      "wins": 10,
-      "draws": 7,
-      "losses": 7,
-      "goalsFor": 38,
-      "goalsAgainst": 24,
-      "goalDifference": 14,
-      "points": 37,
-      "group": "Western Conference",
-      "sourceRank": 4,
       "rank": 9
     },
     {
-      "team": "St. Louis CITY SC",
-      "played": 23,
-      "wins": 10,
-      "draws": 7,
-      "losses": 6,
-      "goalsFor": 36,
-      "goalsAgainst": 31,
-      "goalDifference": 5,
-      "points": 37,
+      "team": "San Jose Earthquakes",
+      "played": 24,
+      "wins": 11,
+      "draws": 5,
+      "losses": 8,
+      "goalsFor": 43,
+      "goalsAgainst": 36,
+      "goalDifference": 7,
+      "points": 38,
       "group": "Western Conference",
       "sourceRank": 5,
       "rank": 10
     },
     {
-      "team": "San Jose Earthquakes",
-      "played": 23,
+      "team": "St. Louis CITY SC",
+      "played": 24,
       "wins": 10,
-      "draws": 5,
-      "losses": 8,
-      "goalsFor": 40,
-      "goalsAgainst": 34,
-      "goalDifference": 6,
-      "points": 35,
+      "draws": 8,
+      "losses": 6,
+      "goalsFor": 38,
+      "goalsAgainst": 33,
+      "goalDifference": 5,
+      "points": 38,
       "group": "Western Conference",
       "sourceRank": 6,
       "rank": 11
+    },
+    {
+      "team": "Portland Timbers",
+      "played": 24,
+      "wins": 9,
+      "draws": 5,
+      "losses": 10,
+      "goalsFor": 46,
+      "goalsAgainst": 45,
+      "goalDifference": 1,
+      "points": 32,
+      "group": "Western Conference",
+      "sourceRank": 8,
+      "rank": 12
     },
     {
       "team": "Colorado Rapids",
@@ -172,20 +186,6 @@
       "points": 32,
       "group": "Western Conference",
       "sourceRank": 7,
-      "rank": 12
-    },
-    {
-      "team": "Portland Timbers",
-      "played": 23,
-      "wins": 9,
-      "draws": 4,
-      "losses": 10,
-      "goalsFor": 44,
-      "goalsAgainst": 43,
-      "goalDifference": 1,
-      "points": 31,
-      "group": "Western Conference",
-      "sourceRank": 8,
       "rank": 13
     },
     {
@@ -218,13 +218,13 @@
     },
     {
       "team": "San Diego FC",
-      "played": 23,
+      "played": 24,
       "wins": 8,
       "draws": 6,
-      "losses": 9,
-      "goalsFor": 40,
-      "goalsAgainst": 34,
-      "goalDifference": 6,
+      "losses": 10,
+      "goalsFor": 42,
+      "goalsAgainst": 37,
+      "goalDifference": 5,
       "points": 30,
       "group": "Western Conference",
       "sourceRank": 9,
@@ -302,13 +302,13 @@
     },
     {
       "team": "LA Galaxy",
-      "played": 24,
+      "played": 25,
       "wins": 7,
       "draws": 8,
-      "losses": 9,
+      "losses": 10,
       "goalsFor": 30,
-      "goalsAgainst": 36,
-      "goalDifference": -6,
+      "goalsAgainst": 39,
+      "goalDifference": -9,
       "points": 29,
       "group": "Western Conference",
       "sourceRank": 12,
@@ -344,13 +344,13 @@
     },
     {
       "team": "Red Bull New York",
-      "played": 23,
+      "played": 24,
       "wins": 7,
       "draws": 6,
-      "losses": 10,
+      "losses": 11,
       "goalsFor": 32,
-      "goalsAgainst": 46,
-      "goalDifference": -14,
+      "goalsAgainst": 48,
+      "goalDifference": -16,
       "points": 27,
       "group": "Eastern Conference",
       "sourceRank": 12,
