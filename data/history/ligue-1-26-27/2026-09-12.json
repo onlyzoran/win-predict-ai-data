@@ -1,11 +1,25 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-09-12",
-  "fetchedAt": "2026-09-12T12:04:22Z",
+  "fetchedAt": "2026-09-12T18:15:30Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "AS Monaco",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 6,
+      "goalsAgainst": 2,
+      "goalDifference": 4,
+      "points": 10,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Stade Rennais",
       "played": 4,
@@ -16,20 +30,6 @@
       "goalsAgainst": 5,
       "goalDifference": 3,
       "points": 10,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 1,
-      "rank": 1
-    },
-    {
-      "team": "AS Monaco",
-      "played": 3,
-      "wins": 3,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 5,
-      "goalsAgainst": 1,
-      "goalDifference": 4,
-      "points": 9,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 2,
       "rank": 2
@@ -78,14 +78,14 @@
     },
     {
       "team": "Strasbourg",
-      "played": 3,
+      "played": 4,
       "wins": 2,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 7,
+      "goalsFor": 9,
+      "goalsAgainst": 8,
       "goalDifference": 1,
-      "points": 6,
+      "points": 7,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 6,
       "rank": 6

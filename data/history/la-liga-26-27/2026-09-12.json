@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-09-12",
-  "fetchedAt": "2026-09-12T12:04:22Z",
+  "fetchedAt": "2026-09-12T18:15:29Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -22,13 +22,13 @@
     },
     {
       "team": "Alavés",
-      "played": 4,
+      "played": 5,
       "wins": 3,
       "draws": 1,
-      "losses": 0,
-      "goalsFor": 10,
-      "goalsAgainst": 3,
-      "goalDifference": 7,
+      "losses": 1,
+      "goalsFor": 11,
+      "goalsAgainst": 5,
+      "goalDifference": 6,
       "points": 10,
       "group": "2026-27 LALIGA",
       "sourceRank": 2,
@@ -91,6 +91,20 @@
       "rank": 6
     },
     {
+      "team": "Espanyol",
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 5,
+      "goalDifference": 3,
+      "points": 7,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
       "team": "Atlético Madrid",
       "played": 4,
       "wins": 2,
@@ -101,22 +115,22 @@
       "goalDifference": 1,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 7,
-      "rank": 7
-    },
-    {
-      "team": "Osasuna",
-      "played": 4,
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 5,
-      "goalsAgainst": 6,
-      "goalDifference": -1,
-      "points": 7,
-      "group": "2026-27 LALIGA",
       "sourceRank": 8,
       "rank": 8
+    },
+    {
+      "team": "Racing Santander",
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 9,
+      "goalDifference": 0,
+      "points": 7,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "Real Sociedad",
@@ -129,8 +143,22 @@
       "goalDifference": -2,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
+      "team": "Osasuna",
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 8,
+      "goalDifference": -3,
+      "points": 7,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Athletic Club",
@@ -143,8 +171,8 @@
       "goalDifference": 1,
       "points": 6,
       "group": "2026-27 LALIGA",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Levante",
@@ -156,34 +184,6 @@
       "goalsAgainst": 5,
       "goalDifference": 0,
       "points": 5,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 11,
-      "rank": 11
-    },
-    {
-      "team": "Espanyol",
-      "played": 4,
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "goalsFor": 6,
-      "goalsAgainst": 5,
-      "goalDifference": 1,
-      "points": 4,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Racing Santander",
-      "played": 4,
-      "wins": 1,
-      "draws": 1,
-      "losses": 2,
-      "goalsFor": 7,
-      "goalsAgainst": 8,
-      "goalDifference": -1,
-      "points": 4,
       "group": "2026-27 LALIGA",
       "sourceRank": 13,
       "rank": 13
