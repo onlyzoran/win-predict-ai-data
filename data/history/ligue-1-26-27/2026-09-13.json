@@ -1,11 +1,25 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-09-13",
-  "fetchedAt": "2026-09-13T13:14:23Z",
+  "fetchedAt": "2026-09-13T18:41:13Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Lille",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 7,
+      "goalsAgainst": 2,
+      "goalDifference": 5,
+      "points": 10,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "AS Monaco",
       "played": 4,
@@ -17,8 +31,8 @@
       "goalDifference": 4,
       "points": 10,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 1,
-      "rank": 1
+      "sourceRank": 2,
+      "rank": 2
     },
     {
       "team": "Stade Rennais",
@@ -31,25 +45,11 @@
       "goalDifference": 3,
       "points": 10,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 2,
-      "rank": 2
-    },
-    {
-      "team": "Lyon",
-      "played": 4,
-      "wins": 2,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 2,
-      "goalDifference": 4,
-      "points": 8,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 3,
       "rank": 3
     },
     {
-      "team": "Paris FC",
+      "team": "Lyon",
       "played": 4,
       "wins": 2,
       "draws": 2,
@@ -63,15 +63,15 @@
       "rank": 4
     },
     {
-      "team": "Lille",
-      "played": 3,
+      "team": "Paris FC",
+      "played": 4,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "goalsFor": 5,
+      "goalsFor": 6,
       "goalsAgainst": 2,
-      "goalDifference": 3,
-      "points": 7,
+      "goalDifference": 4,
+      "points": 8,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 5,
       "rank": 5
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Lens",
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 8,
+      "goalsAgainst": 7,
+      "goalDifference": 1,
+      "points": 4,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Angers",
       "played": 4,
       "wins": 1,
@@ -129,33 +143,19 @@
       "goalDifference": -1,
       "points": 4,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 9,
-      "rank": 9
-    },
-    {
-      "team": "Troyes",
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 7,
-      "goalDifference": -3,
-      "points": 4,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 10,
       "rank": 10
     },
     {
-      "team": "Lens",
-      "played": 3,
+      "team": "Troyes",
+      "played": 4,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
-      "goalsFor": 6,
-      "goalsAgainst": 5,
-      "goalDifference": 1,
-      "points": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 9,
+      "goalDifference": -5,
+      "points": 4,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 11,
       "rank": 11
@@ -175,6 +175,20 @@
       "rank": 12
     },
     {
+      "team": "Le Mans",
+      "played": 4,
+      "wins": 0,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "goalDifference": -1,
+      "points": 3,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
       "team": "AJ Auxerre",
       "played": 4,
       "wins": 1,
@@ -185,25 +199,11 @@
       "goalDifference": -6,
       "points": 3,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "Paris Saint-Germain",
-      "played": 3,
-      "wins": 0,
-      "draws": 2,
-      "losses": 1,
-      "goalsFor": 5,
-      "goalsAgainst": 6,
-      "goalDifference": -1,
-      "points": 2,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 14,
       "rank": 14
     },
     {
-      "team": "Le Mans",
+      "team": "Paris Saint-Germain",
       "played": 3,
       "wins": 0,
       "draws": 2,

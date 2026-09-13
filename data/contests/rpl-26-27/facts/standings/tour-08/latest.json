@@ -2,22 +2,34 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-09-13",
-  "fetchedAt": "2026-09-13T13:14:23Z",
+  "fetchedAt": "2026-09-13T18:41:13Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "krasnodar",
-      "played": 7,
+      "played": 8,
       "wins": 6,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "goalsFor": 13,
-      "goalsAgainst": 6,
+      "goalsFor": 14,
+      "goalsAgainst": 7,
       "goalDifference": 7,
-      "points": 19,
+      "points": 20,
       "rank": 1
+    },
+    {
+      "participantId": "spartak-moscow",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 15,
+      "goalsAgainst": 7,
+      "goalDifference": 8,
+      "points": 16,
+      "rank": 2
     },
     {
       "participantId": "cska-moscow",
@@ -29,7 +41,7 @@
       "goalsAgainst": 8,
       "goalDifference": 4,
       "points": 16,
-      "rank": 2
+      "rank": 3
     },
     {
       "participantId": "dinamo-moscow",
@@ -41,7 +53,7 @@
       "goalsAgainst": 8,
       "goalDifference": 3,
       "points": 16,
-      "rank": 3
+      "rank": 4
     },
     {
       "participantId": "zenit-st-petersburg",
@@ -53,29 +65,17 @@
       "goalsAgainst": 7,
       "goalDifference": 9,
       "points": 15,
-      "rank": 4
-    },
-    {
-      "participantId": "spartak-moscow",
-      "played": 7,
-      "wins": 4,
-      "draws": 1,
-      "losses": 2,
-      "goalsFor": 12,
-      "goalsAgainst": 7,
-      "goalDifference": 5,
-      "points": 13,
       "rank": 5
     },
     {
       "participantId": "dynamo-makhachkala",
-      "played": 7,
+      "played": 8,
       "wins": 4,
       "draws": 0,
-      "losses": 3,
-      "goalsFor": 12,
-      "goalsAgainst": 10,
-      "goalDifference": 2,
+      "losses": 4,
+      "goalsFor": 14,
+      "goalsAgainst": 13,
+      "goalDifference": 1,
       "points": 12,
       "rank": 6
     },
@@ -104,6 +104,18 @@
       "rank": 8
     },
     {
+      "participantId": "akhmat-grozny",
+      "played": 8,
+      "wins": 2,
+      "draws": 4,
+      "losses": 2,
+      "goalsFor": 13,
+      "goalsAgainst": 11,
+      "goalDifference": 2,
+      "points": 10,
+      "rank": 9
+    },
+    {
       "participantId": "krylia-sovetov",
       "played": 8,
       "wins": 2,
@@ -113,18 +125,6 @@
       "goalsAgainst": 13,
       "goalDifference": -1,
       "points": 10,
-      "rank": 9
-    },
-    {
-      "participantId": "rostov",
-      "played": 7,
-      "wins": 2,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 10,
-      "goalsAgainst": 11,
-      "goalDifference": -1,
-      "points": 8,
       "rank": 10
     },
     {
@@ -140,15 +140,15 @@
       "rank": 11
     },
     {
-      "participantId": "akhmat-grozny",
-      "played": 7,
-      "wins": 1,
-      "draws": 4,
-      "losses": 2,
+      "participantId": "rostov",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
       "goalsFor": 10,
-      "goalsAgainst": 9,
-      "goalDifference": 1,
-      "points": 7,
+      "goalsAgainst": 14,
+      "goalDifference": -4,
+      "points": 8,
       "rank": 12
     },
     {
@@ -165,14 +165,14 @@
     },
     {
       "participantId": "akron-tolyatti",
-      "played": 7,
+      "played": 8,
       "wins": 0,
-      "draws": 4,
+      "draws": 5,
       "losses": 3,
-      "goalsFor": 8,
-      "goalsAgainst": 17,
+      "goalsFor": 9,
+      "goalsAgainst": 18,
       "goalDifference": -9,
-      "points": 4,
+      "points": 5,
       "rank": 14
     },
     {
@@ -201,5 +201,5 @@
     }
   ],
   "tour": 8,
-  "tourStatus": "in_progress"
+  "tourStatus": "final"
 }

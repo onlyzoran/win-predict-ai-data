@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-09-13",
-  "fetchedAt": "2026-09-13T13:14:23Z",
+  "fetchedAt": "2026-09-13T18:41:13Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Napoli",
+      "played": 4,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 5,
+      "goalDifference": 1,
+      "points": 6,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Atalanta",
       "played": 4,
       "wins": 2,
@@ -129,8 +143,22 @@
       "goalDifference": 0,
       "points": 6,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
+      "team": "Lecce",
+      "played": 4,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 7,
+      "goalDifference": -2,
+      "points": 6,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Sassuolo",
@@ -143,8 +171,8 @@
       "goalDifference": 0,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Udinese",
@@ -157,22 +185,8 @@
       "goalDifference": 0,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 11,
-      "rank": 11
-    },
-    {
-      "team": "Napoli",
-      "played": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "goalsFor": 5,
-      "goalsAgainst": 5,
-      "goalDifference": 0,
-      "points": 3,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Torino",
@@ -183,20 +197,6 @@
       "goalsFor": 4,
       "goalsAgainst": 5,
       "goalDifference": -1,
-      "points": 3,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "Lecce",
-      "played": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 5,
-      "goalDifference": -3,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 14,
@@ -218,16 +218,16 @@
     },
     {
       "team": "Bologna",
-      "played": 3,
+      "played": 4,
       "wins": 0,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 2,
-      "goalsAgainst": 4,
-      "goalDifference": -2,
+      "goalsAgainst": 5,
+      "goalDifference": -3,
       "points": 1,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 16,
+      "sourceRank": 17,
       "rank": 16
     },
     {
@@ -241,18 +241,18 @@
       "goalDifference": -3,
       "points": 1,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 17,
+      "sourceRank": 16,
       "rank": 17
     },
     {
       "team": "Monza",
-      "played": 3,
+      "played": 4,
       "wins": 0,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 8,
-      "goalDifference": -4,
+      "losses": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 11,
+      "goalDifference": -5,
       "points": 1,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 18,
