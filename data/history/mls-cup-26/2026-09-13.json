@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
   "date": "2026-09-13",
-  "fetchedAt": "2026-09-13T04:20:18Z",
+  "fetchedAt": "2026-09-13T13:14:23Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -64,17 +64,31 @@
     },
     {
       "team": "Houston Dynamo FC",
-      "played": 24,
+      "played": 25,
       "wins": 13,
       "draws": 4,
-      "losses": 7,
+      "losses": 8,
       "goalsFor": 32,
-      "goalsAgainst": 27,
-      "goalDifference": 5,
+      "goalsAgainst": 28,
+      "goalDifference": 4,
       "points": 43,
       "group": "Western Conference",
       "sourceRank": 2,
       "rank": 5
+    },
+    {
+      "team": "San Jose Earthquakes",
+      "played": 25,
+      "wins": 12,
+      "draws": 5,
+      "losses": 8,
+      "goalsFor": 44,
+      "goalsAgainst": 36,
+      "goalDifference": 8,
+      "points": 41,
+      "group": "Western Conference",
+      "sourceRank": 4,
+      "rank": 6
     },
     {
       "team": "St. Louis CITY SC",
@@ -87,8 +101,8 @@
       "goalDifference": 7,
       "points": 41,
       "group": "Western Conference",
-      "sourceRank": 4,
-      "rank": 6
+      "sourceRank": 5,
+      "rank": 7
     },
     {
       "team": "LAFC",
@@ -101,8 +115,8 @@
       "goalDifference": 14,
       "points": 40,
       "group": "Western Conference",
-      "sourceRank": 5,
-      "rank": 7
+      "sourceRank": 6,
+      "rank": 8
     },
     {
       "team": "Charlotte FC",
@@ -116,7 +130,7 @@
       "points": 40,
       "group": "Eastern Conference",
       "sourceRank": 4,
-      "rank": 8
+      "rank": 9
     },
     {
       "team": "New England Revolution",
@@ -130,7 +144,7 @@
       "points": 40,
       "group": "Eastern Conference",
       "sourceRank": 3,
-      "rank": 9
+      "rank": 10
     },
     {
       "team": "Chicago Fire FC",
@@ -144,20 +158,6 @@
       "points": 39,
       "group": "Eastern Conference",
       "sourceRank": 5,
-      "rank": 10
-    },
-    {
-      "team": "San Jose Earthquakes",
-      "played": 24,
-      "wins": 11,
-      "draws": 5,
-      "losses": 8,
-      "goalsFor": 43,
-      "goalsAgainst": 36,
-      "goalDifference": 7,
-      "points": 38,
-      "group": "Western Conference",
-      "sourceRank": 6,
       "rank": 11
     },
     {
@@ -259,6 +259,20 @@
       "rank": 18
     },
     {
+      "team": "LA Galaxy",
+      "played": 26,
+      "wins": 7,
+      "draws": 9,
+      "losses": 10,
+      "goalsFor": 31,
+      "goalsAgainst": 40,
+      "goalDifference": -9,
+      "points": 30,
+      "group": "Western Conference",
+      "sourceRank": 10,
+      "rank": 19
+    },
+    {
       "team": "Red Bull New York",
       "played": 25,
       "wins": 8,
@@ -270,7 +284,7 @@
       "points": 30,
       "group": "Eastern Conference",
       "sourceRank": 10,
-      "rank": 19
+      "rank": 20
     },
     {
       "team": "Real Salt Lake",
@@ -283,8 +297,8 @@
       "goalDifference": -2,
       "points": 29,
       "group": "Western Conference",
-      "sourceRank": 10,
-      "rank": 20
+      "sourceRank": 11,
+      "rank": 21
     },
     {
       "team": "Minnesota United FC",
@@ -297,8 +311,8 @@
       "goalDifference": -6,
       "points": 29,
       "group": "Western Conference",
-      "sourceRank": 11,
-      "rank": 21
+      "sourceRank": 12,
+      "rank": 22
     },
     {
       "team": "D.C. United",
@@ -312,7 +326,7 @@
       "points": 29,
       "group": "Eastern Conference",
       "sourceRank": 11,
-      "rank": 22
+      "rank": 23
     },
     {
       "team": "Toronto FC",
@@ -326,32 +340,18 @@
       "points": 29,
       "group": "Eastern Conference",
       "sourceRank": 12,
-      "rank": 23
-    },
-    {
-      "team": "LA Galaxy",
-      "played": 25,
-      "wins": 7,
-      "draws": 8,
-      "losses": 10,
-      "goalsFor": 30,
-      "goalsAgainst": 39,
-      "goalDifference": -9,
-      "points": 29,
-      "group": "Western Conference",
-      "sourceRank": 12,
       "rank": 24
     },
     {
       "team": "Seattle Sounders FC",
-      "played": 22,
+      "played": 23,
       "wins": 7,
-      "draws": 6,
+      "draws": 7,
       "losses": 9,
-      "goalsFor": 24,
-      "goalsAgainst": 29,
+      "goalsFor": 25,
+      "goalsAgainst": 30,
       "goalDifference": -5,
-      "points": 27,
+      "points": 28,
       "group": "Western Conference",
       "sourceRank": 13,
       "rank": 25
