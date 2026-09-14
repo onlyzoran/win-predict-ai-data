@@ -1,11 +1,39 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-09-14",
-  "fetchedAt": "2026-09-14T14:54:57Z",
+  "fetchedAt": "2026-09-14T20:14:24Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "AS Roma",
+      "played": 4,
+      "wins": 4,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 12,
+      "goalsAgainst": 1,
+      "goalDifference": 11,
+      "points": 12,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "Como",
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 9,
+      "goalsAgainst": 4,
+      "goalDifference": 5,
+      "points": 10,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 2,
+      "rank": 2
+    },
     {
       "team": "Lazio",
       "played": 4,
@@ -17,22 +45,8 @@
       "goalDifference": 3,
       "points": 10,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 1,
-      "rank": 1
-    },
-    {
-      "team": "AS Roma",
-      "played": 3,
-      "wins": 3,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 10,
-      "goalsAgainst": 1,
-      "goalDifference": 9,
-      "points": 9,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 2,
-      "rank": 2
+      "sourceRank": 3,
+      "rank": 3
     },
     {
       "team": "Internazionale",
@@ -45,8 +59,8 @@
       "goalDifference": 5,
       "points": 9,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 3,
-      "rank": 3
+      "sourceRank": 4,
+      "rank": 4
     },
     {
       "team": "Cagliari",
@@ -59,8 +73,8 @@
       "goalDifference": 2,
       "points": 9,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 4,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "AC Milan",
@@ -72,20 +86,6 @@
       "goalsAgainst": 4,
       "goalDifference": 3,
       "points": 8,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 5,
-      "rank": 5
-    },
-    {
-      "team": "Como",
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "losses": 0,
-      "goalsFor": 7,
-      "goalsAgainst": 3,
-      "goalDifference": 4,
-      "points": 7,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 6,
       "rank": 6
@@ -190,13 +190,13 @@
     },
     {
       "team": "Torino",
-      "played": 3,
+      "played": 4,
       "wins": 1,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 4,
-      "goalsAgainst": 5,
-      "goalDifference": -1,
+      "goalsAgainst": 7,
+      "goalDifference": -3,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 14,
@@ -227,21 +227,21 @@
       "goalDifference": -3,
       "points": 1,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 17,
+      "sourceRank": 16,
       "rank": 16
     },
     {
       "team": "Parma",
-      "played": 3,
+      "played": 4,
       "wins": 0,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 4,
-      "goalDifference": -3,
+      "losses": 3,
+      "goalsFor": 2,
+      "goalsAgainst": 6,
+      "goalDifference": -4,
       "points": 1,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 16,
+      "sourceRank": 17,
       "rank": 17
     },
     {
