@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-09-16",
-  "fetchedAt": "2026-09-16T19:28:33Z",
+  "date": "2026-09-17",
+  "fetchedAt": "2026-09-17T04:28:59Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -32,6 +32,18 @@
       "rank": 2
     },
     {
+      "participantId": "zenit-st-petersburg",
+      "played": 9,
+      "wins": 6,
+      "draws": 0,
+      "losses": 3,
+      "goalsFor": 19,
+      "goalsAgainst": 9,
+      "goalDifference": 10,
+      "points": 18,
+      "rank": 3
+    },
+    {
       "participantId": "cska-moscow",
       "played": 8,
       "wins": 4,
@@ -41,7 +53,7 @@
       "goalsAgainst": 8,
       "goalDifference": 4,
       "points": 16,
-      "rank": 3
+      "rank": 4
     },
     {
       "participantId": "dinamo-moscow",
@@ -53,18 +65,6 @@
       "goalsAgainst": 8,
       "goalDifference": 3,
       "points": 16,
-      "rank": 4
-    },
-    {
-      "participantId": "zenit-st-petersburg",
-      "played": 8,
-      "wins": 5,
-      "draws": 0,
-      "losses": 3,
-      "goalsFor": 16,
-      "goalsAgainst": 7,
-      "goalDifference": 9,
-      "points": 15,
       "rank": 5
     },
     {
@@ -93,15 +93,27 @@
     },
     {
       "participantId": "fc-baltika-kaliningrad",
-      "played": 8,
+      "played": 9,
       "wins": 3,
       "draws": 2,
-      "losses": 3,
-      "goalsFor": 12,
-      "goalsAgainst": 9,
-      "goalDifference": 3,
+      "losses": 4,
+      "goalsFor": 14,
+      "goalsAgainst": 12,
+      "goalDifference": 2,
       "points": 11,
       "rank": 8
+    },
+    {
+      "participantId": "krylia-sovetov",
+      "played": 9,
+      "wins": 2,
+      "draws": 5,
+      "losses": 2,
+      "goalsFor": 13,
+      "goalsAgainst": 14,
+      "goalDifference": -1,
+      "points": 11,
+      "rank": 9
     },
     {
       "participantId": "akhmat-grozny",
@@ -112,18 +124,6 @@
       "goalsFor": 13,
       "goalsAgainst": 11,
       "goalDifference": 2,
-      "points": 10,
-      "rank": 9
-    },
-    {
-      "participantId": "krylia-sovetov",
-      "played": 8,
-      "wins": 2,
-      "draws": 4,
-      "losses": 2,
-      "goalsFor": 12,
-      "goalsAgainst": 13,
-      "goalDifference": -1,
       "points": 10,
       "rank": 10
     },
@@ -153,14 +153,14 @@
     },
     {
       "participantId": "lokomotiv-moscow",
-      "played": 8,
+      "played": 9,
       "wins": 1,
-      "draws": 3,
+      "draws": 4,
       "losses": 4,
-      "goalsFor": 7,
-      "goalsAgainst": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 11,
       "goalDifference": -3,
-      "points": 6,
+      "points": 7,
       "rank": 13
     },
     {
