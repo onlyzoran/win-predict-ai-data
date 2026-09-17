@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-17",
-  "fetchedAt": "2026-09-17T04:29:00Z",
+  "fetchedAt": "2026-09-17T13:16:43Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -99,10 +99,10 @@
     },
     {
       "participantId": "arizona-diamondbacks",
-      "played": 152,
+      "played": 153,
       "wins": 80,
-      "losses": 72,
-      "winPercent": 0.526,
+      "losses": 73,
+      "winPercent": 0.523,
       "playoffSeed": 3,
       "group": "National League",
       "rank": 10
@@ -159,10 +159,10 @@
     },
     {
       "participantId": "miami-marlins",
-      "played": 152,
-      "wins": 75,
+      "played": 153,
+      "wins": 76,
       "losses": 77,
-      "winPercent": 0.493,
+      "winPercent": 0.497,
       "playoffSeed": 3,
       "group": "National League",
       "rank": 16
@@ -228,6 +228,16 @@
       "rank": 22
     },
     {
+      "participantId": "seattle-mariners",
+      "played": 153,
+      "wins": 71,
+      "losses": 82,
+      "winPercent": 0.464,
+      "playoffSeed": 3,
+      "group": "American League",
+      "rank": 23
+    },
+    {
       "participantId": "washington-nationals",
       "played": 153,
       "wins": 71,
@@ -235,16 +245,6 @@
       "winPercent": 0.464,
       "playoffSeed": 4,
       "group": "National League",
-      "rank": 23
-    },
-    {
-      "participantId": "seattle-mariners",
-      "played": 152,
-      "wins": 70,
-      "losses": 82,
-      "winPercent": 0.461,
-      "playoffSeed": 3,
-      "group": "American League",
       "rank": 24
     },
     {
@@ -289,10 +289,10 @@
     },
     {
       "participantId": "los-angeles-angels",
-      "played": 151,
+      "played": 152,
       "wins": 58,
-      "losses": 93,
-      "winPercent": 0.384,
+      "losses": 94,
+      "winPercent": 0.382,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 29
