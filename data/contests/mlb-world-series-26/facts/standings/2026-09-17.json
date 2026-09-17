@@ -2,17 +2,17 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-17",
-  "fetchedAt": "2026-09-17T13:16:43Z",
+  "fetchedAt": "2026-09-17T19:39:18Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "milwaukee-brewers",
-      "played": 152,
+      "played": 153,
       "wins": 95,
-      "losses": 57,
-      "winPercent": 0.625,
+      "losses": 58,
+      "winPercent": 0.621,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 1
@@ -29,10 +29,10 @@
     },
     {
       "participantId": "los-angeles-dodgers",
-      "played": 152,
-      "wins": 92,
+      "played": 153,
+      "wins": 93,
       "losses": 60,
-      "winPercent": 0.605,
+      "winPercent": 0.608,
       "playoffSeed": 1,
       "group": "National League",
       "rank": 3
@@ -169,10 +169,10 @@
     },
     {
       "participantId": "pittsburgh-pirates",
-      "played": 152,
-      "wins": 75,
+      "played": 153,
+      "wins": 76,
       "losses": 77,
-      "winPercent": 0.493,
+      "winPercent": 0.497,
       "playoffSeed": 3,
       "group": "National League",
       "rank": 17
@@ -218,16 +218,6 @@
       "rank": 21
     },
     {
-      "participantId": "cincinnati-reds",
-      "played": 152,
-      "wins": 71,
-      "losses": 81,
-      "winPercent": 0.467,
-      "playoffSeed": 5,
-      "group": "National League",
-      "rank": 22
-    },
-    {
       "participantId": "seattle-mariners",
       "played": 153,
       "wins": 71,
@@ -235,7 +225,7 @@
       "winPercent": 0.464,
       "playoffSeed": 3,
       "group": "American League",
-      "rank": 23
+      "rank": 22
     },
     {
       "participantId": "washington-nationals",
@@ -244,6 +234,16 @@
       "losses": 82,
       "winPercent": 0.464,
       "playoffSeed": 4,
+      "group": "National League",
+      "rank": 23
+    },
+    {
+      "participantId": "cincinnati-reds",
+      "played": 153,
+      "wins": 71,
+      "losses": 82,
+      "winPercent": 0.464,
+      "playoffSeed": 5,
       "group": "National League",
       "rank": 24
     },

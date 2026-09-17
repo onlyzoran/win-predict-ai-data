@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-09-17",
-  "fetchedAt": "2026-09-17T13:16:41Z",
+  "fetchedAt": "2026-09-17T19:39:16Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -35,6 +35,20 @@
       "rank": 2
     },
     {
+      "team": "Real Betis",
+      "played": 6,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
+      "goalDifference": 2,
+      "points": 15,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
       "team": "Atlético Madrid",
       "played": 6,
       "wins": 4,
@@ -45,8 +59,8 @@
       "goalDifference": 8,
       "points": 13,
       "group": "2026-27 LALIGA",
-      "sourceRank": 3,
-      "rank": 3
+      "sourceRank": 4,
+      "rank": 4
     },
     {
       "team": "Sevilla",
@@ -58,20 +72,6 @@
       "goalsAgainst": 6,
       "goalDifference": 3,
       "points": 13,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 4,
-      "rank": 4
-    },
-    {
-      "team": "Real Betis",
-      "played": 5,
-      "wins": 4,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 7,
-      "goalsAgainst": 6,
-      "goalDifference": 1,
-      "points": 12,
       "group": "2026-27 LALIGA",
       "sourceRank": 5,
       "rank": 5
@@ -204,13 +204,13 @@
     },
     {
       "team": "Getafe",
-      "played": 5,
+      "played": 6,
       "wins": 1,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 3,
-      "goalsAgainst": 6,
-      "goalDifference": -3,
+      "goalsAgainst": 7,
+      "goalDifference": -4,
       "points": 5,
       "group": "2026-27 LALIGA",
       "sourceRank": 15,
