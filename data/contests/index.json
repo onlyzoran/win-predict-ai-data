@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:39:19Z",
+  "updatedAt": "2026-09-18T04:13:28Z",
   "contests": {
     "bundesliga-26-27": {
       "title": "Bundesliga",
@@ -226,9 +226,9 @@
       "hasFacts": true,
       "factsGrain": "day",
       "facts": {
-        "count": 177,
+        "count": 178,
         "first": "2026-03-25",
-        "last": "2026-09-17",
+        "last": "2026-09-18",
         "latestTour": null,
         "latestFile": "mlb-world-series-26/facts/latest.json",
         "indexFile": "mlb-world-series-26/facts/index.json"
@@ -380,9 +380,9 @@
       "hasFacts": true,
       "factsGrain": "matchday",
       "facts": {
-        "count": 28,
+        "count": 29,
         "first": "2026-07-24",
-        "last": "2026-09-17",
+        "last": "2026-09-18",
         "latestTour": 9,
         "latestFile": "rpl-26-27/facts/latest.json",
         "indexFile": "rpl-26-27/facts/index.json"

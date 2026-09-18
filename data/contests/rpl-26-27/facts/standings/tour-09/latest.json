@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-09-17",
-  "fetchedAt": "2026-09-17T19:39:17Z",
+  "date": "2026-09-18",
+  "fetchedAt": "2026-09-18T04:13:27Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -32,6 +32,18 @@
       "rank": 2
     },
     {
+      "participantId": "cska-moscow",
+      "played": 9,
+      "wins": 5,
+      "draws": 4,
+      "losses": 0,
+      "goalsFor": 15,
+      "goalsAgainst": 9,
+      "goalDifference": 6,
+      "points": 19,
+      "rank": 3
+    },
+    {
       "participantId": "dinamo-moscow",
       "played": 9,
       "wins": 6,
@@ -41,7 +53,7 @@
       "goalsAgainst": 8,
       "goalDifference": 6,
       "points": 19,
-      "rank": 3
+      "rank": 4
     },
     {
       "participantId": "zenit-st-petersburg",
@@ -53,31 +65,7 @@
       "goalsAgainst": 9,
       "goalDifference": 10,
       "points": 18,
-      "rank": 4
-    },
-    {
-      "participantId": "cska-moscow",
-      "played": 8,
-      "wins": 4,
-      "draws": 4,
-      "losses": 0,
-      "goalsFor": 12,
-      "goalsAgainst": 8,
-      "goalDifference": 4,
-      "points": 16,
       "rank": 5
-    },
-    {
-      "participantId": "dynamo-makhachkala",
-      "played": 8,
-      "wins": 4,
-      "draws": 0,
-      "losses": 4,
-      "goalsFor": 14,
-      "goalsAgainst": 13,
-      "goalDifference": 1,
-      "points": 12,
-      "rank": 6
     },
     {
       "participantId": "rubin-kazan",
@@ -88,6 +76,18 @@
       "goalsFor": 12,
       "goalsAgainst": 11,
       "goalDifference": 1,
+      "points": 12,
+      "rank": 6
+    },
+    {
+      "participantId": "dynamo-makhachkala",
+      "played": 9,
+      "wins": 4,
+      "draws": 0,
+      "losses": 5,
+      "goalsFor": 15,
+      "goalsAgainst": 16,
+      "goalDifference": -1,
       "points": 12,
       "rank": 7
     },
@@ -201,5 +201,5 @@
     }
   ],
   "tour": 9,
-  "tourStatus": "in_progress"
+  "tourStatus": "final"
 }
