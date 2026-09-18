@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-18",
-  "fetchedAt": "2026-09-18T04:13:28Z",
+  "fetchedAt": "2026-09-18T12:51:22Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -209,10 +209,10 @@
     },
     {
       "participantId": "minnesota-twins",
-      "played": 152,
+      "played": 153,
       "wins": 71,
-      "losses": 81,
-      "winPercent": 0.467,
+      "losses": 82,
+      "winPercent": 0.464,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 21
@@ -289,10 +289,10 @@
     },
     {
       "participantId": "los-angeles-angels",
-      "played": 152,
-      "wins": 58,
+      "played": 153,
+      "wins": 59,
       "losses": 94,
-      "winPercent": 0.382,
+      "winPercent": 0.386,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 29
