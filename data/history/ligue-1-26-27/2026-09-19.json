@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-09-19",
-  "fetchedAt": "2026-09-19T12:24:21Z",
+  "fetchedAt": "2026-09-19T18:31:39Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -21,6 +21,20 @@
       "rank": 1
     },
     {
+      "team": "Paris FC",
+      "played": 5,
+      "wins": 3,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 8,
+      "goalsAgainst": 3,
+      "goalDifference": 5,
+      "points": 11,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
       "team": "Lille",
       "played": 4,
       "wins": 3,
@@ -31,8 +45,8 @@
       "goalDifference": 5,
       "points": 10,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 2,
-      "rank": 2
+      "sourceRank": 3,
+      "rank": 3
     },
     {
       "team": "Stade Rennais",
@@ -45,25 +59,11 @@
       "goalDifference": 3,
       "points": 10,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 3,
-      "rank": 3
-    },
-    {
-      "team": "Lyon",
-      "played": 4,
-      "wins": 2,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 2,
-      "goalDifference": 4,
-      "points": 8,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 4,
       "rank": 4
     },
     {
-      "team": "Paris FC",
+      "team": "Lyon",
       "played": 4,
       "wins": 2,
       "draws": 2,
@@ -78,13 +78,13 @@
     },
     {
       "team": "Strasbourg",
-      "played": 4,
+      "played": 5,
       "wins": 2,
       "draws": 1,
-      "losses": 1,
-      "goalsFor": 9,
-      "goalsAgainst": 8,
-      "goalDifference": 1,
+      "losses": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 10,
+      "goalDifference": 0,
       "points": 7,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 6,
