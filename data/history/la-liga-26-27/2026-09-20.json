@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-09-20",
-  "fetchedAt": "2026-09-20T12:58:43Z",
+  "fetchedAt": "2026-09-20T18:37:50Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -21,43 +21,43 @@
       "rank": 1
     },
     {
-      "team": "Real Madrid",
-      "played": 6,
+      "team": "Atlético Madrid",
+      "played": 7,
       "wins": 5,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goalsFor": 17,
-      "goalsAgainst": 6,
-      "goalDifference": 11,
-      "points": 15,
+      "goalsFor": 16,
+      "goalsAgainst": 7,
+      "goalDifference": 9,
+      "points": 16,
       "group": "2026-27 LALIGA",
       "sourceRank": 2,
       "rank": 2
     },
     {
       "team": "Real Betis",
-      "played": 6,
+      "played": 7,
       "wins": 5,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 6,
+      "goalsFor": 9,
+      "goalsAgainst": 7,
       "goalDifference": 2,
-      "points": 15,
+      "points": 16,
       "group": "2026-27 LALIGA",
       "sourceRank": 3,
       "rank": 3
     },
     {
-      "team": "Atlético Madrid",
-      "played": 6,
-      "wins": 4,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 14,
-      "goalsAgainst": 6,
-      "goalDifference": 8,
-      "points": 13,
+      "team": "Real Madrid",
+      "played": 7,
+      "wins": 5,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 18,
+      "goalsAgainst": 8,
+      "goalDifference": 10,
+      "points": 15,
       "group": "2026-27 LALIGA",
       "sourceRank": 4,
       "rank": 4
@@ -92,17 +92,31 @@
     },
     {
       "team": "Deportivo",
-      "played": 6,
+      "played": 7,
       "wins": 2,
-      "draws": 3,
+      "draws": 4,
       "losses": 1,
-      "goalsFor": 9,
-      "goalsAgainst": 7,
+      "goalsFor": 10,
+      "goalsAgainst": 8,
       "goalDifference": 2,
-      "points": 9,
+      "points": 10,
       "group": "2026-27 LALIGA",
       "sourceRank": 7,
       "rank": 7
+    },
+    {
+      "team": "Villarreal",
+      "played": 7,
+      "wins": 2,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 13,
+      "goalsAgainst": 12,
+      "goalDifference": 1,
+      "points": 8,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 8,
+      "rank": 8
     },
     {
       "team": "Athletic Club",
@@ -115,8 +129,22 @@
       "goalDifference": 1,
       "points": 8,
       "group": "2026-27 LALIGA",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
+      "team": "Getafe",
+      "played": 7,
+      "wins": 2,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 7,
+      "goalDifference": -3,
+      "points": 8,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Rayo Vallecano",
@@ -129,8 +157,8 @@
       "goalDifference": -5,
       "points": 8,
       "group": "2026-27 LALIGA",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Osasuna",
@@ -143,8 +171,8 @@
       "goalDifference": -7,
       "points": 8,
       "group": "2026-27 LALIGA",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Celta Vigo",
@@ -157,8 +185,8 @@
       "goalDifference": 2,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Espanyol",
@@ -171,8 +199,8 @@
       "goalDifference": 0,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Real Sociedad",
@@ -185,8 +213,8 @@
       "goalDifference": -5,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Racing Santander",
@@ -199,45 +227,17 @@
       "goalDifference": -10,
       "points": 7,
       "group": "2026-27 LALIGA",
-      "sourceRank": 14,
-      "rank": 14
-    },
-    {
-      "team": "Villarreal",
-      "played": 6,
-      "wins": 1,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 10,
-      "goalsAgainst": 11,
-      "goalDifference": -1,
-      "points": 5,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 15,
-      "rank": 15
-    },
-    {
-      "team": "Levante",
-      "played": 5,
-      "wins": 1,
-      "draws": 2,
-      "losses": 2,
-      "goalsFor": 7,
-      "goalsAgainst": 9,
-      "goalDifference": -2,
-      "points": 5,
-      "group": "2026-27 LALIGA",
       "sourceRank": 16,
       "rank": 16
     },
     {
-      "team": "Getafe",
+      "team": "Levante",
       "played": 6,
       "wins": 1,
       "draws": 2,
       "losses": 3,
-      "goalsFor": 3,
-      "goalsAgainst": 7,
+      "goalsFor": 8,
+      "goalsAgainst": 12,
       "goalDifference": -4,
       "points": 5,
       "group": "2026-27 LALIGA",
@@ -274,13 +274,13 @@
     },
     {
       "team": "Málaga",
-      "played": 6,
+      "played": 7,
       "wins": 0,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "goalsFor": 3,
-      "goalsAgainst": 11,
-      "goalDifference": -8,
+      "goalsAgainst": 12,
+      "goalDifference": -9,
       "points": 3,
       "group": "2026-27 LALIGA",
       "sourceRank": 20,

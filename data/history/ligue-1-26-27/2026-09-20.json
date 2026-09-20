@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-09-20",
-  "fetchedAt": "2026-09-20T12:58:44Z",
+  "fetchedAt": "2026-09-20T18:37:51Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -50,13 +50,13 @@
     },
     {
       "team": "Lille",
-      "played": 4,
+      "played": 5,
       "wins": 3,
       "draws": 1,
-      "losses": 0,
-      "goalsFor": 7,
-      "goalsAgainst": 2,
-      "goalDifference": 5,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 4,
+      "goalDifference": 4,
       "points": 10,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 4,
@@ -119,15 +119,15 @@
       "rank": 8
     },
     {
-      "team": "Brest",
-      "played": 4,
-      "wins": 1,
-      "draws": 2,
-      "losses": 1,
-      "goalsFor": 6,
-      "goalsAgainst": 6,
-      "goalDifference": 0,
-      "points": 5,
+      "team": "AJ Auxerre",
+      "played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "goalsFor": 7,
+      "goalsAgainst": 12,
+      "goalDifference": -5,
+      "points": 6,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 9,
       "rank": 9
@@ -147,6 +147,20 @@
       "rank": 10
     },
     {
+      "team": "Brest",
+      "played": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 8,
+      "goalDifference": -1,
+      "points": 5,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
       "team": "Lorient",
       "played": 5,
       "wins": 1,
@@ -157,8 +171,8 @@
       "goalDifference": -1,
       "points": 5,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Toulouse",
@@ -171,8 +185,22 @@
       "goalDifference": -2,
       "points": 5,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
+      "team": "Nice",
+      "played": 5,
+      "wins": 1,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 3,
+      "goalsAgainst": 6,
+      "goalDifference": -3,
+      "points": 5,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Lens",
@@ -185,8 +213,8 @@
       "goalDifference": 0,
       "points": 4,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Troyes",
@@ -199,8 +227,8 @@
       "goalDifference": -7,
       "points": 4,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 14,
-      "rank": 14
+      "sourceRank": 16,
+      "rank": 16
     },
     {
       "team": "Marseille",
@@ -213,22 +241,8 @@
       "goalDifference": 0,
       "points": 3,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 15,
-      "rank": 15
-    },
-    {
-      "team": "AJ Auxerre",
-      "played": 4,
-      "wins": 1,
-      "draws": 0,
-      "losses": 3,
-      "goalsFor": 5,
-      "goalsAgainst": 11,
-      "goalDifference": -6,
-      "points": 3,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 16,
-      "rank": 16
+      "sourceRank": 17,
+      "rank": 17
     },
     {
       "team": "Le Havre AC",
@@ -239,20 +253,6 @@
       "goalsFor": 4,
       "goalsAgainst": 7,
       "goalDifference": -3,
-      "points": 2,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 17,
-      "rank": 17
-    },
-    {
-      "team": "Nice",
-      "played": 4,
-      "wins": 0,
-      "draws": 2,
-      "losses": 2,
-      "goalsFor": 1,
-      "goalsAgainst": 5,
-      "goalDifference": -4,
       "points": 2,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 18,
