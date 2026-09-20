@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-09-20",
-  "fetchedAt": "2026-09-20T04:29:17Z",
+  "fetchedAt": "2026-09-20T12:58:43Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Napoli",
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goalsFor": 7,
+      "goalsAgainst": 6,
+      "goalDifference": 1,
+      "points": 7,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Sassuolo",
       "played": 5,
       "wins": 2,
@@ -128,20 +142,6 @@
       "goalsAgainst": 9,
       "goalDifference": 0,
       "points": 7,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 9,
-      "rank": 9
-    },
-    {
-      "team": "Napoli",
-      "played": 4,
-      "wins": 2,
-      "draws": 0,
-      "losses": 2,
-      "goalsFor": 6,
-      "goalsAgainst": 5,
-      "goalDifference": 1,
-      "points": 6,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 10,
       "rank": 10
@@ -218,14 +218,14 @@
     },
     {
       "team": "Fiorentina",
-      "played": 4,
+      "played": 5,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
-      "goalsFor": 5,
-      "goalsAgainst": 11,
+      "goalsFor": 6,
+      "goalsAgainst": 12,
       "goalDifference": -6,
-      "points": 3,
+      "points": 4,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 16,
       "rank": 16

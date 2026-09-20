@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-20",
-  "fetchedAt": "2026-09-20T04:29:18Z",
+  "fetchedAt": "2026-09-20T12:58:45Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -69,10 +69,10 @@
     },
     {
       "participantId": "san-diego-padres",
-      "played": 154,
-      "wins": 85,
+      "played": 155,
+      "wins": 86,
       "losses": 69,
-      "winPercent": 0.552,
+      "winPercent": 0.555,
       "playoffSeed": 2,
       "group": "National League",
       "rank": 7
@@ -158,16 +158,6 @@
       "rank": 15
     },
     {
-      "participantId": "miami-marlins",
-      "played": 154,
-      "wins": 76,
-      "losses": 78,
-      "winPercent": 0.494,
-      "playoffSeed": 3,
-      "group": "National League",
-      "rank": 16
-    },
-    {
       "participantId": "toronto-blue-jays",
       "played": 155,
       "wins": 76,
@@ -175,6 +165,16 @@
       "winPercent": 0.49,
       "playoffSeed": 4,
       "group": "American League",
+      "rank": 16
+    },
+    {
+      "participantId": "miami-marlins",
+      "played": 155,
+      "wins": 76,
+      "losses": 79,
+      "winPercent": 0.49,
+      "playoffSeed": 3,
+      "group": "National League",
       "rank": 17
     },
     {
@@ -219,10 +219,10 @@
     },
     {
       "participantId": "minnesota-twins",
-      "played": 154,
+      "played": 155,
       "wins": 72,
-      "losses": 82,
-      "winPercent": 0.468,
+      "losses": 83,
+      "winPercent": 0.465,
       "playoffSeed": 4,
       "group": "American League",
       "rank": 22
@@ -289,10 +289,10 @@
     },
     {
       "participantId": "los-angeles-angels",
-      "played": 154,
-      "wins": 59,
+      "played": 155,
+      "wins": 60,
       "losses": 95,
-      "winPercent": 0.383,
+      "winPercent": 0.387,
       "playoffSeed": 5,
       "group": "American League",
       "rank": 29
