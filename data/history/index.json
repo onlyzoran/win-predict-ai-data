@@ -1,94 +1,94 @@
 {
-  "updatedAt": "2026-09-21T20:21:00Z",
+  "updatedAt": "2026-09-22T04:22:55Z",
   "leagues": {
     "bundesliga-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "bundesliga-26-27/days.json",
       "latestFile": "bundesliga-26-27/latest.json"
     },
     "epl-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "epl-26-27/days.json",
       "latestFile": "epl-26-27/latest.json"
     },
     "f1-constructors-26": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "f1-constructors-26/days.json",
       "latestFile": "f1-constructors-26/latest.json"
     },
     "f1-drivers-26": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "f1-drivers-26/days.json",
       "latestFile": "f1-drivers-26/latest.json"
     },
     "la-liga-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "la-liga-26-27/days.json",
       "latestFile": "la-liga-26-27/latest.json"
     },
     "ligue-1-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "ligue-1-26-27/days.json",
       "latestFile": "ligue-1-26-27/latest.json"
     },
     "mls-cup-26": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "mls-cup-26/days.json",
       "latestFile": "mls-cup-26/latest.json"
     },
     "nba-26-27": {
-      "count": 10,
+      "count": 11,
       "first": "2026-09-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "nba-26-27/days.json",
       "latestFile": "nba-26-27/latest.json"
     },
     "ncaaf-championship-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "ncaaf-championship-26-27/days.json",
       "latestFile": "ncaaf-championship-26-27/latest.json"
     },
     "nfl-super-bowl-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "nfl-super-bowl-26-27/days.json",
       "latestFile": "nfl-super-bowl-26-27/latest.json"
     },
     "nhl-stanley-cup-26-27": {
-      "count": 13,
+      "count": 14,
       "first": "2026-09-09",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "nhl-stanley-cup-26-27/days.json",
       "latestFile": "nhl-stanley-cup-26-27/latest.json"
     },
     "serie-a-26-27": {
-      "count": 41,
+      "count": 42,
       "first": "2026-08-12",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "serie-a-26-27/days.json",
       "latestFile": "serie-a-26-27/latest.json"
     },
     "ucl-26-27": {
-      "count": 24,
+      "count": 25,
       "first": "2026-08-29",
-      "last": "2026-09-21",
+      "last": "2026-09-22",
       "daysFile": "ucl-26-27/days.json",
       "latestFile": "ucl-26-27/latest.json"
     }
