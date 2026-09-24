@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-09-24",
-  "fetchedAt": "2026-09-24T04:16:00Z",
+  "fetchedAt": "2026-09-24T13:26:56Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -203,11 +203,11 @@
     },
     {
       "team": "Anaheim Ducks",
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "otLosses": 0,
-      "goalDifference": 4,
+      "goalDifference": 3,
       "points": 2,
       "playoffSeed": 8,
       "group": "Western Conference",
@@ -332,6 +332,19 @@
       "rank": 25
     },
     {
+      "team": "Los Angeles Kings",
+      "played": 3,
+      "wins": 1,
+      "losses": 2,
+      "otLosses": 0,
+      "goalDifference": -4,
+      "points": 2,
+      "playoffSeed": 13,
+      "group": "Western Conference",
+      "sourceRank": 13,
+      "rank": 26
+    },
+    {
       "team": "San Jose Sharks",
       "played": 2,
       "wins": 0,
@@ -339,10 +352,10 @@
       "otLosses": 1,
       "goalDifference": -5,
       "points": 1,
-      "playoffSeed": 13,
+      "playoffSeed": 14,
       "group": "Western Conference",
-      "sourceRank": 13,
-      "rank": 26
+      "sourceRank": 14,
+      "rank": 27
     },
     {
       "team": "Ottawa Senators",
@@ -355,7 +368,7 @@
       "playoffSeed": 14,
       "group": "Eastern Conference",
       "sourceRank": 14,
-      "rank": 27
+      "rank": 28
     },
     {
       "team": "New York Rangers",
@@ -368,7 +381,7 @@
       "playoffSeed": 15,
       "group": "Eastern Conference",
       "sourceRank": 15,
-      "rank": 28
+      "rank": 29
     },
     {
       "team": "St. Louis Blues",
@@ -378,10 +391,10 @@
       "otLosses": 0,
       "goalDifference": -2,
       "points": 0,
-      "playoffSeed": 14,
+      "playoffSeed": 15,
       "group": "Western Conference",
-      "sourceRank": 14,
-      "rank": 29
+      "sourceRank": 15,
+      "rank": 30
     },
     {
       "team": "Vancouver Canucks",
@@ -390,19 +403,6 @@
       "losses": 2,
       "otLosses": 0,
       "goalDifference": -4,
-      "points": 0,
-      "playoffSeed": 15,
-      "group": "Western Conference",
-      "sourceRank": 15,
-      "rank": 30
-    },
-    {
-      "team": "Los Angeles Kings",
-      "played": 2,
-      "wins": 0,
-      "losses": 2,
-      "otLosses": 0,
-      "goalDifference": -5,
       "points": 0,
       "playoffSeed": 16,
       "group": "Western Conference",
