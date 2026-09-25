@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "mlb-world-series-26",
   "date": "2026-09-25",
-  "fetchedAt": "2026-09-25T13:31:24Z",
+  "fetchedAt": "2026-09-25T19:56:23Z",
   "provider": "mlb-statsapi",
   "metric": "wins",
   "seasonYear": 2026,
@@ -69,10 +69,10 @@
     },
     {
       "participantId": "chicago-cubs",
-      "played": 159,
+      "played": 160,
       "wins": 88,
-      "losses": 71,
-      "winPercent": 0.553,
+      "losses": 72,
+      "winPercent": 0.55,
       "playoffSeed": 2,
       "group": "National League",
       "rank": 7
@@ -89,10 +89,10 @@
     },
     {
       "participantId": "boston-red-sox",
-      "played": 159,
-      "wins": 85,
+      "played": 160,
+      "wins": 86,
       "losses": 74,
-      "winPercent": 0.535,
+      "winPercent": 0.538,
       "playoffSeed": 3,
       "group": "American League",
       "rank": 9
