@@ -1,28 +1,28 @@
 {
   "leagueId": "f1-drivers-26",
   "date": "2026-09-26",
-  "fetchedAt": "2026-09-26T12:53:50Z",
+  "fetchedAt": "2026-09-26T19:08:52Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Kimi Antonelli",
-      "points": 292,
+      "points": 302,
       "group": "Driver Standings",
       "sourceRank": 1,
       "rank": 1
     },
     {
       "team": "George Russell",
-      "points": 211,
+      "points": 236,
       "group": "Driver Standings",
       "sourceRank": 2,
       "rank": 2
     },
     {
       "team": "Lewis Hamilton",
-      "points": 191,
+      "points": 199,
       "group": "Driver Standings",
       "sourceRank": 3,
       "rank": 3
@@ -36,14 +36,14 @@
     },
     {
       "team": "Charles Leclerc",
-      "points": 167,
+      "points": 179,
       "group": "Driver Standings",
       "sourceRank": 5,
       "rank": 5
     },
     {
       "team": "Max Verstappen",
-      "points": 145,
+      "points": 163,
       "group": "Driver Standings",
       "sourceRank": 6,
       "rank": 6
@@ -57,7 +57,7 @@
     },
     {
       "team": "Isack Hadjar",
-      "points": 71,
+      "points": 86,
       "group": "Driver Standings",
       "sourceRank": 8,
       "rank": 8
@@ -78,7 +78,7 @@
     },
     {
       "team": "Arvid Lindblad",
-      "points": 31,
+      "points": 37,
       "group": "Driver Standings",
       "sourceRank": 11,
       "rank": 11
@@ -92,7 +92,7 @@
     },
     {
       "team": "Oliver Bearman",
-      "points": 18,
+      "points": 20,
       "group": "Driver Standings",
       "sourceRank": 13,
       "rank": 13
@@ -112,22 +112,22 @@
       "rank": 15
     },
     {
-      "team": "Carlos Sainz",
-      "points": 6,
+      "team": "Esteban Ocon",
+      "points": 7,
       "group": "Driver Standings",
       "sourceRank": 16,
       "rank": 16
     },
     {
-      "team": "Alexander Albon",
-      "points": 5,
+      "team": "Carlos Sainz",
+      "points": 7,
       "group": "Driver Standings",
       "sourceRank": 17,
       "rank": 17
     },
     {
-      "team": "Esteban Ocon",
-      "points": 3,
+      "team": "Alexander Albon",
+      "points": 5,
       "group": "Driver Standings",
       "sourceRank": 18,
       "rank": 18
