@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-09-30",
-  "fetchedAt": "2026-09-30T05:06:12Z",
+  "fetchedAt": "2026-09-30T14:48:11Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -12,9 +12,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 1
     },
     {
@@ -23,9 +23,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 3
     },
     {
@@ -45,9 +45,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 4
     },
     {
@@ -56,9 +56,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 5
     },
     {
@@ -67,9 +67,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 6
     },
     {
@@ -78,9 +78,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 7
     },
     {
@@ -89,9 +89,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 8
     },
     {
@@ -100,9 +100,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 9
     },
     {
@@ -111,9 +111,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 10
     },
     {
@@ -122,9 +122,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 11
     },
     {
@@ -133,9 +133,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 12
     },
     {
@@ -144,9 +144,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 13
     },
     {
@@ -155,9 +155,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 14
     },
     {
@@ -166,9 +166,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Eastern Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 15
     },
     {
@@ -177,9 +177,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 16
     },
     {
@@ -188,9 +188,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 17
     },
     {
@@ -199,9 +199,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 18
     },
     {
@@ -210,9 +210,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 19
     },
     {
@@ -221,9 +221,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 20
     },
     {
@@ -232,9 +232,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 21
     },
     {
@@ -243,9 +243,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 22
     },
     {
@@ -254,9 +254,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 23
     },
     {
@@ -265,9 +265,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 24
     },
     {
@@ -276,9 +276,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 25
     },
     {
@@ -287,9 +287,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 26
     },
     {
@@ -298,9 +298,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 27
     },
     {
@@ -309,9 +309,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 28
     },
     {
@@ -320,9 +320,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 29
     },
     {
@@ -331,9 +331,9 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 0,
+      "playoffSeed": 1,
       "group": "Western Conference",
-      "sourceRank": 0,
+      "sourceRank": 1,
       "rank": 30
     }
   ]
