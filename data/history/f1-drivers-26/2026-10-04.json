@@ -1,14 +1,14 @@
 {
   "leagueId": "f1-drivers-26",
   "date": "2026-10-04",
-  "fetchedAt": "2026-10-04T05:23:52Z",
+  "fetchedAt": "2026-10-04T13:51:41Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Kimi Antonelli",
-      "points": 302,
+      "points": 320,
       "group": "Driver Standings",
       "sourceRank": 1,
       "rank": 1
@@ -22,49 +22,49 @@
     },
     {
       "team": "Lewis Hamilton",
-      "points": 199,
+      "points": 214,
       "group": "Driver Standings",
       "sourceRank": 3,
       "rank": 3
     },
     {
-      "team": "Lando Norris",
-      "points": 186,
+      "team": "Charles Leclerc",
+      "points": 191,
       "group": "Driver Standings",
       "sourceRank": 4,
       "rank": 4
     },
     {
-      "team": "Charles Leclerc",
-      "points": 179,
+      "team": "Lando Norris",
+      "points": 188,
       "group": "Driver Standings",
       "sourceRank": 5,
       "rank": 5
     },
     {
       "team": "Max Verstappen",
-      "points": 163,
+      "points": 188,
       "group": "Driver Standings",
       "sourceRank": 6,
       "rank": 6
     },
     {
       "team": "Oscar Piastri",
-      "points": 120,
+      "points": 128,
       "group": "Driver Standings",
       "sourceRank": 7,
       "rank": 7
     },
     {
       "team": "Isack Hadjar",
-      "points": 86,
+      "points": 96,
       "group": "Driver Standings",
       "sourceRank": 8,
       "rank": 8
     },
     {
       "team": "Liam Lawson",
-      "points": 59,
+      "points": 65,
       "group": "Driver Standings",
       "sourceRank": 9,
       "rank": 9
@@ -78,7 +78,7 @@
     },
     {
       "team": "Arvid Lindblad",
-      "points": 37,
+      "points": 38,
       "group": "Driver Standings",
       "sourceRank": 11,
       "rank": 11
@@ -119,22 +119,22 @@
       "rank": 16
     },
     {
-      "team": "Carlos Sainz",
+      "team": "Fernando Alonso",
       "points": 7,
       "group": "Driver Standings",
       "sourceRank": 17,
       "rank": 17
     },
     {
-      "team": "Alexander Albon",
-      "points": 5,
+      "team": "Carlos Sainz",
+      "points": 7,
       "group": "Driver Standings",
       "sourceRank": 18,
       "rank": 18
     },
     {
-      "team": "Fernando Alonso",
-      "points": 3,
+      "team": "Alexander Albon",
+      "points": 5,
       "group": "Driver Standings",
       "sourceRank": 19,
       "rank": 19
