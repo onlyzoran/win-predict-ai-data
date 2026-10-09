@@ -1,21 +1,21 @@
 {
   "leagueId": "bundesliga-26-27",
   "date": "2026-10-09",
-  "fetchedAt": "2026-10-09T15:10:00Z",
+  "fetchedAt": "2026-10-09T20:43:12Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Borussia Dortmund",
-      "played": 4,
+      "played": 5,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "goalsFor": 9,
-      "goalsAgainst": 2,
+      "goalsFor": 11,
+      "goalsAgainst": 4,
       "goalDifference": 7,
-      "points": 12,
+      "points": 13,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 1,
       "rank": 1
@@ -49,6 +49,20 @@
       "rank": 3
     },
     {
+      "team": "Werder Bremen",
+      "played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 10,
+      "goalDifference": 0,
+      "points": 8,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
       "team": "FC Augsburg",
       "played": 4,
       "wins": 2,
@@ -59,8 +73,8 @@
       "goalDifference": 5,
       "points": 7,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 4,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "Bayer Leverkusen",
@@ -73,8 +87,8 @@
       "goalDifference": 5,
       "points": 7,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 5,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "Mainz",
@@ -87,8 +101,8 @@
       "goalDifference": 4,
       "points": 7,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 6,
-      "rank": 6
+      "sourceRank": 7,
+      "rank": 7
     },
     {
       "team": "SV Elversberg",
@@ -99,20 +113,6 @@
       "goalsFor": 8,
       "goalsAgainst": 7,
       "goalDifference": 1,
-      "points": 7,
-      "group": "2026-27 German Bundesliga",
-      "sourceRank": 7,
-      "rank": 7
-    },
-    {
-      "team": "Werder Bremen",
-      "played": 4,
-      "wins": 2,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 8,
-      "goalDifference": 0,
       "points": 7,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 8,
