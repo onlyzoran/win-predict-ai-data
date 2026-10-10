@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-10-10",
-  "fetchedAt": "2026-10-10T05:23:29Z",
+  "fetchedAt": "2026-10-10T14:22:56Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -80,16 +80,28 @@
       "rank": 6
     },
     {
-      "participantId": "dynamo-makhachkala",
-      "played": 9,
-      "wins": 4,
-      "draws": 0,
-      "losses": 5,
-      "goalsFor": 15,
-      "goalsAgainst": 16,
-      "goalDifference": -1,
+      "participantId": "gazovik-orenburg",
+      "played": 10,
+      "wins": 2,
+      "draws": 6,
+      "losses": 2,
+      "goalsFor": 11,
+      "goalsAgainst": 10,
+      "goalDifference": 1,
       "points": 12,
       "rank": 7
+    },
+    {
+      "participantId": "dynamo-makhachkala",
+      "played": 10,
+      "wins": 4,
+      "draws": 0,
+      "losses": 6,
+      "goalsFor": 15,
+      "goalsAgainst": 20,
+      "goalDifference": -5,
+      "points": 12,
+      "rank": 8
     },
     {
       "participantId": "fc-baltika-kaliningrad",
@@ -101,7 +113,7 @@
       "goalsAgainst": 12,
       "goalDifference": 2,
       "points": 11,
-      "rank": 8
+      "rank": 9
     },
     {
       "participantId": "krylia-sovetov",
@@ -113,7 +125,7 @@
       "goalsAgainst": 14,
       "goalDifference": -1,
       "points": 11,
-      "rank": 9
+      "rank": 10
     },
     {
       "participantId": "rostov",
@@ -125,7 +137,19 @@
       "goalsAgainst": 17,
       "goalDifference": -6,
       "points": 11,
-      "rank": 10
+      "rank": 11
+    },
+    {
+      "participantId": "lokomotiv-moscow",
+      "played": 10,
+      "wins": 2,
+      "draws": 4,
+      "losses": 4,
+      "goalsFor": 13,
+      "goalsAgainst": 11,
+      "goalDifference": 2,
+      "points": 10,
+      "rank": 12
     },
     {
       "participantId": "akhmat-grozny",
@@ -137,19 +161,7 @@
       "goalsAgainst": 13,
       "goalDifference": 0,
       "points": 10,
-      "rank": 11
-    },
-    {
-      "participantId": "gazovik-orenburg",
-      "played": 9,
-      "wins": 1,
-      "draws": 6,
-      "losses": 2,
-      "goalsFor": 7,
-      "goalsAgainst": 10,
-      "goalDifference": -3,
-      "points": 9,
-      "rank": 12
+      "rank": 13
     },
     {
       "participantId": "akron-tolyatti",
@@ -161,18 +173,6 @@
       "goalsAgainst": 19,
       "goalDifference": -8,
       "points": 8,
-      "rank": 13
-    },
-    {
-      "participantId": "lokomotiv-moscow",
-      "played": 9,
-      "wins": 1,
-      "draws": 4,
-      "losses": 4,
-      "goalsFor": 8,
-      "goalsAgainst": 11,
-      "goalDifference": -3,
-      "points": 7,
       "rank": 14
     },
     {
@@ -189,13 +189,13 @@
     },
     {
       "participantId": "fakel-voronezh",
-      "played": 9,
+      "played": 10,
       "wins": 0,
       "draws": 3,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 6,
-      "goalsAgainst": 13,
-      "goalDifference": -7,
+      "goalsAgainst": 18,
+      "goalDifference": -12,
       "points": 3,
       "rank": 16
     }
