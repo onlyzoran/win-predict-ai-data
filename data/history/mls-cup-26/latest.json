@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
   "date": "2026-10-10",
-  "fetchedAt": "2026-10-10T14:22:56Z",
+  "fetchedAt": "2026-10-10T19:55:53Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -315,6 +315,20 @@
       "rank": 22
     },
     {
+      "team": "Toronto FC",
+      "played": 28,
+      "wins": 7,
+      "draws": 11,
+      "losses": 10,
+      "goalsFor": 41,
+      "goalsAgainst": 52,
+      "goalDifference": -11,
+      "points": 32,
+      "group": "Eastern Conference",
+      "sourceRank": 11,
+      "rank": 23
+    },
+    {
       "team": "Austin FC",
       "played": 27,
       "wins": 7,
@@ -326,7 +340,7 @@
       "points": 31,
       "group": "Western Conference",
       "sourceRank": 13,
-      "rank": 23
+      "rank": 24
     },
     {
       "team": "D.C. United",
@@ -339,8 +353,8 @@
       "goalDifference": -8,
       "points": 30,
       "group": "Eastern Conference",
-      "sourceRank": 11,
-      "rank": 24
+      "sourceRank": 12,
+      "rank": 25
     },
     {
       "team": "Columbus Crew",
@@ -353,8 +367,8 @@
       "goalDifference": -4,
       "points": 29,
       "group": "Eastern Conference",
-      "sourceRank": 12,
-      "rank": 25
+      "sourceRank": 13,
+      "rank": 26
     },
     {
       "team": "Minnesota United FC",
@@ -368,20 +382,6 @@
       "points": 29,
       "group": "Western Conference",
       "sourceRank": 14,
-      "rank": 26
-    },
-    {
-      "team": "Toronto FC",
-      "played": 27,
-      "wins": 6,
-      "draws": 11,
-      "losses": 10,
-      "goalsFor": 39,
-      "goalsAgainst": 51,
-      "goalDifference": -12,
-      "points": 29,
-      "group": "Eastern Conference",
-      "sourceRank": 13,
       "rank": 27
     },
     {
@@ -400,13 +400,13 @@
     },
     {
       "team": "CF Montréal",
-      "played": 27,
+      "played": 28,
       "wins": 6,
       "draws": 6,
-      "losses": 15,
-      "goalsFor": 34,
-      "goalsAgainst": 54,
-      "goalDifference": -20,
+      "losses": 16,
+      "goalsFor": 35,
+      "goalsAgainst": 56,
+      "goalDifference": -21,
       "points": 24,
       "group": "Eastern Conference",
       "sourceRank": 15,

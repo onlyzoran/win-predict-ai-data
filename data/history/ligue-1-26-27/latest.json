@@ -1,11 +1,25 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-10-10",
-  "fetchedAt": "2026-10-10T14:22:56Z",
+  "fetchedAt": "2026-10-10T19:55:53Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Lille",
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 4,
+      "goalDifference": 5,
+      "points": 13,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "AS Monaco",
       "played": 5,
@@ -17,8 +31,8 @@
       "goalDifference": 5,
       "points": 13,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 1,
-      "rank": 1
+      "sourceRank": 2,
+      "rank": 2
     },
     {
       "team": "Lyon",
@@ -31,8 +45,8 @@
       "goalDifference": 7,
       "points": 11,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 2,
-      "rank": 2
+      "sourceRank": 3,
+      "rank": 3
     },
     {
       "team": "Paris FC",
@@ -44,20 +58,6 @@
       "goalsAgainst": 3,
       "goalDifference": 5,
       "points": 11,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 3,
-      "rank": 3
-    },
-    {
-      "team": "Lille",
-      "played": 5,
-      "wins": 3,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 4,
-      "goalDifference": 4,
-      "points": 10,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 4,
       "rank": 4
@@ -246,13 +246,13 @@
     },
     {
       "team": "Le Havre AC",
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "goalsFor": 4,
-      "goalsAgainst": 7,
-      "goalDifference": -3,
+      "goalsAgainst": 8,
+      "goalDifference": -4,
       "points": 2,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 18,
