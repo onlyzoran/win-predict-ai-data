@@ -1,21 +1,21 @@
 {
   "leagueId": "epl-26-27",
   "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T14:49:36Z",
+  "fetchedAt": "2026-10-11T20:07:01Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Manchester City",
-      "played": 5,
-      "wins": 5,
+      "played": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
-      "goalsFor": 13,
+      "goalsFor": 16,
       "goalsAgainst": 5,
-      "goalDifference": 8,
-      "points": 15,
+      "goalDifference": 11,
+      "points": 18,
       "group": "2026-27 English Premier League",
       "sourceRank": 1,
       "rank": 1
@@ -63,6 +63,20 @@
       "rank": 4
     },
     {
+      "team": "Everton",
+      "played": 6,
+      "wins": 2,
+      "draws": 4,
+      "losses": 0,
+      "goalsFor": 8,
+      "goalsAgainst": 5,
+      "goalDifference": 3,
+      "points": 10,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
       "team": "Chelsea",
       "played": 6,
       "wins": 3,
@@ -73,8 +87,8 @@
       "goalDifference": 2,
       "points": 10,
       "group": "2026-27 English Premier League",
-      "sourceRank": 5,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "Leeds United",
@@ -87,36 +101,36 @@
       "goalDifference": 3,
       "points": 9,
       "group": "2026-27 English Premier League",
-      "sourceRank": 6,
-      "rank": 6
-    },
-    {
-      "team": "Liverpool",
-      "played": 5,
-      "wins": 2,
-      "draws": 3,
-      "losses": 0,
-      "goalsFor": 7,
-      "goalsAgainst": 4,
-      "goalDifference": 3,
-      "points": 9,
-      "group": "2026-27 English Premier League",
       "sourceRank": 7,
       "rank": 7
     },
     {
-      "team": "Everton",
-      "played": 5,
+      "team": "Hull City",
+      "played": 6,
       "wins": 2,
       "draws": 3,
-      "losses": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 3,
-      "goalDifference": 3,
+      "losses": 1,
+      "goalsFor": 8,
+      "goalsAgainst": 6,
+      "goalDifference": 2,
       "points": 9,
       "group": "2026-27 English Premier League",
       "sourceRank": 8,
       "rank": 8
+    },
+    {
+      "team": "Liverpool",
+      "played": 6,
+      "wins": 2,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 7,
+      "goalDifference": 0,
+      "points": 9,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "Ipswich Town",
@@ -128,20 +142,6 @@
       "goalsAgainst": 12,
       "goalDifference": -3,
       "points": 9,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 9,
-      "rank": 9
-    },
-    {
-      "team": "Hull City",
-      "played": 5,
-      "wins": 2,
-      "draws": 2,
-      "losses": 1,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
-      "goalDifference": 2,
-      "points": 8,
       "group": "2026-27 English Premier League",
       "sourceRank": 10,
       "rank": 10
@@ -161,6 +161,20 @@
       "rank": 11
     },
     {
+      "team": "Crystal Palace",
+      "played": 6,
+      "wins": 2,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 9,
+      "goalsAgainst": 12,
+      "goalDifference": -3,
+      "points": 7,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 12,
+      "rank": 12
+    },
+    {
       "team": "Manchester United",
       "played": 6,
       "wins": 1,
@@ -171,22 +185,22 @@
       "goalDifference": 0,
       "points": 6,
       "group": "2026-27 English Premier League",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Nottingham Forest",
-      "played": 5,
+      "played": 6,
       "wins": 1,
       "draws": 2,
-      "losses": 2,
-      "goalsFor": 4,
-      "goalsAgainst": 5,
-      "goalDifference": -1,
+      "losses": 3,
+      "goalsFor": 5,
+      "goalsAgainst": 8,
+      "goalDifference": -3,
       "points": 5,
       "group": "2026-27 English Premier League",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Aston Villa",
@@ -198,20 +212,6 @@
       "goalsAgainst": 11,
       "goalDifference": -5,
       "points": 5,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 14,
-      "rank": 14
-    },
-    {
-      "team": "Crystal Palace",
-      "played": 5,
-      "wins": 1,
-      "draws": 1,
-      "losses": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 11,
-      "goalDifference": -5,
-      "points": 4,
       "group": "2026-27 English Premier League",
       "sourceRank": 15,
       "rank": 15

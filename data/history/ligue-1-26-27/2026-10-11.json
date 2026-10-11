@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T14:49:36Z",
+  "fetchedAt": "2026-10-11T20:07:01Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -35,6 +35,20 @@
       "rank": 2
     },
     {
+      "team": "Stade Rennais",
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 12,
+      "goalsAgainst": 10,
+      "goalDifference": 2,
+      "points": 13,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
       "team": "Lyon",
       "played": 6,
       "wins": 3,
@@ -45,8 +59,8 @@
       "goalDifference": 7,
       "points": 11,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 3,
-      "rank": 3
+      "sourceRank": 4,
+      "rank": 4
     },
     {
       "team": "Paris FC",
@@ -59,8 +73,8 @@
       "goalDifference": 4,
       "points": 11,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 4,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "Paris Saint-Germain",
@@ -72,20 +86,6 @@
       "goalsAgainst": 8,
       "goalDifference": 3,
       "points": 11,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 5,
-      "rank": 5
-    },
-    {
-      "team": "Stade Rennais",
-      "played": 5,
-      "wins": 3,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 9,
-      "goalDifference": -1,
-      "points": 10,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 6,
       "rank": 6
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Nice",
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 7,
+      "goalDifference": -2,
+      "points": 8,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Lens",
       "played": 6,
       "wins": 2,
@@ -129,22 +143,22 @@
       "goalDifference": 1,
       "points": 7,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Strasbourg",
-      "played": 5,
+      "played": 6,
       "wins": 2,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 10,
-      "goalsAgainst": 10,
-      "goalDifference": 0,
+      "losses": 3,
+      "goalsFor": 11,
+      "goalsAgainst": 12,
+      "goalDifference": -1,
       "points": 7,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Angers",
@@ -157,8 +171,8 @@
       "goalDifference": -3,
       "points": 7,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Le Mans",
@@ -171,8 +185,8 @@
       "goalDifference": -2,
       "points": 6,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Toulouse",
@@ -185,33 +199,19 @@
       "goalDifference": -2,
       "points": 6,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "AJ Auxerre",
-      "played": 5,
-      "wins": 2,
-      "draws": 0,
-      "losses": 3,
-      "goalsFor": 7,
-      "goalsAgainst": 12,
-      "goalDifference": -5,
-      "points": 6,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 14,
       "rank": 14
     },
     {
-      "team": "Nice",
-      "played": 5,
-      "wins": 1,
-      "draws": 2,
-      "losses": 2,
-      "goalsFor": 3,
-      "goalsAgainst": 6,
-      "goalDifference": -3,
-      "points": 5,
+      "team": "AJ Auxerre",
+      "played": 6,
+      "wins": 2,
+      "draws": 0,
+      "losses": 4,
+      "goalsFor": 8,
+      "goalsAgainst": 16,
+      "goalDifference": -8,
+      "points": 6,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 15,
       "rank": 15

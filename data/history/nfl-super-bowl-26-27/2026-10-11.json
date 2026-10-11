@@ -1,11 +1,24 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T14:49:37Z",
+  "fetchedAt": "2026-10-11T20:07:02Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Minnesota Vikings",
+      "wins": 5,
+      "losses": 0,
+      "goalsFor": 109,
+      "goalsAgainst": 64,
+      "goalDifference": 45,
+      "winPercent": 1.0,
+      "playoffSeed": 1,
+      "group": "National Football Conference",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Kansas City Chiefs",
       "wins": 4,
@@ -16,19 +29,6 @@
       "winPercent": 1.0,
       "playoffSeed": 1,
       "group": "American Football Conference",
-      "sourceRank": 1,
-      "rank": 1
-    },
-    {
-      "team": "Minnesota Vikings",
-      "wins": 4,
-      "losses": 0,
-      "goalsFor": 86,
-      "goalsAgainst": 51,
-      "goalDifference": 35,
-      "winPercent": 1.0,
-      "playoffSeed": 1,
-      "group": "National Football Conference",
       "sourceRank": 1,
       "rank": 2
     },
@@ -47,12 +47,12 @@
     },
     {
       "team": "Jacksonville Jaguars",
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
-      "goalsFor": 104,
-      "goalsAgainst": 53,
-      "goalDifference": 51,
-      "winPercent": 0.75,
+      "goalsFor": 123,
+      "goalsAgainst": 70,
+      "goalDifference": 53,
+      "winPercent": 0.8,
       "playoffSeed": 2,
       "group": "American Football Conference",
       "sourceRank": 2,
@@ -98,19 +98,6 @@
       "rank": 7
     },
     {
-      "team": "Las Vegas Raiders",
-      "wins": 3,
-      "losses": 1,
-      "goalsFor": 115,
-      "goalsAgainst": 84,
-      "goalDifference": 31,
-      "winPercent": 0.75,
-      "playoffSeed": 6,
-      "group": "American Football Conference",
-      "sourceRank": 6,
-      "rank": 8
-    },
-    {
       "team": "New York Giants",
       "wins": 3,
       "losses": 1,
@@ -121,7 +108,7 @@
       "playoffSeed": 3,
       "group": "National Football Conference",
       "sourceRank": 3,
-      "rank": 9
+      "rank": 8
     },
     {
       "team": "Chicago Bears",
@@ -134,7 +121,7 @@
       "playoffSeed": 5,
       "group": "National Football Conference",
       "sourceRank": 5,
-      "rank": 10
+      "rank": 9
     },
     {
       "team": "Seattle Seahawks",
@@ -147,16 +134,29 @@
       "playoffSeed": 6,
       "group": "National Football Conference",
       "sourceRank": 6,
-      "rank": 11
+      "rank": 10
     },
     {
       "team": "New England Patriots",
-      "wins": 2,
+      "wins": 3,
       "losses": 2,
-      "goalsFor": 65,
-      "goalsAgainst": 77,
-      "goalDifference": -12,
-      "winPercent": 0.5,
+      "goalsFor": 110,
+      "goalsAgainst": 94,
+      "goalDifference": 16,
+      "winPercent": 0.6,
+      "playoffSeed": 6,
+      "group": "American Football Conference",
+      "sourceRank": 6,
+      "rank": 11
+    },
+    {
+      "team": "Las Vegas Raiders",
+      "wins": 3,
+      "losses": 2,
+      "goalsFor": 132,
+      "goalsAgainst": 129,
+      "goalDifference": 3,
+      "winPercent": 0.6,
       "playoffSeed": 7,
       "group": "American Football Conference",
       "sourceRank": 7,
@@ -282,11 +282,11 @@
     {
       "team": "Philadelphia Eagles",
       "wins": 2,
-      "losses": 2,
-      "goalsFor": 75,
-      "goalsAgainst": 93,
-      "goalDifference": -18,
-      "winPercent": 0.5,
+      "losses": 3,
+      "goalsFor": 92,
+      "goalsAgainst": 112,
+      "goalDifference": -20,
+      "winPercent": 0.4,
       "playoffSeed": 11,
       "group": "National Football Conference",
       "sourceRank": 11,
@@ -332,19 +332,6 @@
       "rank": 25
     },
     {
-      "team": "New Orleans Saints",
-      "wins": 1,
-      "losses": 3,
-      "goalsFor": 105,
-      "goalsAgainst": 128,
-      "goalDifference": -23,
-      "winPercent": 0.25,
-      "playoffSeed": 14,
-      "group": "National Football Conference",
-      "sourceRank": 14,
-      "rank": 26
-    },
-    {
       "team": "Arizona Cardinals",
       "wins": 1,
       "losses": 3,
@@ -352,9 +339,22 @@
       "goalsAgainst": 117,
       "goalDifference": -30,
       "winPercent": 0.25,
-      "playoffSeed": 15,
+      "playoffSeed": 14,
       "group": "National Football Conference",
-      "sourceRank": 15,
+      "sourceRank": 14,
+      "rank": 26
+    },
+    {
+      "team": "Houston Texans",
+      "wins": 1,
+      "losses": 4,
+      "goalsFor": 110,
+      "goalsAgainst": 112,
+      "goalDifference": -2,
+      "winPercent": 0.2,
+      "playoffSeed": 13,
+      "group": "American Football Conference",
+      "sourceRank": 13,
       "rank": 27
     },
     {
@@ -365,10 +365,23 @@
       "goalsAgainst": 112,
       "goalDifference": -12,
       "winPercent": 0.2,
+      "playoffSeed": 15,
+      "group": "National Football Conference",
+      "sourceRank": 15,
+      "rank": 28
+    },
+    {
+      "team": "New Orleans Saints",
+      "wins": 1,
+      "losses": 4,
+      "goalsFor": 118,
+      "goalsAgainst": 151,
+      "goalDifference": -33,
+      "winPercent": 0.2,
       "playoffSeed": 16,
       "group": "National Football Conference",
       "sourceRank": 16,
-      "rank": 28
+      "rank": 29
     },
     {
       "team": "Miami Dolphins",
@@ -378,10 +391,10 @@
       "goalsAgainst": 101,
       "goalDifference": -55,
       "winPercent": 0.0,
-      "playoffSeed": 13,
+      "playoffSeed": 14,
       "group": "American Football Conference",
-      "sourceRank": 13,
-      "rank": 29
+      "sourceRank": 14,
+      "rank": 30
     },
     {
       "team": "Los Angeles Chargers",
@@ -391,31 +404,18 @@
       "goalsAgainst": 106,
       "goalDifference": -39,
       "winPercent": 0.0,
-      "playoffSeed": 14,
-      "group": "American Football Conference",
-      "sourceRank": 14,
-      "rank": 30
-    },
-    {
-      "team": "Tennessee Titans",
-      "wins": 0,
-      "losses": 4,
-      "goalsFor": 55,
-      "goalsAgainst": 83,
-      "goalDifference": -28,
-      "winPercent": 0.0,
       "playoffSeed": 15,
       "group": "American Football Conference",
       "sourceRank": 15,
       "rank": 31
     },
     {
-      "team": "Houston Texans",
+      "team": "Tennessee Titans",
       "wins": 0,
-      "losses": 4,
-      "goalsFor": 84,
+      "losses": 5,
+      "goalsFor": 58,
       "goalsAgainst": 109,
-      "goalDifference": -25,
+      "goalDifference": -51,
       "winPercent": 0.0,
       "playoffSeed": 16,
       "group": "American Football Conference",
