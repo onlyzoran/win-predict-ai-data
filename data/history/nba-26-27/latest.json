@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T05:15:49Z",
+  "fetchedAt": "2026-10-11T14:49:37Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -62,17 +62,6 @@
       "rank": 5
     },
     {
-      "team": "Houston Rockets",
-      "wins": 1,
-      "losses": 0,
-      "goalDifference": 18,
-      "winPercent": 1.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 6
-    },
-    {
       "team": "Miami Heat",
       "wins": 2,
       "losses": 1,
@@ -81,7 +70,7 @@
       "playoffSeed": 5,
       "group": "Eastern Conference",
       "sourceRank": 5,
-      "rank": 7
+      "rank": 6
     },
     {
       "team": "Atlanta Hawks",
@@ -92,6 +81,17 @@
       "playoffSeed": 6,
       "group": "Eastern Conference",
       "sourceRank": 6,
+      "rank": 7
+    },
+    {
+      "team": "Memphis Grizzlies",
+      "wins": 2,
+      "losses": 1,
+      "goalDifference": 9,
+      "winPercent": 0.6666667,
+      "playoffSeed": 2,
+      "group": "Western Conference",
+      "sourceRank": 2,
       "rank": 8
     },
     {
@@ -106,7 +106,7 @@
       "rank": 9
     },
     {
-      "team": "Memphis Grizzlies",
+      "team": "Minnesota Timberwolves",
       "wins": 2,
       "losses": 1,
       "goalDifference": 9,
@@ -117,26 +117,15 @@
       "rank": 10
     },
     {
-      "team": "Minnesota Timberwolves",
-      "wins": 2,
-      "losses": 1,
-      "goalDifference": 9,
-      "winPercent": 0.6666667,
-      "playoffSeed": 5,
-      "group": "Western Conference",
-      "sourceRank": 5,
-      "rank": 11
-    },
-    {
       "team": "Golden State Warriors",
       "wins": 2,
       "losses": 2,
       "goalDifference": 23,
       "winPercent": 0.5,
-      "playoffSeed": 6,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 6,
-      "rank": 12
+      "sourceRank": 5,
+      "rank": 11
     },
     {
       "team": "Indiana Pacers",
@@ -147,7 +136,7 @@
       "playoffSeed": 7,
       "group": "Eastern Conference",
       "sourceRank": 7,
-      "rank": 13
+      "rank": 12
     },
     {
       "team": "Chicago Bulls",
@@ -158,7 +147,7 @@
       "playoffSeed": 8,
       "group": "Eastern Conference",
       "sourceRank": 8,
-      "rank": 14
+      "rank": 13
     },
     {
       "team": "Detroit Pistons",
@@ -169,7 +158,7 @@
       "playoffSeed": 9,
       "group": "Eastern Conference",
       "sourceRank": 9,
-      "rank": 15
+      "rank": 14
     },
     {
       "team": "Toronto Raptors",
@@ -180,7 +169,7 @@
       "playoffSeed": 10,
       "group": "Eastern Conference",
       "sourceRank": 10,
-      "rank": 16
+      "rank": 15
     },
     {
       "team": "Milwaukee Bucks",
@@ -191,29 +180,18 @@
       "playoffSeed": 11,
       "group": "Eastern Conference",
       "sourceRank": 11,
+      "rank": 16
+    },
+    {
+      "team": "Dallas Mavericks",
+      "wins": 1,
+      "losses": 1,
+      "goalDifference": -1,
+      "winPercent": 0.5,
+      "playoffSeed": 6,
+      "group": "Western Conference",
+      "sourceRank": 6,
       "rank": 17
-    },
-    {
-      "team": "LA Clippers",
-      "wins": 1,
-      "losses": 1,
-      "goalDifference": -5,
-      "winPercent": 0.5,
-      "playoffSeed": 7,
-      "group": "Western Conference",
-      "sourceRank": 7,
-      "rank": 18
-    },
-    {
-      "team": "Utah Jazz",
-      "wins": 1,
-      "losses": 1,
-      "goalDifference": 1,
-      "winPercent": 0.5,
-      "playoffSeed": 8,
-      "group": "Western Conference",
-      "sourceRank": 8,
-      "rank": 19
     },
     {
       "team": "Denver Nuggets",
@@ -221,10 +199,43 @@
       "losses": 1,
       "goalDifference": -1,
       "winPercent": 0.5,
-      "playoffSeed": 9,
+      "playoffSeed": 6,
       "group": "Western Conference",
-      "sourceRank": 9,
+      "sourceRank": 6,
+      "rank": 18
+    },
+    {
+      "team": "Houston Rockets",
+      "wins": 1,
+      "losses": 1,
+      "goalDifference": 1,
+      "winPercent": 0.5,
+      "playoffSeed": 6,
+      "group": "Western Conference",
+      "sourceRank": 6,
+      "rank": 19
+    },
+    {
+      "team": "Utah Jazz",
+      "wins": 1,
+      "losses": 1,
+      "goalDifference": 1,
+      "winPercent": 0.5,
+      "playoffSeed": 6,
+      "group": "Western Conference",
+      "sourceRank": 6,
       "rank": 20
+    },
+    {
+      "team": "LA Clippers",
+      "wins": 1,
+      "losses": 1,
+      "goalDifference": -5,
+      "winPercent": 0.5,
+      "playoffSeed": 10,
+      "group": "Western Conference",
+      "sourceRank": 10,
+      "rank": 21
     },
     {
       "team": "New Orleans Pelicans",
@@ -232,10 +243,10 @@
       "losses": 1,
       "goalDifference": -4,
       "winPercent": 0.5,
-      "playoffSeed": 10,
+      "playoffSeed": 11,
       "group": "Western Conference",
-      "sourceRank": 10,
-      "rank": 21
+      "sourceRank": 11,
+      "rank": 22
     },
     {
       "team": "Philadelphia 76ers",
@@ -246,7 +257,7 @@
       "playoffSeed": 12,
       "group": "Eastern Conference",
       "sourceRank": 12,
-      "rank": 22
+      "rank": 23
     },
     {
       "team": "Phoenix Suns",
@@ -254,10 +265,10 @@
       "losses": 2,
       "goalDifference": -5,
       "winPercent": 0.33333334,
-      "playoffSeed": 11,
+      "playoffSeed": 12,
       "group": "Western Conference",
-      "sourceRank": 11,
-      "rank": 23
+      "sourceRank": 12,
+      "rank": 24
     },
     {
       "team": "Cleveland Cavaliers",
@@ -268,7 +279,7 @@
       "playoffSeed": 13,
       "group": "Eastern Conference",
       "sourceRank": 13,
-      "rank": 24
+      "rank": 25
     },
     {
       "team": "Charlotte Hornets",
@@ -279,17 +290,6 @@
       "playoffSeed": 14,
       "group": "Eastern Conference",
       "sourceRank": 14,
-      "rank": 25
-    },
-    {
-      "team": "Dallas Mavericks",
-      "wins": 0,
-      "losses": 1,
-      "goalDifference": -18,
-      "winPercent": 0.0,
-      "playoffSeed": 12,
-      "group": "Western Conference",
-      "sourceRank": 12,
       "rank": 26
     },
     {
