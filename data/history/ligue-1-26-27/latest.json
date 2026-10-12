@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
-  "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T20:07:01Z",
+  "date": "2026-10-12",
+  "fetchedAt": "2026-10-12T05:28:41Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -175,6 +175,20 @@
       "rank": 12
     },
     {
+      "team": "Marseille",
+      "played": 6,
+      "wins": 2,
+      "draws": 0,
+      "losses": 4,
+      "goalsFor": 9,
+      "goalsAgainst": 8,
+      "goalDifference": 1,
+      "points": 6,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
       "team": "Le Mans",
       "played": 6,
       "wins": 1,
@@ -185,8 +199,8 @@
       "goalDifference": -2,
       "points": 6,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Toulouse",
@@ -199,8 +213,8 @@
       "goalDifference": -2,
       "points": 6,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 14,
-      "rank": 14
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "AJ Auxerre",
@@ -213,33 +227,19 @@
       "goalDifference": -8,
       "points": 6,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 15,
-      "rank": 15
-    },
-    {
-      "team": "Troyes",
-      "played": 5,
-      "wins": 1,
-      "draws": 1,
-      "losses": 3,
-      "goalsFor": 4,
-      "goalsAgainst": 11,
-      "goalDifference": -7,
-      "points": 4,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 16,
       "rank": 16
     },
     {
-      "team": "Marseille",
-      "played": 5,
+      "team": "Troyes",
+      "played": 6,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 4,
-      "goalsFor": 7,
-      "goalsAgainst": 8,
-      "goalDifference": -1,
-      "points": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 13,
+      "goalDifference": -9,
+      "points": 4,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 17,
       "rank": 17

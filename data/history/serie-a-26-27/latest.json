@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
-  "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T20:07:01Z",
+  "date": "2026-10-12",
+  "fetchedAt": "2026-10-12T05:28:41Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -49,6 +49,20 @@
       "rank": 3
     },
     {
+      "team": "Cagliari",
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 6,
+      "goalsAgainst": 3,
+      "goalDifference": 3,
+      "points": 13,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
       "team": "AC Milan",
       "played": 6,
       "wins": 3,
@@ -60,21 +74,21 @@
       "points": 12,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 5,
-      "rank": 4
+      "rank": 5
     },
     {
-      "team": "Cagliari",
-      "played": 5,
-      "wins": 4,
-      "draws": 0,
+      "team": "Juventus",
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
       "losses": 1,
-      "goalsFor": 5,
-      "goalsAgainst": 2,
-      "goalDifference": 3,
-      "points": 12,
+      "goalsFor": 9,
+      "goalsAgainst": 5,
+      "goalDifference": 4,
+      "points": 11,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 4,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "Como",
@@ -87,8 +101,8 @@
       "goalDifference": 3,
       "points": 11,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 6,
-      "rank": 6
+      "sourceRank": 7,
+      "rank": 7
     },
     {
       "team": "Napoli",
@@ -102,20 +116,6 @@
       "points": 10,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 8,
-      "rank": 7
-    },
-    {
-      "team": "Juventus",
-      "played": 5,
-      "wins": 3,
-      "draws": 1,
-      "losses": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 4,
-      "goalDifference": 4,
-      "points": 10,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 7,
       "rank": 8
     },
     {

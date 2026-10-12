@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
-  "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T20:07:02Z",
+  "date": "2026-10-12",
+  "fetchedAt": "2026-10-12T05:28:42Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -35,6 +35,20 @@
       "rank": 2
     },
     {
+      "team": "St. Louis CITY SC",
+      "played": 28,
+      "wins": 14,
+      "draws": 8,
+      "losses": 6,
+      "goalsFor": 54,
+      "goalsAgainst": 38,
+      "goalDifference": 16,
+      "points": 50,
+      "group": "Western Conference",
+      "sourceRank": 2,
+      "rank": 3
+    },
+    {
       "team": "Inter Miami CF",
       "played": 28,
       "wins": 13,
@@ -46,7 +60,7 @@
       "points": 49,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "team": "Chicago Fire FC",
@@ -60,20 +74,6 @@
       "points": 48,
       "group": "Eastern Conference",
       "sourceRank": 3,
-      "rank": 4
-    },
-    {
-      "team": "St. Louis CITY SC",
-      "played": 27,
-      "wins": 13,
-      "draws": 8,
-      "losses": 6,
-      "goalsFor": 48,
-      "goalsAgainst": 36,
-      "goalDifference": 12,
-      "points": 47,
-      "group": "Western Conference",
-      "sourceRank": 2,
       "rank": 5
     },
     {
@@ -232,13 +232,13 @@
     },
     {
       "team": "LA Galaxy",
-      "played": 28,
+      "played": 29,
       "wins": 9,
       "draws": 9,
-      "losses": 10,
-      "goalsFor": 37,
-      "goalsAgainst": 44,
-      "goalDifference": -7,
+      "losses": 11,
+      "goalsFor": 39,
+      "goalsAgainst": 50,
+      "goalDifference": -11,
       "points": 36,
       "group": "Western Conference",
       "sourceRank": 9,

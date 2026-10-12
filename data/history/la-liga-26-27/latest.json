@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
-  "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T20:07:01Z",
+  "date": "2026-10-12",
+  "fetchedAt": "2026-10-12T05:28:40Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -203,6 +203,20 @@
       "rank": 14
     },
     {
+      "team": "Racing Santander",
+      "played": 8,
+      "wins": 2,
+      "draws": 2,
+      "losses": 4,
+      "goalsFor": 13,
+      "goalsAgainst": 23,
+      "goalDifference": -10,
+      "points": 8,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 15,
+      "rank": 15
+    },
+    {
       "team": "Osasuna",
       "played": 8,
       "wins": 2,
@@ -212,20 +226,6 @@
       "goalsAgainst": 18,
       "goalDifference": -10,
       "points": 8,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 15,
-      "rank": 15
-    },
-    {
-      "team": "Racing Santander",
-      "played": 7,
-      "wins": 2,
-      "draws": 1,
-      "losses": 4,
-      "goalsFor": 11,
-      "goalsAgainst": 21,
-      "goalDifference": -10,
-      "points": 7,
       "group": "2026-27 LALIGA",
       "sourceRank": 16,
       "rank": 16
@@ -260,14 +260,14 @@
     },
     {
       "team": "Valencia",
-      "played": 7,
+      "played": 8,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "losses": 5,
-      "goalsFor": 4,
-      "goalsAgainst": 13,
+      "goalsFor": 6,
+      "goalsAgainst": 15,
       "goalDifference": -9,
-      "points": 4,
+      "points": 5,
       "group": "2026-27 LALIGA",
       "sourceRank": 19,
       "rank": 19
