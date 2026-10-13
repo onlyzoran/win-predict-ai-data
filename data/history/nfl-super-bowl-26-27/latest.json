@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-10-12",
-  "fetchedAt": "2026-10-12T17:39:36Z",
+  "date": "2026-10-13",
+  "fetchedAt": "2026-10-13T06:26:10Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -73,12 +73,12 @@
     },
     {
       "team": "Buffalo Bills",
-      "wins": 3,
+      "wins": 4,
       "losses": 1,
-      "goalsFor": 127,
-      "goalsAgainst": 107,
-      "goalDifference": 20,
-      "winPercent": 0.75,
+      "goalsFor": 164,
+      "goalsAgainst": 141,
+      "goalDifference": 23,
+      "winPercent": 0.8,
       "playoffSeed": 4,
       "group": "American Football Conference",
       "sourceRank": 4,
@@ -189,12 +189,12 @@
       "rank": 14
     },
     {
-      "team": "Chicago Bears",
+      "team": "Detroit Lions",
       "wins": 3,
       "losses": 2,
-      "goalsFor": 119,
-      "goalsAgainst": 96,
-      "goalDifference": 23,
+      "goalsFor": 164,
+      "goalsAgainst": 148,
+      "goalDifference": 16,
       "winPercent": 0.6,
       "playoffSeed": 6,
       "group": "National Football Conference",
@@ -202,12 +202,12 @@
       "rank": 15
     },
     {
-      "team": "Detroit Lions",
+      "team": "Chicago Bears",
       "wins": 3,
       "losses": 2,
-      "goalsFor": 164,
-      "goalsAgainst": 148,
-      "goalDifference": 16,
+      "goalsFor": 119,
+      "goalsAgainst": 96,
+      "goalDifference": 23,
       "winPercent": 0.6,
       "playoffSeed": 7,
       "group": "National Football Conference",
@@ -241,19 +241,6 @@
       "rank": 18
     },
     {
-      "team": "Los Angeles Rams",
-      "wins": 2,
-      "losses": 2,
-      "goalsFor": 85,
-      "goalsAgainst": 83,
-      "goalDifference": 2,
-      "winPercent": 0.5,
-      "playoffSeed": 9,
-      "group": "National Football Conference",
-      "sourceRank": 9,
-      "rank": 19
-    },
-    {
       "team": "New York Jets",
       "wins": 2,
       "losses": 3,
@@ -264,7 +251,7 @@
       "playoffSeed": 11,
       "group": "American Football Conference",
       "sourceRank": 11,
-      "rank": 20
+      "rank": 19
     },
     {
       "team": "Indianapolis Colts",
@@ -277,6 +264,19 @@
       "playoffSeed": 12,
       "group": "American Football Conference",
       "sourceRank": 12,
+      "rank": 20
+    },
+    {
+      "team": "Los Angeles Rams",
+      "wins": 2,
+      "losses": 3,
+      "goalsFor": 119,
+      "goalsAgainst": 120,
+      "goalDifference": -1,
+      "winPercent": 0.4,
+      "playoffSeed": 9,
+      "group": "National Football Conference",
+      "sourceRank": 9,
       "rank": 21
     },
     {
