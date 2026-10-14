@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-10-14",
-  "fetchedAt": "2026-10-14T04:27:04Z",
+  "fetchedAt": "2026-10-14T13:31:32Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -46,7 +46,20 @@
       "rank": 3
     },
     {
-      "team": "Seattle Kraken",
+      "team": "Edmonton Oilers",
+      "played": 6,
+      "wins": 5,
+      "losses": 0,
+      "otLosses": 1,
+      "goalDifference": 11,
+      "points": 11,
+      "playoffSeed": 2,
+      "group": "Western Conference",
+      "sourceRank": 2,
+      "rank": 4
+    },
+    {
+      "team": "Boston Bruins",
       "played": 7,
       "wins": 5,
       "losses": 2,
@@ -54,9 +67,22 @@
       "goalDifference": 10,
       "points": 10,
       "playoffSeed": 3,
-      "group": "Western Conference",
+      "group": "Eastern Conference",
       "sourceRank": 3,
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "team": "Seattle Kraken",
+      "played": 7,
+      "wins": 5,
+      "losses": 2,
+      "otLosses": 0,
+      "goalDifference": 10,
+      "points": 10,
+      "playoffSeed": 4,
+      "group": "Western Conference",
+      "sourceRank": 4,
+      "rank": 6
     },
     {
       "team": "Utah Mammoth",
@@ -66,10 +92,10 @@
       "otLosses": 0,
       "goalDifference": 8,
       "points": 10,
-      "playoffSeed": 2,
+      "playoffSeed": 3,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 5
+      "sourceRank": 3,
+      "rank": 7
     },
     {
       "team": "Ottawa Senators",
@@ -79,23 +105,10 @@
       "otLosses": 0,
       "goalDifference": 2,
       "points": 10,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 6
-    },
-    {
-      "team": "Edmonton Oilers",
-      "played": 5,
-      "wins": 4,
-      "losses": 0,
-      "otLosses": 1,
-      "goalDifference": 8,
-      "points": 9,
       "playoffSeed": 4,
-      "group": "Western Conference",
+      "group": "Eastern Conference",
       "sourceRank": 4,
-      "rank": 7
+      "rank": 8
     },
     {
       "team": "Minnesota Wild",
@@ -108,7 +121,7 @@
       "playoffSeed": 6,
       "group": "Western Conference",
       "sourceRank": 6,
-      "rank": 8
+      "rank": 9
     },
     {
       "team": "Winnipeg Jets",
@@ -121,7 +134,7 @@
       "playoffSeed": 5,
       "group": "Western Conference",
       "sourceRank": 5,
-      "rank": 9
+      "rank": 10
     },
     {
       "team": "Colorado Avalanche",
@@ -131,35 +144,22 @@
       "otLosses": 0,
       "goalDifference": 10,
       "points": 8,
-      "playoffSeed": 8,
+      "playoffSeed": 7,
       "group": "Western Conference",
-      "sourceRank": 8,
-      "rank": 10
-    },
-    {
-      "team": "Boston Bruins",
-      "played": 6,
-      "wins": 4,
-      "losses": 2,
-      "otLosses": 0,
-      "goalDifference": 7,
-      "points": 8,
-      "playoffSeed": 5,
-      "group": "Eastern Conference",
-      "sourceRank": 5,
+      "sourceRank": 7,
       "rank": 11
     },
     {
       "team": "Anaheim Ducks",
-      "played": 5,
+      "played": 6,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "otLosses": 0,
-      "goalDifference": 5,
+      "goalDifference": 3,
       "points": 8,
-      "playoffSeed": 7,
+      "playoffSeed": 8,
       "group": "Western Conference",
-      "sourceRank": 7,
+      "sourceRank": 8,
       "rank": 12
     },
     {
@@ -170,9 +170,9 @@
       "otLosses": 0,
       "goalDifference": 1,
       "points": 8,
-      "playoffSeed": 4,
+      "playoffSeed": 5,
       "group": "Eastern Conference",
-      "sourceRank": 4,
+      "sourceRank": 5,
       "rank": 13
     },
     {
@@ -287,23 +287,10 @@
       "otLosses": 2,
       "goalDifference": -3,
       "points": 6,
-      "playoffSeed": 11,
-      "group": "Western Conference",
-      "sourceRank": 11,
-      "rank": 22
-    },
-    {
-      "team": "San Jose Sharks",
-      "played": 5,
-      "wins": 3,
-      "losses": 2,
-      "otLosses": 0,
-      "goalDifference": -4,
-      "points": 6,
       "playoffSeed": 10,
       "group": "Western Conference",
       "sourceRank": 10,
-      "rank": 23
+      "rank": 22
     },
     {
       "team": "New Jersey Devils",
@@ -316,6 +303,19 @@
       "playoffSeed": 13,
       "group": "Eastern Conference",
       "sourceRank": 13,
+      "rank": 23
+    },
+    {
+      "team": "San Jose Sharks",
+      "played": 6,
+      "wins": 3,
+      "losses": 3,
+      "otLosses": 0,
+      "goalDifference": -7,
+      "points": 6,
+      "playoffSeed": 11,
+      "group": "Western Conference",
+      "sourceRank": 11,
       "rank": 24
     },
     {
@@ -398,11 +398,11 @@
     },
     {
       "team": "Los Angeles Kings",
-      "played": 4,
+      "played": 5,
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "otLosses": 2,
-      "goalDifference": -7,
+      "goalDifference": -10,
       "points": 2,
       "playoffSeed": 15,
       "group": "Western Conference",
@@ -411,12 +411,12 @@
     },
     {
       "team": "Calgary Flames",
-      "played": 5,
-      "wins": 0,
+      "played": 6,
+      "wins": 1,
       "losses": 5,
       "otLosses": 0,
-      "goalDifference": -19,
-      "points": 0,
+      "goalDifference": -17,
+      "points": 2,
       "playoffSeed": 16,
       "group": "Western Conference",
       "sourceRank": 16,

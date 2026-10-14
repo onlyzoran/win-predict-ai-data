@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-10-14",
-  "fetchedAt": "2026-10-14T04:27:04Z",
+  "fetchedAt": "2026-10-14T13:31:32Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -18,6 +18,17 @@
       "rank": 1
     },
     {
+      "team": "Portland Trail Blazers",
+      "wins": 3,
+      "losses": 0,
+      "goalDifference": 70,
+      "winPercent": 1.0,
+      "playoffSeed": 1,
+      "group": "Western Conference",
+      "sourceRank": 1,
+      "rank": 2
+    },
+    {
       "team": "Boston Celtics",
       "wins": 2,
       "losses": 0,
@@ -26,17 +37,6 @@
       "playoffSeed": 2,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 2
-    },
-    {
-      "team": "Portland Trail Blazers",
-      "wins": 2,
-      "losses": 0,
-      "goalDifference": 58,
-      "winPercent": 1.0,
-      "playoffSeed": 1,
-      "group": "Western Conference",
-      "sourceRank": 1,
       "rank": 3
     },
     {
@@ -315,17 +315,6 @@
       "rank": 28
     },
     {
-      "team": "Sacramento Kings",
-      "wins": 0,
-      "losses": 3,
-      "goalDifference": -33,
-      "winPercent": 0.0,
-      "playoffSeed": 15,
-      "group": "Western Conference",
-      "sourceRank": 15,
-      "rank": 29
-    },
-    {
       "team": "New York Knicks",
       "wins": 0,
       "losses": 4,
@@ -333,6 +322,17 @@
       "winPercent": 0.0,
       "playoffSeed": 15,
       "group": "Eastern Conference",
+      "sourceRank": 15,
+      "rank": 29
+    },
+    {
+      "team": "Sacramento Kings",
+      "wins": 0,
+      "losses": 4,
+      "goalDifference": -45,
+      "winPercent": 0.0,
+      "playoffSeed": 15,
+      "group": "Western Conference",
       "sourceRank": 15,
       "rank": 30
     }
