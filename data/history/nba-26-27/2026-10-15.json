@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-10-15",
-  "fetchedAt": "2026-10-15T04:09:51Z",
+  "fetchedAt": "2026-10-15T13:15:33Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -84,10 +84,10 @@
       "rank": 7
     },
     {
-      "team": "Orlando Magic",
+      "team": "Toronto Raptors",
       "wins": 2,
       "losses": 1,
-      "goalDifference": 6,
+      "goalDifference": 34,
       "winPercent": 0.6666667,
       "playoffSeed": 7,
       "group": "Eastern Conference",
@@ -95,10 +95,10 @@
       "rank": 8
     },
     {
-      "team": "Toronto Raptors",
+      "team": "Orlando Magic",
       "wins": 2,
       "losses": 1,
-      "goalDifference": 34,
+      "goalDifference": 6,
       "winPercent": 0.6666667,
       "playoffSeed": 8,
       "group": "Eastern Conference",
@@ -117,10 +117,10 @@
       "rank": 10
     },
     {
-      "team": "Utah Jazz",
+      "team": "LA Clippers",
       "wins": 2,
       "losses": 1,
-      "goalDifference": 11,
+      "goalDifference": 7,
       "winPercent": 0.6666667,
       "playoffSeed": 3,
       "group": "Western Conference",
@@ -128,10 +128,10 @@
       "rank": 11
     },
     {
-      "team": "Denver Nuggets",
+      "team": "New Orleans Pelicans",
       "wins": 2,
       "losses": 1,
-      "goalDifference": 4,
+      "goalDifference": 0,
       "winPercent": 0.6666667,
       "playoffSeed": 4,
       "group": "Western Conference",
@@ -139,10 +139,10 @@
       "rank": 12
     },
     {
-      "team": "New Orleans Pelicans",
+      "team": "Utah Jazz",
       "wins": 2,
       "losses": 1,
-      "goalDifference": 0,
+      "goalDifference": 11,
       "winPercent": 0.6666667,
       "playoffSeed": 5,
       "group": "Western Conference",
@@ -150,10 +150,10 @@
       "rank": 13
     },
     {
-      "team": "Golden State Warriors",
+      "team": "Minnesota Timberwolves",
       "wins": 3,
       "losses": 2,
-      "goalDifference": 35,
+      "goalDifference": 5,
       "winPercent": 0.6,
       "playoffSeed": 6,
       "group": "Western Conference",
@@ -161,10 +161,10 @@
       "rank": 14
     },
     {
-      "team": "Minnesota Timberwolves",
+      "team": "Golden State Warriors",
       "wins": 3,
       "losses": 2,
-      "goalDifference": 5,
+      "goalDifference": 35,
       "winPercent": 0.6,
       "playoffSeed": 7,
       "group": "Western Conference",
@@ -194,10 +194,10 @@
       "rank": 17
     },
     {
-      "team": "LA Clippers",
-      "wins": 1,
-      "losses": 1,
-      "goalDifference": -5,
+      "team": "Denver Nuggets",
+      "wins": 2,
+      "losses": 2,
+      "goalDifference": -8,
       "winPercent": 0.5,
       "playoffSeed": 9,
       "group": "Western Conference",

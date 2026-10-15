@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
   "date": "2026-10-15",
-  "fetchedAt": "2026-10-15T04:09:51Z",
+  "fetchedAt": "2026-10-15T13:15:33Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -133,6 +133,34 @@
       "rank": 9
     },
     {
+      "team": "Houston Dynamo FC",
+      "played": 29,
+      "wins": 13,
+      "draws": 7,
+      "losses": 9,
+      "goalsFor": 39,
+      "goalsAgainst": 37,
+      "goalDifference": 2,
+      "points": 46,
+      "group": "Western Conference",
+      "sourceRank": 5,
+      "rank": 10
+    },
+    {
+      "team": "LAFC",
+      "played": 30,
+      "wins": 12,
+      "draws": 9,
+      "losses": 9,
+      "goalsFor": 47,
+      "goalsAgainst": 32,
+      "goalDifference": 15,
+      "points": 45,
+      "group": "Western Conference",
+      "sourceRank": 6,
+      "rank": 11
+    },
+    {
       "team": "Philadelphia Union",
       "played": 29,
       "wins": 13,
@@ -143,34 +171,6 @@
       "goalDifference": 13,
       "points": 45,
       "group": "Eastern Conference",
-      "sourceRank": 6,
-      "rank": 10
-    },
-    {
-      "team": "Houston Dynamo FC",
-      "played": 28,
-      "wins": 13,
-      "draws": 6,
-      "losses": 9,
-      "goalsFor": 36,
-      "goalsAgainst": 34,
-      "goalDifference": 2,
-      "points": 45,
-      "group": "Western Conference",
-      "sourceRank": 5,
-      "rank": 11
-    },
-    {
-      "team": "LAFC",
-      "played": 29,
-      "wins": 11,
-      "draws": 9,
-      "losses": 9,
-      "goalsFor": 44,
-      "goalsAgainst": 31,
-      "goalDifference": 13,
-      "points": 42,
-      "group": "Western Conference",
       "sourceRank": 6,
       "rank": 12
     },
@@ -189,6 +189,20 @@
       "rank": 13
     },
     {
+      "team": "LA Galaxy",
+      "played": 30,
+      "wins": 10,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 41,
+      "goalsAgainst": 50,
+      "goalDifference": -9,
+      "points": 39,
+      "group": "Western Conference",
+      "sourceRank": 8,
+      "rank": 14
+    },
+    {
       "team": "Colorado Rapids",
       "played": 29,
       "wins": 11,
@@ -199,8 +213,8 @@
       "goalDifference": 0,
       "points": 38,
       "group": "Western Conference",
-      "sourceRank": 8,
-      "rank": 14
+      "sourceRank": 9,
+      "rank": 15
     },
     {
       "team": "Orlando City SC",
@@ -214,7 +228,7 @@
       "points": 38,
       "group": "Eastern Conference",
       "sourceRank": 7,
-      "rank": 15
+      "rank": 16
     },
     {
       "team": "FC Cincinnati",
@@ -227,20 +241,6 @@
       "goalDifference": -8,
       "points": 36,
       "group": "Eastern Conference",
-      "sourceRank": 9,
-      "rank": 16
-    },
-    {
-      "team": "LA Galaxy",
-      "played": 29,
-      "wins": 9,
-      "draws": 9,
-      "losses": 11,
-      "goalsFor": 39,
-      "goalsAgainst": 50,
-      "goalDifference": -11,
-      "points": 36,
-      "group": "Western Conference",
       "sourceRank": 9,
       "rank": 17
     },
@@ -273,18 +273,32 @@
       "rank": 19
     },
     {
-      "team": "Portland Timbers",
-      "played": 28,
-      "wins": 9,
-      "draws": 6,
-      "losses": 13,
+      "team": "San Diego FC",
+      "played": 29,
+      "wins": 8,
+      "draws": 9,
+      "losses": 12,
       "goalsFor": 51,
       "goalsAgainst": 54,
       "goalDifference": -3,
       "points": 33,
       "group": "Western Conference",
-      "sourceRank": 10,
+      "sourceRank": 12,
       "rank": 20
+    },
+    {
+      "team": "Portland Timbers",
+      "played": 29,
+      "wins": 9,
+      "draws": 6,
+      "losses": 14,
+      "goalsFor": 51,
+      "goalsAgainst": 56,
+      "goalDifference": -5,
+      "points": 33,
+      "group": "Western Conference",
+      "sourceRank": 10,
+      "rank": 21
     },
     {
       "team": "Real Salt Lake",
@@ -298,7 +312,7 @@
       "points": 33,
       "group": "Western Conference",
       "sourceRank": 11,
-      "rank": 21
+      "rank": 22
     },
     {
       "team": "Toronto FC",
@@ -312,7 +326,7 @@
       "points": 33,
       "group": "Eastern Conference",
       "sourceRank": 11,
-      "rank": 22
+      "rank": 23
     },
     {
       "team": "D.C. United",
@@ -325,20 +339,6 @@
       "goalDifference": -11,
       "points": 33,
       "group": "Eastern Conference",
-      "sourceRank": 12,
-      "rank": 23
-    },
-    {
-      "team": "San Diego FC",
-      "played": 28,
-      "wins": 8,
-      "draws": 8,
-      "losses": 12,
-      "goalsFor": 48,
-      "goalsAgainst": 51,
-      "goalDifference": -3,
-      "points": 32,
-      "group": "Western Conference",
       "sourceRank": 12,
       "rank": 24
     },
@@ -372,13 +372,13 @@
     },
     {
       "team": "Austin FC",
-      "played": 28,
+      "played": 29,
       "wins": 7,
       "draws": 10,
-      "losses": 11,
-      "goalsFor": 36,
-      "goalsAgainst": 51,
-      "goalDifference": -15,
+      "losses": 12,
+      "goalsFor": 37,
+      "goalsAgainst": 54,
+      "goalDifference": -17,
       "points": 31,
       "group": "Western Conference",
       "sourceRank": 14,
