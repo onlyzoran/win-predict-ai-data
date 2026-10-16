@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-10-15",
-  "fetchedAt": "2026-10-15T19:47:54Z",
+  "date": "2026-10-16",
+  "fetchedAt": "2026-10-16T04:05:44Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -98,6 +98,19 @@
       "rank": 7
     },
     {
+      "team": "Denver Broncos",
+      "wins": 4,
+      "losses": 2,
+      "goalsFor": 114,
+      "goalsAgainst": 125,
+      "goalDifference": -11,
+      "winPercent": 0.6666667,
+      "playoffSeed": 6,
+      "group": "American Football Conference",
+      "sourceRank": 6,
+      "rank": 8
+    },
+    {
       "team": "New England Patriots",
       "wins": 3,
       "losses": 2,
@@ -108,19 +121,6 @@
       "playoffSeed": 5,
       "group": "American Football Conference",
       "sourceRank": 5,
-      "rank": 8
-    },
-    {
-      "team": "Denver Broncos",
-      "wins": 3,
-      "losses": 2,
-      "goalsFor": 97,
-      "goalsAgainst": 111,
-      "goalDifference": -14,
-      "winPercent": 0.6,
-      "playoffSeed": 6,
-      "group": "American Football Conference",
-      "sourceRank": 6,
       "rank": 9
     },
     {
@@ -217,11 +217,11 @@
     {
       "team": "Seattle Seahawks",
       "wins": 3,
-      "losses": 2,
-      "goalsFor": 134,
-      "goalsAgainst": 105,
-      "goalDifference": 29,
-      "winPercent": 0.6,
+      "losses": 3,
+      "goalsFor": 148,
+      "goalsAgainst": 122,
+      "goalDifference": 26,
+      "winPercent": 0.5,
       "playoffSeed": 8,
       "group": "National Football Conference",
       "sourceRank": 8,
