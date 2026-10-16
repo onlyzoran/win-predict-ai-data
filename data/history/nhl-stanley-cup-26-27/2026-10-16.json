@@ -1,11 +1,24 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-10-16",
-  "fetchedAt": "2026-10-16T04:05:44Z",
+  "fetchedAt": "2026-10-16T13:08:06Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
   "standings": [
+    {
+      "team": "Vegas Golden Knights",
+      "played": 9,
+      "wins": 7,
+      "losses": 2,
+      "otLosses": 0,
+      "goalDifference": 14,
+      "points": 14,
+      "playoffSeed": 1,
+      "group": "Western Conference",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Carolina Hurricanes",
       "played": 8,
@@ -17,23 +30,10 @@
       "playoffSeed": 1,
       "group": "Eastern Conference",
       "sourceRank": 1,
-      "rank": 1
-    },
-    {
-      "team": "Utah Mammoth",
-      "played": 8,
-      "wins": 6,
-      "losses": 2,
-      "otLosses": 0,
-      "goalDifference": 10,
-      "points": 12,
-      "playoffSeed": 1,
-      "group": "Western Conference",
-      "sourceRank": 1,
       "rank": 2
     },
     {
-      "team": "Vegas Golden Knights",
+      "team": "Utah Mammoth",
       "played": 8,
       "wins": 6,
       "losses": 2,
@@ -411,11 +411,11 @@
     },
     {
       "team": "Calgary Flames",
-      "played": 6,
+      "played": 7,
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "otLosses": 0,
-      "goalDifference": -17,
+      "goalDifference": -21,
       "points": 2,
       "playoffSeed": 16,
       "group": "Western Conference",
