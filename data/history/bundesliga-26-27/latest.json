@@ -1,7 +1,7 @@
 {
   "leagueId": "bundesliga-26-27",
-  "date": "2026-10-16",
-  "fetchedAt": "2026-10-16T19:28:26Z",
+  "date": "2026-10-17",
+  "fetchedAt": "2026-10-17T03:56:20Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -105,6 +105,20 @@
       "rank": 7
     },
     {
+      "team": "Eintracht Frankfurt",
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 16,
+      "goalDifference": -6,
+      "points": 8,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
       "team": "Mainz",
       "played": 5,
       "wins": 2,
@@ -115,8 +129,8 @@
       "goalDifference": 3,
       "points": 7,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "SV Elversberg",
@@ -129,22 +143,22 @@
       "goalDifference": 0,
       "points": 7,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "FC Cologne",
-      "played": 5,
+      "played": 6,
       "wins": 2,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 8,
-      "goalsAgainst": 10,
-      "goalDifference": -2,
+      "goalsAgainst": 11,
+      "goalDifference": -3,
       "points": 7,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "VfB Stuttgart",
@@ -157,8 +171,8 @@
       "goalDifference": -1,
       "points": 6,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Hamburg SV",
@@ -171,8 +185,8 @@
       "goalDifference": -10,
       "points": 6,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Schalke 04",
@@ -183,20 +197,6 @@
       "goalsFor": 4,
       "goalsAgainst": 6,
       "goalDifference": -2,
-      "points": 5,
-      "group": "2026-27 German Bundesliga",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "Eintracht Frankfurt",
-      "played": 5,
-      "wins": 1,
-      "draws": 2,
-      "losses": 2,
-      "goalsFor": 9,
-      "goalsAgainst": 16,
-      "goalDifference": -7,
       "points": 5,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 14,
