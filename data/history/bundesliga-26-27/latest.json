@@ -1,11 +1,25 @@
 {
   "leagueId": "bundesliga-26-27",
-  "date": "2026-10-17",
-  "fetchedAt": "2026-10-17T18:19:34Z",
+  "date": "2026-10-18",
+  "fetchedAt": "2026-10-18T04:02:37Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Bayern Munich",
+      "played": 6,
+      "wins": 4,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 22,
+      "goalsAgainst": 5,
+      "goalDifference": 17,
+      "points": 14,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Borussia Dortmund",
       "played": 6,
@@ -17,8 +31,8 @@
       "goalDifference": 7,
       "points": 14,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 1,
-      "rank": 1
+      "sourceRank": 2,
+      "rank": 2
     },
     {
       "team": "SC Freiburg",
@@ -30,20 +44,6 @@
       "goalsAgainst": 4,
       "goalDifference": 10,
       "points": 13,
-      "group": "2026-27 German Bundesliga",
-      "sourceRank": 2,
-      "rank": 2
-    },
-    {
-      "team": "Bayern Munich",
-      "played": 5,
-      "wins": 3,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 16,
-      "goalsAgainst": 4,
-      "goalDifference": 12,
-      "points": 11,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 3,
       "rank": 3
@@ -92,13 +92,13 @@
     },
     {
       "team": "RB Leipzig",
-      "played": 5,
+      "played": 6,
       "wins": 3,
       "draws": 0,
-      "losses": 2,
-      "goalsFor": 15,
-      "goalsAgainst": 5,
-      "goalDifference": 10,
+      "losses": 3,
+      "goalsFor": 16,
+      "goalsAgainst": 11,
+      "goalDifference": 5,
       "points": 9,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 7,

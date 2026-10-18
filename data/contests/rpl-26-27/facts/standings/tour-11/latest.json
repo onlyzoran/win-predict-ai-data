@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-10-17",
-  "fetchedAt": "2026-10-17T18:19:34Z",
+  "date": "2026-10-18",
+  "fetchedAt": "2026-10-18T04:02:37Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -32,6 +32,18 @@
       "rank": 2
     },
     {
+      "participantId": "krasnodar",
+      "played": 11,
+      "wins": 6,
+      "draws": 4,
+      "losses": 1,
+      "goalsFor": 19,
+      "goalsAgainst": 13,
+      "goalDifference": 6,
+      "points": 22,
+      "rank": 3
+    },
+    {
       "participantId": "zenit-st-petersburg",
       "played": 10,
       "wins": 7,
@@ -40,18 +52,6 @@
       "goalsFor": 22,
       "goalsAgainst": 11,
       "goalDifference": 11,
-      "points": 21,
-      "rank": 3
-    },
-    {
-      "participantId": "krasnodar",
-      "played": 10,
-      "wins": 6,
-      "draws": 3,
-      "losses": 1,
-      "goalsFor": 16,
-      "goalsAgainst": 10,
-      "goalDifference": 6,
       "points": 21,
       "rank": 4
     },
@@ -128,6 +128,18 @@
       "rank": 10
     },
     {
+      "participantId": "lokomotiv-moscow",
+      "played": 11,
+      "wins": 2,
+      "draws": 5,
+      "losses": 4,
+      "goalsFor": 16,
+      "goalsAgainst": 14,
+      "goalDifference": 2,
+      "points": 11,
+      "rank": 11
+    },
+    {
       "participantId": "akhmat-grozny",
       "played": 10,
       "wins": 2,
@@ -137,7 +149,7 @@
       "goalsAgainst": 13,
       "goalDifference": 0,
       "points": 11,
-      "rank": 11
+      "rank": 12
     },
     {
       "participantId": "rostov",
@@ -149,18 +161,6 @@
       "goalsAgainst": 17,
       "goalDifference": -6,
       "points": 11,
-      "rank": 12
-    },
-    {
-      "participantId": "lokomotiv-moscow",
-      "played": 10,
-      "wins": 2,
-      "draws": 4,
-      "losses": 4,
-      "goalsFor": 13,
-      "goalsAgainst": 11,
-      "goalDifference": 2,
-      "points": 10,
       "rank": 13
     },
     {

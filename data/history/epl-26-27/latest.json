@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
-  "date": "2026-10-17",
-  "fetchedAt": "2026-10-17T18:19:33Z",
+  "date": "2026-10-18",
+  "fetchedAt": "2026-10-18T04:02:37Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -148,17 +148,31 @@
     },
     {
       "team": "Newcastle United",
-      "played": 6,
+      "played": 7,
       "wins": 2,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 10,
-      "goalsAgainst": 13,
-      "goalDifference": -3,
+      "goalsAgainst": 14,
+      "goalDifference": -4,
       "points": 8,
       "group": "2026-27 English Premier League",
       "sourceRank": 11,
       "rank": 11
+    },
+    {
+      "team": "Aston Villa",
+      "played": 7,
+      "wins": 2,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 7,
+      "goalsAgainst": 11,
+      "goalDifference": -4,
+      "points": 8,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Crystal Palace",
@@ -171,8 +185,8 @@
       "goalDifference": -3,
       "points": 7,
       "group": "2026-27 English Premier League",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Manchester United",
@@ -185,8 +199,8 @@
       "goalDifference": 0,
       "points": 6,
       "group": "2026-27 English Premier League",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Coventry City",
@@ -199,8 +213,8 @@
       "goalDifference": -6,
       "points": 6,
       "group": "2026-27 English Premier League",
-      "sourceRank": 14,
-      "rank": 14
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Fulham",
@@ -213,8 +227,8 @@
       "goalDifference": -3,
       "points": 5,
       "group": "2026-27 English Premier League",
-      "sourceRank": 15,
-      "rank": 15
+      "sourceRank": 16,
+      "rank": 16
     },
     {
       "team": "Nottingham Forest",
@@ -225,20 +239,6 @@
       "goalsFor": 5,
       "goalsAgainst": 8,
       "goalDifference": -3,
-      "points": 5,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 16,
-      "rank": 16
-    },
-    {
-      "team": "Aston Villa",
-      "played": 6,
-      "wins": 1,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 11,
-      "goalDifference": -5,
       "points": 5,
       "group": "2026-27 English Premier League",
       "sourceRank": 17,
