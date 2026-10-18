@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-10-18",
-  "fetchedAt": "2026-10-18T12:32:21Z",
+  "fetchedAt": "2026-10-18T18:32:12Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -59,19 +59,6 @@
       "rank": 4
     },
     {
-      "team": "Jacksonville Jaguars",
-      "wins": 4,
-      "losses": 1,
-      "goalsFor": 123,
-      "goalsAgainst": 70,
-      "goalDifference": 53,
-      "winPercent": 0.8,
-      "playoffSeed": 3,
-      "group": "American Football Conference",
-      "sourceRank": 3,
-      "rank": 5
-    },
-    {
       "team": "Buffalo Bills",
       "wins": 4,
       "losses": 1,
@@ -82,7 +69,7 @@
       "playoffSeed": 4,
       "group": "American Football Conference",
       "sourceRank": 4,
-      "rank": 6
+      "rank": 5
     },
     {
       "team": "New York Giants",
@@ -94,6 +81,19 @@
       "winPercent": 0.7,
       "playoffSeed": 3,
       "group": "National Football Conference",
+      "sourceRank": 3,
+      "rank": 6
+    },
+    {
+      "team": "Jacksonville Jaguars",
+      "wins": 4,
+      "losses": 2,
+      "goalsFor": 154,
+      "goalsAgainst": 104,
+      "goalDifference": 50,
+      "winPercent": 0.6666667,
+      "playoffSeed": 3,
+      "group": "American Football Conference",
       "sourceRank": 3,
       "rank": 7
     },
@@ -319,6 +319,19 @@
       "rank": 24
     },
     {
+      "team": "Houston Texans",
+      "wins": 2,
+      "losses": 4,
+      "goalsFor": 144,
+      "goalsAgainst": 143,
+      "goalDifference": 1,
+      "winPercent": 0.33333334,
+      "playoffSeed": 13,
+      "group": "American Football Conference",
+      "sourceRank": 13,
+      "rank": 25
+    },
+    {
       "team": "Washington Commanders",
       "wins": 1,
       "losses": 3,
@@ -328,19 +341,6 @@
       "winPercent": 0.3,
       "playoffSeed": 13,
       "group": "National Football Conference",
-      "sourceRank": 13,
-      "rank": 25
-    },
-    {
-      "team": "Houston Texans",
-      "wins": 1,
-      "losses": 4,
-      "goalsFor": 110,
-      "goalsAgainst": 112,
-      "goalDifference": -2,
-      "winPercent": 0.2,
-      "playoffSeed": 13,
-      "group": "American Football Conference",
       "sourceRank": 13,
       "rank": 26
     },
