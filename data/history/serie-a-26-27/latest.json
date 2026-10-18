@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-10-18",
-  "fetchedAt": "2026-10-18T04:02:37Z",
+  "fetchedAt": "2026-10-18T12:32:20Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -147,6 +147,20 @@
       "rank": 10
     },
     {
+      "team": "Lecce",
+      "played": 7,
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "goalsFor": 9,
+      "goalsAgainst": 12,
+      "goalDifference": -3,
+      "points": 9,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
       "team": "Sassuolo",
       "played": 7,
       "wins": 2,
@@ -157,8 +171,8 @@
       "goalDifference": -2,
       "points": 8,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Torino",
@@ -170,20 +184,6 @@
       "goalsAgainst": 9,
       "goalDifference": -2,
       "points": 7,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Lecce",
-      "played": 6,
-      "wins": 2,
-      "draws": 0,
-      "losses": 4,
-      "goalsFor": 6,
-      "goalsAgainst": 12,
-      "goalDifference": -6,
-      "points": 6,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 13,
       "rank": 13
@@ -203,20 +203,6 @@
       "rank": 14
     },
     {
-      "team": "Udinese",
-      "played": 6,
-      "wins": 1,
-      "draws": 1,
-      "losses": 4,
-      "goalsFor": 9,
-      "goalsAgainst": 13,
-      "goalDifference": -4,
-      "points": 4,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 15,
-      "rank": 15
-    },
-    {
       "team": "Monza",
       "played": 6,
       "wins": 1,
@@ -227,8 +213,8 @@
       "goalDifference": -6,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 16,
-      "rank": 16
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Parma",
@@ -241,7 +227,21 @@
       "goalDifference": -6,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 17,
+      "sourceRank": 16,
+      "rank": 16
+    },
+    {
+      "team": "Udinese",
+      "played": 7,
+      "wins": 1,
+      "draws": 1,
+      "losses": 5,
+      "goalsFor": 9,
+      "goalsAgainst": 16,
+      "goalDifference": -7,
+      "points": 4,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 18,
       "rank": 17
     },
     {
@@ -255,7 +255,7 @@
       "goalDifference": -7,
       "points": 4,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 18,
+      "sourceRank": 17,
       "rank": 18
     },
     {
