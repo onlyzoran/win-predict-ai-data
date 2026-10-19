@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-10-18",
-  "fetchedAt": "2026-10-18T18:32:11Z",
+  "date": "2026-10-19",
+  "fetchedAt": "2026-10-19T04:11:55Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -68,6 +68,18 @@
       "rank": 5
     },
     {
+      "participantId": "fc-baltika-kaliningrad",
+      "played": 11,
+      "wins": 3,
+      "draws": 4,
+      "losses": 4,
+      "goalsFor": 14,
+      "goalsAgainst": 12,
+      "goalDifference": 2,
+      "points": 13,
+      "rank": 6
+    },
+    {
       "participantId": "dynamo-makhachkala",
       "played": 11,
       "wins": 4,
@@ -77,18 +89,6 @@
       "goalsAgainst": 21,
       "goalDifference": -5,
       "points": 13,
-      "rank": 6
-    },
-    {
-      "participantId": "fc-baltika-kaliningrad",
-      "played": 10,
-      "wins": 3,
-      "draws": 3,
-      "losses": 4,
-      "goalsFor": 14,
-      "goalsAgainst": 12,
-      "goalDifference": 2,
-      "points": 12,
       "rank": 7
     },
     {
@@ -128,6 +128,18 @@
       "rank": 10
     },
     {
+      "participantId": "rostov",
+      "played": 11,
+      "wins": 3,
+      "draws": 3,
+      "losses": 5,
+      "goalsFor": 11,
+      "goalsAgainst": 17,
+      "goalDifference": -6,
+      "points": 12,
+      "rank": 11
+    },
+    {
       "participantId": "lokomotiv-moscow",
       "played": 11,
       "wins": 2,
@@ -137,7 +149,7 @@
       "goalsAgainst": 14,
       "goalDifference": 2,
       "points": 11,
-      "rank": 11
+      "rank": 12
     },
     {
       "participantId": "akhmat-grozny",
@@ -148,18 +160,6 @@
       "goalsFor": 15,
       "goalsAgainst": 16,
       "goalDifference": -1,
-      "points": 11,
-      "rank": 12
-    },
-    {
-      "participantId": "rostov",
-      "played": 10,
-      "wins": 3,
-      "draws": 2,
-      "losses": 5,
-      "goalsFor": 11,
-      "goalsAgainst": 17,
-      "goalDifference": -6,
       "points": 11,
       "rank": 13
     },

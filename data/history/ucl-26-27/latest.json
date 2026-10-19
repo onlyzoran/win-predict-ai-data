@@ -1,7 +1,7 @@
 {
   "leagueId": "ucl-26-27",
-  "date": "2026-10-18",
-  "fetchedAt": "2026-10-18T18:32:10Z",
+  "date": "2026-10-19",
+  "fetchedAt": "2026-10-19T04:11:55Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -371,7 +371,7 @@
       "rank": 26
     },
     {
-      "team": "VIKING FK",
+      "team": "Viking FK",
       "played": 2,
       "wins": 0,
       "draws": 1,

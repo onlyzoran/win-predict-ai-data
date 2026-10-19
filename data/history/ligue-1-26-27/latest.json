@@ -1,11 +1,25 @@
 {
   "leagueId": "ligue-1-26-27",
-  "date": "2026-10-18",
-  "fetchedAt": "2026-10-18T18:32:11Z",
+  "date": "2026-10-19",
+  "fetchedAt": "2026-10-19T04:11:55Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Lyon",
+      "played": 7,
+      "wins": 4,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 13,
+      "goalsAgainst": 5,
+      "goalDifference": 8,
+      "points": 14,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Paris Saint-Germain",
       "played": 7,
@@ -17,8 +31,8 @@
       "goalDifference": 5,
       "points": 14,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 1,
-      "rank": 1
+      "sourceRank": 2,
+      "rank": 2
     },
     {
       "team": "Paris FC",
@@ -31,8 +45,8 @@
       "goalDifference": 5,
       "points": 14,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 2,
-      "rank": 2
+      "sourceRank": 3,
+      "rank": 3
     },
     {
       "team": "Lille",
@@ -45,8 +59,8 @@
       "goalDifference": 5,
       "points": 14,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 3,
-      "rank": 3
+      "sourceRank": 4,
+      "rank": 4
     },
     {
       "team": "AS Monaco",
@@ -59,8 +73,8 @@
       "goalDifference": 4,
       "points": 14,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 4,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "Stade Rennais",
@@ -72,20 +86,6 @@
       "goalsAgainst": 14,
       "goalDifference": 1,
       "points": 13,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 5,
-      "rank": 5
-    },
-    {
-      "team": "Lyon",
-      "played": 6,
-      "wins": 3,
-      "draws": 2,
-      "losses": 1,
-      "goalsFor": 11,
-      "goalsAgainst": 4,
-      "goalDifference": 7,
-      "points": 11,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 6,
       "rank": 6
@@ -176,13 +176,13 @@
     },
     {
       "team": "Nice",
-      "played": 6,
+      "played": 7,
       "wins": 2,
       "draws": 2,
-      "losses": 2,
-      "goalsFor": 5,
-      "goalsAgainst": 7,
-      "goalDifference": -2,
+      "losses": 3,
+      "goalsFor": 6,
+      "goalsAgainst": 9,
+      "goalDifference": -3,
       "points": 8,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 13,

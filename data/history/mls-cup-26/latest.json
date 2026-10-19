@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
-  "date": "2026-10-18",
-  "fetchedAt": "2026-10-18T18:32:11Z",
+  "date": "2026-10-19",
+  "fetchedAt": "2026-10-19T04:11:55Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -245,20 +245,6 @@
       "rank": 17
     },
     {
-      "team": "FC Cincinnati",
-      "played": 28,
-      "wins": 9,
-      "draws": 9,
-      "losses": 10,
-      "goalsFor": 60,
-      "goalsAgainst": 68,
-      "goalDifference": -8,
-      "points": 36,
-      "group": "Eastern Conference",
-      "sourceRank": 9,
-      "rank": 18
-    },
-    {
       "team": "Toronto FC",
       "played": 30,
       "wins": 8,
@@ -270,6 +256,20 @@
       "points": 36,
       "group": "Eastern Conference",
       "sourceRank": 10,
+      "rank": 18
+    },
+    {
+      "team": "FC Cincinnati",
+      "played": 29,
+      "wins": 9,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 60,
+      "goalsAgainst": 70,
+      "goalDifference": -10,
+      "points": 36,
+      "group": "Eastern Conference",
+      "sourceRank": 9,
       "rank": 19
     },
     {
@@ -287,6 +287,20 @@
       "rank": 20
     },
     {
+      "team": "Columbus Crew",
+      "played": 30,
+      "wins": 10,
+      "draws": 5,
+      "losses": 15,
+      "goalsFor": 46,
+      "goalsAgainst": 47,
+      "goalDifference": -1,
+      "points": 35,
+      "group": "Eastern Conference",
+      "sourceRank": 11,
+      "rank": 21
+    },
+    {
       "team": "New York City FC",
       "played": 30,
       "wins": 8,
@@ -297,8 +311,8 @@
       "goalDifference": 2,
       "points": 34,
       "group": "Eastern Conference",
-      "sourceRank": 11,
-      "rank": 21
+      "sourceRank": 12,
+      "rank": 22
     },
     {
       "team": "San Diego FC",
@@ -312,7 +326,7 @@
       "points": 34,
       "group": "Western Conference",
       "sourceRank": 12,
-      "rank": 22
+      "rank": 23
     },
     {
       "team": "Portland Timbers",
@@ -326,7 +340,7 @@
       "points": 34,
       "group": "Western Conference",
       "sourceRank": 11,
-      "rank": 23
+      "rank": 24
     },
     {
       "team": "Minnesota United FC",
@@ -340,7 +354,7 @@
       "points": 34,
       "group": "Western Conference",
       "sourceRank": 13,
-      "rank": 24
+      "rank": 25
     },
     {
       "team": "D.C. United",
@@ -352,20 +366,6 @@
       "goalsAgainst": 51,
       "goalDifference": -14,
       "points": 33,
-      "group": "Eastern Conference",
-      "sourceRank": 12,
-      "rank": 25
-    },
-    {
-      "team": "Columbus Crew",
-      "played": 29,
-      "wins": 9,
-      "draws": 5,
-      "losses": 15,
-      "goalsFor": 44,
-      "goalsAgainst": 47,
-      "goalDifference": -3,
-      "points": 32,
       "group": "Eastern Conference",
       "sourceRank": 13,
       "rank": 26
