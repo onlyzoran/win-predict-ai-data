@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:26:42Z",
+  "updatedAt": "2026-10-19T20:56:57Z",
   "leagues": {
     "bundesliga-26-27": {
       "count": 69,
@@ -56,6 +56,13 @@
       "last": "2026-10-19",
       "daysFile": "nba-26-27/days.json",
       "latestFile": "nba-26-27/latest.json"
+    },
+    "ncaab-championship-26-27": {
+      "count": 1,
+      "first": "2026-10-19",
+      "last": "2026-10-19",
+      "daysFile": "ncaab-championship-26-27/days.json",
+      "latestFile": "ncaab-championship-26-27/latest.json"
     },
     "ncaaf-championship-26-27": {
       "count": 69,

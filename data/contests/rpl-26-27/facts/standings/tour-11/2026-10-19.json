@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-10-19",
-  "fetchedAt": "2026-10-19T04:11:55Z",
+  "fetchedAt": "2026-10-19T20:56:56Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -80,6 +80,18 @@
       "rank": 6
     },
     {
+      "participantId": "gazovik-orenburg",
+      "played": 11,
+      "wins": 2,
+      "draws": 7,
+      "losses": 2,
+      "goalsFor": 13,
+      "goalsAgainst": 12,
+      "goalDifference": 1,
+      "points": 13,
+      "rank": 7
+    },
+    {
       "participantId": "dynamo-makhachkala",
       "played": 11,
       "wins": 4,
@@ -89,18 +101,6 @@
       "goalsAgainst": 21,
       "goalDifference": -5,
       "points": 13,
-      "rank": 7
-    },
-    {
-      "participantId": "gazovik-orenburg",
-      "played": 10,
-      "wins": 2,
-      "draws": 6,
-      "losses": 2,
-      "goalsFor": 11,
-      "goalsAgainst": 10,
-      "goalDifference": 1,
-      "points": 12,
       "rank": 8
     },
     {
@@ -189,17 +189,17 @@
     },
     {
       "participantId": "rodina-moscow",
-      "played": 10,
+      "played": 11,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "losses": 7,
-      "goalsFor": 10,
-      "goalsAgainst": 25,
+      "goalsFor": 12,
+      "goalsAgainst": 27,
       "goalDifference": -15,
-      "points": 5,
+      "points": 6,
       "rank": 16
     }
   ],
   "tour": 11,
-  "tourStatus": "in_progress"
+  "tourStatus": "final"
 }
