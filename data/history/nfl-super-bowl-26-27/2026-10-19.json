@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-10-19",
-  "fetchedAt": "2026-10-19T04:11:55Z",
+  "fetchedAt": "2026-10-19T15:26:41Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -20,12 +20,12 @@
       "rank": 1
     },
     {
-      "team": "San Francisco 49ers",
+      "team": "Minnesota Vikings",
       "wins": 5,
       "losses": 0,
-      "goalsFor": 154,
-      "goalsAgainst": 93,
-      "goalDifference": 61,
+      "goalsFor": 109,
+      "goalsAgainst": 64,
+      "goalDifference": 45,
       "winPercent": 1.0,
       "playoffSeed": 1,
       "group": "National Football Conference",
@@ -33,12 +33,12 @@
       "rank": 2
     },
     {
-      "team": "Minnesota Vikings",
+      "team": "San Francisco 49ers",
       "wins": 5,
       "losses": 0,
-      "goalsFor": 109,
-      "goalsAgainst": 64,
-      "goalDifference": 45,
+      "goalsFor": 154,
+      "goalsAgainst": 93,
+      "goalDifference": 61,
       "winPercent": 1.0,
       "playoffSeed": 2,
       "group": "National Football Conference",
