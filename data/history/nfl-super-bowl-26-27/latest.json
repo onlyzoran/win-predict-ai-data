@@ -1,11 +1,24 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-10-19",
-  "fetchedAt": "2026-10-19T20:56:57Z",
+  "date": "2026-10-20",
+  "fetchedAt": "2026-10-20T04:23:58Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "San Francisco 49ers",
+      "wins": 6,
+      "losses": 0,
+      "goalsFor": 177,
+      "goalsAgainst": 110,
+      "goalDifference": 67,
+      "winPercent": 1.0,
+      "playoffSeed": 1,
+      "group": "National Football Conference",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Kansas City Chiefs",
       "wins": 5,
@@ -17,7 +30,7 @@
       "playoffSeed": 1,
       "group": "American Football Conference",
       "sourceRank": 1,
-      "rank": 1
+      "rank": 2
     },
     {
       "team": "Minnesota Vikings",
@@ -26,19 +39,6 @@
       "goalsFor": 109,
       "goalsAgainst": 64,
       "goalDifference": 45,
-      "winPercent": 1.0,
-      "playoffSeed": 1,
-      "group": "National Football Conference",
-      "sourceRank": 1,
-      "rank": 2
-    },
-    {
-      "team": "San Francisco 49ers",
-      "wins": 5,
-      "losses": 0,
-      "goalsFor": 154,
-      "goalsAgainst": 93,
-      "goalDifference": 61,
       "winPercent": 1.0,
       "playoffSeed": 2,
       "group": "National Football Conference",
@@ -360,11 +360,11 @@
     {
       "team": "Washington Commanders",
       "wins": 1,
-      "losses": 3,
-      "goalsFor": 115,
-      "goalsAgainst": 149,
-      "goalDifference": -34,
-      "winPercent": 0.3,
+      "losses": 4,
+      "goalsFor": 132,
+      "goalsAgainst": 172,
+      "goalDifference": -40,
+      "winPercent": 0.25,
       "playoffSeed": 15,
       "group": "National Football Conference",
       "sourceRank": 15,
