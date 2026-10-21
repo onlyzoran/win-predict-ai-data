@@ -1,7 +1,7 @@
 {
   "leagueId": "ucl-26-27",
   "date": "2026-10-21",
-  "fetchedAt": "2026-10-21T13:37:48Z",
+  "fetchedAt": "2026-10-21T20:00:02Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -77,6 +77,20 @@
       "rank": 5
     },
     {
+      "team": "Como",
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 10,
+      "goalsAgainst": 5,
+      "goalDifference": 5,
+      "points": 6,
+      "group": "League Phase",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
       "team": "Manchester City",
       "played": 3,
       "wins": 2,
@@ -87,8 +101,8 @@
       "goalDifference": 4,
       "points": 6,
       "group": "League Phase",
-      "sourceRank": 6,
-      "rank": 6
+      "sourceRank": 7,
+      "rank": 7
     },
     {
       "team": "Sporting CP",
@@ -101,8 +115,8 @@
       "goalDifference": 4,
       "points": 6,
       "group": "League Phase",
-      "sourceRank": 7,
-      "rank": 7
+      "sourceRank": 8,
+      "rank": 8
     },
     {
       "team": "Arsenal",
@@ -115,25 +129,11 @@
       "goalDifference": 4,
       "points": 6,
       "group": "League Phase",
-      "sourceRank": 8,
-      "rank": 8
-    },
-    {
-      "team": "Real Madrid",
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
-      "goalDifference": 2,
-      "points": 6,
-      "group": "League Phase",
       "sourceRank": 9,
       "rank": 9
     },
     {
-      "team": "Real Betis",
+      "team": "Real Madrid",
       "played": 2,
       "wins": 2,
       "draws": 0,
@@ -147,6 +147,20 @@
       "rank": 10
     },
     {
+      "team": "Real Betis",
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 6,
+      "goalsAgainst": 4,
+      "goalDifference": 2,
+      "points": 6,
+      "group": "League Phase",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
       "team": "Borussia Dortmund",
       "played": 3,
       "wins": 2,
@@ -157,8 +171,8 @@
       "goalDifference": 1,
       "points": 6,
       "group": "League Phase",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Bayern Munich",
@@ -171,8 +185,8 @@
       "goalDifference": 5,
       "points": 4,
       "group": "League Phase",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "AS Roma",
@@ -185,8 +199,8 @@
       "goalDifference": 3,
       "points": 4,
       "group": "League Phase",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Shakhtar Donetsk",
@@ -199,8 +213,8 @@
       "goalDifference": 2,
       "points": 4,
       "group": "League Phase",
-      "sourceRank": 14,
-      "rank": 14
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Atlético Madrid",
@@ -213,8 +227,8 @@
       "goalDifference": 1,
       "points": 4,
       "group": "League Phase",
-      "sourceRank": 15,
-      "rank": 15
+      "sourceRank": 16,
+      "rank": 16
     },
     {
       "team": "PSV Eindhoven",
@@ -227,36 +241,8 @@
       "goalDifference": 0,
       "points": 4,
       "group": "League Phase",
-      "sourceRank": 16,
-      "rank": 16
-    },
-    {
-      "team": "Como",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 6,
-      "goalsAgainst": 4,
-      "goalDifference": 2,
-      "points": 3,
-      "group": "League Phase",
       "sourceRank": 17,
       "rank": 17
-    },
-    {
-      "team": "Manchester United",
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 4,
-      "goalsAgainst": 2,
-      "goalDifference": 2,
-      "points": 3,
-      "group": "League Phase",
-      "sourceRank": 18,
-      "rank": 18
     },
     {
       "team": "Villarreal",
@@ -269,8 +255,8 @@
       "goalDifference": 0,
       "points": 3,
       "group": "League Phase",
-      "sourceRank": 19,
-      "rank": 19
+      "sourceRank": 18,
+      "rank": 18
     },
     {
       "team": "Club Brugge",
@@ -281,6 +267,20 @@
       "goalsFor": 6,
       "goalsAgainst": 6,
       "goalDifference": 0,
+      "points": 3,
+      "group": "League Phase",
+      "sourceRank": 19,
+      "rank": 19
+    },
+    {
+      "team": "Manchester United",
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 5,
+      "goalsAgainst": 6,
+      "goalDifference": -1,
       "points": 3,
       "group": "League Phase",
       "sourceRank": 20,
@@ -329,6 +329,20 @@
       "rank": 23
     },
     {
+      "team": "Galatasaray",
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 9,
+      "goalDifference": -3,
+      "points": 3,
+      "group": "League Phase",
+      "sourceRank": 24,
+      "rank": 24
+    },
+    {
       "team": "Feyenoord Rotterdam",
       "played": 2,
       "wins": 1,
@@ -339,8 +353,8 @@
       "goalDifference": -3,
       "points": 3,
       "group": "League Phase",
-      "sourceRank": 24,
-      "rank": 24
+      "sourceRank": 25,
+      "rank": 25
     },
     {
       "team": "Sabah FK",
@@ -353,8 +367,8 @@
       "goalDifference": -3,
       "points": 3,
       "group": "League Phase",
-      "sourceRank": 25,
-      "rank": 25
+      "sourceRank": 26,
+      "rank": 26
     },
     {
       "team": "Bodo/Glimt",
@@ -367,8 +381,8 @@
       "goalDifference": -5,
       "points": 3,
       "group": "League Phase",
-      "sourceRank": 26,
-      "rank": 26
+      "sourceRank": 27,
+      "rank": 27
     },
     {
       "team": "AEK Athens",
@@ -381,8 +395,8 @@
       "goalDifference": -5,
       "points": 3,
       "group": "League Phase",
-      "sourceRank": 27,
-      "rank": 27
+      "sourceRank": 28,
+      "rank": 28
     },
     {
       "team": "Fenerbahce",
@@ -395,8 +409,8 @@
       "goalDifference": -6,
       "points": 2,
       "group": "League Phase",
-      "sourceRank": 28,
-      "rank": 28
+      "sourceRank": 29,
+      "rank": 29
     },
     {
       "team": "Viking FK",
@@ -409,8 +423,8 @@
       "goalDifference": -2,
       "points": 1,
       "group": "League Phase",
-      "sourceRank": 29,
-      "rank": 29
+      "sourceRank": 30,
+      "rank": 30
     },
     {
       "team": "Slavia Prague",
@@ -423,8 +437,8 @@
       "goalDifference": -3,
       "points": 1,
       "group": "League Phase",
-      "sourceRank": 30,
-      "rank": 30
+      "sourceRank": 31,
+      "rank": 31
     },
     {
       "team": "Internazionale",
@@ -437,8 +451,8 @@
       "goalDifference": -2,
       "points": 0,
       "group": "League Phase",
-      "sourceRank": 31,
-      "rank": 31
+      "sourceRank": 32,
+      "rank": 32
     },
     {
       "team": "LASK Linz",
@@ -451,21 +465,7 @@
       "goalDifference": -4,
       "points": 0,
       "group": "League Phase",
-      "sourceRank": 32,
-      "rank": 32
-    },
-    {
-      "team": "Lille",
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "losses": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 6,
-      "goalDifference": -4,
-      "points": 0,
-      "group": "League Phase",
-      "sourceRank": 34,
+      "sourceRank": 33,
       "rank": 33
     },
     {
@@ -479,18 +479,18 @@
       "goalDifference": -4,
       "points": 0,
       "group": "League Phase",
-      "sourceRank": 33,
+      "sourceRank": 34,
       "rank": 34
     },
     {
-      "team": "Galatasaray",
-      "played": 2,
+      "team": "Lille",
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
-      "goalsFor": 2,
-      "goalsAgainst": 7,
-      "goalDifference": -5,
+      "losses": 3,
+      "goalsFor": 4,
+      "goalsAgainst": 10,
+      "goalDifference": -6,
       "points": 0,
       "group": "League Phase",
       "sourceRank": 35,
