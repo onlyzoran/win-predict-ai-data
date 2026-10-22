@@ -1,16 +1,16 @@
 {
   "leagueId": "nba-26-27",
-  "date": "2026-10-21",
-  "fetchedAt": "2026-10-21T20:00:04Z",
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T04:14:31Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
   "standings": [
     {
-      "team": "Detroit Pistons",
+      "team": "Indiana Pacers",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 8,
+      "goalDifference": 3,
       "winPercent": 1.0,
       "playoffSeed": 1,
       "group": "Eastern Conference",
@@ -18,10 +18,10 @@
       "rank": 1
     },
     {
-      "team": "Philadelphia 76ers",
+      "team": "Toronto Raptors",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 6,
+      "goalDifference": 43,
       "winPercent": 1.0,
       "playoffSeed": 2,
       "group": "Eastern Conference",
@@ -29,37 +29,103 @@
       "rank": 2
     },
     {
+      "team": "Washington Wizards",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 12,
+      "winPercent": 1.0,
+      "playoffSeed": 3,
+      "group": "Eastern Conference",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
+      "team": "Detroit Pistons",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 8,
+      "winPercent": 1.0,
+      "playoffSeed": 4,
+      "group": "Eastern Conference",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
+      "team": "Atlanta Hawks",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 7,
+      "winPercent": 1.0,
+      "playoffSeed": 5,
+      "group": "Eastern Conference",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
+      "team": "Charlotte Hornets",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 7,
+      "winPercent": 1.0,
+      "playoffSeed": 6,
+      "group": "Eastern Conference",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
+      "team": "Philadelphia 76ers",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 6,
+      "winPercent": 1.0,
+      "playoffSeed": 7,
+      "group": "Eastern Conference",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
+      "team": "Minnesota Timberwolves",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 25,
+      "winPercent": 1.0,
+      "playoffSeed": 1,
+      "group": "Western Conference",
+      "sourceRank": 1,
+      "rank": 8
+    },
+    {
+      "team": "Memphis Grizzlies",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 20,
+      "winPercent": 1.0,
+      "playoffSeed": 2,
+      "group": "Western Conference",
+      "sourceRank": 2,
+      "rank": 9
+    },
+    {
+      "team": "Houston Rockets",
+      "wins": 1,
+      "losses": 0,
+      "goalDifference": 18,
+      "winPercent": 1.0,
+      "playoffSeed": 3,
+      "group": "Western Conference",
+      "sourceRank": 3,
+      "rank": 10
+    },
+    {
       "team": "Oklahoma City Thunder",
       "wins": 1,
       "losses": 0,
       "goalDifference": 12,
       "winPercent": 1.0,
-      "playoffSeed": 1,
+      "playoffSeed": 4,
       "group": "Western Conference",
-      "sourceRank": 1,
-      "rank": 3
-    },
-    {
-      "team": "Atlanta Hawks",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 4
-    },
-    {
-      "team": "Chicago Bulls",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 5
+      "sourceRank": 4,
+      "rank": 11
     },
     {
       "team": "Cleveland Cavaliers",
@@ -67,120 +133,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 3,
+      "playoffSeed": 8,
       "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 6
-    },
-    {
-      "team": "Indiana Pacers",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 7
-    },
-    {
-      "team": "Miami Heat",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 8
-    },
-    {
-      "team": "Milwaukee Bucks",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 9
-    },
-    {
-      "team": "Brooklyn Nets",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 10
-    },
-    {
-      "team": "Orlando Magic",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 11
-    },
-    {
-      "team": "Washington Wizards",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
+      "sourceRank": 8,
       "rank": 12
-    },
-    {
-      "team": "Toronto Raptors",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 13
-    },
-    {
-      "team": "Charlotte Hornets",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 3,
-      "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 14
-    },
-    {
-      "team": "New Orleans Pelicans",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 15
-    },
-    {
-      "team": "Dallas Mavericks",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 16
     },
     {
       "team": "Denver Nuggets",
@@ -188,10 +144,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 17
+      "sourceRank": 5,
+      "rank": 13
     },
     {
       "team": "Golden State Warriors",
@@ -199,21 +155,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 18
-    },
-    {
-      "team": "Houston Rockets",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 19
+      "sourceRank": 5,
+      "rank": 14
     },
     {
       "team": "LA Clippers",
@@ -221,10 +166,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 20
+      "sourceRank": 5,
+      "rank": 15
     },
     {
       "team": "Los Angeles Lakers",
@@ -232,21 +177,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 21
-    },
-    {
-      "team": "Minnesota Timberwolves",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 22
+      "sourceRank": 5,
+      "rank": 16
     },
     {
       "team": "Phoenix Suns",
@@ -254,10 +188,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 23
+      "sourceRank": 5,
+      "rank": 17
     },
     {
       "team": "Portland Trail Blazers",
@@ -265,10 +199,10 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 24
+      "sourceRank": 5,
+      "rank": 18
     },
     {
       "team": "Sacramento Kings",
@@ -276,32 +210,21 @@
       "losses": 0,
       "goalDifference": 0,
       "winPercent": 0.0,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 25
+      "sourceRank": 5,
+      "rank": 19
     },
     {
-      "team": "Utah Jazz",
+      "team": "Brooklyn Nets",
       "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
+      "losses": 1,
+      "goalDifference": -7,
       "winPercent": 0.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 26
-    },
-    {
-      "team": "Memphis Grizzlies",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 2,
-      "group": "Western Conference",
-      "sourceRank": 2,
-      "rank": 27
+      "playoffSeed": 9,
+      "group": "Eastern Conference",
+      "sourceRank": 9,
+      "rank": 20
     },
     {
       "team": "New York Knicks",
@@ -309,10 +232,21 @@
       "losses": 1,
       "goalDifference": -6,
       "winPercent": 0.0,
-      "playoffSeed": 14,
+      "playoffSeed": 9,
       "group": "Eastern Conference",
-      "sourceRank": 14,
-      "rank": 28
+      "sourceRank": 9,
+      "rank": 21
+    },
+    {
+      "team": "Orlando Magic",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -7,
+      "winPercent": 0.0,
+      "playoffSeed": 9,
+      "group": "Eastern Conference",
+      "sourceRank": 9,
+      "rank": 22
     },
     {
       "team": "Boston Celtics",
@@ -320,16 +254,82 @@
       "losses": 1,
       "goalDifference": -8,
       "winPercent": 0.0,
+      "playoffSeed": 12,
+      "group": "Eastern Conference",
+      "sourceRank": 12,
+      "rank": 23
+    },
+    {
+      "team": "Milwaukee Bucks",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -12,
+      "winPercent": 0.0,
+      "playoffSeed": 13,
+      "group": "Eastern Conference",
+      "sourceRank": 13,
+      "rank": 24
+    },
+    {
+      "team": "Miami Heat",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -25,
+      "winPercent": 0.0,
+      "playoffSeed": 14,
+      "group": "Eastern Conference",
+      "sourceRank": 14,
+      "rank": 25
+    },
+    {
+      "team": "Chicago Bulls",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -43,
+      "winPercent": 0.0,
       "playoffSeed": 15,
       "group": "Eastern Conference",
       "sourceRank": 15,
-      "rank": 29
+      "rank": 26
+    },
+    {
+      "team": "New Orleans Pelicans",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -3,
+      "winPercent": 0.0,
+      "playoffSeed": 12,
+      "group": "Western Conference",
+      "sourceRank": 12,
+      "rank": 27
     },
     {
       "team": "San Antonio Spurs",
       "wins": 0,
       "losses": 1,
       "goalDifference": -12,
+      "winPercent": 0.0,
+      "playoffSeed": 13,
+      "group": "Western Conference",
+      "sourceRank": 13,
+      "rank": 28
+    },
+    {
+      "team": "Dallas Mavericks",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -18,
+      "winPercent": 0.0,
+      "playoffSeed": 14,
+      "group": "Western Conference",
+      "sourceRank": 14,
+      "rank": 29
+    },
+    {
+      "team": "Utah Jazz",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -20,
       "winPercent": 0.0,
       "playoffSeed": 15,
       "group": "Western Conference",

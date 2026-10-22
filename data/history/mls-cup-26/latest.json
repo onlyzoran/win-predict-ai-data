@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
-  "date": "2026-10-21",
-  "fetchedAt": "2026-10-21T20:00:04Z",
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T04:14:31Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -231,6 +231,20 @@
       "rank": 16
     },
     {
+      "team": "FC Cincinnati",
+      "played": 30,
+      "wins": 10,
+      "draws": 9,
+      "losses": 11,
+      "goalsFor": 62,
+      "goalsAgainst": 71,
+      "goalDifference": -9,
+      "points": 39,
+      "group": "Eastern Conference",
+      "sourceRank": 8,
+      "rank": 17
+    },
+    {
       "team": "Real Salt Lake",
       "played": 30,
       "wins": 10,
@@ -242,7 +256,7 @@
       "points": 36,
       "group": "Western Conference",
       "sourceRank": 10,
-      "rank": 17
+      "rank": 18
     },
     {
       "team": "Toronto FC",
@@ -256,20 +270,6 @@
       "points": 36,
       "group": "Eastern Conference",
       "sourceRank": 10,
-      "rank": 18
-    },
-    {
-      "team": "FC Cincinnati",
-      "played": 29,
-      "wins": 9,
-      "draws": 9,
-      "losses": 11,
-      "goalsFor": 60,
-      "goalsAgainst": 70,
-      "goalDifference": -10,
-      "points": 36,
-      "group": "Eastern Conference",
-      "sourceRank": 9,
       "rank": 19
     },
     {
@@ -283,7 +283,7 @@
       "goalDifference": -17,
       "points": 36,
       "group": "Eastern Conference",
-      "sourceRank": 8,
+      "sourceRank": 9,
       "rank": 20
     },
     {
@@ -358,13 +358,13 @@
     },
     {
       "team": "D.C. United",
-      "played": 29,
+      "played": 30,
       "wins": 7,
       "draws": 12,
-      "losses": 10,
-      "goalsFor": 37,
-      "goalsAgainst": 51,
-      "goalDifference": -14,
+      "losses": 11,
+      "goalsFor": 38,
+      "goalsAgainst": 53,
+      "goalDifference": -15,
       "points": 33,
       "group": "Eastern Conference",
       "sourceRank": 13,

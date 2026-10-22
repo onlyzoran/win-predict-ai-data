@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
-  "date": "2026-10-21",
-  "fetchedAt": "2026-10-21T20:00:03Z",
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T04:14:30Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -147,15 +147,15 @@
       "rank": 10
     },
     {
-      "team": "Athletic Club",
-      "played": 7,
+      "team": "Levante",
+      "played": 9,
       "wins": 2,
-      "draws": 3,
-      "losses": 2,
-      "goalsFor": 7,
-      "goalsAgainst": 6,
-      "goalDifference": 1,
-      "points": 9,
+      "draws": 4,
+      "losses": 3,
+      "goalsFor": 15,
+      "goalsAgainst": 17,
+      "goalDifference": -2,
+      "points": 10,
       "group": "2026-27 LALIGA",
       "sourceRank": 11,
       "rank": 11
@@ -175,6 +175,20 @@
       "rank": 12
     },
     {
+      "team": "Athletic Club",
+      "played": 8,
+      "wins": 2,
+      "draws": 3,
+      "losses": 3,
+      "goalsFor": 8,
+      "goalsAgainst": 9,
+      "goalDifference": -1,
+      "points": 9,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
       "team": "Rayo Vallecano",
       "played": 8,
       "wins": 2,
@@ -185,8 +199,8 @@
       "goalDifference": -5,
       "points": 9,
       "group": "2026-27 LALIGA",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "Getafe",
@@ -199,8 +213,8 @@
       "goalDifference": -6,
       "points": 9,
       "group": "2026-27 LALIGA",
-      "sourceRank": 14,
-      "rank": 14
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Espanyol",
@@ -213,8 +227,8 @@
       "goalDifference": -1,
       "points": 8,
       "group": "2026-27 LALIGA",
-      "sourceRank": 15,
-      "rank": 15
+      "sourceRank": 16,
+      "rank": 16
     },
     {
       "team": "Racing Santander",
@@ -226,20 +240,6 @@
       "goalsAgainst": 25,
       "goalDifference": -12,
       "points": 8,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 16,
-      "rank": 16
-    },
-    {
-      "team": "Levante",
-      "played": 8,
-      "wins": 1,
-      "draws": 4,
-      "losses": 3,
-      "goalsFor": 12,
-      "goalsAgainst": 16,
-      "goalDifference": -4,
-      "points": 7,
       "group": "2026-27 LALIGA",
       "sourceRank": 17,
       "rank": 17

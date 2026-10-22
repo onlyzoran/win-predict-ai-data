@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
-  "date": "2026-10-21",
-  "fetchedAt": "2026-10-21T20:00:05Z",
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T04:14:31Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -111,6 +111,19 @@
       "rank": 8
     },
     {
+      "team": "Ottawa Senators",
+      "played": 10,
+      "wins": 7,
+      "losses": 3,
+      "otLosses": 0,
+      "goalDifference": 5,
+      "points": 14,
+      "playoffSeed": 5,
+      "group": "Eastern Conference",
+      "sourceRank": 5,
+      "rank": 9
+    },
+    {
       "team": "Seattle Kraken",
       "played": 10,
       "wins": 6,
@@ -121,19 +134,6 @@
       "playoffSeed": 5,
       "group": "Western Conference",
       "sourceRank": 5,
-      "rank": 9
-    },
-    {
-      "team": "Florida Panthers",
-      "played": 9,
-      "wins": 5,
-      "losses": 2,
-      "otLosses": 2,
-      "goalDifference": 5,
-      "points": 12,
-      "playoffSeed": 6,
-      "group": "Eastern Conference",
-      "sourceRank": 6,
       "rank": 10
     },
     {
@@ -150,16 +150,16 @@
       "rank": 11
     },
     {
-      "team": "Ottawa Senators",
-      "played": 9,
-      "wins": 6,
+      "team": "Florida Panthers",
+      "played": 10,
+      "wins": 5,
       "losses": 3,
-      "otLosses": 0,
+      "otLosses": 2,
       "goalDifference": 1,
       "points": 12,
-      "playoffSeed": 5,
+      "playoffSeed": 6,
       "group": "Eastern Conference",
-      "sourceRank": 5,
+      "sourceRank": 6,
       "rank": 12
     },
     {
@@ -261,22 +261,22 @@
       "otLosses": 2,
       "goalDifference": -4,
       "points": 10,
-      "playoffSeed": 12,
+      "playoffSeed": 11,
       "group": "Eastern Conference",
-      "sourceRank": 12,
+      "sourceRank": 11,
       "rank": 20
     },
     {
       "team": "Buffalo Sabres",
-      "played": 9,
+      "played": 10,
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "otLosses": 2,
-      "goalDifference": -7,
+      "goalDifference": -9,
       "points": 10,
-      "playoffSeed": 11,
+      "playoffSeed": 12,
       "group": "Eastern Conference",
-      "sourceRank": 11,
+      "sourceRank": 12,
       "rank": 21
     },
     {
@@ -319,6 +319,19 @@
       "rank": 24
     },
     {
+      "team": "Philadelphia Flyers",
+      "played": 12,
+      "wins": 3,
+      "losses": 6,
+      "otLosses": 3,
+      "goalDifference": -17,
+      "points": 9,
+      "playoffSeed": 14,
+      "group": "Eastern Conference",
+      "sourceRank": 14,
+      "rank": 25
+    },
+    {
       "team": "Anaheim Ducks",
       "played": 9,
       "wins": 4,
@@ -329,7 +342,7 @@
       "playoffSeed": 12,
       "group": "Western Conference",
       "sourceRank": 12,
-      "rank": 25
+      "rank": 26
     },
     {
       "team": "Pittsburgh Penguins",
@@ -338,19 +351,6 @@
       "losses": 6,
       "otLosses": 1,
       "goalDifference": -5,
-      "points": 7,
-      "playoffSeed": 14,
-      "group": "Eastern Conference",
-      "sourceRank": 14,
-      "rank": 26
-    },
-    {
-      "team": "Philadelphia Flyers",
-      "played": 11,
-      "wins": 2,
-      "losses": 6,
-      "otLosses": 3,
-      "goalDifference": -19,
       "points": 7,
       "playoffSeed": 15,
       "group": "Eastern Conference",

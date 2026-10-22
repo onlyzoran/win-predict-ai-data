@@ -1,0 +1,210 @@
+{
+  "leagueId": "ncaaf-championship-26-27",
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T04:14:31Z",
+  "source": "espn",
+  "metric": "rank",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Miami Hurricanes",
+      "wins": 6,
+      "losses": 0,
+      "points": 1697.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 2,
+      "team": "BYU Cougars",
+      "wins": 6,
+      "losses": 0,
+      "points": 1675.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 3,
+      "team": "Ohio State Buckeyes",
+      "wins": 6,
+      "losses": 1,
+      "points": 1649.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 4,
+      "team": "Notre Dame Fighting Irish",
+      "wins": 6,
+      "losses": 1,
+      "points": 1395.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 5,
+      "team": "Georgia Bulldogs",
+      "wins": 6,
+      "losses": 1,
+      "points": 1382.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 6,
+      "team": "Indiana Hoosiers",
+      "wins": 6,
+      "losses": 1,
+      "points": 1370.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 7,
+      "team": "Ole Miss Rebels",
+      "wins": 5,
+      "losses": 1,
+      "points": 1360.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 8,
+      "team": "Texas Tech Red Raiders",
+      "wins": 6,
+      "losses": 0,
+      "points": 1336.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 9,
+      "team": "UCLA Bruins",
+      "wins": 6,
+      "losses": 0,
+      "points": 1159.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 10,
+      "team": "Utah Utes",
+      "wins": 6,
+      "losses": 0,
+      "points": 1153.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 11,
+      "team": "Tennessee Volunteers",
+      "wins": 6,
+      "losses": 1,
+      "points": 1151.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 12,
+      "team": "Kentucky Wildcats",
+      "wins": 6,
+      "losses": 1,
+      "points": 932.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 13,
+      "team": "Alabama Crimson Tide",
+      "wins": 5,
+      "losses": 2,
+      "points": 870.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 14,
+      "team": "Houston Cougars",
+      "wins": 6,
+      "losses": 1,
+      "points": 785.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 15,
+      "team": "Iowa Hawkeyes",
+      "wins": 5,
+      "losses": 1,
+      "points": 747.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 16,
+      "team": "USC Trojans",
+      "wins": 6,
+      "losses": 1,
+      "points": 592.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 17,
+      "team": "Wake Forest Demon Deacons",
+      "wins": 6,
+      "losses": 1,
+      "points": 574.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 18,
+      "team": "LSU Tigers",
+      "wins": 5,
+      "losses": 2,
+      "points": 529.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 19,
+      "team": "Texas Longhorns",
+      "wins": 4,
+      "losses": 2,
+      "points": 440.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 20,
+      "team": "Florida Gators",
+      "wins": 5,
+      "losses": 2,
+      "points": 355.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 21,
+      "team": "Boise State Broncos",
+      "wins": 5,
+      "losses": 1,
+      "points": 295.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 22,
+      "team": "Missouri Tigers",
+      "wins": 5,
+      "losses": 2,
+      "points": 290.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 23,
+      "team": "SMU Mustangs",
+      "wins": 5,
+      "losses": 1,
+      "points": 265.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 24,
+      "team": "Northwestern Wildcats",
+      "wins": 5,
+      "losses": 1,
+      "points": 254.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 25,
+      "team": "Arizona Wildcats",
+      "wins": 5,
+      "losses": 1,
+      "points": 136.0,
+      "group": "AP Top 25"
+    }
+  ]
+}
