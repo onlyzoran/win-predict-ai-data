@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-10-19",
-  "fetchedAt": "2026-10-23T13:15:53Z",
+  "date": "2026-10-23",
+  "fetchedAt": "2026-10-23T19:53:10Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -68,6 +68,18 @@
       "rank": 5
     },
     {
+      "participantId": "gazovik-orenburg",
+      "played": 12,
+      "wins": 3,
+      "draws": 7,
+      "losses": 2,
+      "goalsFor": 14,
+      "goalsAgainst": 12,
+      "goalDifference": 2,
+      "points": 16,
+      "rank": 6
+    },
+    {
       "participantId": "fc-baltika-kaliningrad",
       "played": 11,
       "wins": 3,
@@ -76,18 +88,6 @@
       "goalsFor": 14,
       "goalsAgainst": 12,
       "goalDifference": 2,
-      "points": 13,
-      "rank": 6
-    },
-    {
-      "participantId": "gazovik-orenburg",
-      "played": 11,
-      "wins": 2,
-      "draws": 7,
-      "losses": 2,
-      "goalsFor": 13,
-      "goalsAgainst": 12,
-      "goalDifference": 1,
       "points": 13,
       "rank": 7
     },
@@ -153,13 +153,13 @@
     },
     {
       "participantId": "akhmat-grozny",
-      "played": 11,
+      "played": 12,
       "wins": 2,
       "draws": 5,
-      "losses": 4,
+      "losses": 5,
       "goalsFor": 15,
-      "goalsAgainst": 16,
-      "goalDifference": -1,
+      "goalsAgainst": 17,
+      "goalDifference": -2,
       "points": 11,
       "rank": 13
     },
@@ -200,6 +200,6 @@
       "rank": 16
     }
   ],
-  "tour": 11,
-  "tourStatus": "final"
+  "tour": 12,
+  "tourStatus": "in_progress"
 }
