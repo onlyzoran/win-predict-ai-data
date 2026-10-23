@@ -1,16 +1,16 @@
 {
   "leagueId": "nba-26-27",
-  "date": "2026-10-22",
-  "fetchedAt": "2026-10-22T19:53:35Z",
+  "date": "2026-10-23",
+  "fetchedAt": "2026-10-23T04:18:29Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
   "standings": [
     {
-      "team": "Indiana Pacers",
-      "wins": 1,
+      "team": "Philadelphia 76ers",
+      "wins": 2,
       "losses": 0,
-      "goalDifference": 3,
+      "goalDifference": 14,
       "winPercent": 1.0,
       "playoffSeed": 1,
       "group": "Eastern Conference",
@@ -18,10 +18,10 @@
       "rank": 1
     },
     {
-      "team": "Toronto Raptors",
+      "team": "Indiana Pacers",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 43,
+      "goalDifference": 3,
       "winPercent": 1.0,
       "playoffSeed": 2,
       "group": "Eastern Conference",
@@ -29,10 +29,10 @@
       "rank": 2
     },
     {
-      "team": "Washington Wizards",
+      "team": "Toronto Raptors",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 12,
+      "goalDifference": 43,
       "winPercent": 1.0,
       "playoffSeed": 3,
       "group": "Eastern Conference",
@@ -40,10 +40,10 @@
       "rank": 3
     },
     {
-      "team": "Detroit Pistons",
+      "team": "Washington Wizards",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 8,
+      "goalDifference": 12,
       "winPercent": 1.0,
       "playoffSeed": 4,
       "group": "Eastern Conference",
@@ -51,10 +51,10 @@
       "rank": 4
     },
     {
-      "team": "Atlanta Hawks",
+      "team": "Detroit Pistons",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 7,
+      "goalDifference": 8,
       "winPercent": 1.0,
       "playoffSeed": 5,
       "group": "Eastern Conference",
@@ -62,7 +62,7 @@
       "rank": 5
     },
     {
-      "team": "Charlotte Hornets",
+      "team": "Atlanta Hawks",
       "wins": 1,
       "losses": 0,
       "goalDifference": 7,
@@ -73,10 +73,10 @@
       "rank": 6
     },
     {
-      "team": "Philadelphia 76ers",
+      "team": "Charlotte Hornets",
       "wins": 1,
       "losses": 0,
-      "goalDifference": 6,
+      "goalDifference": 7,
       "winPercent": 1.0,
       "playoffSeed": 7,
       "group": "Eastern Conference",
@@ -161,17 +161,6 @@
       "rank": 14
     },
     {
-      "team": "Cleveland Cavaliers",
-      "wins": 0,
-      "losses": 0,
-      "goalDifference": 0,
-      "winPercent": 0.0,
-      "playoffSeed": 8,
-      "group": "Eastern Conference",
-      "sourceRank": 8,
-      "rank": 15
-    },
-    {
       "team": "Denver Nuggets",
       "wins": 0,
       "losses": 0,
@@ -180,40 +169,7 @@
       "playoffSeed": 8,
       "group": "Western Conference",
       "sourceRank": 8,
-      "rank": 16
-    },
-    {
-      "team": "Brooklyn Nets",
-      "wins": 0,
-      "losses": 1,
-      "goalDifference": -7,
-      "winPercent": 0.0,
-      "playoffSeed": 9,
-      "group": "Eastern Conference",
-      "sourceRank": 9,
-      "rank": 17
-    },
-    {
-      "team": "New York Knicks",
-      "wins": 0,
-      "losses": 1,
-      "goalDifference": -6,
-      "winPercent": 0.0,
-      "playoffSeed": 9,
-      "group": "Eastern Conference",
-      "sourceRank": 9,
-      "rank": 18
-    },
-    {
-      "team": "Orlando Magic",
-      "wins": 0,
-      "losses": 1,
-      "goalDifference": -7,
-      "winPercent": 0.0,
-      "playoffSeed": 9,
-      "group": "Eastern Conference",
-      "sourceRank": 9,
-      "rank": 19
+      "rank": 15
     },
     {
       "team": "Boston Celtics",
@@ -221,9 +177,53 @@
       "losses": 1,
       "goalDifference": -8,
       "winPercent": 0.0,
-      "playoffSeed": 12,
+      "playoffSeed": 8,
       "group": "Eastern Conference",
-      "sourceRank": 12,
+      "sourceRank": 8,
+      "rank": 16
+    },
+    {
+      "team": "Cleveland Cavaliers",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -8,
+      "winPercent": 0.0,
+      "playoffSeed": 8,
+      "group": "Eastern Conference",
+      "sourceRank": 8,
+      "rank": 17
+    },
+    {
+      "team": "Brooklyn Nets",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -7,
+      "winPercent": 0.0,
+      "playoffSeed": 8,
+      "group": "Eastern Conference",
+      "sourceRank": 8,
+      "rank": 18
+    },
+    {
+      "team": "New York Knicks",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -6,
+      "winPercent": 0.0,
+      "playoffSeed": 8,
+      "group": "Eastern Conference",
+      "sourceRank": 8,
+      "rank": 19
+    },
+    {
+      "team": "Orlando Magic",
+      "wins": 0,
+      "losses": 1,
+      "goalDifference": -7,
+      "winPercent": 0.0,
+      "playoffSeed": 8,
+      "group": "Eastern Conference",
+      "sourceRank": 8,
       "rank": 20
     },
     {

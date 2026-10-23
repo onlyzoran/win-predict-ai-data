@@ -1,0 +1,210 @@
+{
+  "leagueId": "ncaab-championship-26-27",
+  "date": "2026-10-23",
+  "fetchedAt": "2026-10-23T04:18:30Z",
+  "source": "espn",
+  "metric": "rank",
+  "seasonYear": 2027,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Florida Gators",
+      "wins": 0,
+      "losses": 0,
+      "points": 1461.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 2,
+      "team": "Duke Blue Devils",
+      "wins": 0,
+      "losses": 0,
+      "points": 1411.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 3,
+      "team": "Illinois Fighting Illini",
+      "wins": 0,
+      "losses": 0,
+      "points": 1342.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 4,
+      "team": "UConn Huskies",
+      "wins": 0,
+      "losses": 0,
+      "points": 1241.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 5,
+      "team": "Arizona Wildcats",
+      "wins": 0,
+      "losses": 0,
+      "points": 1214.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 6,
+      "team": "Michigan State Spartans",
+      "wins": 0,
+      "losses": 0,
+      "points": 1203.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 7,
+      "team": "Texas Longhorns",
+      "wins": 0,
+      "losses": 0,
+      "points": 1040.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 8,
+      "team": "Tennessee Volunteers",
+      "wins": 0,
+      "losses": 0,
+      "points": 932.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 9,
+      "team": "Virginia Cavaliers",
+      "wins": 0,
+      "losses": 0,
+      "points": 874.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 10,
+      "team": "Houston Cougars",
+      "wins": 0,
+      "losses": 0,
+      "points": 829.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 11,
+      "team": "Louisville Cardinals",
+      "wins": 0,
+      "losses": 0,
+      "points": 822.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 12,
+      "team": "Arkansas Razorbacks",
+      "wins": 0,
+      "losses": 0,
+      "points": 760.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 13,
+      "team": "St. John's Red Storm",
+      "wins": 0,
+      "losses": 0,
+      "points": 669.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 14,
+      "team": "Miami Hurricanes",
+      "wins": 0,
+      "losses": 0,
+      "points": 650.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 15,
+      "team": "Gonzaga Bulldogs",
+      "wins": 0,
+      "losses": 0,
+      "points": 637.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 16,
+      "team": "Michigan Wolverines",
+      "wins": 0,
+      "losses": 0,
+      "points": 605.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 17,
+      "team": "Kansas Jayhawks",
+      "wins": 0,
+      "losses": 0,
+      "points": 504.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 18,
+      "team": "Iowa State Cyclones",
+      "wins": 0,
+      "losses": 0,
+      "points": 475.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 19,
+      "team": "Texas Tech Red Raiders",
+      "wins": 0,
+      "losses": 0,
+      "points": 466.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 20,
+      "team": "Alabama Crimson Tide",
+      "wins": 0,
+      "losses": 0,
+      "points": 374.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 21,
+      "team": "USC Trojans",
+      "wins": 0,
+      "losses": 0,
+      "points": 306.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 22,
+      "team": "UCLA Bruins",
+      "wins": 0,
+      "losses": 0,
+      "points": 250.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 23,
+      "team": "Kentucky Wildcats",
+      "wins": 0,
+      "losses": 0,
+      "points": 243.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 24,
+      "team": "Vanderbilt Commodores",
+      "wins": 0,
+      "losses": 0,
+      "points": 241.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 25,
+      "team": "BYU Cougars",
+      "wins": 0,
+      "losses": 0,
+      "points": 179.0,
+      "group": "AP Top 25"
+    }
+  ]
+}
