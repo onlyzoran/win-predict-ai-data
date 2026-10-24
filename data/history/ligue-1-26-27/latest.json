@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
-  "date": "2026-10-23",
-  "fetchedAt": "2026-10-23T19:53:10Z",
+  "date": "2026-10-24",
+  "fetchedAt": "2026-10-24T04:09:18Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -105,6 +105,20 @@
       "rank": 7
     },
     {
+      "team": "Nice",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 8,
+      "goalsAgainst": 10,
+      "goalDifference": -2,
+      "points": 11,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
       "team": "Lens",
       "played": 7,
       "wins": 3,
@@ -115,8 +129,8 @@
       "goalDifference": 3,
       "points": 10,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "Marseille",
@@ -129,22 +143,22 @@
       "goalDifference": 4,
       "points": 9,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Brest",
-      "played": 7,
+      "played": 8,
       "wins": 2,
       "draws": 3,
-      "losses": 2,
-      "goalsFor": 13,
-      "goalsAgainst": 10,
-      "goalDifference": 3,
+      "losses": 3,
+      "goalsFor": 14,
+      "goalsAgainst": 12,
+      "goalDifference": 2,
       "points": 9,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Toulouse",
@@ -157,8 +171,8 @@
       "goalDifference": 1,
       "points": 9,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "AJ Auxerre",
@@ -170,20 +184,6 @@
       "goalsAgainst": 17,
       "goalDifference": -6,
       "points": 9,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Nice",
-      "played": 7,
-      "wins": 2,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 9,
-      "goalDifference": -3,
-      "points": 8,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 13,
       "rank": 13

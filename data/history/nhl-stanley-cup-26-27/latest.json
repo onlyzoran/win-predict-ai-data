@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
-  "date": "2026-10-23",
-  "fetchedAt": "2026-10-23T19:53:11Z",
+  "date": "2026-10-24",
+  "fetchedAt": "2026-10-24T04:09:18Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -86,11 +86,11 @@
     },
     {
       "team": "Tampa Bay Lightning",
-      "played": 9,
+      "played": 10,
       "wins": 7,
-      "losses": 2,
+      "losses": 3,
       "otLosses": 0,
-      "goalDifference": 8,
+      "goalDifference": 5,
       "points": 14,
       "playoffSeed": 4,
       "group": "Eastern Conference",
@@ -150,6 +150,19 @@
       "rank": 11
     },
     {
+      "team": "Colorado Avalanche",
+      "played": 11,
+      "wins": 6,
+      "losses": 4,
+      "otLosses": 1,
+      "goalDifference": 13,
+      "points": 13,
+      "playoffSeed": 7,
+      "group": "Western Conference",
+      "sourceRank": 7,
+      "rank": 12
+    },
+    {
       "team": "Dallas Stars",
       "played": 10,
       "wins": 6,
@@ -160,7 +173,7 @@
       "playoffSeed": 6,
       "group": "Western Conference",
       "sourceRank": 6,
-      "rank": 12
+      "rank": 13
     },
     {
       "team": "San Jose Sharks",
@@ -170,10 +183,10 @@
       "otLosses": 1,
       "goalDifference": -4,
       "points": 13,
-      "playoffSeed": 7,
+      "playoffSeed": 8,
       "group": "Western Conference",
-      "sourceRank": 7,
-      "rank": 13
+      "sourceRank": 8,
+      "rank": 14
     },
     {
       "team": "New York Islanders",
@@ -186,7 +199,7 @@
       "playoffSeed": 7,
       "group": "Eastern Conference",
       "sourceRank": 7,
-      "rank": 14
+      "rank": 15
     },
     {
       "team": "New Jersey Devils",
@@ -199,7 +212,20 @@
       "playoffSeed": 8,
       "group": "Eastern Conference",
       "sourceRank": 8,
-      "rank": 15
+      "rank": 16
+    },
+    {
+      "team": "Montreal Canadiens",
+      "played": 10,
+      "wins": 5,
+      "losses": 3,
+      "otLosses": 2,
+      "goalDifference": -1,
+      "points": 12,
+      "playoffSeed": 9,
+      "group": "Eastern Conference",
+      "sourceRank": 9,
+      "rank": 17
     },
     {
       "team": "Florida Panthers",
@@ -209,23 +235,10 @@
       "otLosses": 2,
       "goalDifference": -3,
       "points": 12,
-      "playoffSeed": 9,
+      "playoffSeed": 10,
       "group": "Eastern Conference",
-      "sourceRank": 9,
-      "rank": 16
-    },
-    {
-      "team": "Colorado Avalanche",
-      "played": 10,
-      "wins": 5,
-      "losses": 4,
-      "otLosses": 1,
-      "goalDifference": 10,
-      "points": 11,
-      "playoffSeed": 8,
-      "group": "Western Conference",
-      "sourceRank": 8,
-      "rank": 17
+      "sourceRank": 10,
+      "rank": 18
     },
     {
       "team": "St. Louis Blues",
@@ -238,7 +251,7 @@
       "playoffSeed": 9,
       "group": "Western Conference",
       "sourceRank": 9,
-      "rank": 18
+      "rank": 19
     },
     {
       "team": "Detroit Red Wings",
@@ -248,10 +261,10 @@
       "otLosses": 3,
       "goalDifference": -2,
       "points": 11,
-      "playoffSeed": 10,
+      "playoffSeed": 11,
       "group": "Eastern Conference",
-      "sourceRank": 10,
-      "rank": 19
+      "sourceRank": 11,
+      "rank": 20
     },
     {
       "team": "Winnipeg Jets",
@@ -264,7 +277,7 @@
       "playoffSeed": 10,
       "group": "Western Conference",
       "sourceRank": 10,
-      "rank": 20
+      "rank": 21
     },
     {
       "team": "Washington Capitals",
@@ -273,19 +286,6 @@
       "losses": 4,
       "otLosses": 0,
       "goalDifference": 1,
-      "points": 10,
-      "playoffSeed": 11,
-      "group": "Eastern Conference",
-      "sourceRank": 11,
-      "rank": 21
-    },
-    {
-      "team": "Montreal Canadiens",
-      "played": 9,
-      "wins": 4,
-      "losses": 3,
-      "otLosses": 2,
-      "goalDifference": -4,
       "points": 10,
       "playoffSeed": 12,
       "group": "Eastern Conference",
@@ -385,11 +385,11 @@
     },
     {
       "team": "Chicago Blackhawks",
-      "played": 9,
+      "played": 10,
       "wins": 3,
-      "losses": 6,
+      "losses": 7,
       "otLosses": 0,
-      "goalDifference": -15,
+      "goalDifference": -18,
       "points": 6,
       "playoffSeed": 15,
       "group": "Western Conference",

@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
-  "date": "2026-10-23",
-  "fetchedAt": "2026-10-23T19:53:09Z",
+  "date": "2026-10-24",
+  "fetchedAt": "2026-10-24T04:09:18Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Ipswich Town",
+      "played": 8,
+      "wins": 3,
+      "draws": 1,
+      "losses": 4,
+      "goalsFor": 12,
+      "goalsAgainst": 16,
+      "goalDifference": -4,
+      "points": 10,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Hull City",
       "played": 7,
       "wins": 2,
@@ -127,20 +141,6 @@
       "goalsFor": 8,
       "goalsAgainst": 7,
       "goalDifference": 1,
-      "points": 9,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 9,
-      "rank": 9
-    },
-    {
-      "team": "Ipswich Town",
-      "played": 7,
-      "wins": 3,
-      "draws": 0,
-      "losses": 4,
-      "goalsFor": 11,
-      "goalsAgainst": 15,
-      "goalDifference": -4,
       "points": 9,
       "group": "2026-27 English Premier League",
       "sourceRank": 10,
@@ -227,8 +227,22 @@
       "goalDifference": -4,
       "points": 6,
       "group": "2026-27 English Premier League",
-      "sourceRank": 16,
+      "sourceRank": 17,
       "rank": 16
+    },
+    {
+      "team": "Nottingham Forest",
+      "played": 8,
+      "wins": 1,
+      "draws": 3,
+      "losses": 4,
+      "goalsFor": 6,
+      "goalsAgainst": 10,
+      "goalDifference": -4,
+      "points": 6,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 16,
+      "rank": 17
     },
     {
       "team": "Coventry City",
@@ -241,8 +255,8 @@
       "goalDifference": -8,
       "points": 6,
       "group": "2026-27 English Premier League",
-      "sourceRank": 17,
-      "rank": 17
+      "sourceRank": 18,
+      "rank": 18
     },
     {
       "team": "Fulham",
@@ -253,20 +267,6 @@
       "goalsFor": 7,
       "goalsAgainst": 10,
       "goalDifference": -3,
-      "points": 5,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 18,
-      "rank": 18
-    },
-    {
-      "team": "Nottingham Forest",
-      "played": 7,
-      "wins": 1,
-      "draws": 2,
-      "losses": 4,
-      "goalsFor": 5,
-      "goalsAgainst": 9,
-      "goalDifference": -4,
       "points": 5,
       "group": "2026-27 English Premier League",
       "sourceRank": 19,
