@@ -2,20 +2,20 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-10-24",
-  "fetchedAt": "2026-10-24T04:09:18Z",
+  "fetchedAt": "2026-10-24T12:33:49Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "dinamo-moscow",
-      "played": 11,
+      "played": 12,
       "wins": 8,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 18,
-      "goalsAgainst": 9,
-      "goalDifference": 9,
+      "losses": 3,
+      "goalsFor": 19,
+      "goalsAgainst": 12,
+      "goalDifference": 7,
       "points": 25,
       "rank": 1
     },
@@ -128,6 +128,18 @@
       "rank": 10
     },
     {
+      "participantId": "akron-tolyatti",
+      "played": 12,
+      "wins": 2,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 15,
+      "goalsAgainst": 21,
+      "goalDifference": -6,
+      "points": 12,
+      "rank": 11
+    },
+    {
       "participantId": "rostov",
       "played": 11,
       "wins": 3,
@@ -137,7 +149,7 @@
       "goalsAgainst": 17,
       "goalDifference": -6,
       "points": 12,
-      "rank": 11
+      "rank": 12
     },
     {
       "participantId": "lokomotiv-moscow",
@@ -149,7 +161,7 @@
       "goalsAgainst": 14,
       "goalDifference": 2,
       "points": 11,
-      "rank": 12
+      "rank": 13
     },
     {
       "participantId": "akhmat-grozny",
@@ -161,18 +173,6 @@
       "goalsAgainst": 17,
       "goalDifference": -2,
       "points": 11,
-      "rank": 13
-    },
-    {
-      "participantId": "akron-tolyatti",
-      "played": 11,
-      "wins": 1,
-      "draws": 6,
-      "losses": 4,
-      "goalsFor": 12,
-      "goalsAgainst": 20,
-      "goalDifference": -8,
-      "points": 9,
       "rank": 14
     },
     {
