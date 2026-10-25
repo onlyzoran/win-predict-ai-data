@@ -1,11 +1,25 @@
 {
   "leagueId": "bundesliga-26-27",
   "date": "2026-10-25",
-  "fetchedAt": "2026-10-25T13:06:22Z",
+  "fetchedAt": "2026-10-25T18:50:33Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Bayern Munich",
+      "played": 7,
+      "wins": 5,
+      "draws": 2,
+      "losses": 0,
+      "goalsFor": 25,
+      "goalsAgainst": 6,
+      "goalDifference": 19,
+      "points": 17,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Borussia Dortmund",
       "played": 7,
@@ -17,32 +31,18 @@
       "goalDifference": 8,
       "points": 17,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 1,
-      "rank": 1
-    },
-    {
-      "team": "Bayern Munich",
-      "played": 6,
-      "wins": 4,
-      "draws": 2,
-      "losses": 0,
-      "goalsFor": 22,
-      "goalsAgainst": 5,
-      "goalDifference": 17,
-      "points": 14,
-      "group": "2026-27 German Bundesliga",
       "sourceRank": 2,
       "rank": 2
     },
     {
       "team": "SC Freiburg",
-      "played": 6,
+      "played": 7,
       "wins": 4,
       "draws": 1,
-      "losses": 1,
-      "goalsFor": 15,
-      "goalsAgainst": 6,
-      "goalDifference": 9,
+      "losses": 2,
+      "goalsFor": 16,
+      "goalsAgainst": 9,
+      "goalDifference": 7,
       "points": 13,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 3,
@@ -50,13 +50,13 @@
     },
     {
       "team": "Bayer Leverkusen",
-      "played": 6,
+      "played": 7,
       "wins": 4,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "goalsFor": 16,
-      "goalsAgainst": 9,
-      "goalDifference": 7,
+      "goalsAgainst": 12,
+      "goalDifference": 4,
       "points": 13,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 4,
@@ -133,6 +133,20 @@
       "rank": 9
     },
     {
+      "team": "TSG Hoffenheim",
+      "played": 7,
+      "wins": 3,
+      "draws": 0,
+      "losses": 4,
+      "goalsFor": 14,
+      "goalsAgainst": 14,
+      "goalDifference": 0,
+      "points": 9,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
       "team": "Hamburg SV",
       "played": 7,
       "wins": 3,
@@ -143,8 +157,8 @@
       "goalDifference": -10,
       "points": 9,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "FC Cologne",
@@ -157,8 +171,8 @@
       "goalDifference": -3,
       "points": 8,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "SC Paderborn 07",
@@ -171,8 +185,8 @@
       "goalDifference": -3,
       "points": 8,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Eintracht Frankfurt",
@@ -184,20 +198,6 @@
       "goalsAgainst": 17,
       "goalDifference": -7,
       "points": 8,
-      "group": "2026-27 German Bundesliga",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "TSG Hoffenheim",
-      "played": 6,
-      "wins": 2,
-      "draws": 0,
-      "losses": 4,
-      "goalsFor": 11,
-      "goalsAgainst": 14,
-      "goalDifference": -3,
-      "points": 6,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 14,
       "rank": 14

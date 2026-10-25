@@ -2,11 +2,35 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-10-25",
-  "fetchedAt": "2026-10-25T13:06:22Z",
+  "fetchedAt": "2026-10-25T18:50:33Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
+    {
+      "participantId": "zenit-st-petersburg",
+      "played": 12,
+      "wins": 9,
+      "draws": 0,
+      "losses": 3,
+      "goalsFor": 27,
+      "goalsAgainst": 13,
+      "goalDifference": 14,
+      "points": 27,
+      "rank": 1
+    },
+    {
+      "participantId": "cska-moscow",
+      "played": 12,
+      "wins": 7,
+      "draws": 4,
+      "losses": 1,
+      "goalsFor": 21,
+      "goalsAgainst": 12,
+      "goalDifference": 9,
+      "points": 25,
+      "rank": 2
+    },
     {
       "participantId": "dinamo-moscow",
       "played": 12,
@@ -17,31 +41,19 @@
       "goalsAgainst": 12,
       "goalDifference": 7,
       "points": 25,
-      "rank": 1
-    },
-    {
-      "participantId": "zenit-st-petersburg",
-      "played": 11,
-      "wins": 8,
-      "draws": 0,
-      "losses": 3,
-      "goalsFor": 25,
-      "goalsAgainst": 13,
-      "goalDifference": 12,
-      "points": 24,
-      "rank": 2
+      "rank": 3
     },
     {
       "participantId": "spartak-moscow",
-      "played": 11,
+      "played": 12,
       "wins": 7,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 21,
-      "goalsAgainst": 8,
-      "goalDifference": 13,
+      "goalsAgainst": 10,
+      "goalDifference": 11,
       "points": 23,
-      "rank": 3
+      "rank": 4
     },
     {
       "participantId": "krasnodar",
@@ -53,18 +65,6 @@
       "goalsAgainst": 14,
       "goalDifference": 6,
       "points": 23,
-      "rank": 4
-    },
-    {
-      "participantId": "cska-moscow",
-      "played": 11,
-      "wins": 6,
-      "draws": 4,
-      "losses": 1,
-      "goalsFor": 19,
-      "goalsAgainst": 12,
-      "goalDifference": 7,
-      "points": 22,
       "rank": 5
     },
     {
@@ -117,13 +117,13 @@
     },
     {
       "participantId": "dynamo-makhachkala",
-      "played": 11,
+      "played": 12,
       "wins": 4,
       "draws": 1,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 16,
-      "goalsAgainst": 21,
-      "goalDifference": -5,
+      "goalsAgainst": 23,
+      "goalDifference": -7,
       "points": 13,
       "rank": 10
     },
@@ -201,5 +201,5 @@
     }
   ],
   "tour": 12,
-  "tourStatus": "in_progress"
+  "tourStatus": "final"
 }

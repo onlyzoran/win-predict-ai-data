@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-10-25",
-  "fetchedAt": "2026-10-25T13:06:24Z",
+  "fetchedAt": "2026-10-25T18:50:34Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -59,6 +59,19 @@
       "rank": 4
     },
     {
+      "team": "Pittsburgh Steelers",
+      "wins": 5,
+      "losses": 2,
+      "goalsFor": 153,
+      "goalsAgainst": 138,
+      "goalDifference": 15,
+      "winPercent": 0.71428573,
+      "playoffSeed": 3,
+      "group": "American Football Conference",
+      "sourceRank": 3,
+      "rank": 5
+    },
+    {
       "team": "Chicago Bears",
       "wins": 5,
       "losses": 2,
@@ -69,7 +82,7 @@
       "playoffSeed": 5,
       "group": "National Football Conference",
       "sourceRank": 5,
-      "rank": 5
+      "rank": 6
     },
     {
       "team": "Jacksonville Jaguars",
@@ -78,19 +91,6 @@
       "goalsFor": 154,
       "goalsAgainst": 104,
       "goalDifference": 50,
-      "winPercent": 0.6666667,
-      "playoffSeed": 3,
-      "group": "American Football Conference",
-      "sourceRank": 3,
-      "rank": 6
-    },
-    {
-      "team": "Cleveland Browns",
-      "wins": 4,
-      "losses": 2,
-      "goalsFor": 106,
-      "goalsAgainst": 122,
-      "goalDifference": -16,
       "winPercent": 0.6666667,
       "playoffSeed": 4,
       "group": "American Football Conference",
@@ -111,12 +111,12 @@
       "rank": 8
     },
     {
-      "team": "Pittsburgh Steelers",
+      "team": "Cleveland Browns",
       "wins": 4,
       "losses": 2,
-      "goalsFor": 137,
-      "goalsAgainst": 128,
-      "goalDifference": 9,
+      "goalsFor": 106,
+      "goalsAgainst": 122,
+      "goalDifference": -16,
       "winPercent": 0.6666667,
       "playoffSeed": 6,
       "group": "American Football Conference",
@@ -293,19 +293,6 @@
       "rank": 22
     },
     {
-      "team": "New Orleans Saints",
-      "wins": 2,
-      "losses": 4,
-      "goalsFor": 152,
-      "goalsAgainst": 178,
-      "goalDifference": -26,
-      "winPercent": 0.33333334,
-      "playoffSeed": 10,
-      "group": "National Football Conference",
-      "sourceRank": 10,
-      "rank": 23
-    },
-    {
       "team": "Philadelphia Eagles",
       "wins": 2,
       "losses": 4,
@@ -313,10 +300,10 @@
       "goalsAgainst": 137,
       "goalDifference": -31,
       "winPercent": 0.33333334,
-      "playoffSeed": 11,
+      "playoffSeed": 10,
       "group": "National Football Conference",
-      "sourceRank": 11,
-      "rank": 24
+      "sourceRank": 10,
+      "rank": 23
     },
     {
       "team": "Dallas Cowboys",
@@ -326,10 +313,10 @@
       "goalsAgainst": 159,
       "goalDifference": -8,
       "winPercent": 0.33333334,
-      "playoffSeed": 12,
+      "playoffSeed": 11,
       "group": "National Football Conference",
-      "sourceRank": 12,
-      "rank": 25
+      "sourceRank": 11,
+      "rank": 24
     },
     {
       "team": "Arizona Cardinals",
@@ -339,10 +326,10 @@
       "goalsAgainst": 178,
       "goalDifference": -52,
       "winPercent": 0.33333334,
-      "playoffSeed": 13,
+      "playoffSeed": 12,
       "group": "National Football Conference",
-      "sourceRank": 13,
-      "rank": 26
+      "sourceRank": 12,
+      "rank": 25
     },
     {
       "team": "Los Angeles Rams",
@@ -352,6 +339,19 @@
       "goalsAgainst": 138,
       "goalDifference": -3,
       "winPercent": 0.33333334,
+      "playoffSeed": 13,
+      "group": "National Football Conference",
+      "sourceRank": 13,
+      "rank": 26
+    },
+    {
+      "team": "New Orleans Saints",
+      "wins": 2,
+      "losses": 5,
+      "goalsFor": 162,
+      "goalsAgainst": 194,
+      "goalDifference": -32,
+      "winPercent": 0.2857143,
       "playoffSeed": 14,
       "group": "National Football Conference",
       "sourceRank": 14,
