@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
   "date": "2026-10-25",
-  "fetchedAt": "2026-10-25T04:11:50Z",
+  "fetchedAt": "2026-10-25T13:06:23Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -134,13 +134,13 @@
     },
     {
       "team": "Charlotte FC",
-      "played": 30,
+      "played": 31,
       "wins": 13,
       "draws": 8,
-      "losses": 9,
-      "goalsFor": 53,
-      "goalsAgainst": 45,
-      "goalDifference": 8,
+      "losses": 10,
+      "goalsFor": 55,
+      "goalsAgainst": 48,
+      "goalDifference": 7,
       "points": 47,
       "group": "Eastern Conference",
       "sourceRank": 5,
@@ -176,16 +176,16 @@
     },
     {
       "team": "Seattle Sounders FC",
-      "played": 30,
+      "played": 31,
       "wins": 11,
-      "draws": 9,
+      "draws": 10,
       "losses": 10,
-      "goalsFor": 39,
-      "goalsAgainst": 37,
+      "goalsFor": 41,
+      "goalsAgainst": 39,
       "goalDifference": 2,
-      "points": 42,
+      "points": 43,
       "group": "Western Conference",
-      "sourceRank": 8,
+      "sourceRank": 7,
       "rank": 13
     },
     {
@@ -199,7 +199,7 @@
       "goalDifference": 1,
       "points": 42,
       "group": "Western Conference",
-      "sourceRank": 7,
+      "sourceRank": 8,
       "rank": 14
     },
     {
@@ -287,6 +287,20 @@
       "rank": 20
     },
     {
+      "team": "Portland Timbers",
+      "played": 31,
+      "wins": 10,
+      "draws": 7,
+      "losses": 14,
+      "goalsFor": 54,
+      "goalsAgainst": 58,
+      "goalDifference": -4,
+      "points": 37,
+      "group": "Western Conference",
+      "sourceRank": 11,
+      "rank": 21
+    },
+    {
       "team": "Toronto FC",
       "played": 31,
       "wins": 8,
@@ -298,7 +312,7 @@
       "points": 36,
       "group": "Eastern Conference",
       "sourceRank": 11,
-      "rank": 21
+      "rank": 22
     },
     {
       "team": "New York City FC",
@@ -312,7 +326,21 @@
       "points": 35,
       "group": "Eastern Conference",
       "sourceRank": 12,
-      "rank": 22
+      "rank": 23
+    },
+    {
+      "team": "San Diego FC",
+      "played": 31,
+      "wins": 8,
+      "draws": 11,
+      "losses": 12,
+      "goalsFor": 55,
+      "goalsAgainst": 58,
+      "goalDifference": -3,
+      "points": 35,
+      "group": "Western Conference",
+      "sourceRank": 12,
+      "rank": 24
     },
     {
       "team": "Minnesota United FC",
@@ -325,35 +353,7 @@
       "goalDifference": -8,
       "points": 35,
       "group": "Western Conference",
-      "sourceRank": 11,
-      "rank": 23
-    },
-    {
-      "team": "San Diego FC",
-      "played": 30,
-      "wins": 8,
-      "draws": 10,
-      "losses": 12,
-      "goalsFor": 53,
-      "goalsAgainst": 56,
-      "goalDifference": -3,
-      "points": 34,
-      "group": "Western Conference",
       "sourceRank": 13,
-      "rank": 24
-    },
-    {
-      "team": "Portland Timbers",
-      "played": 30,
-      "wins": 9,
-      "draws": 7,
-      "losses": 14,
-      "goalsFor": 51,
-      "goalsAgainst": 56,
-      "goalDifference": -5,
-      "points": 34,
-      "group": "Western Conference",
-      "sourceRank": 12,
       "rank": 25
     },
     {
