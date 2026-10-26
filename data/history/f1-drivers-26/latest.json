@@ -1,77 +1,77 @@
 {
   "leagueId": "f1-drivers-26",
-  "date": "2026-10-25",
-  "fetchedAt": "2026-10-25T18:50:35Z",
+  "date": "2026-10-26",
+  "fetchedAt": "2026-10-26T04:15:45Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Kimi Antonelli",
-      "points": 340,
+      "points": 365,
       "group": "Driver Standings",
       "sourceRank": 1,
       "rank": 1
     },
     {
       "team": "George Russell",
-      "points": 238,
+      "points": 242,
       "group": "Driver Standings",
       "sourceRank": 2,
       "rank": 2
     },
     {
       "team": "Lewis Hamilton",
-      "points": 229,
+      "points": 241,
       "group": "Driver Standings",
       "sourceRank": 3,
       "rank": 3
     },
     {
       "team": "Max Verstappen",
-      "points": 221,
+      "points": 236,
       "group": "Driver Standings",
       "sourceRank": 4,
       "rank": 4
     },
     {
       "team": "Charles Leclerc",
-      "points": 215,
+      "points": 233,
       "group": "Driver Standings",
       "sourceRank": 5,
       "rank": 5
     },
     {
       "team": "Lando Norris",
-      "points": 201,
+      "points": 211,
       "group": "Driver Standings",
       "sourceRank": 6,
       "rank": 6
     },
     {
       "team": "Oscar Piastri",
-      "points": 138,
+      "points": 144,
       "group": "Driver Standings",
       "sourceRank": 7,
       "rank": 7
     },
     {
       "team": "Isack Hadjar",
-      "points": 97,
+      "points": 105,
       "group": "Driver Standings",
       "sourceRank": 8,
       "rank": 8
     },
     {
       "team": "Liam Lawson",
-      "points": 75,
+      "points": 77,
       "group": "Driver Standings",
       "sourceRank": 9,
       "rank": 9
     },
     {
       "team": "Pierre Gasly",
-      "points": 41,
+      "points": 42,
       "group": "Driver Standings",
       "sourceRank": 10,
       "rank": 10
