@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-10-28",
-  "fetchedAt": "2026-10-28T05:07:24Z",
+  "fetchedAt": "2026-10-28T14:59:28Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -235,9 +235,9 @@
       "otLosses": 3,
       "goalDifference": -4,
       "points": 13,
-      "playoffSeed": 11,
+      "playoffSeed": 12,
       "group": "Eastern Conference",
-      "sourceRank": 11,
+      "sourceRank": 12,
       "rank": 18
     },
     {
@@ -255,16 +255,29 @@
     },
     {
       "team": "San Jose Sharks",
-      "played": 12,
+      "played": 13,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "otLosses": 1,
-      "goalDifference": -6,
+      "goalDifference": -8,
       "points": 13,
       "playoffSeed": 9,
       "group": "Western Conference",
       "sourceRank": 9,
       "rank": 20
+    },
+    {
+      "team": "Buffalo Sabres",
+      "played": 12,
+      "wins": 5,
+      "losses": 4,
+      "otLosses": 3,
+      "goalDifference": -8,
+      "points": 13,
+      "playoffSeed": 11,
+      "group": "Eastern Conference",
+      "sourceRank": 11,
+      "rank": 21
     },
     {
       "team": "Washington Capitals",
@@ -274,10 +287,10 @@
       "otLosses": 0,
       "goalDifference": 2,
       "points": 12,
-      "playoffSeed": 12,
+      "playoffSeed": 13,
       "group": "Eastern Conference",
-      "sourceRank": 12,
-      "rank": 21
+      "sourceRank": 13,
+      "rank": 22
     },
     {
       "team": "Pittsburgh Penguins",
@@ -290,7 +303,7 @@
       "playoffSeed": 14,
       "group": "Eastern Conference",
       "sourceRank": 14,
-      "rank": 22
+      "rank": 23
     },
     {
       "team": "St. Louis Blues",
@@ -303,7 +316,7 @@
       "playoffSeed": 10,
       "group": "Western Conference",
       "sourceRank": 10,
-      "rank": 23
+      "rank": 24
     },
     {
       "team": "Anaheim Ducks",
@@ -316,7 +329,7 @@
       "playoffSeed": 11,
       "group": "Western Conference",
       "sourceRank": 11,
-      "rank": 24
+      "rank": 25
     },
     {
       "team": "Winnipeg Jets",
@@ -329,19 +342,6 @@
       "playoffSeed": 12,
       "group": "Western Conference",
       "sourceRank": 12,
-      "rank": 25
-    },
-    {
-      "team": "Buffalo Sabres",
-      "played": 11,
-      "wins": 4,
-      "losses": 4,
-      "otLosses": 3,
-      "goalDifference": -10,
-      "points": 11,
-      "playoffSeed": 13,
-      "group": "Eastern Conference",
-      "sourceRank": 13,
       "rank": 26
     },
     {
