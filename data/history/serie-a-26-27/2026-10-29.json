@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-10-29",
-  "fetchedAt": "2026-10-29T15:06:04Z",
+  "fetchedAt": "2026-10-29T20:58:15Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -77,6 +77,20 @@
       "rank": 5
     },
     {
+      "team": "Frosinone",
+      "played": 9,
+      "wins": 5,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 22,
+      "goalsAgainst": 14,
+      "goalDifference": 8,
+      "points": 17,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
       "team": "Napoli",
       "played": 9,
       "wins": 4,
@@ -88,20 +102,6 @@
       "points": 14,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 7,
-      "rank": 6
-    },
-    {
-      "team": "Frosinone",
-      "played": 8,
-      "wins": 4,
-      "draws": 2,
-      "losses": 2,
-      "goalsFor": 17,
-      "goalsAgainst": 13,
-      "goalDifference": 4,
-      "points": 14,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 6,
       "rank": 7
     },
     {
@@ -190,13 +190,13 @@
     },
     {
       "team": "Lecce",
-      "played": 8,
+      "played": 9,
       "wins": 3,
       "draws": 0,
-      "losses": 5,
-      "goalsFor": 9,
-      "goalsAgainst": 14,
-      "goalDifference": -5,
+      "losses": 6,
+      "goalsFor": 10,
+      "goalsAgainst": 19,
+      "goalDifference": -9,
       "points": 9,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 14,
