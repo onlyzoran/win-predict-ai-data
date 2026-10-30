@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-10-29",
-  "fetchedAt": "2026-10-29T20:58:16Z",
+  "date": "2026-10-30",
+  "fetchedAt": "2026-10-30T05:19:19Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -163,6 +163,19 @@
       "rank": 12
     },
     {
+      "team": "Green Bay Packers",
+      "wins": 5,
+      "losses": 3,
+      "goalsFor": 171,
+      "goalsAgainst": 164,
+      "goalDifference": 7,
+      "winPercent": 0.625,
+      "playoffSeed": 7,
+      "group": "National Football Conference",
+      "sourceRank": 7,
+      "rank": 13
+    },
+    {
       "team": "New England Patriots",
       "wins": 4,
       "losses": 3,
@@ -173,7 +186,7 @@
       "playoffSeed": 8,
       "group": "American Football Conference",
       "sourceRank": 8,
-      "rank": 13
+      "rank": 14
     },
     {
       "team": "Baltimore Ravens",
@@ -186,19 +199,6 @@
       "playoffSeed": 9,
       "group": "American Football Conference",
       "sourceRank": 9,
-      "rank": 14
-    },
-    {
-      "team": "Green Bay Packers",
-      "wins": 4,
-      "losses": 3,
-      "goalsFor": 144,
-      "goalsAgainst": 145,
-      "goalDifference": -1,
-      "winPercent": 0.5714286,
-      "playoffSeed": 7,
-      "group": "National Football Conference",
-      "sourceRank": 7,
       "rank": 15
     },
     {
@@ -215,19 +215,6 @@
       "rank": 16
     },
     {
-      "team": "Carolina Panthers",
-      "wins": 3,
-      "losses": 3,
-      "goalsFor": 159,
-      "goalsAgainst": 166,
-      "goalDifference": -7,
-      "winPercent": 0.5,
-      "playoffSeed": 4,
-      "group": "National Football Conference",
-      "sourceRank": 4,
-      "rank": 17
-    },
-    {
       "team": "Las Vegas Raiders",
       "wins": 3,
       "losses": 4,
@@ -238,6 +225,19 @@
       "playoffSeed": 10,
       "group": "American Football Conference",
       "sourceRank": 10,
+      "rank": 17
+    },
+    {
+      "team": "Carolina Panthers",
+      "wins": 3,
+      "losses": 4,
+      "goalsFor": 178,
+      "goalsAgainst": 193,
+      "goalDifference": -15,
+      "winPercent": 0.42857143,
+      "playoffSeed": 4,
+      "group": "National Football Conference",
+      "sourceRank": 4,
       "rank": 18
     },
     {
