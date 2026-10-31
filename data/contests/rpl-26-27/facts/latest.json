@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-10-25",
-  "fetchedAt": "2026-10-31T05:01:44Z",
+  "date": "2026-10-31",
+  "fetchedAt": "2026-10-31T14:26:26Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -104,6 +104,18 @@
       "rank": 8
     },
     {
+      "participantId": "rubin-kazan",
+      "played": 13,
+      "wins": 3,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 13,
+      "goalsAgainst": 18,
+      "goalDifference": -5,
+      "points": 15,
+      "rank": 9
+    },
+    {
       "participantId": "fc-baltika-kaliningrad",
       "played": 12,
       "wins": 3,
@@ -113,7 +125,7 @@
       "goalsAgainst": 13,
       "goalDifference": 2,
       "points": 14,
-      "rank": 9
+      "rank": 10
     },
     {
       "participantId": "dynamo-makhachkala",
@@ -125,7 +137,7 @@
       "goalsAgainst": 23,
       "goalDifference": -7,
       "points": 13,
-      "rank": 10
+      "rank": 11
     },
     {
       "participantId": "akron-tolyatti",
@@ -135,18 +147,6 @@
       "losses": 4,
       "goalsFor": 15,
       "goalsAgainst": 21,
-      "goalDifference": -6,
-      "points": 12,
-      "rank": 11
-    },
-    {
-      "participantId": "rubin-kazan",
-      "played": 12,
-      "wins": 2,
-      "draws": 6,
-      "losses": 4,
-      "goalsFor": 12,
-      "goalsAgainst": 18,
       "goalDifference": -6,
       "points": 12,
       "rank": 12
@@ -189,17 +189,17 @@
     },
     {
       "participantId": "fakel-voronezh",
-      "played": 12,
+      "played": 13,
       "wins": 1,
       "draws": 3,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 8,
-      "goalsAgainst": 20,
-      "goalDifference": -12,
+      "goalsAgainst": 21,
+      "goalDifference": -13,
       "points": 6,
       "rank": 16
     }
   ],
-  "tour": 12,
-  "tourStatus": "final"
+  "tour": 13,
+  "tourStatus": "in_progress"
 }
