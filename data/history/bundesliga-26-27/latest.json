@@ -1,7 +1,7 @@
 {
   "leagueId": "bundesliga-26-27",
-  "date": "2026-10-30",
-  "fetchedAt": "2026-10-30T20:37:00Z",
+  "date": "2026-10-31",
+  "fetchedAt": "2026-10-31T05:01:44Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -63,6 +63,20 @@
       "rank": 4
     },
     {
+      "team": "SV Elversberg",
+      "played": 8,
+      "wins": 4,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 16,
+      "goalsAgainst": 16,
+      "goalDifference": 0,
+      "points": 13,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
       "team": "RB Leipzig",
       "played": 7,
       "wins": 4,
@@ -73,8 +87,8 @@
       "goalDifference": 9,
       "points": 12,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 5,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "Werder Bremen",
@@ -87,32 +101,18 @@
       "goalDifference": 1,
       "points": 12,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 6,
-      "rank": 6
-    },
-    {
-      "team": "Mainz",
-      "played": 7,
-      "wins": 3,
-      "draws": 1,
-      "losses": 3,
-      "goalsFor": 16,
-      "goalsAgainst": 13,
-      "goalDifference": 3,
-      "points": 10,
-      "group": "2026-27 German Bundesliga",
       "sourceRank": 7,
       "rank": 7
     },
     {
-      "team": "SV Elversberg",
-      "played": 7,
+      "team": "Mainz",
+      "played": 8,
       "wins": 3,
       "draws": 1,
-      "losses": 3,
-      "goalsFor": 12,
-      "goalsAgainst": 15,
-      "goalDifference": -3,
+      "losses": 4,
+      "goalsFor": 17,
+      "goalsAgainst": 17,
+      "goalDifference": 0,
       "points": 10,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 8,

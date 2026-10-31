@@ -1,0 +1,87 @@
+{
+  "leagueId": "f1-constructors-26",
+  "date": "2026-10-31",
+  "fetchedAt": "2026-10-31T05:01:46Z",
+  "source": "espn",
+  "metric": "points",
+  "seasonYear": 2026,
+  "standings": [
+    {
+      "team": "Mercedes",
+      "points": 607,
+      "group": "Constructor Standings",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "Ferrari",
+      "points": 474,
+      "group": "Constructor Standings",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
+      "team": "Red Bull",
+      "points": 355,
+      "group": "Constructor Standings",
+      "sourceRank": 3,
+      "rank": 3
+    },
+    {
+      "team": "McLaren",
+      "points": 355,
+      "group": "Constructor Standings",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
+      "team": "Racing Bulls",
+      "points": 102,
+      "group": "Constructor Standings",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
+      "team": "Alpine",
+      "points": 69,
+      "group": "Constructor Standings",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
+      "team": "Haas",
+      "points": 30,
+      "group": "Constructor Standings",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
+      "team": "Audi",
+      "points": 23,
+      "group": "Constructor Standings",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
+      "team": "Williams",
+      "points": 12,
+      "group": "Constructor Standings",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
+      "team": "Aston Martin",
+      "points": 7,
+      "group": "Constructor Standings",
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
+      "team": "Cadillac",
+      "points": 0,
+      "group": "Constructor Standings",
+      "sourceRank": 11,
+      "rank": 11
+    }
+  ]
+}
