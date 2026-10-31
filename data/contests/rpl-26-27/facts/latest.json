@@ -2,11 +2,23 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-10-31",
-  "fetchedAt": "2026-10-31T14:26:26Z",
+  "fetchedAt": "2026-10-31T19:50:53Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
+    {
+      "participantId": "dinamo-moscow",
+      "played": 13,
+      "wins": 9,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 21,
+      "goalsAgainst": 12,
+      "goalDifference": 9,
+      "points": 28,
+      "rank": 1
+    },
     {
       "participantId": "zenit-st-petersburg",
       "played": 12,
@@ -17,7 +29,7 @@
       "goalsAgainst": 13,
       "goalDifference": 14,
       "points": 27,
-      "rank": 1
+      "rank": 2
     },
     {
       "participantId": "cska-moscow",
@@ -28,18 +40,6 @@
       "goalsFor": 21,
       "goalsAgainst": 12,
       "goalDifference": 9,
-      "points": 25,
-      "rank": 2
-    },
-    {
-      "participantId": "dinamo-moscow",
-      "played": 12,
-      "wins": 8,
-      "draws": 1,
-      "losses": 3,
-      "goalsFor": 19,
-      "goalsAgainst": 12,
-      "goalDifference": 7,
       "points": 25,
       "rank": 3
     },
@@ -57,13 +57,13 @@
     },
     {
       "participantId": "krasnodar",
-      "played": 12,
+      "played": 13,
       "wins": 6,
       "draws": 5,
-      "losses": 1,
-      "goalsFor": 20,
-      "goalsAgainst": 14,
-      "goalDifference": 6,
+      "losses": 2,
+      "goalsFor": 21,
+      "goalsAgainst": 16,
+      "goalDifference": 5,
       "points": 23,
       "rank": 5
     },
@@ -152,6 +152,18 @@
       "rank": 12
     },
     {
+      "participantId": "rodina-moscow",
+      "played": 13,
+      "wins": 3,
+      "draws": 3,
+      "losses": 7,
+      "goalsFor": 15,
+      "goalsAgainst": 28,
+      "goalDifference": -13,
+      "points": 12,
+      "rank": 13
+    },
+    {
       "participantId": "lokomotiv-moscow",
       "played": 12,
       "wins": 2,
@@ -161,30 +173,18 @@
       "goalsAgainst": 16,
       "goalDifference": 0,
       "points": 11,
-      "rank": 13
-    },
-    {
-      "participantId": "akhmat-grozny",
-      "played": 12,
-      "wins": 2,
-      "draws": 5,
-      "losses": 5,
-      "goalsFor": 15,
-      "goalsAgainst": 17,
-      "goalDifference": -2,
-      "points": 11,
       "rank": 14
     },
     {
-      "participantId": "rodina-moscow",
-      "played": 12,
+      "participantId": "akhmat-grozny",
+      "played": 13,
       "wins": 2,
-      "draws": 3,
-      "losses": 7,
-      "goalsFor": 13,
-      "goalsAgainst": 27,
-      "goalDifference": -14,
-      "points": 9,
+      "draws": 5,
+      "losses": 6,
+      "goalsFor": 15,
+      "goalsAgainst": 19,
+      "goalDifference": -4,
+      "points": 11,
       "rank": 15
     },
     {

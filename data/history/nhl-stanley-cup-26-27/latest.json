@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-10-31",
-  "fetchedAt": "2026-10-31T14:26:26Z",
+  "fetchedAt": "2026-10-31T19:50:54Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -235,23 +235,36 @@
       "otLosses": 1,
       "goalDifference": 2,
       "points": 15,
-      "playoffSeed": 13,
-      "group": "Eastern Conference",
-      "sourceRank": 13,
-      "rank": 18
-    },
-    {
-      "team": "Detroit Red Wings",
-      "played": 13,
-      "wins": 6,
-      "losses": 4,
-      "otLosses": 3,
-      "goalDifference": -1,
-      "points": 15,
       "playoffSeed": 12,
       "group": "Eastern Conference",
       "sourceRank": 12,
+      "rank": 18
+    },
+    {
+      "team": "St. Louis Blues",
+      "played": 14,
+      "wins": 7,
+      "losses": 6,
+      "otLosses": 1,
+      "goalDifference": 2,
+      "points": 15,
+      "playoffSeed": 8,
+      "group": "Western Conference",
+      "sourceRank": 8,
       "rank": 19
+    },
+    {
+      "team": "Detroit Red Wings",
+      "played": 14,
+      "wins": 6,
+      "losses": 5,
+      "otLosses": 3,
+      "goalDifference": -2,
+      "points": 15,
+      "playoffSeed": 13,
+      "group": "Eastern Conference",
+      "sourceRank": 13,
+      "rank": 20
     },
     {
       "team": "San Jose Sharks",
@@ -261,10 +274,10 @@
       "otLosses": 1,
       "goalDifference": -7,
       "points": 15,
-      "playoffSeed": 8,
+      "playoffSeed": 9,
       "group": "Western Conference",
-      "sourceRank": 8,
-      "rank": 20
+      "sourceRank": 9,
+      "rank": 21
     },
     {
       "team": "Buffalo Sabres",
@@ -277,19 +290,6 @@
       "playoffSeed": 11,
       "group": "Eastern Conference",
       "sourceRank": 11,
-      "rank": 21
-    },
-    {
-      "team": "St. Louis Blues",
-      "played": 13,
-      "wins": 6,
-      "losses": 6,
-      "otLosses": 1,
-      "goalDifference": 1,
-      "points": 13,
-      "playoffSeed": 9,
-      "group": "Western Conference",
-      "sourceRank": 9,
       "rank": 22
     },
     {

@@ -1,7 +1,7 @@
 {
   "leagueId": "mls-cup-26",
   "date": "2026-10-31",
-  "fetchedAt": "2026-10-31T14:26:26Z",
+  "fetchedAt": "2026-10-31T19:50:53Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -77,6 +77,20 @@
       "rank": 5
     },
     {
+      "team": "Charlotte FC",
+      "played": 33,
+      "wins": 15,
+      "draws": 8,
+      "losses": 10,
+      "goalsFor": 63,
+      "goalsAgainst": 48,
+      "goalDifference": 15,
+      "points": 53,
+      "group": "Eastern Conference",
+      "sourceRank": 4,
+      "rank": 6
+    },
+    {
       "team": "Chicago Fire FC",
       "played": 32,
       "wins": 15,
@@ -87,8 +101,8 @@
       "goalDifference": 9,
       "points": 52,
       "group": "Eastern Conference",
-      "sourceRank": 4,
-      "rank": 6
+      "sourceRank": 5,
+      "rank": 7
     },
     {
       "team": "St. Louis CITY SC",
@@ -102,7 +116,7 @@
       "points": 51,
       "group": "Western Conference",
       "sourceRank": 3,
-      "rank": 7
+      "rank": 8
     },
     {
       "team": "Houston Dynamo FC",
@@ -116,20 +130,6 @@
       "points": 51,
       "group": "Western Conference",
       "sourceRank": 4,
-      "rank": 8
-    },
-    {
-      "team": "Charlotte FC",
-      "played": 32,
-      "wins": 14,
-      "draws": 8,
-      "losses": 10,
-      "goalsFor": 59,
-      "goalsAgainst": 48,
-      "goalDifference": 11,
-      "points": 50,
-      "group": "Eastern Conference",
-      "sourceRank": 5,
       "rank": 9
     },
     {
@@ -218,13 +218,13 @@
     },
     {
       "team": "Orlando City SC",
-      "played": 32,
+      "played": 33,
       "wins": 12,
       "draws": 7,
-      "losses": 13,
+      "losses": 14,
       "goalsFor": 62,
-      "goalsAgainst": 74,
-      "goalDifference": -12,
+      "goalsAgainst": 78,
+      "goalDifference": -16,
       "points": 43,
       "group": "Eastern Conference",
       "sourceRank": 7,
