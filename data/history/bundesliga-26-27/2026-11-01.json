@@ -1,7 +1,7 @@
 {
   "leagueId": "bundesliga-26-27",
   "date": "2026-11-01",
-  "fetchedAt": "2026-11-01T14:53:20Z",
+  "fetchedAt": "2026-11-01T20:23:39Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -105,6 +105,20 @@
       "rank": 7
     },
     {
+      "team": "Eintracht Frankfurt",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "goalsFor": 13,
+      "goalsAgainst": 18,
+      "goalDifference": -5,
+      "points": 11,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
       "team": "Mainz",
       "played": 8,
       "wins": 3,
@@ -115,8 +129,8 @@
       "goalDifference": 0,
       "points": 10,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "FC Augsburg",
@@ -129,8 +143,8 @@
       "goalDifference": 3,
       "points": 9,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "VfB Stuttgart",
@@ -143,8 +157,8 @@
       "goalDifference": -1,
       "points": 9,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "TSG Hoffenheim",
@@ -157,8 +171,22 @@
       "goalDifference": -2,
       "points": 9,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
+    },
+    {
+      "team": "FC Cologne",
+      "played": 8,
+      "wins": 2,
+      "draws": 3,
+      "losses": 3,
+      "goalsFor": 9,
+      "goalsAgainst": 12,
+      "goalDifference": -3,
+      "points": 9,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "SC Paderborn 07",
@@ -171,50 +199,36 @@
       "goalDifference": -3,
       "points": 9,
       "group": "2026-27 German Bundesliga",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Hamburg SV",
-      "played": 7,
-      "wins": 3,
-      "draws": 0,
-      "losses": 4,
-      "goalsFor": 6,
-      "goalsAgainst": 16,
-      "goalDifference": -10,
-      "points": 9,
-      "group": "2026-27 German Bundesliga",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "FC Cologne",
-      "played": 7,
-      "wins": 2,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 8,
-      "goalsAgainst": 11,
-      "goalDifference": -3,
-      "points": 8,
-      "group": "2026-27 German Bundesliga",
       "sourceRank": 14,
       "rank": 14
     },
     {
-      "team": "Eintracht Frankfurt",
-      "played": 7,
-      "wins": 2,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 10,
-      "goalsAgainst": 17,
-      "goalDifference": -7,
-      "points": 8,
+      "team": "Hamburg SV",
+      "played": 8,
+      "wins": 3,
+      "draws": 0,
+      "losses": 5,
+      "goalsFor": 7,
+      "goalsAgainst": 19,
+      "goalDifference": -12,
+      "points": 9,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 15,
       "rank": 15
+    },
+    {
+      "team": "1. FC Union Berlin",
+      "played": 8,
+      "wins": 1,
+      "draws": 4,
+      "losses": 3,
+      "goalsFor": 7,
+      "goalsAgainst": 19,
+      "goalDifference": -12,
+      "points": 7,
+      "group": "2026-27 German Bundesliga",
+      "sourceRank": 16,
+      "rank": 16
     },
     {
       "team": "Schalke 04",
@@ -225,20 +239,6 @@
       "goalsFor": 4,
       "goalsAgainst": 9,
       "goalDifference": -5,
-      "points": 6,
-      "group": "2026-27 German Bundesliga",
-      "sourceRank": 16,
-      "rank": 16
-    },
-    {
-      "team": "1. FC Union Berlin",
-      "played": 7,
-      "wins": 1,
-      "draws": 3,
-      "losses": 3,
-      "goalsFor": 6,
-      "goalsAgainst": 18,
-      "goalDifference": -12,
       "points": 6,
       "group": "2026-27 German Bundesliga",
       "sourceRank": 17,
