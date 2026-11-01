@@ -1,25 +1,11 @@
 {
   "leagueId": "serie-a-26-27",
-  "date": "2026-10-31",
-  "fetchedAt": "2026-10-31T19:50:53Z",
+  "date": "2026-11-01",
+  "fetchedAt": "2026-11-01T05:33:07Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
-    {
-      "team": "Internazionale",
-      "played": 9,
-      "wins": 8,
-      "draws": 1,
-      "losses": 0,
-      "goalsFor": 25,
-      "goalsAgainst": 10,
-      "goalDifference": 15,
-      "points": 25,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 1,
-      "rank": 1
-    },
     {
       "team": "Lazio",
       "played": 9,
@@ -29,6 +15,20 @@
       "goalsFor": 22,
       "goalsAgainst": 7,
       "goalDifference": 15,
+      "points": 25,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "Internazionale",
+      "played": 10,
+      "wins": 8,
+      "draws": 1,
+      "losses": 1,
+      "goalsFor": 26,
+      "goalsAgainst": 13,
+      "goalDifference": 13,
       "points": 25,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 2,
@@ -49,6 +49,20 @@
       "rank": 3
     },
     {
+      "team": "AC Milan",
+      "played": 10,
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "goalsFor": 21,
+      "goalsAgainst": 12,
+      "goalDifference": 9,
+      "points": 21,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
       "team": "Como",
       "played": 9,
       "wins": 6,
@@ -58,20 +72,6 @@
       "goalsAgainst": 8,
       "goalDifference": 9,
       "points": 20,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 4,
-      "rank": 4
-    },
-    {
-      "team": "AC Milan",
-      "played": 9,
-      "wins": 5,
-      "draws": 3,
-      "losses": 1,
-      "goalsFor": 18,
-      "goalsAgainst": 11,
-      "goalDifference": 7,
-      "points": 18,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 5,
       "rank": 5

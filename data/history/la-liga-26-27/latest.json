@@ -1,11 +1,25 @@
 {
   "leagueId": "la-liga-26-27",
-  "date": "2026-10-31",
-  "fetchedAt": "2026-10-31T19:50:53Z",
+  "date": "2026-11-01",
+  "fetchedAt": "2026-11-01T05:33:07Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
+    {
+      "team": "Barcelona",
+      "played": 11,
+      "wins": 10,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 46,
+      "goalsAgainst": 12,
+      "goalDifference": 34,
+      "points": 30,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Atlético Madrid",
       "played": 11,
@@ -16,20 +30,6 @@
       "goalsAgainst": 8,
       "goalDifference": 14,
       "points": 28,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 1,
-      "rank": 1
-    },
-    {
-      "team": "Barcelona",
-      "played": 10,
-      "wins": 9,
-      "draws": 0,
-      "losses": 1,
-      "goalsFor": 40,
-      "goalsAgainst": 11,
-      "goalDifference": 29,
-      "points": 27,
       "group": "2026-27 LALIGA",
       "sourceRank": 2,
       "rank": 2
@@ -91,20 +91,6 @@
       "rank": 6
     },
     {
-      "team": "Alavés",
-      "played": 10,
-      "wins": 3,
-      "draws": 3,
-      "losses": 4,
-      "goalsFor": 14,
-      "goalsAgainst": 11,
-      "goalDifference": 3,
-      "points": 12,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 7,
-      "rank": 7
-    },
-    {
       "team": "Athletic Club",
       "played": 9,
       "wins": 3,
@@ -115,8 +101,8 @@
       "goalDifference": 3,
       "points": 12,
       "group": "2026-27 LALIGA",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 7,
+      "rank": 7
     },
     {
       "team": "Villarreal",
@@ -129,8 +115,8 @@
       "goalDifference": 0,
       "points": 12,
       "group": "2026-27 LALIGA",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 8,
+      "rank": 8
     },
     {
       "team": "Celta Vigo",
@@ -141,6 +127,20 @@
       "goalsFor": 10,
       "goalsAgainst": 10,
       "goalDifference": 0,
+      "points": 12,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
+      "team": "Alavés",
+      "played": 11,
+      "wins": 3,
+      "draws": 3,
+      "losses": 5,
+      "goalsFor": 15,
+      "goalsAgainst": 17,
+      "goalDifference": -2,
       "points": 12,
       "group": "2026-27 LALIGA",
       "sourceRank": 10,
