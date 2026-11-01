@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-11-01",
-  "fetchedAt": "2026-11-01T05:33:07Z",
+  "fetchedAt": "2026-11-01T14:53:20Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -49,6 +49,20 @@
       "rank": 3
     },
     {
+      "team": "Como",
+      "played": 10,
+      "wins": 7,
+      "draws": 2,
+      "losses": 1,
+      "goalsFor": 18,
+      "goalsAgainst": 8,
+      "goalDifference": 10,
+      "points": 23,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
       "team": "AC Milan",
       "played": 10,
       "wins": 6,
@@ -58,20 +72,6 @@
       "goalsAgainst": 12,
       "goalDifference": 9,
       "points": 21,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 4,
-      "rank": 4
-    },
-    {
-      "team": "Como",
-      "played": 9,
-      "wins": 6,
-      "draws": 2,
-      "losses": 1,
-      "goalsFor": 17,
-      "goalsAgainst": 8,
-      "goalDifference": 9,
-      "points": 20,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 5,
       "rank": 5
@@ -274,13 +274,13 @@
     },
     {
       "team": "Venezia",
-      "played": 9,
+      "played": 10,
       "wins": 1,
       "draws": 0,
-      "losses": 8,
+      "losses": 9,
       "goalsFor": 6,
-      "goalsAgainst": 19,
-      "goalDifference": -13,
+      "goalsAgainst": 20,
+      "goalDifference": -14,
       "points": 3,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 20,
