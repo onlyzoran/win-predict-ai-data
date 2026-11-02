@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:23:42Z",
+  "updatedAt": "2026-11-02T05:30:17Z",
   "contests": {
     "bundesliga-26-27": {
       "title": "Bundesliga",
@@ -380,9 +380,9 @@
       "hasFacts": true,
       "factsGrain": "matchday",
       "facts": {
-        "count": 40,
+        "count": 41,
         "first": "2026-07-24",
-        "last": "2026-11-01",
+        "last": "2026-11-02",
         "latestTour": 13,
         "latestFile": "rpl-26-27/facts/latest.json",
         "indexFile": "rpl-26-27/facts/index.json"

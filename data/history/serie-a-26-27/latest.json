@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
-  "date": "2026-11-01",
-  "fetchedAt": "2026-11-01T20:23:39Z",
+  "date": "2026-11-02",
+  "fetchedAt": "2026-11-02T05:30:13Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -91,18 +91,32 @@
       "rank": 6
     },
     {
-      "team": "Napoli",
-      "played": 9,
-      "wins": 4,
+      "team": "Juventus",
+      "played": 10,
+      "wins": 5,
       "draws": 2,
       "losses": 3,
-      "goalsFor": 17,
-      "goalsAgainst": 11,
-      "goalDifference": 6,
-      "points": 14,
+      "goalsFor": 13,
+      "goalsAgainst": 10,
+      "goalDifference": 3,
+      "points": 17,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 7,
       "rank": 7
+    },
+    {
+      "team": "Napoli",
+      "played": 10,
+      "wins": 4,
+      "draws": 2,
+      "losses": 4,
+      "goalsFor": 17,
+      "goalsAgainst": 13,
+      "goalDifference": 4,
+      "points": 14,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 8,
+      "rank": 8
     },
     {
       "team": "Bologna",
@@ -116,20 +130,6 @@
       "points": 14,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 9,
-      "rank": 8
-    },
-    {
-      "team": "Juventus",
-      "played": 9,
-      "wins": 4,
-      "draws": 2,
-      "losses": 3,
-      "goalsFor": 11,
-      "goalsAgainst": 10,
-      "goalDifference": 1,
-      "points": 14,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 8,
       "rank": 9
     },
     {
