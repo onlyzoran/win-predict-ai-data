@@ -2,11 +2,23 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-11-02",
-  "fetchedAt": "2026-11-02T05:30:14Z",
+  "fetchedAt": "2026-11-02T18:05:47Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
+    {
+      "participantId": "zenit-st-petersburg",
+      "played": 13,
+      "wins": 10,
+      "draws": 0,
+      "losses": 3,
+      "goalsFor": 30,
+      "goalsAgainst": 13,
+      "goalDifference": 17,
+      "points": 30,
+      "rank": 1
+    },
     {
       "participantId": "dinamo-moscow",
       "played": 13,
@@ -17,18 +29,6 @@
       "goalsAgainst": 12,
       "goalDifference": 9,
       "points": 28,
-      "rank": 1
-    },
-    {
-      "participantId": "zenit-st-petersburg",
-      "played": 12,
-      "wins": 9,
-      "draws": 0,
-      "losses": 3,
-      "goalsFor": 27,
-      "goalsAgainst": 13,
-      "goalDifference": 14,
-      "points": 27,
       "rank": 2
     },
     {
@@ -105,13 +105,13 @@
     },
     {
       "participantId": "krylia-sovetov",
-      "played": 12,
+      "played": 13,
       "wins": 3,
       "draws": 6,
-      "losses": 3,
+      "losses": 4,
       "goalsFor": 17,
-      "goalsAgainst": 17,
-      "goalDifference": 0,
+      "goalsAgainst": 20,
+      "goalDifference": -3,
       "points": 15,
       "rank": 9
     },
@@ -201,5 +201,5 @@
     }
   ],
   "tour": 13,
-  "tourStatus": "in_progress"
+  "tourStatus": "final"
 }
