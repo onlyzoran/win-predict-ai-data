@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
-  "date": "2026-11-02",
-  "fetchedAt": "2026-11-02T18:05:46Z",
+  "date": "2026-11-03",
+  "fetchedAt": "2026-11-03T06:10:34Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -91,6 +91,20 @@
       "rank": 6
     },
     {
+      "team": "Everton",
+      "played": 9,
+      "wins": 3,
+      "draws": 4,
+      "losses": 2,
+      "goalsFor": 9,
+      "goalsAgainst": 9,
+      "goalDifference": 0,
+      "points": 13,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 7,
+      "rank": 7
+    },
+    {
       "team": "AFC Bournemouth",
       "played": 9,
       "wins": 3,
@@ -101,8 +115,8 @@
       "goalDifference": 1,
       "points": 12,
       "group": "2026-27 English Premier League",
-      "sourceRank": 7,
-      "rank": 7
+      "sourceRank": 8,
+      "rank": 8
     },
     {
       "team": "Tottenham Hotspur",
@@ -115,8 +129,8 @@
       "goalDifference": 0,
       "points": 12,
       "group": "2026-27 English Premier League",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "Aston Villa",
@@ -129,8 +143,8 @@
       "goalDifference": -3,
       "points": 12,
       "group": "2026-27 English Premier League",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Hull City",
@@ -143,8 +157,8 @@
       "goalDifference": 1,
       "points": 11,
       "group": "2026-27 English Premier League",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Leeds United",
@@ -157,22 +171,22 @@
       "goalDifference": 1,
       "points": 11,
       "group": "2026-27 English Premier League",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Newcastle United",
-      "played": 8,
+      "played": 9,
       "wins": 3,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "goalsFor": 12,
-      "goalsAgainst": 14,
-      "goalDifference": -2,
+      "goalsAgainst": 15,
+      "goalDifference": -3,
       "points": 11,
       "group": "2026-27 English Premier League",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Ipswich Town",
@@ -184,20 +198,6 @@
       "goalsAgainst": 18,
       "goalDifference": -4,
       "points": 11,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "Everton",
-      "played": 8,
-      "wins": 2,
-      "draws": 4,
-      "losses": 2,
-      "goalsFor": 8,
-      "goalsAgainst": 9,
-      "goalDifference": -1,
-      "points": 10,
       "group": "2026-27 English Premier League",
       "sourceRank": 14,
       "rank": 14
