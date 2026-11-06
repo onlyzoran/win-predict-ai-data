@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
-  "date": "2026-11-05",
-  "fetchedAt": "2026-11-05T16:20:43Z",
+  "date": "2026-11-06",
+  "fetchedAt": "2026-11-06T06:01:48Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -106,10 +106,10 @@
       "rank": 9
     },
     {
-      "team": "Minnesota Timberwolves",
+      "team": "Golden State Warriors",
       "wins": 6,
       "losses": 3,
-      "goalDifference": 101,
+      "goalDifference": 43,
       "winPercent": 0.6666667,
       "playoffSeed": 7,
       "group": "Western Conference",
@@ -117,11 +117,11 @@
       "rank": 10
     },
     {
-      "team": "Golden State Warriors",
-      "wins": 5,
+      "team": "Minnesota Timberwolves",
+      "wins": 6,
       "losses": 3,
-      "goalDifference": 23,
-      "winPercent": 0.625,
+      "goalDifference": 101,
+      "winPercent": 0.6666667,
       "playoffSeed": 8,
       "group": "Western Conference",
       "sourceRank": 8,
@@ -216,21 +216,21 @@
       "rank": 19
     },
     {
-      "team": "Miami Heat",
+      "team": "Charlotte Hornets",
       "wins": 3,
-      "losses": 5,
-      "goalDifference": -39,
-      "winPercent": 0.375,
+      "losses": 6,
+      "goalDifference": -100,
+      "winPercent": 0.33333334,
       "playoffSeed": 9,
       "group": "Eastern Conference",
       "sourceRank": 9,
       "rank": 20
     },
     {
-      "team": "Charlotte Hornets",
+      "team": "Miami Heat",
       "wins": 3,
       "losses": 6,
-      "goalDifference": -100,
+      "goalDifference": -59,
       "winPercent": 0.33333334,
       "playoffSeed": 10,
       "group": "Eastern Conference",
@@ -249,15 +249,26 @@
       "rank": 22
     },
     {
-      "team": "Orlando Magic",
+      "team": "Phoenix Suns",
       "wins": 2,
       "losses": 5,
-      "goalDifference": -63,
+      "goalDifference": -53,
       "winPercent": 0.2857143,
+      "playoffSeed": 12,
+      "group": "Western Conference",
+      "sourceRank": 12,
+      "rank": 23
+    },
+    {
+      "team": "Orlando Magic",
+      "wins": 2,
+      "losses": 6,
+      "goalDifference": -76,
+      "winPercent": 0.25,
       "playoffSeed": 12,
       "group": "Eastern Conference",
       "sourceRank": 12,
-      "rank": 23
+      "rank": 24
     },
     {
       "team": "Brooklyn Nets",
@@ -268,17 +279,6 @@
       "playoffSeed": 13,
       "group": "Eastern Conference",
       "sourceRank": 13,
-      "rank": 24
-    },
-    {
-      "team": "Phoenix Suns",
-      "wins": 1,
-      "losses": 5,
-      "goalDifference": -66,
-      "winPercent": 0.16666667,
-      "playoffSeed": 12,
-      "group": "Western Conference",
-      "sourceRank": 12,
       "rank": 25
     },
     {

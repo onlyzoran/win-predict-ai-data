@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-11-05",
-  "fetchedAt": "2026-11-05T16:20:44Z",
+  "date": "2026-11-06",
+  "fetchedAt": "2026-11-06T06:01:48Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -59,6 +59,19 @@
       "rank": 4
     },
     {
+      "team": "Jacksonville Jaguars",
+      "wins": 6,
+      "losses": 2,
+      "goalsFor": 229,
+      "goalsAgainst": 121,
+      "goalDifference": 108,
+      "winPercent": 0.75,
+      "playoffSeed": 3,
+      "group": "American Football Conference",
+      "sourceRank": 3,
+      "rank": 5
+    },
+    {
       "team": "Pittsburgh Steelers",
       "wins": 6,
       "losses": 2,
@@ -66,10 +79,10 @@
       "goalsAgainst": 144,
       "goalDifference": 36,
       "winPercent": 0.75,
-      "playoffSeed": 3,
+      "playoffSeed": 4,
       "group": "American Football Conference",
-      "sourceRank": 3,
-      "rank": 5
+      "sourceRank": 4,
+      "rank": 6
     },
     {
       "team": "Chicago Bears",
@@ -82,19 +95,6 @@
       "playoffSeed": 5,
       "group": "National Football Conference",
       "sourceRank": 5,
-      "rank": 6
-    },
-    {
-      "team": "Jacksonville Jaguars",
-      "wins": 5,
-      "losses": 2,
-      "goalsFor": 196,
-      "goalsAgainst": 111,
-      "goalDifference": 85,
-      "winPercent": 0.71428573,
-      "playoffSeed": 4,
-      "group": "American Football Conference",
-      "sourceRank": 4,
       "rank": 7
     },
     {
@@ -202,19 +202,6 @@
       "rank": 15
     },
     {
-      "team": "Baltimore Ravens",
-      "wins": 4,
-      "losses": 4,
-      "goalsFor": 179,
-      "goalsAgainst": 203,
-      "goalDifference": -24,
-      "winPercent": 0.5,
-      "playoffSeed": 10,
-      "group": "American Football Conference",
-      "sourceRank": 10,
-      "rank": 16
-    },
-    {
       "team": "Seattle Seahawks",
       "wins": 4,
       "losses": 4,
@@ -225,7 +212,7 @@
       "playoffSeed": 8,
       "group": "National Football Conference",
       "sourceRank": 8,
-      "rank": 17
+      "rank": 16
     },
     {
       "team": "Los Angeles Rams",
@@ -238,6 +225,19 @@
       "playoffSeed": 9,
       "group": "National Football Conference",
       "sourceRank": 9,
+      "rank": 17
+    },
+    {
+      "team": "Baltimore Ravens",
+      "wins": 4,
+      "losses": 5,
+      "goalsFor": 189,
+      "goalsAgainst": 236,
+      "goalDifference": -47,
+      "winPercent": 0.44444445,
+      "playoffSeed": 10,
+      "group": "American Football Conference",
+      "sourceRank": 10,
       "rank": 18
     },
     {
