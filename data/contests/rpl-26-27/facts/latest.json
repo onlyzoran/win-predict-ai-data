@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-11-02",
-  "fetchedAt": "2026-11-06T15:49:19Z",
+  "date": "2026-11-06",
+  "fetchedAt": "2026-11-06T21:24:24Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -80,6 +80,18 @@
       "rank": 6
     },
     {
+      "participantId": "rubin-kazan",
+      "played": 14,
+      "wins": 4,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 14,
+      "goalsAgainst": 18,
+      "goalDifference": -4,
+      "points": 18,
+      "rank": 7
+    },
+    {
       "participantId": "fc-baltika-kaliningrad",
       "played": 13,
       "wins": 4,
@@ -89,7 +101,7 @@
       "goalsAgainst": 14,
       "goalDifference": 3,
       "points": 17,
-      "rank": 7
+      "rank": 8
     },
     {
       "participantId": "gazovik-orenburg",
@@ -101,7 +113,7 @@
       "goalsAgainst": 12,
       "goalDifference": 2,
       "points": 17,
-      "rank": 8
+      "rank": 9
     },
     {
       "participantId": "krylia-sovetov",
@@ -112,18 +124,6 @@
       "goalsFor": 17,
       "goalsAgainst": 20,
       "goalDifference": -3,
-      "points": 15,
-      "rank": 9
-    },
-    {
-      "participantId": "rubin-kazan",
-      "played": 13,
-      "wins": 3,
-      "draws": 6,
-      "losses": 4,
-      "goalsFor": 13,
-      "goalsAgainst": 18,
-      "goalDifference": -5,
       "points": 15,
       "rank": 10
     },
@@ -164,18 +164,6 @@
       "rank": 13
     },
     {
-      "participantId": "lokomotiv-moscow",
-      "played": 13,
-      "wins": 2,
-      "draws": 5,
-      "losses": 6,
-      "goalsFor": 16,
-      "goalsAgainst": 20,
-      "goalDifference": -4,
-      "points": 11,
-      "rank": 14
-    },
-    {
       "participantId": "akhmat-grozny",
       "played": 13,
       "wins": 2,
@@ -184,6 +172,18 @@
       "goalsFor": 15,
       "goalsAgainst": 19,
       "goalDifference": -4,
+      "points": 11,
+      "rank": 14
+    },
+    {
+      "participantId": "lokomotiv-moscow",
+      "played": 14,
+      "wins": 2,
+      "draws": 5,
+      "losses": 7,
+      "goalsFor": 16,
+      "goalsAgainst": 21,
+      "goalDifference": -5,
       "points": 11,
       "rank": 15
     },
@@ -200,6 +200,6 @@
       "rank": 16
     }
   ],
-  "tour": 13,
-  "tourStatus": "final"
+  "tour": 14,
+  "tourStatus": "in_progress"
 }
