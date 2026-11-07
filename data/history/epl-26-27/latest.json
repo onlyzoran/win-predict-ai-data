@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
-  "date": "2026-11-06",
-  "fetchedAt": "2026-11-06T21:24:24Z",
+  "date": "2026-11-07",
+  "fetchedAt": "2026-11-07T05:33:44Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -63,6 +63,20 @@
       "rank": 4
     },
     {
+      "team": "Everton",
+      "played": 10,
+      "wins": 4,
+      "draws": 4,
+      "losses": 2,
+      "goalsFor": 12,
+      "goalsAgainst": 10,
+      "goalDifference": 2,
+      "points": 16,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 5,
+      "rank": 5
+    },
+    {
       "team": "Liverpool",
       "played": 9,
       "wins": 4,
@@ -73,8 +87,8 @@
       "goalDifference": 2,
       "points": 15,
       "group": "2026-27 English Premier League",
-      "sourceRank": 5,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "Brentford",
@@ -86,20 +100,6 @@
       "goalsAgainst": 9,
       "goalDifference": 7,
       "points": 14,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 6,
-      "rank": 6
-    },
-    {
-      "team": "Everton",
-      "played": 9,
-      "wins": 3,
-      "draws": 4,
-      "losses": 2,
-      "goalsFor": 9,
-      "goalsAgainst": 9,
-      "goalDifference": 0,
-      "points": 13,
       "group": "2026-27 English Premier League",
       "sourceRank": 7,
       "rank": 7
@@ -218,13 +218,13 @@
     },
     {
       "team": "Coventry City",
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 0,
-      "losses": 6,
-      "goalsFor": 9,
-      "goalsAgainst": 16,
-      "goalDifference": -7,
+      "losses": 7,
+      "goalsFor": 10,
+      "goalsAgainst": 19,
+      "goalDifference": -9,
       "points": 9,
       "group": "2026-27 English Premier League",
       "sourceRank": 16,

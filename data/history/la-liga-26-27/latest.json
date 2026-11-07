@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
-  "date": "2026-11-06",
-  "fetchedAt": "2026-11-06T21:24:24Z",
+  "date": "2026-11-07",
+  "fetchedAt": "2026-11-07T05:33:44Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -78,14 +78,14 @@
     },
     {
       "team": "Sevilla",
-      "played": 11,
+      "played": 12,
       "wins": 5,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
       "goalsFor": 17,
       "goalsAgainst": 19,
       "goalDifference": -2,
-      "points": 17,
+      "points": 18,
       "group": "2026-27 LALIGA",
       "sourceRank": 6,
       "rank": 6
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Alavés",
+      "played": 12,
+      "wins": 3,
+      "draws": 4,
+      "losses": 5,
+      "goalsFor": 15,
+      "goalsAgainst": 17,
+      "goalDifference": -2,
+      "points": 13,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Villarreal",
       "played": 11,
       "wins": 3,
@@ -129,8 +143,8 @@
       "goalDifference": 0,
       "points": 12,
       "group": "2026-27 LALIGA",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Celta Vigo",
@@ -141,20 +155,6 @@
       "goalsFor": 10,
       "goalsAgainst": 10,
       "goalDifference": 0,
-      "points": 12,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 10,
-      "rank": 10
-    },
-    {
-      "team": "Alavés",
-      "played": 11,
-      "wins": 3,
-      "draws": 3,
-      "losses": 5,
-      "goalsFor": 15,
-      "goalsAgainst": 17,
-      "goalDifference": -2,
       "points": 12,
       "group": "2026-27 LALIGA",
       "sourceRank": 11,

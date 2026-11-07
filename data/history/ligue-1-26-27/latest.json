@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
-  "date": "2026-11-06",
-  "fetchedAt": "2026-11-06T21:24:24Z",
+  "date": "2026-11-07",
+  "fetchedAt": "2026-11-07T05:33:44Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -133,6 +133,20 @@
       "rank": 9
     },
     {
+      "team": "Toulouse",
+      "played": 10,
+      "wins": 3,
+      "draws": 4,
+      "losses": 3,
+      "goalsFor": 15,
+      "goalsAgainst": 14,
+      "goalDifference": 1,
+      "points": 13,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 10,
+      "rank": 10
+    },
+    {
       "team": "Brest",
       "played": 9,
       "wins": 3,
@@ -143,8 +157,8 @@
       "goalDifference": 4,
       "points": 12,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Lorient",
@@ -157,32 +171,18 @@
       "goalDifference": -1,
       "points": 12,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 11,
-      "rank": 11
-    },
-    {
-      "team": "Toulouse",
-      "played": 9,
-      "wins": 2,
-      "draws": 4,
-      "losses": 3,
-      "goalsFor": 12,
-      "goalsAgainst": 13,
-      "goalDifference": -1,
-      "points": 10,
-      "group": "French Ligue 1 2026-27",
       "sourceRank": 12,
       "rank": 12
     },
     {
       "team": "Strasbourg",
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 1,
-      "losses": 5,
-      "goalsFor": 17,
-      "goalsAgainst": 19,
-      "goalDifference": -2,
+      "losses": 6,
+      "goalsFor": 18,
+      "goalsAgainst": 22,
+      "goalDifference": -4,
       "points": 10,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 13,
