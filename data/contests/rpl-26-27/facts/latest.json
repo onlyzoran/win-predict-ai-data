@@ -2,11 +2,23 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-11-07",
-  "fetchedAt": "2026-11-07T05:33:44Z",
+  "fetchedAt": "2026-11-07T14:48:52Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
+    {
+      "participantId": "dinamo-moscow",
+      "played": 14,
+      "wins": 10,
+      "draws": 1,
+      "losses": 3,
+      "goalsFor": 23,
+      "goalsAgainst": 13,
+      "goalDifference": 10,
+      "points": 31,
+      "rank": 1
+    },
     {
       "participantId": "zenit-st-petersburg",
       "played": 13,
@@ -17,18 +29,6 @@
       "goalsAgainst": 13,
       "goalDifference": 17,
       "points": 30,
-      "rank": 1
-    },
-    {
-      "participantId": "dinamo-moscow",
-      "played": 13,
-      "wins": 9,
-      "draws": 1,
-      "losses": 3,
-      "goalsFor": 21,
-      "goalsAgainst": 12,
-      "goalDifference": 9,
-      "points": 28,
       "rank": 2
     },
     {
@@ -189,13 +189,13 @@
     },
     {
       "participantId": "fakel-voronezh",
-      "played": 13,
+      "played": 14,
       "wins": 1,
       "draws": 3,
-      "losses": 9,
-      "goalsFor": 8,
-      "goalsAgainst": 21,
-      "goalDifference": -13,
+      "losses": 10,
+      "goalsFor": 9,
+      "goalsAgainst": 23,
+      "goalDifference": -14,
       "points": 6,
       "rank": 16
     }

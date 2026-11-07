@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
   "date": "2026-11-07",
-  "fetchedAt": "2026-11-07T05:33:44Z",
+  "fetchedAt": "2026-11-07T14:48:52Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -105,6 +105,20 @@
       "rank": 7
     },
     {
+      "team": "Leeds United",
+      "played": 10,
+      "wins": 3,
+      "draws": 5,
+      "losses": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 8,
+      "goalDifference": 2,
+      "points": 14,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
       "team": "AFC Bournemouth",
       "played": 9,
       "wins": 3,
@@ -115,22 +129,22 @@
       "goalDifference": 1,
       "points": 12,
       "group": "2026-27 English Premier League",
-      "sourceRank": 8,
-      "rank": 8
+      "sourceRank": 9,
+      "rank": 9
     },
     {
       "team": "Tottenham Hotspur",
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "goalsFor": 10,
-      "goalsAgainst": 10,
-      "goalDifference": 0,
+      "goalsAgainst": 11,
+      "goalDifference": -1,
       "points": 12,
       "group": "2026-27 English Premier League",
-      "sourceRank": 9,
-      "rank": 9
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Aston Villa",
@@ -143,8 +157,8 @@
       "goalDifference": -3,
       "points": 12,
       "group": "2026-27 English Premier League",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Hull City",
@@ -154,20 +168,6 @@
       "losses": 2,
       "goalsFor": 11,
       "goalsAgainst": 10,
-      "goalDifference": 1,
-      "points": 11,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 11,
-      "rank": 11
-    },
-    {
-      "team": "Leeds United",
-      "played": 9,
-      "wins": 2,
-      "draws": 5,
-      "losses": 2,
-      "goalsFor": 9,
-      "goalsAgainst": 8,
       "goalDifference": 1,
       "points": 11,
       "group": "2026-27 English Premier League",

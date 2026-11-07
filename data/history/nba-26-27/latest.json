@@ -1,22 +1,11 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-11-07",
-  "fetchedAt": "2026-11-07T05:33:45Z",
+  "fetchedAt": "2026-11-07T14:48:53Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
   "standings": [
-    {
-      "team": "Portland Trail Blazers",
-      "wins": 6,
-      "losses": 1,
-      "goalDifference": 78,
-      "winPercent": 0.85714287,
-      "playoffSeed": 1,
-      "group": "Western Conference",
-      "sourceRank": 1,
-      "rank": 1
-    },
     {
       "team": "Philadelphia 76ers",
       "wins": 8,
@@ -25,6 +14,17 @@
       "winPercent": 0.8,
       "playoffSeed": 1,
       "group": "Eastern Conference",
+      "sourceRank": 1,
+      "rank": 1
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "wins": 8,
+      "losses": 2,
+      "goalDifference": 77,
+      "winPercent": 0.8,
+      "playoffSeed": 1,
+      "group": "Western Conference",
       "sourceRank": 1,
       "rank": 2
     },
@@ -40,10 +40,10 @@
       "rank": 3
     },
     {
-      "team": "Los Angeles Lakers",
+      "team": "Houston Rockets",
       "wins": 7,
       "losses": 2,
-      "goalDifference": 71,
+      "goalDifference": 93,
       "winPercent": 0.7777778,
       "playoffSeed": 2,
       "group": "Western Conference",
@@ -51,10 +51,10 @@
       "rank": 4
     },
     {
-      "team": "Houston Rockets",
+      "team": "Oklahoma City Thunder",
       "wins": 7,
       "losses": 2,
-      "goalDifference": 93,
+      "goalDifference": 41,
       "winPercent": 0.7777778,
       "playoffSeed": 3,
       "group": "Western Conference",
@@ -62,10 +62,10 @@
       "rank": 5
     },
     {
-      "team": "Oklahoma City Thunder",
+      "team": "San Antonio Spurs",
       "wins": 7,
       "losses": 2,
-      "goalDifference": 41,
+      "goalDifference": 81,
       "winPercent": 0.7777778,
       "playoffSeed": 4,
       "group": "Western Conference",
@@ -84,10 +84,10 @@
       "rank": 7
     },
     {
-      "team": "San Antonio Spurs",
+      "team": "Portland Trail Blazers",
       "wins": 6,
       "losses": 2,
-      "goalDifference": 66,
+      "goalDifference": 72,
       "winPercent": 0.75,
       "playoffSeed": 5,
       "group": "Western Conference",
@@ -304,17 +304,6 @@
       "rank": 27
     },
     {
-      "team": "Sacramento Kings",
-      "wins": 1,
-      "losses": 7,
-      "goalDifference": -112,
-      "winPercent": 0.125,
-      "playoffSeed": 14,
-      "group": "Western Conference",
-      "sourceRank": 14,
-      "rank": 28
-    },
-    {
       "team": "Milwaukee Bucks",
       "wins": 1,
       "losses": 8,
@@ -323,13 +312,24 @@
       "playoffSeed": 15,
       "group": "Eastern Conference",
       "sourceRank": 15,
-      "rank": 29
+      "rank": 28
     },
     {
       "team": "Utah Jazz",
       "wins": 1,
       "losses": 8,
       "goalDifference": -102,
+      "winPercent": 0.11111111,
+      "playoffSeed": 14,
+      "group": "Western Conference",
+      "sourceRank": 14,
+      "rank": 29
+    },
+    {
+      "team": "Sacramento Kings",
+      "wins": 1,
+      "losses": 8,
+      "goalDifference": -127,
       "winPercent": 0.11111111,
       "playoffSeed": 15,
       "group": "Western Conference",
