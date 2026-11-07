@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
   "date": "2026-11-07",
-  "fetchedAt": "2026-11-07T14:48:52Z",
+  "fetchedAt": "2026-11-07T20:04:20Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -21,6 +21,20 @@
       "rank": 1
     },
     {
+      "team": "Paris FC",
+      "played": 10,
+      "wins": 6,
+      "draws": 2,
+      "losses": 2,
+      "goalsFor": 17,
+      "goalsAgainst": 10,
+      "goalDifference": 7,
+      "points": 20,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
       "team": "Lille",
       "played": 9,
       "wins": 5,
@@ -31,8 +45,8 @@
       "goalDifference": 6,
       "points": 18,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 2,
-      "rank": 2
+      "sourceRank": 3,
+      "rank": 3
     },
     {
       "team": "Lyon",
@@ -43,20 +57,6 @@
       "goalsFor": 15,
       "goalsAgainst": 7,
       "goalDifference": 8,
-      "points": 17,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 3,
-      "rank": 3
-    },
-    {
-      "team": "Paris FC",
-      "played": 9,
-      "wins": 5,
-      "draws": 2,
-      "losses": 2,
-      "goalsFor": 16,
-      "goalsAgainst": 10,
-      "goalDifference": 6,
       "points": 17,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 4,
@@ -190,13 +190,13 @@
     },
     {
       "team": "AJ Auxerre",
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 1,
-      "losses": 5,
+      "losses": 6,
       "goalsFor": 13,
-      "goalsAgainst": 23,
-      "goalDifference": -10,
+      "goalsAgainst": 24,
+      "goalDifference": -11,
       "points": 10,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 14,
