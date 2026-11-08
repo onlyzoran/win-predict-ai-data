@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T05:35:23Z",
+  "fetchedAt": "2026-11-08T14:55:30Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -18,10 +18,10 @@
       "rank": 1
     },
     {
-      "team": "Los Angeles Lakers",
+      "team": "Oklahoma City Thunder",
       "wins": 8,
       "losses": 2,
-      "goalDifference": 77,
+      "goalDifference": 80,
       "winPercent": 0.8,
       "playoffSeed": 1,
       "group": "Western Conference",
@@ -29,15 +29,26 @@
       "rank": 2
     },
     {
-      "team": "Oklahoma City Thunder",
+      "team": "San Antonio Spurs",
       "wins": 8,
       "losses": 2,
-      "goalDifference": 80,
+      "goalDifference": 103,
       "winPercent": 0.8,
       "playoffSeed": 2,
       "group": "Western Conference",
       "sourceRank": 2,
       "rank": 3
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "wins": 8,
+      "losses": 2,
+      "goalDifference": 77,
+      "winPercent": 0.8,
+      "playoffSeed": 3,
+      "group": "Western Conference",
+      "sourceRank": 3,
+      "rank": 4
     },
     {
       "team": "Boston Celtics",
@@ -48,17 +59,6 @@
       "playoffSeed": 2,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 4
-    },
-    {
-      "team": "San Antonio Spurs",
-      "wins": 7,
-      "losses": 2,
-      "goalDifference": 81,
-      "winPercent": 0.7777778,
-      "playoffSeed": 3,
-      "group": "Western Conference",
-      "sourceRank": 3,
       "rank": 5
     },
     {
@@ -73,26 +73,15 @@
       "rank": 6
     },
     {
-      "team": "Portland Trail Blazers",
-      "wins": 6,
-      "losses": 2,
-      "goalDifference": 72,
-      "winPercent": 0.75,
-      "playoffSeed": 4,
-      "group": "Western Conference",
-      "sourceRank": 4,
-      "rank": 7
-    },
-    {
       "team": "Golden State Warriors",
       "wins": 7,
       "losses": 3,
       "goalDifference": 50,
       "winPercent": 0.7,
-      "playoffSeed": 5,
+      "playoffSeed": 4,
       "group": "Western Conference",
-      "sourceRank": 5,
-      "rank": 8
+      "sourceRank": 4,
+      "rank": 7
     },
     {
       "team": "Minnesota Timberwolves",
@@ -100,10 +89,10 @@
       "losses": 3,
       "goalDifference": 107,
       "winPercent": 0.7,
-      "playoffSeed": 6,
+      "playoffSeed": 5,
       "group": "Western Conference",
-      "sourceRank": 6,
-      "rank": 9
+      "sourceRank": 5,
+      "rank": 8
     },
     {
       "team": "Houston Rockets",
@@ -111,16 +100,27 @@
       "losses": 3,
       "goalDifference": 90,
       "winPercent": 0.7,
-      "playoffSeed": 7,
+      "playoffSeed": 6,
       "group": "Western Conference",
-      "sourceRank": 7,
-      "rank": 10
+      "sourceRank": 6,
+      "rank": 9
     },
     {
       "team": "Memphis Grizzlies",
       "wins": 6,
       "losses": 3,
       "goalDifference": 55,
+      "winPercent": 0.6666667,
+      "playoffSeed": 7,
+      "group": "Western Conference",
+      "sourceRank": 7,
+      "rank": 10
+    },
+    {
+      "team": "Portland Trail Blazers",
+      "wins": 6,
+      "losses": 3,
+      "goalDifference": 50,
       "winPercent": 0.6666667,
       "playoffSeed": 8,
       "group": "Western Conference",

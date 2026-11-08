@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T05:35:23Z",
+  "fetchedAt": "2026-11-08T14:55:30Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -33,6 +33,19 @@
       "rank": 2
     },
     {
+      "team": "Edmonton Oilers",
+      "played": 18,
+      "wins": 12,
+      "losses": 3,
+      "otLosses": 3,
+      "goalDifference": 20,
+      "points": 27,
+      "playoffSeed": 2,
+      "group": "Western Conference",
+      "sourceRank": 2,
+      "rank": 3
+    },
+    {
       "team": "Boston Bruins",
       "played": 17,
       "wins": 12,
@@ -42,19 +55,6 @@
       "points": 25,
       "playoffSeed": 2,
       "group": "Eastern Conference",
-      "sourceRank": 2,
-      "rank": 3
-    },
-    {
-      "team": "Edmonton Oilers",
-      "played": 17,
-      "wins": 11,
-      "losses": 3,
-      "otLosses": 3,
-      "goalDifference": 18,
-      "points": 25,
-      "playoffSeed": 2,
-      "group": "Western Conference",
       "sourceRank": 2,
       "rank": 4
     },
@@ -411,11 +411,11 @@
     },
     {
       "team": "Vancouver Canucks",
-      "played": 18,
+      "played": 19,
       "wins": 3,
-      "losses": 14,
+      "losses": 15,
       "otLosses": 1,
-      "goalDifference": -30,
+      "goalDifference": -32,
       "points": 7,
       "playoffSeed": 16,
       "group": "Western Conference",
