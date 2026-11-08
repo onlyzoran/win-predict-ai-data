@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T14:55:30Z",
+  "fetchedAt": "2026-11-08T20:19:44Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -85,6 +85,19 @@
       "rank": 6
     },
     {
+      "team": "Cincinnati Bengals",
+      "wins": 6,
+      "losses": 2,
+      "goalsFor": 240,
+      "goalsAgainst": 175,
+      "goalDifference": 65,
+      "winPercent": 0.75,
+      "playoffSeed": 5,
+      "group": "American Football Conference",
+      "sourceRank": 5,
+      "rank": 7
+    },
+    {
       "team": "Chicago Bears",
       "wins": 6,
       "losses": 2,
@@ -95,7 +108,7 @@
       "playoffSeed": 5,
       "group": "National Football Conference",
       "sourceRank": 5,
-      "rank": 7
+      "rank": 8
     },
     {
       "team": "Kansas City Chiefs",
@@ -104,19 +117,6 @@
       "goalsFor": 167,
       "goalsAgainst": 131,
       "goalDifference": 36,
-      "winPercent": 0.71428573,
-      "playoffSeed": 5,
-      "group": "American Football Conference",
-      "sourceRank": 5,
-      "rank": 8
-    },
-    {
-      "team": "Cincinnati Bengals",
-      "wins": 5,
-      "losses": 2,
-      "goalsFor": 206,
-      "goalsAgainst": 158,
-      "goalDifference": 48,
       "winPercent": 0.71428573,
       "playoffSeed": 6,
       "group": "American Football Conference",
@@ -267,19 +267,6 @@
       "rank": 20
     },
     {
-      "team": "Atlanta Falcons",
-      "wins": 3,
-      "losses": 5,
-      "goalsFor": 171,
-      "goalsAgainst": 189,
-      "goalDifference": -18,
-      "winPercent": 0.375,
-      "playoffSeed": 11,
-      "group": "National Football Conference",
-      "sourceRank": 11,
-      "rank": 21
-    },
-    {
       "team": "Arizona Cardinals",
       "wins": 3,
       "losses": 5,
@@ -287,10 +274,10 @@
       "goalsAgainst": 238,
       "goalDifference": -63,
       "winPercent": 0.375,
-      "playoffSeed": 12,
+      "playoffSeed": 11,
       "group": "National Football Conference",
-      "sourceRank": 12,
-      "rank": 22
+      "sourceRank": 11,
+      "rank": 21
     },
     {
       "team": "Dallas Cowboys",
@@ -300,10 +287,10 @@
       "goalsAgainst": 213,
       "goalDifference": 6,
       "winPercent": 0.375,
-      "playoffSeed": 13,
+      "playoffSeed": 12,
       "group": "National Football Conference",
-      "sourceRank": 13,
-      "rank": 23
+      "sourceRank": 12,
+      "rank": 22
     },
     {
       "team": "Washington Commanders",
@@ -313,6 +300,19 @@
       "goalsAgainst": 182,
       "goalDifference": -23,
       "winPercent": 0.35714287,
+      "playoffSeed": 13,
+      "group": "National Football Conference",
+      "sourceRank": 13,
+      "rank": 23
+    },
+    {
+      "team": "Atlanta Falcons",
+      "wins": 3,
+      "losses": 6,
+      "goalsFor": 188,
+      "goalsAgainst": 223,
+      "goalDifference": -35,
+      "winPercent": 0.33333334,
       "playoffSeed": 14,
       "group": "National Football Conference",
       "sourceRank": 14,

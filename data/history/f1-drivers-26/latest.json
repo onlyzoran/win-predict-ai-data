@@ -1,70 +1,70 @@
 {
   "leagueId": "f1-drivers-26",
   "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T14:55:32Z",
+  "fetchedAt": "2026-11-08T20:19:46Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Kimi Antonelli",
-      "points": 380,
+      "points": 390,
       "group": "Driver Standings",
       "sourceRank": 1,
       "rank": 1
     },
     {
       "team": "Max Verstappen",
-      "points": 261,
+      "points": 279,
       "group": "Driver Standings",
       "sourceRank": 2,
       "rank": 2
     },
     {
-      "team": "Lewis Hamilton",
-      "points": 259,
+      "team": "George Russell",
+      "points": 262,
       "group": "Driver Standings",
       "sourceRank": 3,
       "rank": 3
     },
     {
-      "team": "George Russell",
-      "points": 250,
+      "team": "Lewis Hamilton",
+      "points": 261,
       "group": "Driver Standings",
       "sourceRank": 4,
       "rank": 4
     },
     {
       "team": "Charles Leclerc",
-      "points": 245,
+      "points": 251,
       "group": "Driver Standings",
       "sourceRank": 5,
       "rank": 5
     },
     {
       "team": "Lando Norris",
-      "points": 221,
+      "points": 246,
       "group": "Driver Standings",
       "sourceRank": 6,
       "rank": 6
     },
     {
       "team": "Oscar Piastri",
-      "points": 144,
+      "points": 152,
       "group": "Driver Standings",
       "sourceRank": 7,
       "rank": 7
     },
     {
       "team": "Isack Hadjar",
-      "points": 107,
+      "points": 122,
       "group": "Driver Standings",
       "sourceRank": 8,
       "rank": 8
     },
     {
       "team": "Liam Lawson",
-      "points": 83,
+      "points": 87,
       "group": "Driver Standings",
       "sourceRank": 9,
       "rank": 9
@@ -106,7 +106,7 @@
     },
     {
       "team": "Nico Hülkenberg",
-      "points": 13,
+      "points": 14,
       "group": "Driver Standings",
       "sourceRank": 15,
       "rank": 15
@@ -173,6 +173,13 @@
       "group": "Driver Standings",
       "sourceRank": 24,
       "rank": 24
+    },
+    {
+      "team": "Rafael Câmara",
+      "points": 0,
+      "group": "Driver Standings",
+      "sourceRank": 25,
+      "rank": 25
     }
   ]
 }
