@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
-  "date": "2026-11-07",
-  "fetchedAt": "2026-11-07T20:04:19Z",
+  "date": "2026-11-08",
+  "fetchedAt": "2026-11-08T05:35:22Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -21,6 +21,20 @@
       "rank": 1
     },
     {
+      "team": "AS Roma",
+      "played": 11,
+      "wins": 8,
+      "draws": 3,
+      "losses": 0,
+      "goalsFor": 31,
+      "goalsAgainst": 10,
+      "goalDifference": 21,
+      "points": 27,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 2,
+      "rank": 2
+    },
+    {
       "team": "Internazionale",
       "played": 10,
       "wins": 8,
@@ -30,20 +44,6 @@
       "goalsAgainst": 13,
       "goalDifference": 13,
       "points": 25,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 2,
-      "rank": 2
-    },
-    {
-      "team": "AS Roma",
-      "played": 10,
-      "wins": 7,
-      "draws": 3,
-      "losses": 0,
-      "goalsFor": 28,
-      "goalsAgainst": 10,
-      "goalDifference": 18,
-      "points": 24,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 3,
       "rank": 3
@@ -227,21 +227,21 @@
       "goalDifference": -8,
       "points": 8,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 17,
+      "sourceRank": 16,
       "rank": 16
     },
     {
       "team": "Sassuolo",
-      "played": 10,
+      "played": 11,
       "wins": 2,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 16,
-      "goalsAgainst": 26,
-      "goalDifference": -10,
+      "goalsAgainst": 29,
+      "goalDifference": -13,
       "points": 8,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 16,
+      "sourceRank": 17,
       "rank": 17
     },
     {
