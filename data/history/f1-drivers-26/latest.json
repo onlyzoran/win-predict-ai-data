@@ -1,7 +1,7 @@
 {
   "leagueId": "f1-drivers-26",
-  "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T20:19:46Z",
+  "date": "2026-11-09",
+  "fetchedAt": "2026-11-09T05:44:46Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -36,7 +36,7 @@
     },
     {
       "team": "Charles Leclerc",
-      "points": 251,
+      "points": 249,
       "group": "Driver Standings",
       "sourceRank": 5,
       "rank": 5
@@ -64,7 +64,7 @@
     },
     {
       "team": "Liam Lawson",
-      "points": 87,
+      "points": 89,
       "group": "Driver Standings",
       "sourceRank": 9,
       "rank": 9

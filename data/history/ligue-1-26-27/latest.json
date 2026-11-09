@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
-  "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T20:19:43Z",
+  "date": "2026-11-09",
+  "fetchedAt": "2026-11-09T05:44:44Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -49,6 +49,20 @@
       "rank": 3
     },
     {
+      "team": "Marseille",
+      "played": 10,
+      "wins": 6,
+      "draws": 0,
+      "losses": 4,
+      "goalsFor": 22,
+      "goalsAgainst": 14,
+      "goalDifference": 8,
+      "points": 18,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 4,
+      "rank": 4
+    },
+    {
       "team": "Lyon",
       "played": 10,
       "wins": 5,
@@ -59,8 +73,8 @@
       "goalDifference": 6,
       "points": 17,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 4,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "Nice",
@@ -73,8 +87,8 @@
       "goalDifference": 3,
       "points": 17,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 5,
-      "rank": 5
+      "sourceRank": 6,
+      "rank": 6
     },
     {
       "team": "AS Monaco",
@@ -87,8 +101,8 @@
       "goalDifference": 2,
       "points": 16,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 6,
-      "rank": 6
+      "sourceRank": 7,
+      "rank": 7
     },
     {
       "team": "Stade Rennais",
@@ -100,20 +114,6 @@
       "goalsAgainst": 21,
       "goalDifference": 0,
       "points": 16,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 7,
-      "rank": 7
-    },
-    {
-      "team": "Marseille",
-      "played": 9,
-      "wins": 5,
-      "draws": 0,
-      "losses": 4,
-      "goalsFor": 20,
-      "goalsAgainst": 13,
-      "goalDifference": 7,
-      "points": 15,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 8,
       "rank": 8
@@ -148,13 +148,13 @@
     },
     {
       "team": "Lens",
-      "played": 9,
+      "played": 10,
       "wins": 4,
       "draws": 1,
-      "losses": 4,
-      "goalsFor": 16,
-      "goalsAgainst": 13,
-      "goalDifference": 3,
+      "losses": 5,
+      "goalsFor": 17,
+      "goalsAgainst": 15,
+      "goalDifference": 2,
       "points": 13,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 11,

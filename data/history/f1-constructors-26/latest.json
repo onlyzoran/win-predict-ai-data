@@ -1,7 +1,7 @@
 {
   "leagueId": "f1-constructors-26",
-  "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T20:19:46Z",
+  "date": "2026-11-09",
+  "fetchedAt": "2026-11-09T05:44:46Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -15,7 +15,7 @@
     },
     {
       "team": "Ferrari",
-      "points": 512,
+      "points": 510,
       "group": "Constructor Standings",
       "sourceRank": 2,
       "rank": 2
@@ -36,7 +36,7 @@
     },
     {
       "team": "Racing Bulls",
-      "points": 112,
+      "points": 114,
       "group": "Constructor Standings",
       "sourceRank": 5,
       "rank": 5
