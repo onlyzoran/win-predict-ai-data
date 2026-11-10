@@ -1,0 +1,210 @@
+{
+  "leagueId": "ncaab-championship-26-27",
+  "date": "2026-11-10",
+  "fetchedAt": "2026-11-10T06:52:33Z",
+  "source": "espn",
+  "metric": "rank",
+  "seasonYear": 2027,
+  "standings": [
+    {
+      "rank": 1,
+      "team": "Florida Gators",
+      "wins": 2,
+      "losses": 0,
+      "points": 1490.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 2,
+      "team": "Duke Blue Devils",
+      "wins": 2,
+      "losses": 0,
+      "points": 1432.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 3,
+      "team": "Illinois Fighting Illini",
+      "wins": 2,
+      "losses": 0,
+      "points": 1366.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 4,
+      "team": "UConn Huskies",
+      "wins": 2,
+      "losses": 0,
+      "points": 1339.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 5,
+      "team": "Michigan State Spartans",
+      "wins": 2,
+      "losses": 0,
+      "points": 1222.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 6,
+      "team": "Virginia Cavaliers",
+      "wins": 3,
+      "losses": 0,
+      "points": 1161.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 7,
+      "team": "Texas Longhorns",
+      "wins": 2,
+      "losses": 0,
+      "points": 1092.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 8,
+      "team": "Houston Cougars",
+      "wins": 2,
+      "losses": 0,
+      "points": 947.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 9,
+      "team": "UCLA Bruins",
+      "wins": 2,
+      "losses": 0,
+      "points": 925.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 10,
+      "team": "Louisville Cardinals",
+      "wins": 2,
+      "losses": 0,
+      "points": 901.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 11,
+      "team": "Tennessee Volunteers",
+      "wins": 1,
+      "losses": 0,
+      "points": 887.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 12,
+      "team": "Arizona Wildcats",
+      "wins": 1,
+      "losses": 1,
+      "points": 814.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 13,
+      "team": "St. John's Red Storm",
+      "wins": 2,
+      "losses": 0,
+      "points": 760.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 14,
+      "team": "Gonzaga Bulldogs",
+      "wins": 2,
+      "losses": 0,
+      "points": 745.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 15,
+      "team": "Kansas Jayhawks",
+      "wins": 2,
+      "losses": 0,
+      "points": 717.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 16,
+      "team": "Texas Tech Red Raiders",
+      "wins": 2,
+      "losses": 0,
+      "points": 480.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 17,
+      "team": "Miami Hurricanes",
+      "wins": 1,
+      "losses": 1,
+      "points": 451.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 18,
+      "team": "Alabama Crimson Tide",
+      "wins": 2,
+      "losses": 0,
+      "points": 429.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 19,
+      "team": "Arkansas Razorbacks",
+      "wins": 1,
+      "losses": 1,
+      "points": 411.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 20,
+      "team": "Michigan Wolverines",
+      "wins": 1,
+      "losses": 1,
+      "points": 350.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 21,
+      "team": "USC Trojans",
+      "wins": 2,
+      "losses": 0,
+      "points": 323.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 22,
+      "team": "Vanderbilt Commodores",
+      "wins": 2,
+      "losses": 0,
+      "points": 318.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 23,
+      "team": "BYU Cougars",
+      "wins": 2,
+      "losses": 0,
+      "points": 272.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 24,
+      "team": "Kentucky Wildcats",
+      "wins": 2,
+      "losses": 0,
+      "points": 249.0,
+      "group": "AP Top 25"
+    },
+    {
+      "rank": 25,
+      "team": "Nebraska Cornhuskers",
+      "wins": 2,
+      "losses": 0,
+      "points": 101.0,
+      "group": "AP Top 25"
+    }
+  ]
+}
