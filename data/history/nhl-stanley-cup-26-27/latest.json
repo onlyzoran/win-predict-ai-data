@@ -1,11 +1,24 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
-  "date": "2026-11-11",
-  "fetchedAt": "2026-11-11T22:37:31Z",
+  "date": "2026-11-12",
+  "fetchedAt": "2026-11-12T06:48:32Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
   "standings": [
+    {
+      "team": "Edmonton Oilers",
+      "played": 20,
+      "wins": 14,
+      "losses": 3,
+      "otLosses": 3,
+      "goalDifference": 23,
+      "points": 31,
+      "playoffSeed": 1,
+      "group": "Western Conference",
+      "sourceRank": 1,
+      "rank": 1
+    },
     {
       "team": "Carolina Hurricanes",
       "played": 19,
@@ -17,7 +30,7 @@
       "playoffSeed": 1,
       "group": "Eastern Conference",
       "sourceRank": 1,
-      "rank": 1
+      "rank": 2
     },
     {
       "team": "Minnesota Wild",
@@ -27,23 +40,23 @@
       "otLosses": 4,
       "goalDifference": 21,
       "points": 30,
-      "playoffSeed": 1,
-      "group": "Western Conference",
-      "sourceRank": 1,
-      "rank": 2
-    },
-    {
-      "team": "Edmonton Oilers",
-      "played": 19,
-      "wins": 13,
-      "losses": 3,
-      "otLosses": 3,
-      "goalDifference": 22,
-      "points": 29,
       "playoffSeed": 2,
       "group": "Western Conference",
       "sourceRank": 2,
       "rank": 3
+    },
+    {
+      "team": "Vegas Golden Knights",
+      "played": 20,
+      "wins": 13,
+      "losses": 5,
+      "otLosses": 2,
+      "goalDifference": 15,
+      "points": 28,
+      "playoffSeed": 3,
+      "group": "Western Conference",
+      "sourceRank": 3,
+      "rank": 4
     },
     {
       "team": "Boston Bruins",
@@ -56,7 +69,20 @@
       "playoffSeed": 2,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "team": "Tampa Bay Lightning",
+      "played": 18,
+      "wins": 12,
+      "losses": 4,
+      "otLosses": 2,
+      "goalDifference": 15,
+      "points": 26,
+      "playoffSeed": 3,
+      "group": "Eastern Conference",
+      "sourceRank": 3,
+      "rank": 6
     },
     {
       "team": "New Jersey Devils",
@@ -66,23 +92,10 @@
       "otLosses": 0,
       "goalDifference": 13,
       "points": 26,
-      "playoffSeed": 4,
+      "playoffSeed": 5,
       "group": "Eastern Conference",
-      "sourceRank": 4,
-      "rank": 5
-    },
-    {
-      "team": "Vegas Golden Knights",
-      "played": 19,
-      "wins": 12,
-      "losses": 5,
-      "otLosses": 2,
-      "goalDifference": 13,
-      "points": 26,
-      "playoffSeed": 3,
-      "group": "Western Conference",
-      "sourceRank": 3,
-      "rank": 6
+      "sourceRank": 5,
+      "rank": 7
     },
     {
       "team": "Montreal Canadiens",
@@ -92,10 +105,23 @@
       "otLosses": 4,
       "goalDifference": 7,
       "points": 26,
-      "playoffSeed": 3,
+      "playoffSeed": 4,
       "group": "Eastern Conference",
-      "sourceRank": 3,
-      "rank": 7
+      "sourceRank": 4,
+      "rank": 8
+    },
+    {
+      "team": "Nashville Predators",
+      "played": 19,
+      "wins": 10,
+      "losses": 4,
+      "otLosses": 5,
+      "goalDifference": 6,
+      "points": 25,
+      "playoffSeed": 4,
+      "group": "Western Conference",
+      "sourceRank": 4,
+      "rank": 9
     },
     {
       "team": "Colorado Avalanche",
@@ -105,23 +131,10 @@
       "otLosses": 2,
       "goalDifference": 19,
       "points": 24,
-      "playoffSeed": 4,
-      "group": "Western Conference",
-      "sourceRank": 4,
-      "rank": 8
-    },
-    {
-      "team": "Tampa Bay Lightning",
-      "played": 17,
-      "wins": 11,
-      "losses": 4,
-      "otLosses": 2,
-      "goalDifference": 10,
-      "points": 24,
       "playoffSeed": 5,
-      "group": "Eastern Conference",
+      "group": "Western Conference",
       "sourceRank": 5,
-      "rank": 9
+      "rank": 10
     },
     {
       "team": "Ottawa Senators",
@@ -134,20 +147,20 @@
       "playoffSeed": 6,
       "group": "Eastern Conference",
       "sourceRank": 6,
-      "rank": 10
+      "rank": 11
     },
     {
-      "team": "Nashville Predators",
-      "played": 18,
-      "wins": 9,
-      "losses": 4,
-      "otLosses": 5,
-      "goalDifference": 4,
+      "team": "New York Rangers",
+      "played": 20,
+      "wins": 11,
+      "losses": 8,
+      "otLosses": 1,
+      "goalDifference": 3,
       "points": 23,
-      "playoffSeed": 5,
-      "group": "Western Conference",
-      "sourceRank": 5,
-      "rank": 11
+      "playoffSeed": 7,
+      "group": "Eastern Conference",
+      "sourceRank": 7,
+      "rank": 12
     },
     {
       "team": "Dallas Stars",
@@ -160,7 +173,7 @@
       "playoffSeed": 6,
       "group": "Western Conference",
       "sourceRank": 6,
-      "rank": 12
+      "rank": 13
     },
     {
       "team": "Florida Panthers",
@@ -170,44 +183,31 @@
       "otLosses": 2,
       "goalDifference": 4,
       "points": 22,
-      "playoffSeed": 7,
+      "playoffSeed": 8,
       "group": "Eastern Conference",
-      "sourceRank": 7,
-      "rank": 13
-    },
-    {
-      "team": "Anaheim Ducks",
-      "played": 18,
-      "wins": 10,
-      "losses": 7,
-      "otLosses": 1,
-      "goalDifference": 3,
-      "points": 21,
-      "playoffSeed": 7,
-      "group": "Western Conference",
-      "sourceRank": 7,
+      "sourceRank": 8,
       "rank": 14
     },
     {
-      "team": "New York Rangers",
+      "team": "Anaheim Ducks",
       "played": 19,
       "wins": 10,
       "losses": 8,
       "otLosses": 1,
       "goalDifference": 1,
       "points": 21,
-      "playoffSeed": 8,
-      "group": "Eastern Conference",
-      "sourceRank": 8,
+      "playoffSeed": 7,
+      "group": "Western Conference",
+      "sourceRank": 7,
       "rank": 15
     },
     {
       "team": "Utah Mammoth",
-      "played": 18,
+      "played": 19,
       "wins": 10,
-      "losses": 7,
+      "losses": 8,
       "otLosses": 1,
-      "goalDifference": 0,
+      "goalDifference": -2,
       "points": 21,
       "playoffSeed": 8,
       "group": "Western Conference",
@@ -242,11 +242,11 @@
     },
     {
       "team": "Buffalo Sabres",
-      "played": 17,
+      "played": 18,
       "wins": 8,
-      "losses": 6,
+      "losses": 7,
       "otLosses": 3,
-      "goalDifference": -7,
+      "goalDifference": -12,
       "points": 19,
       "playoffSeed": 10,
       "group": "Eastern Conference",
@@ -306,6 +306,19 @@
       "rank": 23
     },
     {
+      "team": "San Jose Sharks",
+      "played": 21,
+      "wins": 8,
+      "losses": 11,
+      "otLosses": 2,
+      "goalDifference": -21,
+      "points": 18,
+      "playoffSeed": 12,
+      "group": "Western Conference",
+      "sourceRank": 12,
+      "rank": 24
+    },
+    {
       "team": "Detroit Red Wings",
       "played": 19,
       "wins": 7,
@@ -316,28 +329,15 @@
       "playoffSeed": 13,
       "group": "Eastern Conference",
       "sourceRank": 13,
-      "rank": 24
-    },
-    {
-      "team": "Calgary Flames",
-      "played": 18,
-      "wins": 8,
-      "losses": 9,
-      "otLosses": 1,
-      "goalDifference": -17,
-      "points": 17,
-      "playoffSeed": 12,
-      "group": "Western Conference",
-      "sourceRank": 12,
       "rank": 25
     },
     {
-      "team": "San Jose Sharks",
-      "played": 20,
+      "team": "Calgary Flames",
+      "played": 19,
       "wins": 8,
-      "losses": 11,
+      "losses": 10,
       "otLosses": 1,
-      "goalDifference": -20,
+      "goalDifference": -19,
       "points": 17,
       "playoffSeed": 13,
       "group": "Western Conference",
@@ -345,29 +345,29 @@
       "rank": 26
     },
     {
-      "team": "Philadelphia Flyers",
-      "played": 20,
-      "wins": 5,
+      "team": "Pittsburgh Penguins",
+      "played": 19,
+      "wins": 7,
       "losses": 10,
-      "otLosses": 5,
-      "goalDifference": -21,
-      "points": 15,
+      "otLosses": 2,
+      "goalDifference": -6,
+      "points": 16,
       "playoffSeed": 14,
       "group": "Eastern Conference",
       "sourceRank": 14,
       "rank": 27
     },
     {
-      "team": "Pittsburgh Penguins",
-      "played": 18,
-      "wins": 6,
+      "team": "Philadelphia Flyers",
+      "played": 21,
+      "wins": 5,
       "losses": 10,
-      "otLosses": 2,
-      "goalDifference": -7,
-      "points": 14,
-      "playoffSeed": 16,
+      "otLosses": 6,
+      "goalDifference": -22,
+      "points": 16,
+      "playoffSeed": 15,
       "group": "Eastern Conference",
-      "sourceRank": 16,
+      "sourceRank": 15,
       "rank": 28
     },
     {
@@ -378,9 +378,9 @@
       "otLosses": 0,
       "goalDifference": -10,
       "points": 14,
-      "playoffSeed": 15,
+      "playoffSeed": 16,
       "group": "Eastern Conference",
-      "sourceRank": 15,
+      "sourceRank": 16,
       "rank": 29
     },
     {
