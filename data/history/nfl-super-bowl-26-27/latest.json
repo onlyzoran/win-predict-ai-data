@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-11-12",
-  "fetchedAt": "2026-11-12T16:42:39Z",
+  "date": "2026-11-13",
+  "fetchedAt": "2026-11-13T06:05:35Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -137,19 +137,6 @@
       "rank": 10
     },
     {
-      "team": "New York Giants",
-      "wins": 5,
-      "losses": 2,
-      "goalsFor": 182,
-      "goalsAgainst": 172,
-      "goalDifference": 10,
-      "winPercent": 0.6875,
-      "playoffSeed": 3,
-      "group": "National Football Conference",
-      "sourceRank": 3,
-      "rank": 11
-    },
-    {
       "team": "Green Bay Packers",
       "wins": 6,
       "losses": 3,
@@ -160,6 +147,19 @@
       "playoffSeed": 7,
       "group": "National Football Conference",
       "sourceRank": 7,
+      "rank": 11
+    },
+    {
+      "team": "New York Giants",
+      "wins": 5,
+      "losses": 3,
+      "goalsFor": 203,
+      "goalsAgainst": 196,
+      "goalDifference": 7,
+      "winPercent": 0.6111111,
+      "playoffSeed": 3,
+      "group": "National Football Conference",
+      "sourceRank": 3,
       "rank": 12
     },
     {
@@ -254,6 +254,19 @@
       "rank": 19
     },
     {
+      "team": "Washington Commanders",
+      "wins": 3,
+      "losses": 5,
+      "goalsFor": 196,
+      "goalsAgainst": 223,
+      "goalDifference": -27,
+      "winPercent": 0.3888889,
+      "playoffSeed": 11,
+      "group": "National Football Conference",
+      "sourceRank": 11,
+      "rank": 20
+    },
+    {
       "team": "Houston Texans",
       "wins": 3,
       "losses": 5,
@@ -264,7 +277,7 @@
       "playoffSeed": 11,
       "group": "American Football Conference",
       "sourceRank": 11,
-      "rank": 20
+      "rank": 21
     },
     {
       "team": "Carolina Panthers",
@@ -277,7 +290,7 @@
       "playoffSeed": 4,
       "group": "National Football Conference",
       "sourceRank": 4,
-      "rank": 21
+      "rank": 22
     },
     {
       "team": "New Orleans Saints",
@@ -287,10 +300,10 @@
       "goalsAgainst": 216,
       "goalDifference": -31,
       "winPercent": 0.375,
-      "playoffSeed": 11,
+      "playoffSeed": 12,
       "group": "National Football Conference",
-      "sourceRank": 11,
-      "rank": 22
+      "sourceRank": 12,
+      "rank": 23
     },
     {
       "team": "Tampa Bay Buccaneers",
@@ -300,10 +313,10 @@
       "goalsAgainst": 178,
       "goalDifference": 24,
       "winPercent": 0.33333334,
-      "playoffSeed": 12,
+      "playoffSeed": 13,
       "group": "National Football Conference",
-      "sourceRank": 12,
-      "rank": 23
+      "sourceRank": 13,
+      "rank": 24
     },
     {
       "team": "Atlanta Falcons",
@@ -313,10 +326,10 @@
       "goalsAgainst": 223,
       "goalDifference": -35,
       "winPercent": 0.33333334,
-      "playoffSeed": 13,
+      "playoffSeed": 14,
       "group": "National Football Conference",
-      "sourceRank": 13,
-      "rank": 24
+      "sourceRank": 14,
+      "rank": 25
     },
     {
       "team": "Arizona Cardinals",
@@ -326,19 +339,6 @@
       "goalsAgainst": 255,
       "goalDifference": -77,
       "winPercent": 0.33333334,
-      "playoffSeed": 14,
-      "group": "National Football Conference",
-      "sourceRank": 14,
-      "rank": 25
-    },
-    {
-      "team": "Washington Commanders",
-      "wins": 2,
-      "losses": 5,
-      "goalsFor": 172,
-      "goalsAgainst": 202,
-      "goalDifference": -30,
-      "winPercent": 0.3125,
       "playoffSeed": 15,
       "group": "National Football Conference",
       "sourceRank": 15,
