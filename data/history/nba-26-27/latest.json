@@ -1,7 +1,7 @@
 {
   "leagueId": "nba-26-27",
   "date": "2026-11-14",
-  "fetchedAt": "2026-11-14T05:52:30Z",
+  "fetchedAt": "2026-11-14T14:54:42Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2027,
@@ -95,10 +95,10 @@
       "rank": 8
     },
     {
-      "team": "Oklahoma City Thunder",
+      "team": "Memphis Grizzlies",
       "wins": 8,
       "losses": 4,
-      "goalDifference": 50,
+      "goalDifference": 97,
       "winPercent": 0.6666667,
       "playoffSeed": 6,
       "group": "Western Conference",
@@ -106,21 +106,21 @@
       "rank": 9
     },
     {
-      "team": "Memphis Grizzlies",
+      "team": "Golden State Warriors",
       "wins": 8,
-      "losses": 4,
-      "goalDifference": 97,
-      "winPercent": 0.6666667,
+      "losses": 5,
+      "goalDifference": 56,
+      "winPercent": 0.61538464,
       "playoffSeed": 7,
       "group": "Western Conference",
       "sourceRank": 7,
       "rank": 10
     },
     {
-      "team": "Golden State Warriors",
+      "team": "Oklahoma City Thunder",
       "wins": 8,
       "losses": 5,
-      "goalDifference": 56,
+      "goalDifference": 49,
       "winPercent": 0.61538464,
       "playoffSeed": 8,
       "group": "Western Conference",
@@ -283,10 +283,10 @@
     },
     {
       "team": "LA Clippers",
-      "wins": 2,
+      "wins": 3,
       "losses": 8,
-      "goalDifference": -59,
-      "winPercent": 0.2,
+      "goalDifference": -58,
+      "winPercent": 0.27272728,
       "playoffSeed": 13,
       "group": "Western Conference",
       "sourceRank": 13,

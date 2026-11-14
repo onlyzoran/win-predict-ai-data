@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-11-14",
-  "fetchedAt": "2026-11-14T05:52:30Z",
+  "fetchedAt": "2026-11-14T14:54:42Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -46,6 +46,19 @@
       "rank": 3
     },
     {
+      "team": "Vegas Golden Knights",
+      "played": 21,
+      "wins": 13,
+      "losses": 5,
+      "otLosses": 3,
+      "goalDifference": 14,
+      "points": 29,
+      "playoffSeed": 3,
+      "group": "Western Conference",
+      "sourceRank": 3,
+      "rank": 4
+    },
+    {
       "team": "Tampa Bay Lightning",
       "played": 19,
       "wins": 13,
@@ -56,7 +69,7 @@
       "playoffSeed": 2,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 4
+      "rank": 5
     },
     {
       "team": "New Jersey Devils",
@@ -69,19 +82,6 @@
       "playoffSeed": 4,
       "group": "Eastern Conference",
       "sourceRank": 4,
-      "rank": 5
-    },
-    {
-      "team": "Vegas Golden Knights",
-      "played": 20,
-      "wins": 13,
-      "losses": 5,
-      "otLosses": 2,
-      "goalDifference": 15,
-      "points": 28,
-      "playoffSeed": 3,
-      "group": "Western Conference",
-      "sourceRank": 3,
       "rank": 6
     },
     {
@@ -111,6 +111,19 @@
       "rank": 8
     },
     {
+      "team": "Nashville Predators",
+      "played": 20,
+      "wins": 11,
+      "losses": 4,
+      "otLosses": 5,
+      "goalDifference": 7,
+      "points": 27,
+      "playoffSeed": 4,
+      "group": "Western Conference",
+      "sourceRank": 4,
+      "rank": 9
+    },
+    {
       "team": "Ottawa Senators",
       "played": 20,
       "wins": 12,
@@ -121,7 +134,7 @@
       "playoffSeed": 6,
       "group": "Eastern Conference",
       "sourceRank": 6,
-      "rank": 9
+      "rank": 10
     },
     {
       "team": "Colorado Avalanche",
@@ -134,7 +147,7 @@
       "playoffSeed": 5,
       "group": "Western Conference",
       "sourceRank": 5,
-      "rank": 10
+      "rank": 11
     },
     {
       "team": "New York Rangers",
@@ -147,19 +160,6 @@
       "playoffSeed": 7,
       "group": "Eastern Conference",
       "sourceRank": 7,
-      "rank": 11
-    },
-    {
-      "team": "Nashville Predators",
-      "played": 19,
-      "wins": 10,
-      "losses": 4,
-      "otLosses": 5,
-      "goalDifference": 6,
-      "points": 25,
-      "playoffSeed": 4,
-      "group": "Western Conference",
-      "sourceRank": 4,
       "rank": 12
     },
     {
