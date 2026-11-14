@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
-  "date": "2026-11-13",
-  "fetchedAt": "2026-11-13T16:01:31Z",
+  "date": "2026-11-14",
+  "fetchedAt": "2026-11-14T05:52:30Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -137,6 +137,19 @@
       "rank": 10
     },
     {
+      "team": "New York Rangers",
+      "played": 21,
+      "wins": 12,
+      "losses": 8,
+      "otLosses": 1,
+      "goalDifference": 7,
+      "points": 25,
+      "playoffSeed": 7,
+      "group": "Eastern Conference",
+      "sourceRank": 7,
+      "rank": 11
+    },
+    {
       "team": "Nashville Predators",
       "played": 19,
       "wins": 10,
@@ -147,7 +160,7 @@
       "playoffSeed": 4,
       "group": "Western Conference",
       "sourceRank": 4,
-      "rank": 11
+      "rank": 12
     },
     {
       "team": "Florida Panthers",
@@ -157,19 +170,6 @@
       "otLosses": 2,
       "goalDifference": 5,
       "points": 24,
-      "playoffSeed": 7,
-      "group": "Eastern Conference",
-      "sourceRank": 7,
-      "rank": 12
-    },
-    {
-      "team": "New York Rangers",
-      "played": 20,
-      "wins": 11,
-      "losses": 8,
-      "otLosses": 1,
-      "goalDifference": 3,
-      "points": 23,
       "playoffSeed": 8,
       "group": "Eastern Conference",
       "sourceRank": 8,
@@ -411,11 +411,11 @@
     },
     {
       "team": "Vancouver Canucks",
-      "played": 20,
+      "played": 21,
       "wins": 3,
-      "losses": 16,
+      "losses": 17,
       "otLosses": 1,
-      "goalDifference": -34,
+      "goalDifference": -38,
       "points": 7,
       "playoffSeed": 16,
       "group": "Western Conference",
