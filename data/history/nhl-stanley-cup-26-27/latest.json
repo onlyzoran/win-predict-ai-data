@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
   "date": "2026-11-15",
-  "fetchedAt": "2026-11-15T05:53:37Z",
+  "fetchedAt": "2026-11-15T15:31:38Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -319,6 +319,19 @@
       "rank": 24
     },
     {
+      "team": "Calgary Flames",
+      "played": 20,
+      "wins": 9,
+      "losses": 10,
+      "otLosses": 1,
+      "goalDifference": -18,
+      "points": 19,
+      "playoffSeed": 13,
+      "group": "Western Conference",
+      "sourceRank": 13,
+      "rank": 25
+    },
+    {
       "team": "Toronto Maple Leafs",
       "played": 22,
       "wins": 8,
@@ -329,7 +342,7 @@
       "playoffSeed": 13,
       "group": "Eastern Conference",
       "sourceRank": 13,
-      "rank": 25
+      "rank": 26
     },
     {
       "team": "Philadelphia Flyers",
@@ -342,19 +355,6 @@
       "playoffSeed": 14,
       "group": "Eastern Conference",
       "sourceRank": 14,
-      "rank": 26
-    },
-    {
-      "team": "Calgary Flames",
-      "played": 19,
-      "wins": 8,
-      "losses": 10,
-      "otLosses": 1,
-      "goalDifference": -19,
-      "points": 17,
-      "playoffSeed": 13,
-      "group": "Western Conference",
-      "sourceRank": 13,
       "rank": 27
     },
     {
@@ -385,11 +385,11 @@
     },
     {
       "team": "Los Angeles Kings",
-      "played": 17,
+      "played": 18,
       "wins": 5,
-      "losses": 10,
+      "losses": 11,
       "otLosses": 2,
-      "goalDifference": -13,
+      "goalDifference": -14,
       "points": 12,
       "playoffSeed": 14,
       "group": "Western Conference",
