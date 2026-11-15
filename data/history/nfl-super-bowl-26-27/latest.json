@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
   "date": "2026-11-15",
-  "fetchedAt": "2026-11-15T15:31:38Z",
+  "fetchedAt": "2026-11-15T20:56:09Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -46,6 +46,19 @@
       "rank": 3
     },
     {
+      "team": "Detroit Lions",
+      "wins": 7,
+      "losses": 2,
+      "goalsFor": 257,
+      "goalsAgainst": 199,
+      "goalDifference": 58,
+      "winPercent": 0.7777778,
+      "playoffSeed": 2,
+      "group": "National Football Conference",
+      "sourceRank": 2,
+      "rank": 4
+    },
+    {
       "team": "Chicago Bears",
       "wins": 7,
       "losses": 2,
@@ -53,10 +66,10 @@
       "goalsAgainst": 184,
       "goalDifference": 57,
       "winPercent": 0.7777778,
-      "playoffSeed": 2,
+      "playoffSeed": 5,
       "group": "National Football Conference",
-      "sourceRank": 2,
-      "rank": 4
+      "sourceRank": 5,
+      "rank": 5
     },
     {
       "team": "Jacksonville Jaguars",
@@ -69,7 +82,7 @@
       "playoffSeed": 3,
       "group": "American Football Conference",
       "sourceRank": 3,
-      "rank": 5
+      "rank": 6
     },
     {
       "team": "Pittsburgh Steelers",
@@ -82,7 +95,7 @@
       "playoffSeed": 4,
       "group": "American Football Conference",
       "sourceRank": 4,
-      "rank": 6
+      "rank": 7
     },
     {
       "team": "Kansas City Chiefs",
@@ -95,7 +108,7 @@
       "playoffSeed": 5,
       "group": "American Football Conference",
       "sourceRank": 5,
-      "rank": 7
+      "rank": 8
     },
     {
       "team": "Cincinnati Bengals",
@@ -108,19 +121,6 @@
       "playoffSeed": 6,
       "group": "American Football Conference",
       "sourceRank": 6,
-      "rank": 8
-    },
-    {
-      "team": "Detroit Lions",
-      "wins": 6,
-      "losses": 2,
-      "goalsFor": 222,
-      "goalsAgainst": 189,
-      "goalDifference": 33,
-      "winPercent": 0.75,
-      "playoffSeed": 5,
-      "group": "National Football Conference",
-      "sourceRank": 5,
       "rank": 9
     },
     {
@@ -163,19 +163,6 @@
       "rank": 12
     },
     {
-      "team": "New England Patriots",
-      "wins": 5,
-      "losses": 4,
-      "goalsFor": 211,
-      "goalsAgainst": 207,
-      "goalDifference": 4,
-      "winPercent": 0.5555556,
-      "playoffSeed": 7,
-      "group": "American Football Conference",
-      "sourceRank": 7,
-      "rank": 13
-    },
-    {
       "team": "Cleveland Browns",
       "wins": 5,
       "losses": 4,
@@ -183,10 +170,10 @@
       "goalsAgainst": 196,
       "goalDifference": -35,
       "winPercent": 0.5555556,
-      "playoffSeed": 8,
+      "playoffSeed": 7,
       "group": "American Football Conference",
-      "sourceRank": 8,
-      "rank": 14
+      "sourceRank": 7,
+      "rank": 13
     },
     {
       "team": "Seattle Seahawks",
@@ -199,7 +186,7 @@
       "playoffSeed": 8,
       "group": "National Football Conference",
       "sourceRank": 8,
-      "rank": 15
+      "rank": 14
     },
     {
       "team": "Los Angeles Rams",
@@ -212,6 +199,19 @@
       "playoffSeed": 9,
       "group": "National Football Conference",
       "sourceRank": 9,
+      "rank": 15
+    },
+    {
+      "team": "New England Patriots",
+      "wins": 5,
+      "losses": 5,
+      "goalsFor": 221,
+      "goalsAgainst": 242,
+      "goalDifference": -21,
+      "winPercent": 0.5,
+      "playoffSeed": 8,
+      "group": "American Football Conference",
+      "sourceRank": 8,
       "rank": 16
     },
     {

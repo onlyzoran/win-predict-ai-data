@@ -1,7 +1,7 @@
 {
   "leagueId": "ncaaf-championship-26-27",
   "date": "2026-11-15",
-  "fetchedAt": "2026-11-15T15:31:39Z",
+  "fetchedAt": "2026-11-15T20:56:10Z",
   "source": "espn",
   "metric": "rank",
   "seasonYear": 2026,
@@ -9,202 +9,202 @@
     {
       "rank": 1,
       "team": "Georgia Bulldogs",
-      "wins": 8,
+      "wins": 9,
       "losses": 1,
-      "points": 1729.0,
-      "group": "AP Top 25"
+      "points": 1802.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 2,
       "team": "Utah Utes",
-      "wins": 9,
+      "wins": 10,
       "losses": 0,
-      "points": 1675.0,
-      "group": "AP Top 25"
+      "points": 1729.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 3,
       "team": "Notre Dame Fighting Irish",
-      "wins": 8,
+      "wins": 9,
       "losses": 1,
-      "points": 1597.0,
-      "group": "AP Top 25"
+      "points": 1630.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 4,
       "team": "UCLA Bruins",
-      "wins": 9,
+      "wins": 10,
       "losses": 0,
-      "points": 1542.0,
-      "group": "AP Top 25"
+      "points": 1594.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 5,
-      "team": "Miami Hurricanes",
-      "wins": 8,
+      "team": "Indiana Hoosiers",
+      "wins": 9,
       "losses": 1,
-      "points": 1430.0,
-      "group": "AP Top 25"
+      "points": 1540.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 6,
-      "team": "Indiana Hoosiers",
-      "wins": 8,
+      "team": "Miami Hurricanes",
+      "wins": 9,
       "losses": 1,
-      "points": 1376.0,
-      "group": "AP Top 25"
+      "points": 1483.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 7,
       "team": "Alabama Crimson Tide",
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
-      "points": 1334.0,
-      "group": "AP Top 25"
+      "points": 1364.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 8,
       "team": "Texas Longhorns",
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
-      "points": 1253.0,
-      "group": "AP Top 25"
+      "points": 1303.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 9,
       "team": "Tennessee Volunteers",
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
-      "points": 1177.0,
-      "group": "AP Top 25"
+      "points": 1209.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 10,
-      "team": "Texas Tech Red Raiders",
-      "wins": 8,
+      "team": "Wake Forest Demon Deacons",
+      "wins": 9,
       "losses": 1,
-      "points": 1082.0,
-      "group": "AP Top 25"
+      "points": 1172.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 11,
-      "team": "Wake Forest Demon Deacons",
-      "wins": 8,
+      "team": "Texas Tech Red Raiders",
+      "wins": 9,
       "losses": 1,
-      "points": 1067.0,
-      "group": "AP Top 25"
+      "points": 1157.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 12,
       "team": "BYU Cougars",
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
-      "points": 1041.0,
-      "group": "AP Top 25"
+      "points": 1057.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 13,
-      "team": "Kentucky Wildcats",
-      "wins": 7,
+      "team": "Iowa Hawkeyes",
+      "wins": 8,
       "losses": 2,
-      "points": 897.0,
-      "group": "AP Top 25"
+      "points": 927.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 14,
-      "team": "Houston Cougars",
+      "team": "Oregon Ducks",
       "wins": 7,
-      "losses": 2,
-      "points": 803.0,
-      "group": "AP Top 25"
+      "losses": 3,
+      "points": 783.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 15,
-      "team": "USC Trojans",
-      "wins": 7,
-      "losses": 2,
-      "points": 679.0,
-      "group": "AP Top 25"
+      "team": "Boise State Broncos",
+      "wins": 9,
+      "losses": 1,
+      "points": 714.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 16,
-      "team": "Iowa Hawkeyes",
-      "wins": 7,
-      "losses": 2,
-      "points": 659.0,
-      "group": "AP Top 25"
-    },
-    {
-      "rank": 17,
-      "team": "Boise State Broncos",
-      "wins": 8,
-      "losses": 1,
-      "points": 563.0,
-      "group": "AP Top 25"
-    },
-    {
-      "rank": 18,
-      "team": "Oregon Ducks",
-      "wins": 6,
-      "losses": 3,
-      "points": 517.0,
-      "group": "AP Top 25"
-    },
-    {
-      "rank": 19,
       "team": "Ole Miss Rebels",
       "wins": 6,
       "losses": 3,
-      "points": 415.0,
-      "group": "AP Top 25"
+      "points": 705.0,
+      "group": "AFCA Coaches Poll"
+    },
+    {
+      "rank": 17,
+      "team": "Ohio State Buckeyes",
+      "wins": 7,
+      "losses": 3,
+      "points": 644.0,
+      "group": "AFCA Coaches Poll"
+    },
+    {
+      "rank": 18,
+      "team": "Kentucky Wildcats",
+      "wins": 7,
+      "losses": 3,
+      "points": 592.0,
+      "group": "AFCA Coaches Poll"
+    },
+    {
+      "rank": 19,
+      "team": "USC Trojans",
+      "wins": 7,
+      "losses": 3,
+      "points": 534.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 20,
-      "team": "South Carolina Gamecocks",
-      "wins": 6,
+      "team": "Arizona Wildcats",
+      "wins": 7,
       "losses": 3,
       "points": 399.0,
-      "group": "AP Top 25"
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 21,
-      "team": "Ohio State Buckeyes",
-      "wins": 6,
+      "team": "Houston Cougars",
+      "wins": 7,
       "losses": 3,
-      "points": 349.0,
-      "group": "AP Top 25"
+      "points": 312.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 22,
-      "team": "Arizona Wildcats",
+      "team": "Louisville Cardinals",
       "wins": 7,
-      "losses": 2,
-      "points": 324.0,
-      "group": "AP Top 25"
+      "losses": 3,
+      "points": 235.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 23,
-      "team": "New Mexico Lobos",
-      "wins": 8,
-      "losses": 1,
-      "points": 301.0,
-      "group": "AP Top 25"
+      "team": "LSU Tigers",
+      "wins": 6,
+      "losses": 4,
+      "points": 160.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 24,
-      "team": "LSU Tigers",
-      "wins": 6,
+      "team": "Duke Blue Devils",
+      "wins": 7,
       "losses": 3,
-      "points": 277.0,
-      "group": "AP Top 25"
+      "points": 123.0,
+      "group": "AFCA Coaches Poll"
     },
     {
       "rank": 25,
-      "team": "SMU Mustangs",
-      "wins": 7,
-      "losses": 2,
-      "points": 118.0,
-      "group": "AP Top 25"
+      "team": "Florida Gators",
+      "wins": 6,
+      "losses": 4,
+      "points": 95.0,
+      "group": "AFCA Coaches Poll"
     }
   ]
 }
