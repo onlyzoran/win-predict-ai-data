@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
-  "date": "2026-11-16",
-  "fetchedAt": "2026-11-16T18:14:22Z",
+  "date": "2026-11-17",
+  "fetchedAt": "2026-11-17T07:30:17Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -92,22 +92,22 @@
       "otLosses": 2,
       "goalDifference": 7,
       "points": 28,
-      "playoffSeed": 5,
+      "playoffSeed": 4,
       "group": "Eastern Conference",
-      "sourceRank": 5,
+      "sourceRank": 4,
       "rank": 7
     },
     {
       "team": "Montreal Canadiens",
-      "played": 20,
+      "played": 21,
       "wins": 12,
-      "losses": 4,
+      "losses": 5,
       "otLosses": 4,
-      "goalDifference": 7,
+      "goalDifference": 5,
       "points": 28,
-      "playoffSeed": 4,
+      "playoffSeed": 5,
       "group": "Eastern Conference",
-      "sourceRank": 4,
+      "sourceRank": 5,
       "rank": 8
     },
     {
@@ -137,6 +137,19 @@
       "rank": 10
     },
     {
+      "team": "New York Rangers",
+      "played": 22,
+      "wins": 13,
+      "losses": 8,
+      "otLosses": 1,
+      "goalDifference": 9,
+      "points": 27,
+      "playoffSeed": 7,
+      "group": "Eastern Conference",
+      "sourceRank": 7,
+      "rank": 11
+    },
+    {
       "team": "Florida Panthers",
       "played": 22,
       "wins": 12,
@@ -144,10 +157,10 @@
       "otLosses": 3,
       "goalDifference": 7,
       "points": 27,
-      "playoffSeed": 7,
+      "playoffSeed": 8,
       "group": "Eastern Conference",
-      "sourceRank": 7,
-      "rank": 11
+      "sourceRank": 8,
+      "rank": 12
     },
     {
       "team": "Nashville Predators",
@@ -160,7 +173,7 @@
       "playoffSeed": 5,
       "group": "Western Conference",
       "sourceRank": 5,
-      "rank": 12
+      "rank": 13
     },
     {
       "team": "Dallas Stars",
@@ -173,19 +186,6 @@
       "playoffSeed": 6,
       "group": "Western Conference",
       "sourceRank": 6,
-      "rank": 13
-    },
-    {
-      "team": "New York Rangers",
-      "played": 21,
-      "wins": 12,
-      "losses": 8,
-      "otLosses": 1,
-      "goalDifference": 7,
-      "points": 25,
-      "playoffSeed": 8,
-      "group": "Eastern Conference",
-      "sourceRank": 8,
       "rank": 14
     },
     {
@@ -203,15 +203,15 @@
     },
     {
       "team": "Utah Mammoth",
-      "played": 21,
+      "played": 22,
       "wins": 10,
-      "losses": 8,
+      "losses": 9,
       "otLosses": 3,
-      "goalDifference": -4,
+      "goalDifference": -5,
       "points": 23,
-      "playoffSeed": 8,
+      "playoffSeed": 9,
       "group": "Western Conference",
-      "sourceRank": 8,
+      "sourceRank": 9,
       "rank": 16
     },
     {
@@ -222,9 +222,9 @@
       "otLosses": 3,
       "goalDifference": -6,
       "points": 23,
-      "playoffSeed": 9,
+      "playoffSeed": 8,
       "group": "Western Conference",
-      "sourceRank": 9,
+      "sourceRank": 8,
       "rank": 17
     },
     {
@@ -411,12 +411,12 @@
     },
     {
       "team": "Vancouver Canucks",
-      "played": 22,
-      "wins": 4,
+      "played": 23,
+      "wins": 5,
       "losses": 17,
       "otLosses": 1,
-      "goalDifference": -35,
-      "points": 9,
+      "goalDifference": -34,
+      "points": 11,
       "playoffSeed": 16,
       "group": "Western Conference",
       "sourceRank": 16,
