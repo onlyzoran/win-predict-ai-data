@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-11-19",
-  "fetchedAt": "2026-11-19T17:13:57Z",
+  "date": "2026-11-20",
+  "fetchedAt": "2026-11-20T06:46:06Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -228,6 +228,19 @@
       "rank": 17
     },
     {
+      "team": "Houston Texans",
+      "wins": 4,
+      "losses": 6,
+      "goalsFor": 259,
+      "goalsAgainst": 222,
+      "goalDifference": 37,
+      "winPercent": 0.4,
+      "playoffSeed": 9,
+      "group": "American Football Conference",
+      "sourceRank": 9,
+      "rank": 18
+    },
+    {
       "team": "Las Vegas Raiders",
       "wins": 4,
       "losses": 6,
@@ -235,10 +248,10 @@
       "goalsAgainst": 289,
       "goalDifference": -38,
       "winPercent": 0.4,
-      "playoffSeed": 9,
+      "playoffSeed": 10,
       "group": "American Football Conference",
-      "sourceRank": 9,
-      "rank": 18
+      "sourceRank": 10,
+      "rank": 19
     },
     {
       "team": "Baltimore Ravens",
@@ -248,10 +261,10 @@
       "goalsAgainst": 259,
       "goalDifference": -50,
       "winPercent": 0.4,
-      "playoffSeed": 10,
+      "playoffSeed": 11,
       "group": "American Football Conference",
-      "sourceRank": 10,
-      "rank": 19
+      "sourceRank": 11,
+      "rank": 20
     },
     {
       "team": "Dallas Cowboys",
@@ -264,7 +277,7 @@
       "playoffSeed": 10,
       "group": "National Football Conference",
       "sourceRank": 10,
-      "rank": 20
+      "rank": 21
     },
     {
       "team": "Washington Commanders",
@@ -276,19 +289,6 @@
       "winPercent": 0.3888889,
       "playoffSeed": 11,
       "group": "National Football Conference",
-      "sourceRank": 11,
-      "rank": 21
-    },
-    {
-      "team": "Houston Texans",
-      "wins": 3,
-      "losses": 6,
-      "goalsFor": 233,
-      "goalsAgainst": 219,
-      "goalDifference": 14,
-      "winPercent": 0.33333334,
-      "playoffSeed": 11,
-      "group": "American Football Conference",
       "sourceRank": 11,
       "rank": 22
     },
@@ -319,19 +319,6 @@
       "rank": 24
     },
     {
-      "team": "Indianapolis Colts",
-      "wins": 3,
-      "losses": 7,
-      "goalsFor": 208,
-      "goalsAgainst": 271,
-      "goalDifference": -63,
-      "winPercent": 0.3,
-      "playoffSeed": 12,
-      "group": "American Football Conference",
-      "sourceRank": 12,
-      "rank": 25
-    },
-    {
       "team": "Atlanta Falcons",
       "wins": 3,
       "losses": 7,
@@ -342,7 +329,7 @@
       "playoffSeed": 14,
       "group": "National Football Conference",
       "sourceRank": 14,
-      "rank": 26
+      "rank": 25
     },
     {
       "team": "Arizona Cardinals",
@@ -355,6 +342,19 @@
       "playoffSeed": 15,
       "group": "National Football Conference",
       "sourceRank": 15,
+      "rank": 26
+    },
+    {
+      "team": "Indianapolis Colts",
+      "wins": 3,
+      "losses": 8,
+      "goalsFor": 211,
+      "goalsAgainst": 297,
+      "goalDifference": -86,
+      "winPercent": 0.27272728,
+      "playoffSeed": 12,
+      "group": "American Football Conference",
+      "sourceRank": 12,
       "rank": 27
     },
     {
