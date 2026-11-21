@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
   "date": "2026-11-21",
-  "fetchedAt": "2026-11-21T06:40:00Z",
+  "fetchedAt": "2026-11-21T16:00:22Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -105,6 +105,20 @@
       "rank": 7
     },
     {
+      "team": "Alavés",
+      "played": 13,
+      "wins": 4,
+      "draws": 4,
+      "losses": 5,
+      "goalsFor": 18,
+      "goalsAgainst": 18,
+      "goalDifference": 0,
+      "points": 16,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
       "team": "Villarreal",
       "played": 12,
       "wins": 4,
@@ -113,20 +127,6 @@
       "goalsFor": 17,
       "goalsAgainst": 15,
       "goalDifference": 2,
-      "points": 15,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 8,
-      "rank": 8
-    },
-    {
-      "team": "Deportivo",
-      "played": 12,
-      "wins": 3,
-      "draws": 6,
-      "losses": 3,
-      "goalsFor": 15,
-      "goalsAgainst": 14,
-      "goalDifference": 1,
       "points": 15,
       "group": "2026-27 LALIGA",
       "sourceRank": 9,
@@ -147,6 +147,20 @@
       "rank": 10
     },
     {
+      "team": "Deportivo",
+      "played": 13,
+      "wins": 3,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 16,
+      "goalsAgainst": 17,
+      "goalDifference": -1,
+      "points": 15,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
       "team": "Racing Santander",
       "played": 12,
       "wins": 4,
@@ -157,8 +171,8 @@
       "goalDifference": -13,
       "points": 14,
       "group": "2026-27 LALIGA",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Celta Vigo",
@@ -169,20 +183,6 @@
       "goalsFor": 10,
       "goalsAgainst": 10,
       "goalDifference": 0,
-      "points": 13,
-      "group": "2026-27 LALIGA",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Alavés",
-      "played": 12,
-      "wins": 3,
-      "draws": 4,
-      "losses": 5,
-      "goalsFor": 15,
-      "goalsAgainst": 17,
-      "goalDifference": -2,
       "points": 13,
       "group": "2026-27 LALIGA",
       "sourceRank": 13,

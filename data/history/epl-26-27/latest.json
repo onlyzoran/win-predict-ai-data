@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
   "date": "2026-11-21",
-  "fetchedAt": "2026-11-21T06:40:00Z",
+  "fetchedAt": "2026-11-21T16:00:22Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -36,14 +36,14 @@
     },
     {
       "team": "Manchester City",
-      "played": 10,
+      "played": 11,
       "wins": 7,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
-      "goalsFor": 21,
-      "goalsAgainst": 13,
+      "goalsFor": 22,
+      "goalsAgainst": 14,
       "goalDifference": 8,
-      "points": 21,
+      "points": 22,
       "group": "2026-27 English Premier League",
       "sourceRank": 3,
       "rank": 3
@@ -189,6 +189,20 @@
       "rank": 13
     },
     {
+      "team": "Fulham",
+      "played": 11,
+      "wins": 2,
+      "draws": 5,
+      "losses": 4,
+      "goalsFor": 11,
+      "goalsAgainst": 13,
+      "goalDifference": -2,
+      "points": 11,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 14,
+      "rank": 14
+    },
+    {
       "team": "Ipswich Town",
       "played": 10,
       "wins": 3,
@@ -198,20 +212,6 @@
       "goalsAgainst": 20,
       "goalDifference": -5,
       "points": 11,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 14,
-      "rank": 14
-    },
-    {
-      "team": "Fulham",
-      "played": 10,
-      "wins": 2,
-      "draws": 4,
-      "losses": 4,
-      "goalsFor": 10,
-      "goalsAgainst": 12,
-      "goalDifference": -2,
-      "points": 10,
       "group": "2026-27 English Premier League",
       "sourceRank": 15,
       "rank": 15

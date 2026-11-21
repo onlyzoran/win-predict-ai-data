@@ -2,7 +2,7 @@
   "kind": "standings",
   "contestId": "rpl-26-27",
   "date": "2026-11-21",
-  "fetchedAt": "2026-11-21T06:40:01Z",
+  "fetchedAt": "2026-11-21T16:00:22Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -80,6 +80,18 @@
       "rank": 6
     },
     {
+      "participantId": "fc-baltika-kaliningrad",
+      "played": 15,
+      "wins": 5,
+      "draws": 5,
+      "losses": 5,
+      "goalsFor": 19,
+      "goalsAgainst": 15,
+      "goalDifference": 4,
+      "points": 20,
+      "rank": 7
+    },
+    {
       "participantId": "krylia-sovetov",
       "played": 15,
       "wins": 4,
@@ -89,7 +101,7 @@
       "goalsAgainst": 23,
       "goalDifference": -4,
       "points": 18,
-      "rank": 7
+      "rank": 8
     },
     {
       "participantId": "rubin-kazan",
@@ -101,29 +113,17 @@
       "goalsAgainst": 18,
       "goalDifference": -4,
       "points": 18,
-      "rank": 8
-    },
-    {
-      "participantId": "fc-baltika-kaliningrad",
-      "played": 14,
-      "wins": 4,
-      "draws": 5,
-      "losses": 5,
-      "goalsFor": 17,
-      "goalsAgainst": 15,
-      "goalDifference": 2,
-      "points": 17,
       "rank": 9
     },
     {
       "participantId": "gazovik-orenburg",
-      "played": 14,
+      "played": 15,
       "wins": 3,
       "draws": 8,
-      "losses": 3,
+      "losses": 4,
       "goalsFor": 14,
-      "goalsAgainst": 14,
-      "goalDifference": 0,
+      "goalsAgainst": 16,
+      "goalDifference": -2,
       "points": 17,
       "rank": 10
     },
@@ -153,13 +153,13 @@
     },
     {
       "participantId": "akron-tolyatti",
-      "played": 14,
+      "played": 15,
       "wins": 2,
       "draws": 6,
-      "losses": 6,
+      "losses": 7,
       "goalsFor": 17,
-      "goalsAgainst": 25,
-      "goalDifference": -8,
+      "goalsAgainst": 27,
+      "goalDifference": -10,
       "points": 12,
       "rank": 13
     },
@@ -189,14 +189,14 @@
     },
     {
       "participantId": "fakel-voronezh",
-      "played": 14,
-      "wins": 1,
+      "played": 15,
+      "wins": 2,
       "draws": 3,
       "losses": 10,
-      "goalsFor": 9,
+      "goalsFor": 11,
       "goalsAgainst": 23,
-      "goalDifference": -14,
-      "points": 6,
+      "goalDifference": -12,
+      "points": 9,
       "rank": 16
     }
   ],
