@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-11-08",
-  "fetchedAt": "2026-11-20T16:52:07Z",
+  "date": "2026-11-21",
+  "fetchedAt": "2026-11-21T06:40:01Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -69,25 +69,25 @@
     },
     {
       "participantId": "rostov",
-      "played": 14,
-      "wins": 5,
+      "played": 15,
+      "wins": 6,
       "draws": 4,
       "losses": 5,
-      "goalsFor": 18,
+      "goalsFor": 21,
       "goalsAgainst": 19,
-      "goalDifference": -1,
-      "points": 19,
+      "goalDifference": 2,
+      "points": 22,
       "rank": 6
     },
     {
       "participantId": "krylia-sovetov",
-      "played": 14,
+      "played": 15,
       "wins": 4,
       "draws": 6,
-      "losses": 4,
+      "losses": 5,
       "goalsFor": 19,
-      "goalsAgainst": 20,
-      "goalDifference": -1,
+      "goalsAgainst": 23,
+      "goalDifference": -4,
       "points": 18,
       "rank": 7
     },
@@ -200,6 +200,6 @@
       "rank": 16
     }
   ],
-  "tour": 14,
-  "tourStatus": "final"
+  "tour": 15,
+  "tourStatus": "in_progress"
 }
