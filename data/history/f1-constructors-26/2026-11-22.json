@@ -1,35 +1,35 @@
 {
   "leagueId": "f1-constructors-26",
   "date": "2026-11-22",
-  "fetchedAt": "2026-11-22T06:08:45Z",
+  "fetchedAt": "2026-11-22T16:07:03Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Mercedes",
-      "points": 652,
+      "points": 666,
       "group": "Constructor Standings",
       "sourceRank": 1,
       "rank": 1
     },
     {
       "team": "Ferrari",
-      "points": 510,
+      "points": 517,
       "group": "Constructor Standings",
       "sourceRank": 2,
       "rank": 2
     },
     {
       "team": "Red Bull",
-      "points": 415,
+      "points": 440,
       "group": "Constructor Standings",
       "sourceRank": 3,
       "rank": 3
     },
     {
       "team": "McLaren",
-      "points": 398,
+      "points": 431,
       "group": "Constructor Standings",
       "sourceRank": 4,
       "rank": 4
@@ -43,7 +43,7 @@
     },
     {
       "team": "Alpine",
-      "points": 69,
+      "points": 87,
       "group": "Constructor Standings",
       "sourceRank": 6,
       "rank": 6
@@ -64,7 +64,7 @@
     },
     {
       "team": "Williams",
-      "points": 12,
+      "points": 16,
       "group": "Constructor Standings",
       "sourceRank": 9,
       "rank": 9

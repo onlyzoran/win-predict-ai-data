@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
   "date": "2026-11-22",
-  "fetchedAt": "2026-11-22T06:08:43Z",
+  "fetchedAt": "2026-11-22T16:07:02Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -22,13 +22,13 @@
     },
     {
       "team": "Brighton & Hove Albion",
-      "played": 10,
+      "played": 11,
       "wins": 7,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "goalsFor": 26,
-      "goalsAgainst": 7,
-      "goalDifference": 19,
+      "goalsAgainst": 9,
+      "goalDifference": 17,
       "points": 22,
       "group": "2026-27 English Premier League",
       "sourceRank": 2,
@@ -147,6 +147,20 @@
       "rank": 10
     },
     {
+      "team": "Hull City",
+      "played": 11,
+      "wins": 3,
+      "draws": 5,
+      "losses": 3,
+      "goalsFor": 13,
+      "goalsAgainst": 11,
+      "goalDifference": 2,
+      "points": 14,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 11,
+      "rank": 11
+    },
+    {
       "team": "Aston Villa",
       "played": 11,
       "wins": 3,
@@ -157,8 +171,8 @@
       "goalDifference": -3,
       "points": 14,
       "group": "2026-27 English Premier League",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Newcastle United",
@@ -171,8 +185,8 @@
       "goalDifference": -3,
       "points": 13,
       "group": "2026-27 English Premier League",
-      "sourceRank": 12,
-      "rank": 12
+      "sourceRank": 13,
+      "rank": 13
     },
     {
       "team": "Coventry City",
@@ -184,20 +198,6 @@
       "goalsAgainst": 21,
       "goalDifference": -8,
       "points": 12,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 13,
-      "rank": 13
-    },
-    {
-      "team": "Hull City",
-      "played": 10,
-      "wins": 2,
-      "draws": 5,
-      "losses": 3,
-      "goalsFor": 11,
-      "goalsAgainst": 11,
-      "goalDifference": 0,
-      "points": 11,
       "group": "2026-27 English Premier League",
       "sourceRank": 14,
       "rank": 14

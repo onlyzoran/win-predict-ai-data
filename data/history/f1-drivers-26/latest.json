@@ -1,56 +1,56 @@
 {
   "leagueId": "f1-drivers-26",
   "date": "2026-11-22",
-  "fetchedAt": "2026-11-22T06:08:45Z",
+  "fetchedAt": "2026-11-22T16:07:03Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Kimi Antonelli",
-      "points": 390,
+      "points": 402,
       "group": "Driver Standings",
       "sourceRank": 1,
       "rank": 1
     },
     {
       "team": "Max Verstappen",
-      "points": 279,
+      "points": 304,
       "group": "Driver Standings",
       "sourceRank": 2,
       "rank": 2
     },
     {
-      "team": "George Russell",
-      "points": 262,
+      "team": "Lewis Hamilton",
+      "points": 267,
       "group": "Driver Standings",
       "sourceRank": 3,
       "rank": 3
     },
     {
-      "team": "Lewis Hamilton",
-      "points": 261,
+      "team": "George Russell",
+      "points": 264,
       "group": "Driver Standings",
       "sourceRank": 4,
       "rank": 4
     },
     {
-      "team": "Charles Leclerc",
-      "points": 249,
+      "team": "Lando Norris",
+      "points": 264,
       "group": "Driver Standings",
       "sourceRank": 5,
       "rank": 5
     },
     {
-      "team": "Lando Norris",
-      "points": 246,
+      "team": "Charles Leclerc",
+      "points": 250,
       "group": "Driver Standings",
       "sourceRank": 6,
       "rank": 6
     },
     {
       "team": "Oscar Piastri",
-      "points": 152,
+      "points": 167,
       "group": "Driver Standings",
       "sourceRank": 7,
       "rank": 7
@@ -71,7 +71,7 @@
     },
     {
       "team": "Pierre Gasly",
-      "points": 42,
+      "points": 52,
       "group": "Driver Standings",
       "sourceRank": 10,
       "rank": 10
@@ -85,7 +85,7 @@
     },
     {
       "team": "Franco Colapinto",
-      "points": 27,
+      "points": 35,
       "group": "Driver Standings",
       "sourceRank": 12,
       "rank": 12
@@ -112,21 +112,21 @@
       "rank": 15
     },
     {
-      "team": "Esteban Ocon",
-      "points": 7,
+      "team": "Carlos Sainz",
+      "points": 11,
       "group": "Driver Standings",
       "sourceRank": 16,
       "rank": 16
     },
     {
-      "team": "Fernando Alonso",
+      "team": "Esteban Ocon",
       "points": 7,
       "group": "Driver Standings",
       "sourceRank": 17,
       "rank": 17
     },
     {
-      "team": "Carlos Sainz",
+      "team": "Fernando Alonso",
       "points": 7,
       "group": "Driver Standings",
       "sourceRank": 18,

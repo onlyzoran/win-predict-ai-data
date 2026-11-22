@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
   "date": "2026-11-22",
-  "fetchedAt": "2026-11-22T06:08:43Z",
+  "fetchedAt": "2026-11-22T16:07:02Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -77,6 +77,20 @@
       "rank": 5
     },
     {
+      "team": "Juventus",
+      "played": 12,
+      "wins": 6,
+      "draws": 3,
+      "losses": 3,
+      "goalsFor": 19,
+      "goalsAgainst": 12,
+      "goalDifference": 7,
+      "points": 21,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
       "team": "Frosinone",
       "played": 11,
       "wins": 6,
@@ -87,8 +101,8 @@
       "goalDifference": 9,
       "points": 20,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 6,
-      "rank": 6
+      "sourceRank": 7,
+      "rank": 7
     },
     {
       "team": "Napoli",
@@ -102,35 +116,35 @@
       "points": 18,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 8,
-      "rank": 7
-    },
-    {
-      "team": "Juventus",
-      "played": 11,
-      "wins": 5,
-      "draws": 3,
-      "losses": 3,
-      "goalsFor": 15,
-      "goalsAgainst": 12,
-      "goalDifference": 3,
-      "points": 18,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 7,
       "rank": 8
     },
     {
       "team": "Bologna",
-      "played": 11,
+      "played": 12,
       "wins": 5,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
-      "goalsFor": 16,
-      "goalsAgainst": 14,
+      "goalsFor": 17,
+      "goalsAgainst": 15,
       "goalDifference": 2,
-      "points": 17,
+      "points": 18,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 9,
       "rank": 9
+    },
+    {
+      "team": "Genoa",
+      "played": 12,
+      "wins": 5,
+      "draws": 1,
+      "losses": 6,
+      "goalsFor": 13,
+      "goalsAgainst": 16,
+      "goalDifference": -3,
+      "points": 16,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 10,
+      "rank": 10
     },
     {
       "team": "Cagliari",
@@ -143,8 +157,8 @@
       "goalDifference": -7,
       "points": 16,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 10,
-      "rank": 10
+      "sourceRank": 11,
+      "rank": 11
     },
     {
       "team": "Atalanta",
@@ -157,8 +171,8 @@
       "goalDifference": -3,
       "points": 14,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 11,
-      "rank": 11
+      "sourceRank": 12,
+      "rank": 12
     },
     {
       "team": "Torino",
@@ -170,20 +184,6 @@
       "goalsAgainst": 18,
       "goalDifference": -3,
       "points": 14,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 12,
-      "rank": 12
-    },
-    {
-      "team": "Genoa",
-      "played": 11,
-      "wins": 4,
-      "draws": 1,
-      "losses": 6,
-      "goalsFor": 11,
-      "goalsAgainst": 16,
-      "goalDifference": -5,
-      "points": 13,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 13,
       "rank": 13
@@ -227,21 +227,21 @@
       "goalDifference": -12,
       "points": 8,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 17,
+      "sourceRank": 16,
       "rank": 16
     },
     {
       "team": "Sassuolo",
-      "played": 11,
+      "played": 12,
       "wins": 2,
       "draws": 2,
-      "losses": 7,
+      "losses": 8,
       "goalsFor": 16,
-      "goalsAgainst": 29,
-      "goalDifference": -13,
+      "goalsAgainst": 31,
+      "goalDifference": -15,
       "points": 8,
       "group": "2026-2027 Italian Serie A",
-      "sourceRank": 16,
+      "sourceRank": 17,
       "rank": 17
     },
     {
@@ -259,13 +259,13 @@
       "rank": 18
     },
     {
-      "team": "Venezia",
-      "played": 11,
-      "wins": 2,
-      "draws": 0,
-      "losses": 9,
-      "goalsFor": 8,
-      "goalsAgainst": 21,
+      "team": "Udinese",
+      "played": 12,
+      "wins": 1,
+      "draws": 3,
+      "losses": 8,
+      "goalsFor": 13,
+      "goalsAgainst": 26,
       "goalDifference": -13,
       "points": 6,
       "group": "2026-2027 Italian Serie A",
@@ -273,15 +273,15 @@
       "rank": 19
     },
     {
-      "team": "Udinese",
-      "played": 11,
-      "wins": 1,
-      "draws": 2,
-      "losses": 8,
-      "goalsFor": 12,
+      "team": "Venezia",
+      "played": 12,
+      "wins": 2,
+      "draws": 0,
+      "losses": 10,
+      "goalsFor": 8,
       "goalsAgainst": 25,
-      "goalDifference": -13,
-      "points": 5,
+      "goalDifference": -17,
+      "points": 6,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 20,
       "rank": 20
