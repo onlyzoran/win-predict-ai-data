@@ -1,21 +1,21 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-11-21",
-  "fetchedAt": "2026-11-21T16:00:22Z",
+  "date": "2026-11-22",
+  "fetchedAt": "2026-11-22T06:08:44Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
   "rows": [
     {
       "participantId": "zenit-st-petersburg",
-      "played": 14,
+      "played": 15,
       "wins": 10,
       "draws": 1,
-      "losses": 3,
-      "goalsFor": 32,
-      "goalsAgainst": 15,
-      "goalDifference": 17,
+      "losses": 4,
+      "goalsFor": 33,
+      "goalsAgainst": 18,
+      "goalDifference": 15,
       "points": 31,
       "rank": 1
     },
@@ -57,13 +57,13 @@
     },
     {
       "participantId": "cska-moscow",
-      "played": 14,
+      "played": 15,
       "wins": 7,
       "draws": 5,
-      "losses": 2,
-      "goalsFor": 23,
-      "goalsAgainst": 16,
-      "goalDifference": 7,
+      "losses": 3,
+      "goalsFor": 24,
+      "goalsAgainst": 18,
+      "goalDifference": 6,
       "points": 26,
       "rank": 5
     },
@@ -80,6 +80,18 @@
       "rank": 6
     },
     {
+      "participantId": "rubin-kazan",
+      "played": 15,
+      "wins": 5,
+      "draws": 6,
+      "losses": 4,
+      "goalsFor": 17,
+      "goalsAgainst": 19,
+      "goalDifference": -2,
+      "points": 21,
+      "rank": 7
+    },
+    {
       "participantId": "fc-baltika-kaliningrad",
       "played": 15,
       "wins": 5,
@@ -89,7 +101,7 @@
       "goalsAgainst": 15,
       "goalDifference": 4,
       "points": 20,
-      "rank": 7
+      "rank": 8
     },
     {
       "participantId": "krylia-sovetov",
@@ -101,19 +113,19 @@
       "goalsAgainst": 23,
       "goalDifference": -4,
       "points": 18,
-      "rank": 8
+      "rank": 9
     },
     {
-      "participantId": "rubin-kazan",
-      "played": 14,
+      "participantId": "akhmat-grozny",
+      "played": 15,
       "wins": 4,
-      "draws": 6,
-      "losses": 4,
-      "goalsFor": 14,
-      "goalsAgainst": 18,
-      "goalDifference": -4,
-      "points": 18,
-      "rank": 9
+      "draws": 5,
+      "losses": 6,
+      "goalsFor": 18,
+      "goalsAgainst": 20,
+      "goalDifference": -2,
+      "points": 17,
+      "rank": 10
     },
     {
       "participantId": "gazovik-orenburg",
@@ -125,7 +137,7 @@
       "goalsAgainst": 16,
       "goalDifference": -2,
       "points": 17,
-      "rank": 10
+      "rank": 11
     },
     {
       "participantId": "dynamo-makhachkala",
@@ -137,18 +149,6 @@
       "goalsAgainst": 26,
       "goalDifference": -9,
       "points": 16,
-      "rank": 11
-    },
-    {
-      "participantId": "akhmat-grozny",
-      "played": 14,
-      "wins": 3,
-      "draws": 5,
-      "losses": 6,
-      "goalsFor": 16,
-      "goalsAgainst": 19,
-      "goalDifference": -3,
-      "points": 14,
       "rank": 12
     },
     {
