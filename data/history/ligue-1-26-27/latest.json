@@ -1,7 +1,7 @@
 {
   "leagueId": "ligue-1-26-27",
-  "date": "2026-11-22",
-  "fetchedAt": "2026-11-22T16:07:02Z",
+  "date": "2026-11-23",
+  "fetchedAt": "2026-11-23T07:00:57Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -64,13 +64,13 @@
     },
     {
       "team": "Marseille",
-      "played": 10,
+      "played": 11,
       "wins": 6,
       "draws": 0,
-      "losses": 4,
-      "goalsFor": 22,
-      "goalsAgainst": 14,
-      "goalDifference": 8,
+      "losses": 5,
+      "goalsFor": 24,
+      "goalsAgainst": 17,
+      "goalDifference": 7,
       "points": 18,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 5,
@@ -120,28 +120,28 @@
     },
     {
       "team": "Stade Rennais",
-      "played": 10,
+      "played": 11,
       "wins": 5,
-      "draws": 1,
+      "draws": 2,
       "losses": 4,
-      "goalsFor": 21,
-      "goalsAgainst": 21,
+      "goalsFor": 22,
+      "goalsAgainst": 22,
       "goalDifference": 0,
-      "points": 16,
+      "points": 17,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 9,
       "rank": 9
     },
     {
       "team": "Lorient",
-      "played": 10,
+      "played": 11,
       "wins": 4,
-      "draws": 3,
+      "draws": 4,
       "losses": 3,
-      "goalsFor": 9,
-      "goalsAgainst": 8,
+      "goalsFor": 10,
+      "goalsAgainst": 9,
       "goalDifference": 1,
-      "points": 15,
+      "points": 16,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 10,
       "rank": 10
@@ -175,6 +175,20 @@
       "rank": 12
     },
     {
+      "team": "Le Mans",
+      "played": 11,
+      "wins": 2,
+      "draws": 5,
+      "losses": 4,
+      "goalsFor": 15,
+      "goalsAgainst": 21,
+      "goalDifference": -6,
+      "points": 11,
+      "group": "French Ligue 1 2026-27",
+      "sourceRank": 13,
+      "rank": 13
+    },
+    {
       "team": "Troyes",
       "played": 11,
       "wins": 3,
@@ -185,8 +199,8 @@
       "goalDifference": -8,
       "points": 11,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 13,
-      "rank": 13
+      "sourceRank": 14,
+      "rank": 14
     },
     {
       "team": "AJ Auxerre",
@@ -199,8 +213,8 @@
       "goalDifference": -11,
       "points": 11,
       "group": "French Ligue 1 2026-27",
-      "sourceRank": 14,
-      "rank": 14
+      "sourceRank": 15,
+      "rank": 15
     },
     {
       "team": "Strasbourg",
@@ -212,20 +226,6 @@
       "goalsAgainst": 23,
       "goalDifference": -5,
       "points": 10,
-      "group": "French Ligue 1 2026-27",
-      "sourceRank": 15,
-      "rank": 15
-    },
-    {
-      "team": "Le Mans",
-      "played": 10,
-      "wins": 1,
-      "draws": 5,
-      "losses": 4,
-      "goalsFor": 12,
-      "goalsAgainst": 19,
-      "goalDifference": -7,
-      "points": 8,
       "group": "French Ligue 1 2026-27",
       "sourceRank": 16,
       "rank": 16

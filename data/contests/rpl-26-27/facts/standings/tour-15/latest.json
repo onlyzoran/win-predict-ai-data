@@ -1,8 +1,8 @@
 {
   "kind": "standings",
   "contestId": "rpl-26-27",
-  "date": "2026-11-22",
-  "fetchedAt": "2026-11-22T16:07:02Z",
+  "date": "2026-11-23",
+  "fetchedAt": "2026-11-23T07:00:57Z",
   "provider": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -152,6 +152,18 @@
       "rank": 12
     },
     {
+      "participantId": "lokomotiv-moscow",
+      "played": 15,
+      "wins": 3,
+      "draws": 5,
+      "losses": 7,
+      "goalsFor": 17,
+      "goalsAgainst": 21,
+      "goalDifference": -4,
+      "points": 14,
+      "rank": 13
+    },
+    {
       "participantId": "akron-tolyatti",
       "played": 15,
       "wins": 2,
@@ -161,30 +173,18 @@
       "goalsAgainst": 27,
       "goalDifference": -10,
       "points": 12,
-      "rank": 13
-    },
-    {
-      "participantId": "rodina-moscow",
-      "played": 14,
-      "wins": 3,
-      "draws": 3,
-      "losses": 8,
-      "goalsFor": 15,
-      "goalsAgainst": 29,
-      "goalDifference": -14,
-      "points": 12,
       "rank": 14
     },
     {
-      "participantId": "lokomotiv-moscow",
-      "played": 14,
-      "wins": 2,
-      "draws": 5,
-      "losses": 7,
-      "goalsFor": 16,
-      "goalsAgainst": 21,
-      "goalDifference": -5,
-      "points": 11,
+      "participantId": "rodina-moscow",
+      "played": 15,
+      "wins": 3,
+      "draws": 3,
+      "losses": 9,
+      "goalsFor": 15,
+      "goalsAgainst": 30,
+      "goalDifference": -15,
+      "points": 12,
       "rank": 15
     },
     {
@@ -201,5 +201,5 @@
     }
   ],
   "tour": 15,
-  "tourStatus": "in_progress"
+  "tourStatus": "final"
 }
