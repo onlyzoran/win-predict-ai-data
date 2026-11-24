@@ -1,7 +1,7 @@
 {
   "leagueId": "epl-26-27",
-  "date": "2026-11-23",
-  "fetchedAt": "2026-11-23T20:00:28Z",
+  "date": "2026-11-24",
+  "fetchedAt": "2026-11-24T09:26:21Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -77,6 +77,20 @@
       "rank": 5
     },
     {
+      "team": "Brentford",
+      "played": 11,
+      "wins": 4,
+      "draws": 5,
+      "losses": 2,
+      "goalsFor": 20,
+      "goalsAgainst": 11,
+      "goalDifference": 9,
+      "points": 17,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 6,
+      "rank": 6
+    },
+    {
       "team": "Leeds United",
       "played": 11,
       "wins": 4,
@@ -86,20 +100,6 @@
       "goalsAgainst": 9,
       "goalDifference": 5,
       "points": 17,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 6,
-      "rank": 6
-    },
-    {
-      "team": "Everton",
-      "played": 10,
-      "wins": 4,
-      "draws": 4,
-      "losses": 2,
-      "goalsFor": 12,
-      "goalsAgainst": 10,
-      "goalDifference": 2,
-      "points": 16,
       "group": "2026-27 English Premier League",
       "sourceRank": 7,
       "rank": 7
@@ -119,6 +119,20 @@
       "rank": 8
     },
     {
+      "team": "Everton",
+      "played": 11,
+      "wins": 4,
+      "draws": 4,
+      "losses": 3,
+      "goalsFor": 12,
+      "goalsAgainst": 14,
+      "goalDifference": -2,
+      "points": 16,
+      "group": "2026-27 English Premier League",
+      "sourceRank": 9,
+      "rank": 9
+    },
+    {
       "team": "Tottenham Hotspur",
       "played": 11,
       "wins": 4,
@@ -128,20 +142,6 @@
       "goalsAgainst": 11,
       "goalDifference": 1,
       "points": 15,
-      "group": "2026-27 English Premier League",
-      "sourceRank": 9,
-      "rank": 9
-    },
-    {
-      "team": "Brentford",
-      "played": 10,
-      "wins": 3,
-      "draws": 5,
-      "losses": 2,
-      "goalsFor": 16,
-      "goalsAgainst": 11,
-      "goalDifference": 5,
-      "points": 14,
       "group": "2026-27 English Premier League",
       "sourceRank": 10,
       "rank": 10

@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-11-23",
-  "fetchedAt": "2026-11-23T20:00:28Z",
+  "date": "2026-11-24",
+  "fetchedAt": "2026-11-24T09:26:21Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -85,25 +85,25 @@
       "rank": 6
     },
     {
-      "team": "Cincinnati Bengals",
-      "wins": 7,
-      "losses": 2,
-      "goalsFor": 278,
-      "goalsAgainst": 193,
-      "goalDifference": 85,
-      "winPercent": 0.7777778,
-      "playoffSeed": 3,
-      "group": "American Football Conference",
-      "sourceRank": 3,
-      "rank": 7
-    },
-    {
       "team": "Jacksonville Jaguars",
       "wins": 7,
       "losses": 3,
       "goalsFor": 287,
       "goalsAgainst": 167,
       "goalDifference": 120,
+      "winPercent": 0.7,
+      "playoffSeed": 3,
+      "group": "American Football Conference",
+      "sourceRank": 3,
+      "rank": 7
+    },
+    {
+      "team": "Cincinnati Bengals",
+      "wins": 7,
+      "losses": 3,
+      "goalsFor": 298,
+      "goalsAgainst": 215,
+      "goalDifference": 83,
       "winPercent": 0.7,
       "playoffSeed": 4,
       "group": "American Football Conference",
@@ -241,6 +241,19 @@
       "rank": 18
     },
     {
+      "team": "Washington Commanders",
+      "wins": 4,
+      "losses": 5,
+      "goalsFor": 218,
+      "goalsAgainst": 243,
+      "goalDifference": -25,
+      "winPercent": 0.45,
+      "playoffSeed": 11,
+      "group": "National Football Conference",
+      "sourceRank": 11,
+      "rank": 19
+    },
+    {
       "team": "Houston Texans",
       "wins": 4,
       "losses": 6,
@@ -251,19 +264,6 @@
       "playoffSeed": 9,
       "group": "American Football Conference",
       "sourceRank": 9,
-      "rank": 19
-    },
-    {
-      "team": "Washington Commanders",
-      "wins": 3,
-      "losses": 5,
-      "goalsFor": 196,
-      "goalsAgainst": 223,
-      "goalDifference": -27,
-      "winPercent": 0.3888889,
-      "playoffSeed": 11,
-      "group": "National Football Conference",
-      "sourceRank": 11,
       "rank": 20
     },
     {

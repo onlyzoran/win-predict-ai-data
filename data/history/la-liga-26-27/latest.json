@@ -1,7 +1,7 @@
 {
   "leagueId": "la-liga-26-27",
-  "date": "2026-11-23",
-  "fetchedAt": "2026-11-23T20:00:28Z",
+  "date": "2026-11-24",
+  "fetchedAt": "2026-11-24T09:26:21Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -203,6 +203,20 @@
       "rank": 14
     },
     {
+      "team": "Levante",
+      "played": 13,
+      "wins": 2,
+      "draws": 6,
+      "losses": 5,
+      "goalsFor": 17,
+      "goalsAgainst": 22,
+      "goalDifference": -5,
+      "points": 12,
+      "group": "2026-27 LALIGA",
+      "sourceRank": 15,
+      "rank": 15
+    },
+    {
       "team": "Rayo Vallecano",
       "played": 12,
       "wins": 3,
@@ -213,8 +227,8 @@
       "goalDifference": -7,
       "points": 12,
       "group": "2026-27 LALIGA",
-      "sourceRank": 15,
-      "rank": 15
+      "sourceRank": 16,
+      "rank": 16
     },
     {
       "team": "Valencia",
@@ -227,8 +241,8 @@
       "goalDifference": -11,
       "points": 12,
       "group": "2026-27 LALIGA",
-      "sourceRank": 16,
-      "rank": 16
+      "sourceRank": 17,
+      "rank": 17
     },
     {
       "team": "Getafe",
@@ -241,33 +255,19 @@
       "goalDifference": -13,
       "points": 12,
       "group": "2026-27 LALIGA",
-      "sourceRank": 17,
-      "rank": 17
-    },
-    {
-      "team": "Levante",
-      "played": 12,
-      "wins": 2,
-      "draws": 5,
-      "losses": 5,
-      "goalsFor": 16,
-      "goalsAgainst": 21,
-      "goalDifference": -5,
-      "points": 11,
-      "group": "2026-27 LALIGA",
       "sourceRank": 18,
       "rank": 18
     },
     {
       "team": "Elche",
-      "played": 12,
+      "played": 13,
       "wins": 2,
-      "draws": 4,
+      "draws": 5,
       "losses": 6,
-      "goalsFor": 14,
-      "goalsAgainst": 20,
+      "goalsFor": 15,
+      "goalsAgainst": 21,
       "goalDifference": -6,
-      "points": 10,
+      "points": 11,
       "group": "2026-27 LALIGA",
       "sourceRank": 19,
       "rank": 19
