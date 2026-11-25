@@ -1,7 +1,7 @@
 {
   "leagueId": "nhl-stanley-cup-26-27",
-  "date": "2026-11-24",
-  "fetchedAt": "2026-11-24T09:26:21Z",
+  "date": "2026-11-25",
+  "fetchedAt": "2026-11-25T18:33:43Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2027,
@@ -34,16 +34,29 @@
     },
     {
       "team": "Edmonton Oilers",
-      "played": 26,
+      "played": 27,
       "wins": 17,
-      "losses": 5,
+      "losses": 6,
       "otLosses": 4,
-      "goalDifference": 24,
+      "goalDifference": 22,
       "points": 38,
       "playoffSeed": 2,
       "group": "Western Conference",
       "sourceRank": 2,
       "rank": 3
+    },
+    {
+      "team": "Vegas Golden Knights",
+      "played": 26,
+      "wins": 15,
+      "losses": 6,
+      "otLosses": 5,
+      "goalDifference": 12,
+      "points": 35,
+      "playoffSeed": 3,
+      "group": "Western Conference",
+      "sourceRank": 3,
+      "rank": 4
     },
     {
       "team": "Ottawa Senators",
@@ -56,19 +69,6 @@
       "playoffSeed": 2,
       "group": "Eastern Conference",
       "sourceRank": 2,
-      "rank": 4
-    },
-    {
-      "team": "Vegas Golden Knights",
-      "played": 25,
-      "wins": 14,
-      "losses": 6,
-      "otLosses": 5,
-      "goalDifference": 10,
-      "points": 33,
-      "playoffSeed": 3,
-      "group": "Western Conference",
-      "sourceRank": 3,
       "rank": 5
     },
     {
