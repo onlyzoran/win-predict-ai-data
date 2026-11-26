@@ -1,7 +1,7 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-11-25",
-  "fetchedAt": "2026-11-25T18:33:43Z",
+  "date": "2026-11-26",
+  "fetchedAt": "2026-11-26T07:49:42Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
@@ -137,6 +137,19 @@
       "rank": 10
     },
     {
+      "team": "Los Angeles Rams",
+      "wins": 7,
+      "losses": 4,
+      "goalsFor": 274,
+      "goalsAgainst": 200,
+      "goalDifference": 74,
+      "winPercent": 0.6363636,
+      "playoffSeed": 7,
+      "group": "National Football Conference",
+      "sourceRank": 7,
+      "rank": 11
+    },
+    {
       "team": "Cleveland Browns",
       "wins": 6,
       "losses": 4,
@@ -147,7 +160,7 @@
       "playoffSeed": 6,
       "group": "American Football Conference",
       "sourceRank": 6,
-      "rank": 11
+      "rank": 12
     },
     {
       "team": "Pittsburgh Steelers",
@@ -159,19 +172,6 @@
       "winPercent": 0.6,
       "playoffSeed": 7,
       "group": "American Football Conference",
-      "sourceRank": 7,
-      "rank": 12
-    },
-    {
-      "team": "Green Bay Packers",
-      "wins": 6,
-      "losses": 4,
-      "goalsFor": 226,
-      "goalsAgainst": 221,
-      "goalDifference": 5,
-      "winPercent": 0.6,
-      "playoffSeed": 7,
-      "group": "National Football Conference",
       "sourceRank": 7,
       "rank": 13
     },
@@ -189,13 +189,13 @@
       "rank": 14
     },
     {
-      "team": "Los Angeles Rams",
+      "team": "Green Bay Packers",
       "wins": 6,
-      "losses": 4,
-      "goalsFor": 248,
-      "goalsAgainst": 187,
-      "goalDifference": 61,
-      "winPercent": 0.6,
+      "losses": 5,
+      "goalsFor": 239,
+      "goalsAgainst": 247,
+      "goalDifference": -8,
+      "winPercent": 0.54545456,
       "playoffSeed": 9,
       "group": "National Football Conference",
       "sourceRank": 9,
