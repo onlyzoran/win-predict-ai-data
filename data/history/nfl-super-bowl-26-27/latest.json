@@ -1,19 +1,19 @@
 {
   "leagueId": "nfl-super-bowl-26-27",
-  "date": "2026-11-26",
-  "fetchedAt": "2026-11-26T18:17:31Z",
+  "date": "2026-11-27",
+  "fetchedAt": "2026-11-27T07:49:49Z",
   "source": "espn",
   "metric": "wins",
   "seasonYear": 2026,
   "standings": [
     {
       "team": "Buffalo Bills",
-      "wins": 9,
+      "wins": 10,
       "losses": 1,
-      "goalsFor": 313,
-      "goalsAgainst": 208,
-      "goalDifference": 105,
-      "winPercent": 0.9,
+      "goalsFor": 326,
+      "goalsAgainst": 218,
+      "goalDifference": 108,
+      "winPercent": 0.90909094,
       "playoffSeed": 1,
       "group": "American Football Conference",
       "sourceRank": 1,
@@ -33,6 +33,19 @@
       "rank": 2
     },
     {
+      "team": "Chicago Bears",
+      "wins": 9,
+      "losses": 2,
+      "goalsFor": 301,
+      "goalsAgainst": 232,
+      "goalDifference": 69,
+      "winPercent": 0.8181818,
+      "playoffSeed": 2,
+      "group": "National Football Conference",
+      "sourceRank": 2,
+      "rank": 3
+    },
+    {
       "team": "Denver Broncos",
       "wins": 8,
       "losses": 2,
@@ -43,42 +56,29 @@
       "playoffSeed": 2,
       "group": "American Football Conference",
       "sourceRank": 2,
-      "rank": 3
+      "rank": 4
     },
     {
       "team": "Kansas City Chiefs",
       "wins": 8,
-      "losses": 2,
-      "goalsFor": 271,
-      "goalsAgainst": 163,
-      "goalDifference": 108,
-      "winPercent": 0.8,
+      "losses": 3,
+      "goalsFor": 281,
+      "goalsAgainst": 176,
+      "goalDifference": 105,
+      "winPercent": 0.72727275,
       "playoffSeed": 5,
       "group": "American Football Conference",
       "sourceRank": 5,
-      "rank": 4
+      "rank": 5
     },
     {
       "team": "Detroit Lions",
       "wins": 8,
-      "losses": 2,
-      "goalsFor": 288,
-      "goalsAgainst": 220,
-      "goalDifference": 68,
-      "winPercent": 0.8,
-      "playoffSeed": 2,
-      "group": "National Football Conference",
-      "sourceRank": 2,
-      "rank": 5
-    },
-    {
-      "team": "Chicago Bears",
-      "wins": 8,
-      "losses": 2,
-      "goalsFor": 262,
-      "goalsAgainst": 197,
-      "goalDifference": 65,
-      "winPercent": 0.8,
+      "losses": 3,
+      "goalsFor": 323,
+      "goalsAgainst": 259,
+      "goalDifference": 64,
+      "winPercent": 0.72727275,
       "playoffSeed": 5,
       "group": "National Football Conference",
       "sourceRank": 5,
@@ -228,19 +228,6 @@
       "rank": 17
     },
     {
-      "team": "Dallas Cowboys",
-      "wins": 5,
-      "losses": 6,
-      "goalsFor": 337,
-      "goalsAgainst": 312,
-      "goalDifference": 25,
-      "winPercent": 0.45454547,
-      "playoffSeed": 10,
-      "group": "National Football Conference",
-      "sourceRank": 10,
-      "rank": 18
-    },
-    {
       "team": "Washington Commanders",
       "wins": 4,
       "losses": 5,
@@ -248,6 +235,19 @@
       "goalsAgainst": 243,
       "goalDifference": -25,
       "winPercent": 0.45,
+      "playoffSeed": 10,
+      "group": "National Football Conference",
+      "sourceRank": 10,
+      "rank": 18
+    },
+    {
+      "team": "Dallas Cowboys",
+      "wins": 5,
+      "losses": 7,
+      "goalsFor": 375,
+      "goalsAgainst": 351,
+      "goalDifference": 24,
+      "winPercent": 0.41666666,
       "playoffSeed": 11,
       "group": "National Football Conference",
       "sourceRank": 11,
@@ -293,6 +293,19 @@
       "rank": 22
     },
     {
+      "team": "Philadelphia Eagles",
+      "wins": 4,
+      "losses": 7,
+      "goalsFor": 206,
+      "goalsAgainst": 275,
+      "goalDifference": -69,
+      "winPercent": 0.36363637,
+      "playoffSeed": 12,
+      "group": "National Football Conference",
+      "sourceRank": 12,
+      "rank": 23
+    },
+    {
       "team": "Tampa Bay Buccaneers",
       "wins": 3,
       "losses": 7,
@@ -300,10 +313,10 @@
       "goalsAgainst": 209,
       "goalDifference": 14,
       "winPercent": 0.3,
-      "playoffSeed": 12,
+      "playoffSeed": 13,
       "group": "National Football Conference",
-      "sourceRank": 12,
-      "rank": 23
+      "sourceRank": 13,
+      "rank": 24
     },
     {
       "team": "Atlanta Falcons",
@@ -313,10 +326,10 @@
       "goalsAgainst": 258,
       "goalDifference": -57,
       "winPercent": 0.3,
-      "playoffSeed": 13,
+      "playoffSeed": 14,
       "group": "National Football Conference",
-      "sourceRank": 13,
-      "rank": 24
+      "sourceRank": 14,
+      "rank": 25
     },
     {
       "team": "New Orleans Saints",
@@ -325,19 +338,6 @@
       "goalsFor": 215,
       "goalsAgainst": 257,
       "goalDifference": -42,
-      "winPercent": 0.3,
-      "playoffSeed": 14,
-      "group": "National Football Conference",
-      "sourceRank": 14,
-      "rank": 25
-    },
-    {
-      "team": "Philadelphia Eagles",
-      "wins": 3,
-      "losses": 7,
-      "goalsFor": 167,
-      "goalsAgainst": 237,
-      "goalDifference": -70,
       "winPercent": 0.3,
       "playoffSeed": 15,
       "group": "National Football Conference",
