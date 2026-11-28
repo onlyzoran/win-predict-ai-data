@@ -1,7 +1,7 @@
 {
   "leagueId": "serie-a-26-27",
-  "date": "2026-11-27",
-  "fetchedAt": "2026-11-27T17:59:57Z",
+  "date": "2026-11-28",
+  "fetchedAt": "2026-11-28T07:18:28Z",
   "source": "espn",
   "metric": "points",
   "seasonYear": 2026,
@@ -105,6 +105,20 @@
       "rank": 7
     },
     {
+      "team": "Bologna",
+      "played": 13,
+      "wins": 5,
+      "draws": 4,
+      "losses": 4,
+      "goalsFor": 17,
+      "goalsAgainst": 15,
+      "goalDifference": 2,
+      "points": 19,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 8,
+      "rank": 8
+    },
+    {
       "team": "Napoli",
       "played": 12,
       "wins": 5,
@@ -113,20 +127,6 @@
       "goalsFor": 19,
       "goalsAgainst": 14,
       "goalDifference": 5,
-      "points": 18,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 8,
-      "rank": 8
-    },
-    {
-      "team": "Bologna",
-      "played": 12,
-      "wins": 5,
-      "draws": 3,
-      "losses": 4,
-      "goalsFor": 17,
-      "goalsAgainst": 15,
-      "goalDifference": 2,
       "points": 18,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 9,
@@ -259,6 +259,20 @@
       "rank": 18
     },
     {
+      "team": "Venezia",
+      "played": 13,
+      "wins": 2,
+      "draws": 1,
+      "losses": 10,
+      "goalsFor": 8,
+      "goalsAgainst": 25,
+      "goalDifference": -17,
+      "points": 7,
+      "group": "2026-2027 Italian Serie A",
+      "sourceRank": 19,
+      "rank": 19
+    },
+    {
       "team": "Udinese",
       "played": 12,
       "wins": 1,
@@ -267,20 +281,6 @@
       "goalsFor": 13,
       "goalsAgainst": 26,
       "goalDifference": -13,
-      "points": 6,
-      "group": "2026-2027 Italian Serie A",
-      "sourceRank": 19,
-      "rank": 19
-    },
-    {
-      "team": "Venezia",
-      "played": 12,
-      "wins": 2,
-      "draws": 0,
-      "losses": 10,
-      "goalsFor": 8,
-      "goalsAgainst": 25,
-      "goalDifference": -17,
       "points": 6,
       "group": "2026-2027 Italian Serie A",
       "sourceRank": 20,
